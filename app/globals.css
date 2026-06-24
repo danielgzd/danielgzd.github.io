@@ -9,6 +9,8 @@
   --soft: #f7fbff;
   --mint: #e7f8f1;
   --sky: #e8f3ff;
+  --sakura: #ffeaf3;
+  --violet: #eee9ff;
   --line: rgba(23, 32, 51, 0.1);
   --panel: rgba(255, 255, 255, 0.86);
 }
@@ -25,7 +27,20 @@ body {
   margin: 0;
   color: var(--ink);
   background:
-    linear-gradient(180deg, #f8fcff 0%, #eef8f5 42%, #f9fbff 100%);
+    linear-gradient(135deg, rgba(255, 234, 243, 0.72) 0%, rgba(232, 243, 255, 0.9) 36%, rgba(231, 248, 241, 0.78) 72%, #fff 100%);
+}
+
+body::before {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  content: "";
+  background-image:
+    linear-gradient(rgba(31, 78, 121, 0.045) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(31, 78, 121, 0.045) 1px, transparent 1px);
+  background-size: 42px 42px;
+  mask-image: linear-gradient(180deg, #000 0%, transparent 72%);
 }
 
 a {
@@ -50,12 +65,12 @@ a {
   justify-content: space-between;
   min-height: 58px;
   border-bottom: 1px solid var(--line);
-  background: rgba(248, 252, 255, 0.82);
+  background: rgba(255, 250, 253, 0.82);
   backdrop-filter: blur(16px);
 }
 
 .brand {
-  color: #0f766e;
+  color: #c0568a;
   font-size: 1.05rem;
   font-weight: 850;
 }
@@ -68,7 +83,7 @@ a {
 }
 
 .top-nav a:hover {
-  color: #0f766e;
+  color: #c0568a;
 }
 
 .hero {
@@ -76,14 +91,37 @@ a {
   grid-template-columns: minmax(0, 1.05fr) minmax(280px, 0.62fr);
   gap: 28px;
   align-items: end;
-  min-height: 520px;
-  padding: 74px 0 44px;
+  min-height: 460px;
+  padding: 58px 0 38px;
+}
+
+.compact-hero {
+  min-height: 390px;
+}
+
+.anime-shell {
+  position: relative;
+}
+
+.anime-shell::after {
+  position: fixed;
+  right: 22px;
+  bottom: 22px;
+  z-index: -1;
+  width: 170px;
+  height: 170px;
+  border: 1px solid rgba(192, 86, 138, 0.16);
+  content: "";
+  background:
+    linear-gradient(135deg, transparent 48%, rgba(192, 86, 138, 0.14) 49%, rgba(192, 86, 138, 0.14) 51%, transparent 52%),
+    linear-gradient(45deg, transparent 48%, rgba(31, 78, 121, 0.1) 49%, rgba(31, 78, 121, 0.1) 51%, transparent 52%);
+  transform: rotate(8deg);
 }
 
 .eyebrow,
 .section-title p {
   margin: 0 0 12px;
-  color: #0f766e;
+  color: #c0568a;
   font-size: 0.78rem;
   font-weight: 800;
   letter-spacing: 0.16em;
@@ -93,10 +131,31 @@ a {
 .hero h1 {
   margin: 0;
   color: #102033;
-  font-size: clamp(3.6rem, 10vw, 7.6rem);
+  font-size: clamp(2.9rem, 7vw, 5.2rem);
   font-weight: 850;
   letter-spacing: 0;
-  line-height: 0.92;
+  line-height: 1.02;
+}
+
+.page-hero {
+  max-width: 780px;
+  padding: 64px 0 18px;
+}
+
+.page-hero h1 {
+  margin: 0;
+  color: #102033;
+  font-size: clamp(2.55rem, 6vw, 4.35rem);
+  font-weight: 850;
+  line-height: 1.05;
+}
+
+.page-hero p:last-child {
+  max-width: 700px;
+  margin: 20px 0 0;
+  color: #40516a;
+  font-size: 1.08rem;
+  line-height: 1.85;
 }
 
 .hero-text {
@@ -120,20 +179,20 @@ a {
   min-height: 42px;
   border: 1px solid var(--line);
   padding: 0 16px;
-  color: #0f766e;
+  color: #c0568a;
   font-weight: 750;
   background: rgba(255, 255, 255, 0.68);
 }
 
 .hero-actions a:first-child {
-  border-color: rgba(15, 118, 110, 0.26);
+  border-color: rgba(192, 86, 138, 0.24);
   color: #fff;
-  background: #0f766e;
+  background: #c0568a;
 }
 
 .hero-actions a:hover {
   transform: translateY(-2px);
-  border-color: rgba(15, 118, 110, 0.36);
+  border-color: rgba(192, 86, 138, 0.36);
 }
 
 .profile-card,
@@ -152,9 +211,13 @@ a {
 }
 
 .profile-card div {
-  border-left: 3px solid #a7f3d0;
+  border-left: 3px solid #f9a8d4;
   padding: 12px 14px;
-  background: linear-gradient(90deg, rgba(231, 248, 241, 0.9), rgba(255, 255, 255, 0.6));
+  background: linear-gradient(90deg, rgba(255, 234, 243, 0.9), rgba(255, 255, 255, 0.62));
+}
+
+.anime-card {
+  border-color: rgba(192, 86, 138, 0.16);
 }
 
 .profile-card span,
@@ -173,7 +236,7 @@ a {
 }
 
 .section {
-  padding-top: 70px;
+  padding-top: 54px;
 }
 
 .section-title {
@@ -184,7 +247,7 @@ a {
   max-width: 720px;
   margin: 0;
   color: #172033;
-  font-size: clamp(1.75rem, 4vw, 3.1rem);
+  font-size: clamp(1.55rem, 3vw, 2.45rem);
   font-weight: 850;
   line-height: 1.15;
 }
@@ -221,12 +284,12 @@ a {
 }
 
 .skill-list span {
-  border: 1px solid rgba(15, 118, 110, 0.14);
+  border: 1px solid rgba(192, 86, 138, 0.16);
   padding: 9px 12px;
-  color: #0f766e;
+  color: #9d3f71;
   font-size: 0.9rem;
   font-weight: 720;
-  background: rgba(231, 248, 241, 0.66);
+  background: rgba(255, 234, 243, 0.66);
 }
 
 .timeline {
@@ -243,8 +306,32 @@ a {
 }
 
 .timeline time {
-  color: #0f766e;
+  color: #c0568a;
   font-weight: 820;
+}
+
+.portal-grid {
+  display: grid;
+  gap: 14px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.portal-card {
+  display: block;
+  padding: 20px;
+}
+
+.portal-card h3 {
+  margin: 0;
+  color: #172033;
+  font-size: 1.12rem;
+  font-weight: 820;
+}
+
+.portal-card p {
+  margin: 9px 0 0;
+  color: #52627a;
+  line-height: 1.75;
 }
 
 .timeline h3,
@@ -305,10 +392,13 @@ a {
 #tab-car:checked ~ .tab-labels label[for="tab-car"],
 #tab-game:checked ~ .tab-labels label[for="tab-game"],
 #tab-dev:checked ~ .tab-labels label[for="tab-dev"],
-#tab-life:checked ~ .tab-labels label[for="tab-life"] {
-  border-color: rgba(15, 118, 110, 0.28);
-  color: #0f766e;
-  background: var(--mint);
+#tab-life:checked ~ .tab-labels label[for="tab-life"],
+#tab-anime:checked ~ .tab-labels label[for="tab-anime"],
+#tab-events:checked ~ .tab-labels label[for="tab-events"],
+#tab-photo:checked ~ .tab-labels label[for="tab-photo"] {
+  border-color: rgba(192, 86, 138, 0.28);
+  color: #9d3f71;
+  background: var(--sakura);
 }
 
 .tab-panel {
@@ -322,7 +412,10 @@ a {
 #tab-car:checked ~ .tab-panel[data-panel="car"],
 #tab-game:checked ~ .tab-panel[data-panel="game"],
 #tab-dev:checked ~ .tab-panel[data-panel="dev"],
-#tab-life:checked ~ .tab-panel[data-panel="life"] {
+#tab-life:checked ~ .tab-panel[data-panel="life"],
+#tab-anime:checked ~ .tab-panel[data-panel="anime"],
+#tab-events:checked ~ .tab-panel[data-panel="events"],
+#tab-photo:checked ~ .tab-panel[data-panel="photo"] {
   display: block;
 }
 
@@ -344,7 +437,7 @@ a {
 
 .news-card:hover {
   transform: translateY(-3px);
-  border-color: rgba(15, 118, 110, 0.22);
+  border-color: rgba(192, 86, 138, 0.24);
 }
 
 .news-card img {
@@ -366,7 +459,8 @@ a {
   .hero,
   .about-grid,
   .practice-grid,
-  .news-grid {
+  .news-grid,
+  .portal-grid {
     grid-template-columns: 1fr;
   }
 

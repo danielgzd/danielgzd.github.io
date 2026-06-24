@@ -1,4 +1,4 @@
-import { writeFile } from "node:fs/promises";
+import { readFile, writeFile } from "node:fs/promises";
 
 const categories = [
   {
@@ -121,6 +121,49 @@ const categories = [
       ["生活方式内容越来越像个人操作系统", "设备、空间、习惯和信息源一起决定一个人的节奏感。"],
     ],
   },
+  {
+    id: "anime",
+    label: "动漫",
+    description: "动画、漫画、声优、二次元文化和新番动态。",
+    image:
+      "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
+    feeds: [
+      { source: "Anime News Network", url: "https://www.animenewsnetwork.com/all/rss.xml?ann-edition=us" },
+    ],
+    fallback: [
+      ["新番观察：题材、制作公司和宣发节奏值得一起看", "动漫资讯不只看作品上线，也可以关注制作团队、声优阵容、平台排播和海外反馈。"],
+      ["轻量追番清单可以按季度维护", "把想看的动画、漫画和展会活动分开记录，会比临时收藏更适合长期跟进。"],
+    ],
+  },
+  {
+    id: "events",
+    label: "展会",
+    description: "动漫展、同人展、汉服活动、城市文化展和周末出行灵感。",
+    image:
+      "https://images.unsplash.com/photo-1523580494863-6f3031224c94?auto=format&fit=crop&w=1200&q=80",
+    feeds: [],
+    fallback: [
+      ["动漫展与同人展适合提前做城市清单", "重点关注购票时间、嘉宾阵容、摊位图、交通路线和返图规则，周末安排会轻松很多。"],
+      ["汉服展会可以从主题、场景和摄影友好度筛选", "看活动时不只看规模，也看场地光线、布景、换装便利度和是否适合人像拍摄。"],
+      ["展会记录可以做成图片故事", "从入场、摊位、人物、舞台到城市夜景，按时间线整理比单张照片更有记忆点。"],
+    ],
+  },
+  {
+    id: "photo",
+    label: "摄影",
+    description: "摄影技巧、人物、人像、风景、器材和后期灵感。",
+    image:
+      "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+    feeds: [
+      { source: "PetaPixel", url: "https://petapixel.com/feed/" },
+      { source: "DIY Photography", url: "https://www.diyphotography.net/feed/" },
+    ],
+    fallback: [
+      ["人像摄影先处理光线，再处理姿态", "自然光、眼神光、背景距离和人物手部动作，往往比器材参数更影响出片质感。"],
+      ["风景摄影可以提前看天气和机位动线", "日出日落、云层、前景、长焦压缩和步行路线，会决定一组照片能不能形成完整叙事。"],
+      ["展会摄影要提前设定拍摄边界", "人物授权、现场光线、拥挤动线和快门安全值，是动漫展和汉服展拍摄最容易忽略的部分。"],
+    ],
+  },
 ];
 
 const today = new Intl.DateTimeFormat("en-CA", {
@@ -129,6 +172,12 @@ const today = new Intl.DateTimeFormat("en-CA", {
   month: "2-digit",
   day: "2-digit",
 }).format(new Date());
+
+const outputUrl = new URL("../data/daily-headlines.json", import.meta.url);
+const now = new Date();
+const nowIso = now.toISOString();
+const retentionMs = 10 * 24 * 60 * 60 * 1000;
+const cutoff = new Date(now.getTime() - retentionMs);
 
 const dictionary = new Map([
   ["artificial intelligence", "人工智能"],
@@ -155,6 +204,14 @@ const dictionary = new Map([
   ["ev", "电动车"],
   ["games", "游戏"],
   ["game", "游戏"],
+  ["anime", "动画"],
+  ["manga", "漫画"],
+  ["cosplay", "Cosplay"],
+  ["photography", "摄影"],
+  ["portrait", "人像"],
+  ["landscape", "风景"],
+  ["camera", "相机"],
+  ["lens", "镜头"],
   ["github", "GitHub"],
   ["developers", "开发者"],
   ["developer", "开发者"],
@@ -330,6 +387,7 @@ async function fetchFeed(feed, category) {
         url: extractLink(item),
         image: category.image,
         time: extractTime(item),
+        fetchedAt: nowIso,
       };
 
       parsed.summary = await parsed.summary;
@@ -341,47 +399,128 @@ async function fetchFeed(feed, category) {
 }
 
 function fallbackItems(category) {
-  return category.fallback.map(([title, summary]) => ({
+  return category.fallback.map(([title, summary], index) => ({
     title,
     summary,
     source: "Daily Radar",
-    url: "https://danielgzd.github.io/",
+    url: `https://danielgzd.github.io/radar#${category.id}-${index}`,
     image: category.image,
     time: today.slice(5),
+    fetchedAt: nowIso,
   }));
 }
 
-async function buildCategory(category) {
-  const results = await Promise.allSettled(category.feeds.map((feed) => fetchFeed(feed, category)));
-  const fetched = results
-    .filter((result) => result.status === "fulfilled")
-    .flatMap((result) => result.value);
+function normalizeExistingItem(item) {
+  const fetchedAt = item.fetchedAt || item.createdAt || item.updatedAt || nowIso;
+  return {
+    title: item.title,
+    summary: item.summary,
+    source: item.source,
+    url: item.url,
+    image: item.image,
+    time: item.time,
+    fetchedAt,
+  };
+}
 
+function isRecent(item) {
+  const timestamp = new Date(item.fetchedAt);
+  return !Number.isNaN(timestamp.getTime()) && timestamp >= cutoff;
+}
+
+async function readExistingCategories() {
+  try {
+    const raw = await readFile(outputUrl, "utf8");
+    const parsed = JSON.parse(raw);
+    return new Map((parsed.categories ?? []).map((category) => [category.id, category.items ?? []]));
+  } catch {
+    return new Map();
+  }
+}
+
+async function probeUrl(url) {
+  if (!url || url.startsWith("https://danielgzd.github.io/radar#")) {
+    return true;
+  }
+
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 8000);
+  try {
+    const response = await fetch(url, {
+      method: "HEAD",
+      redirect: "follow",
+      signal: controller.signal,
+      headers: {
+        "user-agent": "danielgzd.github.io daily-radar",
+      },
+    });
+
+    if (response.status >= 200 && response.status < 400) {
+      return true;
+    }
+
+    if ([404, 410, 451].includes(response.status)) {
+      return false;
+    }
+  } catch {
+    return true;
+  } finally {
+    clearTimeout(timeout);
+  }
+
+  return true;
+}
+
+async function validateExistingItems(items) {
+  const normalized = items.map(normalizeExistingItem).filter((item) => item.title && item.url && isRecent(item));
+  const checked = [];
+
+  for (const item of normalized) {
+    if (await probeUrl(item.url)) {
+      checked.push(item);
+    }
+  }
+
+  return checked;
+}
+
+function uniqueByUrl(items) {
   const used = new Set();
-  const items = fetched.filter((item) => {
+  return items.filter((item) => {
     if (used.has(item.url)) {
       return false;
     }
     used.add(item.url);
     return true;
   });
+}
+
+async function buildCategory(category, existingMap) {
+  const existing = await validateExistingItems(existingMap.get(category.id) ?? []);
+  const results = await Promise.allSettled(category.feeds.map((feed) => fetchFeed(feed, category)));
+  const fetched = results
+    .filter((result) => result.status === "fulfilled")
+    .flatMap((result) => result.value);
+
+  const fresh = uniqueByUrl(fetched).slice(0, 6);
+  const items = uniqueByUrl([...fresh, ...existing]);
 
   return {
     id: category.id,
     label: category.label,
     description: category.description,
-    items: items.slice(0, 6).length >= 2 ? items.slice(0, 6) : fallbackItems(category),
+    items: items.length >= 2 ? items : fallbackItems(category),
   };
 }
 
+const existingMap = await readExistingCategories();
 const output = {
   updatedAt: today,
-  categories: await Promise.all(categories.map(buildCategory)),
+  generatedAt: nowIso,
+  retentionDays: 10,
+  categories: await Promise.all(categories.map((category) => buildCategory(category, existingMap))),
 };
 
-await writeFile(
-  new URL("../data/daily-headlines.json", import.meta.url),
-  `${JSON.stringify(output, null, 2)}\n`,
-);
+await writeFile(outputUrl, `${JSON.stringify(output, null, 2)}\n`);
 
-console.log(`Updated ${output.categories.length} radar categories for ${today}.`);
+console.log(`Updated ${output.categories.length} radar categories for ${today}; retained valid items for 10 days.`);

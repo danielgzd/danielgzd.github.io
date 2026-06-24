@@ -2,7 +2,7 @@ name: Update daily radar
 
 on:
   schedule:
-    - cron: "10 23 * * *"
+    - cron: "10 */6 * * *"
   workflow_dispatch:
 
 permissions:
