@@ -18,46 +18,65 @@ type RadarCategory = {
 };
 
 const skills = [
-  "React / Next.js",
+  "iOS / Swift",
+  "React Native",
+  "H5 交互",
+  "React / Angular",
   "TypeScript",
-  "Node.js 自动化",
-  "移动端体验",
-  "AI 工具链",
-  "网络与规则",
-  "GitHub Actions",
-  "macOS 工作流",
+  "OCR / 活体检测",
+  "地图 SDK",
+  "蓝牙与硬件对接",
+  "App 上架",
+  "AI 工作流",
 ];
 
 const timeline = [
   {
-    period: "现在",
-    title: "工程效率与 AI 工作流",
-    body: "把本地脚本、信息整理、通知渠道和 AI 助手组合成可持续运行的日常系统，关注真实效率而不是一次性演示。",
+    period: "2017 - 2022",
+    title: "上海微创软件 / 高级 iOS 开发工程师",
+    body: "负责 iOS、iPad 与 React Native 跨平台项目开发，参与信用卡获客、移动进件、地图定位、OCR 证件识别、活体检测、Native 与 H5/RN 交互等核心能力建设。",
   },
   {
-    period: "近年",
-    title: "Web 与移动端交付",
-    body: "参与企业级页面、移动端交互和后台系统建设，熟悉从需求拆解、接口联调、体验打磨到上线排障的完整路径。",
+    period: "2016",
+    title: "上海眼控科技 / 中级 iOS 开发工程师",
+    body: "负责 iOS 模块开发、测试和问题修复，完成蓝牙硬件模块、人眼识别 SDK、统计 SDK 与企业 App 集成，具备独立上架与驳回处理经验。",
   },
   {
-    period: "长期",
-    title: "保持好奇的实践者",
-    body: "喜欢拆解工具、搭建服务、整理规则，也愿意把汽车、数码、游戏、财经、AI 等兴趣持续沉淀成信息判断。",
+    period: "2015 - 2016",
+    title: "上海佰点网络 / 初级 iOS 开发工程师",
+    body: "从模块开发、真机测试、BUG 修复和文档编写开始，逐步独立负责 App 开发与维护，覆盖定位、推送、H5 交互、动画、数据展示和 UI 适配。",
+  },
+  {
+    period: "教育",
+    title: "软件工程本科 / 计算机网络应用背景",
+    body: "软件工程与计算机网络复合背景，早期参与学生组织和校级科技、电竞活动组织，形成了对技术、协作和用户体验的长期兴趣。",
   },
 ];
 
 const practices = [
   {
-    title: "自动化与个人信息中枢",
-    body: "把重复的签到、通知、日报、巡检和资料收集做成稳定流程，让日常工作少一点摩擦。",
+    title: "MSP 信用卡申请客户端",
+    body: "面向分行网点和大堂经理的移动办理工具，使用 React Native、Redux、Swift 与 Native 交互，接入活体检测、身份证 OCR，并适配 iOS、iPad 与 Android Pad 场景。",
   },
   {
-    title: "规则、网络与工具维护",
-    body: "长期关注代理规则、客户端配置、家庭服务器和跨设备协同，追求能解释、可维护、真可用。",
+    title: "我的云 / 信用卡获客工具",
+    body: "使用 Swift 构建业务主流程，接入 OCR、活体检测和地图 SDK，实现自定义地图、后台定位上传、轨迹优化和获客数据图表展示。",
   },
   {
-    title: "AI 辅助工程实践",
-    body: "把 Codex、命令行、浏览器和本地知识连起来，用 AI 做代码协作、排障、资料整理和快速原型。",
+    title: "前端管理平台与跨端协作",
+    body: "使用 React、AngularJS 和 H5 技术开发管理平台与嵌入式页面，配合移动端完成交互闭环，重视体验细节、问题定位和交付节奏。",
+  },
+  {
+    title: "人眼检测统计系统 SDK",
+    body: "独立完成人脸检测识别与统计 SDK，用于识别使用者身份，并统计使用时长、习惯和关注点，最终集成到企业 App 使用。",
+  },
+  {
+    title: "车载与地图类应用",
+    body: "参与汽车之音、护驾宝等项目，涉及在线广播、语音通话、即时聊天、蓝牙连接、百度地图鹰眼 SDK、轨迹回放、本地存储和免登录体验。",
+  },
+  {
+    title: "个人自动化与信息流",
+    body: "在工作之外持续整理自动化、AI 工具链和每日信息雷达，把兴趣内容转化成可运行、可维护、可持续更新的个人系统。",
   },
 ];
 
@@ -79,10 +98,10 @@ export default function Home() {
 
       <section id="top" className="hero">
         <div className="hero-copy">
-          <p className="eyebrow">Engineer / Builder / Curious Operator</p>
+          <p className="eyebrow">iOS / Cross-platform / Product-minded Engineer</p>
           <h1>Daniel</h1>
           <p className="hero-text">
-            一个偏实战的工程师，喜欢把前端体验、自动化脚本、网络工具和 AI 工作流整理成可以长期运转的系统。这里是我的个人主页，也是一份持续更新的信息雷达。
+            2015 年入行，10 年开发经验，长期参与企业级金融、获客工具、硬件识别、地图定位和前端管理平台建设。喜欢把复杂业务拆成稳定、清晰、体验友好的产品模块。
           </p>
           <div className="hero-actions">
             <a href="https://github.com/danielgzd">GitHub</a>
@@ -92,15 +111,15 @@ export default function Home() {
         <aside className="profile-card" aria-label="profile snapshot">
           <div>
             <span>Focus</span>
-            <strong>前端、自动化、AI 工作流</strong>
+            <strong>10 年开发经验，聚焦 iOS、React Native、企业级移动应用</strong>
           </div>
           <div>
             <span>Style</span>
-            <strong>先跑起来，再打磨成体系</strong>
+            <strong>重视体验、定位问题快、交付稳定</strong>
           </div>
           <div>
             <span>Now</span>
-            <strong>把兴趣和工程能力放在同一个页面里</strong>
+            <strong>把移动端经验、跨端能力和 AI 工具链结合起来</strong>
           </div>
         </aside>
       </section>
@@ -112,7 +131,7 @@ export default function Home() {
         </div>
         <div className="about-grid">
           <p className="soft-panel intro">
-            我更喜欢把复杂问题拆成清晰的小系统：用户路径、数据来源、自动化边界、异常处理和后续维护。写页面时在意体验，写脚本时在意稳定，做工具时在意它明天还会不会继续好用。
+            我更喜欢把复杂业务拆成清晰的小系统：页面路径、Native 能力、前端交互、接口边界、异常处理和后续维护。做移动端时在意稳定和体验，做跨端时在意协作成本，做工具时在意它明天还会不会继续好用。
           </p>
           <div className="skill-list">
             {skills.map((skill) => (
@@ -125,7 +144,7 @@ export default function Home() {
       <section id="work" className="section">
         <div className="section-title">
           <p>Resume</p>
-          <h2>经历浓缩成几个关键词。</h2>
+          <h2>从 iOS 到跨端，从业务交付到体验优化。</h2>
         </div>
         <div className="timeline">
           {timeline.map((item) => (
@@ -143,7 +162,7 @@ export default function Home() {
       <section className="section">
         <div className="section-title">
           <p>Practice</p>
-          <h2>一些长期保留的实践方向。</h2>
+          <h2>更具体的项目经历。</h2>
         </div>
         <div className="practice-grid">
           {practices.map((item) => (
