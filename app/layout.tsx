@@ -5,9 +5,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "高东东 Daniel GZD | 个人主页",
+  title: "Daniel | 个人主页",
   description:
-    "高东东的个人宣传主页，展示工程能力、履历实践、兴趣雷达与每日头条。",
+    "Daniel 的个人主页，展示工程实践、履历、兴趣雷达与每日信息流。",
 };
 
 export default function RootLayout({

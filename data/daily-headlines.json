@@ -1,37 +1,445 @@
 {
   "updatedAt": "2026-06-24",
-  "items": [
+  "categories": [
     {
-      "title": "Reid Hoffman says SpaceX 'not an AI company', xAI 'complete train wreck'",
-      "source": "Hacker News",
-      "category": "开发",
-      "summary": "今天值得放进雷达的一条动态，适合后续整理成更完整的专题观察。",
-      "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
-      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80"
+      "id": "ai",
+      "label": "AI",
+      "description": "人工智能、模型、智能硬件与 AI 产品动态。",
+      "items": [
+        {
+          "title": "下载：介绍工程问题",
+          "summary": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。简介：工程问题我们无法解决所有问题，但我们可以雄心勃勃。我们可以接受挑战，通过人类的聪明才智让世界变...",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "Stripe、Anthropic 和 OpenAI 支持阻止呼吸道感染的努力",
+          "summary": "普通感冒对我们所有人来说都是如此——通常每年不止一次。并且没有办法阻止它。您能做的最好的事情就是服用维生素 C，并远离流鼻涕的人。现在，由帕特里克·克里森 (Patrick Colli...",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "人工智能网络数据基础设施层的出现",
+          "summary": "人工智能正在蓬勃发展。每天都会出现新的用例。为了充分利用该技术的潜力，企业需要大规模数据。但在许多情况下，相关信息是被屏蔽或非结构化的，这限制了人工智能模型的使用。要理解这一挑战，请考...",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "这种飞行太阳能平台可以提供更好的空中互联网服务",
+          "summary": "最快到八月，一颗巨大的银弹将穿过美国西南部干燥的空气，穿过太平洋到达日本海岸。一旦到达那里，这艘由新墨西哥州 Sceye 公司建造的约 200 英尺长的飞船将停泊在距海面约 18 公里...",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "所有大大小小的挑战",
+          "summary": "当我 18 岁时，我跳过高中毕业前往科威特。那是1991年，第一次海湾战争刚刚结束，国家一片混乱。除了发电机供电外，几乎没有电力。瓦砾和未爆弹药随处可见。大规模的石油大火照亮了沙漠……",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "OpenAI 部署负责人谈 Codex 增长、人工智能价格下降和投资回报率问题",
+          "summary": "OpenAI 部署负责人 Arnaud Fournier 在接受采访时解释了 DeployCo 如何利用自己的工程师将 AI 深入到大公司内部。他谈到了 Codex 的爆炸式增长、客户...",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openais-deployment-chief-on-codex-growth-falling-ai-prices-and-the-roi-question/",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        }
+      ]
     },
     {
-      "title": "I drove the Slate Truck — there’s more to it than EV minimalism",
-      "source": "The Verge",
-      "category": "汽车",
-      "summary": "With its new pickup, Slate Auto is making a simple bet: price matters more than almost anything else. The company announced today that the...",
-      "url": "https://www.theverge.com/transportation/955454/slate-truck-ev-price-drive-specs-minimalism",
-      "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80"
+      "id": "world",
+      "label": "世界",
+      "description": "国际局势、社会议题与全球公共事件。",
+      "items": [
+        {
+          "title": "台灣大學排名落後，為何卻能培育出世界級半導體工程師？",
+          "summary": "QS世界大學排名公布，台灣大學整體進步，但與新加坡、香港等頂尖大學相比仍明顯落後。為何台灣能培育出世界一流的半導體工程師？",
+          "source": "BBC 中文",
+          "url": "https://www.bbc.com/zhongwen/articles/c8d215n1z93o/trad?at_medium=RSS&at_campaign=rss",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "當影像流水線走到極致——中國AI短劇是怎樣煉成的？",
+          "summary": "中國的短劇行業在短短一年內出現翻天覆地的變化，AI製成品佔據了最熱門短劇的四成，量產的速成也以幾何級增長，但真人演員在這個洪流中被迅速淘汰。",
+          "source": "BBC 中文",
+          "url": "https://www.bbc.com/zhongwen/articles/c0ey9jyw37po/trad?at_medium=RSS&at_campaign=rss",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "聯合國擬撤離霍爾木茲海峽滯留船員，盧比奧警告伊朗勿收費",
+          "summary": "聯合國國際海事組織表示，目前有超過1.1萬名船員滯留霍爾木茲海峽一帶。",
+          "source": "BBC 中文",
+          "url": "https://www.bbc.com/zhongwen/articles/cx2jn91k5zlo/trad?at_medium=RSS&at_campaign=rss",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "血緣關係與機會：為何越來越多世界盃球員「離鄉別井」？",
+          "summary": "近四分之一參加 2026 年世界盃的足球員沒有為自己的出生國效力——這是歷史最高比例。",
+          "source": "BBC 中文",
+          "url": "https://www.bbc.com/zhongwen/articles/czxq0p95lv9o/trad?at_medium=RSS&at_campaign=rss",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "十年六個——英國首相換了又換為甚麼？",
+          "summary": "施紀賢爵士成為了十年來第六位離任的英國首相，BBC國際部記者沃森（Rob Watson）剖析政治動盪的背後原因。",
+          "source": "BBC 中文",
+          "url": "https://www.bbc.com/zhongwen/articles/c33yrvd53ddo/trad?at_medium=RSS&at_campaign=rss",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/23"
+        },
+        {
+          "title": "日本将部分旅游签证费用上调四倍以上",
+          "summary": "这是高市早苗严控外籍人士入境行动的最新举措。费用将适用于来自中国等100多个国家的旅客。自日本在新冠疫情后重新开放国际旅游以来，日本民众对游客的抱怨有所增多。 Kentaro Taka...",
+          "source": "纽约时报中文网",
+          "url": "https://cn.nytimes.com/asia-pacific/20260624/japan-visa-fee-increase-tourism/?utm_source=RSS",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        }
+      ]
     },
     {
-      "title": "Our favorite Prime Day deals you can shop on day two",
-      "source": "The Verge",
-      "category": "电子",
-      "summary": "Welcome to day two of Amazon’s four-day Prime Day event, which, if we’re being honest, looks a lot like day one. That’s actually good news...",
-      "url": "https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale",
-      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80"
+      "id": "finance",
+      "label": "财经",
+      "description": "市场、公司、消费、宏观经济与投资观察。",
+      "items": [
+        {
+          "title": "李强在“夏季达沃斯”驳斥补贴说，强调中国创新能力",
+          "summary": "中国总理在世界经济论坛“新领军者年会”上回应贸易伙伴对中国经济模式的质疑。",
+          "source": "FT 中文网",
+          "url": "https://www.ftchinese.com/story/001110138",
+          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "安德利果汁跨界豪赌PCB 是华丽转身还是不务正业？",
+          "summary": "浓缩果汁龙头安德利拟斥资最多8亿元收购PCB上游材料商甬强科技，消息带动公司股价大涨，但这场跨界转型能否成功，还有不少变数。",
+          "source": "FT 中文网",
+          "url": "https://www.ftchinese.com/story/001110136",
+          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "不造大模型只做Token工厂 硅基流动获资本押注",
+          "summary": "AI初创企业硅基流动让不同模型厂商的大模型，能在多种算力芯片上运行，其中立定位在高度分散的中国市场具有独特优势",
+          "source": "FT 中文网",
+          "url": "https://www.ftchinese.com/story/001110130",
+          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "英伟达被禁AI芯片在中国黑市价格翻倍",
+          "summary": "在美国严加打击非法芯片出口的形势下，获取英伟达处理器需要冒着更大风险、付出更高价格，也更加困难。",
+          "source": "FT 中文网",
+          "url": "https://www.ftchinese.com/story/001110135",
+          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "“硅和平”倡议新增多个成员",
+          "summary": "该倡议由美国牵头，在西方及其盟友面临来自中国日益加剧的竞争之际，旨在强化与人工智能相关的科技供应链。",
+          "source": "FT 中文网",
+          "url": "https://www.ftchinese.com/story/001110134",
+          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "特朗普声称伊朗已向美国保证霍尔木兹海峡不会造成人员伤亡",
+          "summary": "特朗普表示，对于希望通过霍尔木兹海峡的船只，不会收取通行费、保险费或任何形式的费用。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/24/trump-claims-iran-has-assured-us-there-wont-be-tolls-on-the-strait-of-hormuz.html",
+          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        }
+      ]
     },
     {
-      "title": "Grand Theft Auto 6 'Plays Best on PS5,' Sony Boasts — Here's Why",
-      "source": "IGN",
-      "category": "游戏",
-      "summary": "Grand Theft Auto 6 will \"play best on PS5\" as it makes use of various immersive console features, Sony has said, boasting of its \"close pa...",
-      "url": "https://www.ign.com/articles/grand-theft-auto-6-plays-best-on-ps5-sony-boasts-heres-why",
-      "image": "https://assets-prd.ignimgs.com/2026/06/24/vintage-vice-city-pack-exclusive-looks-04-1782295882342.jpg"
+      "id": "tech",
+      "label": "科技",
+      "description": "消费电子、互联网产品、平台生态与新硬件。",
+      "items": [
+        {
+          "title": "我驾驶的是 Slate 卡车——它不仅仅是电动汽车极简主义",
+          "summary": "Slate Auto 凭借其新款皮卡做出了一个简单的赌注：价格几乎比其他任何事情都重要。该公司今天宣布，这款美国制造的电动卡车起价为 24,950 美元，完全处于其最初承诺的 20,0...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/transportation/955454/slate-truck-ev-price-drive-specs-minimalism",
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "您可以在第二天购买我们最喜欢的 Prime Day 优惠",
+          "summary": "欢迎来到亚马逊为期四天的 Prime Day 活动的第二天，老实说，这看起来很像第一天。不过，这实际上是个好消息，因为许多最优惠的交易仍然存在，并且一些新的交易也加入其中。如果您有 P...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/955366/best-prime-day-2026-tech-deals-day-two-sale",
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "鲍勃·艾格 (Bob Iger) 的迪士尼想要苹果、Twitter 和 007",
+          "summary": "鲍勃·艾格 (Bob Iger) 作为迪士尼首席执行​​官的任期于几个月前结束，此前他带领这家娱乐巨头完成了一些最关键的转型和收购二十年。艾格在接受英国《金融时报》采访时确认了一些并未...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/streaming/955646/disney-bob-iger-twitter-james-bond-apple-merger",
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "Prime Day 期间提供最佳机器人吸尘器优惠",
+          "summary": "如果您一直想购买一台扫地机器人，但因购买一台好的扫地机器人的成本而犹豫不决，那么现在正是开始寻找的好时机。 Prime Day 已经拉开帷幕，尽管不仅仅是亚马逊在为我们测试过的 […]...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/951081/robot-vacuum-mop-deals-amazon-prime-day-2026",
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "今年苹果产品的 Prime Day 优惠是我见过的最好的",
+          "summary": "亚马逊 Prime Day 促销活动即将到来，无论您是在寻找一副新的无线耳机还是智能手表，都有很好的机会找到折扣。 Apple Watch Series 11 已经跌至新低，而 Air...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "据报道，美国政府敦促 Meta 分享其人工智能模型",
+          "summary": "据报道，由于对该技术的安全性和安全性的担忧日益增加，美国政府要求 Meta 分享其人工智能模型以供审查。",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2200490/us-government-reportedly-urging-meta-to-share-its-ai-models/",
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        }
+      ]
+    },
+    {
+      "id": "car",
+      "label": "汽车",
+      "description": "智能汽车、电动化、座舱、辅助驾驶和产业趋势。",
+      "items": [
+        {
+          "title": "我驾驶的是 Slate 卡车——它不仅仅是电动汽车极简主义",
+          "summary": "Slate Auto 凭借其新款皮卡做出了一个简单的赌注：价格几乎比其他任何事情都重要。该公司今天宣布，这款美国制造的电动卡车起价为 24,950 美元，完全处于其最初承诺的 20,0...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/transportation/955454/slate-truck-ev-price-drive-specs-minimalism",
+          "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "Slate Auto 皮卡车起价 24,950 美元",
+          "summary": "我们现在知道了 Slate Auto 价格实惠的美国制造电动卡车的价格，距离该公司警告称其不会达到最初的“低于 20,000 美元”的目标价格已近一年。这款朴素的皮卡起价为 24,95...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/transportation/955738/slate-auto-truck-ev-price-availability",
+          "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "特斯拉声称在德克萨斯州致命事故中驾驶员“手动超越了自动驾驶”",
+          "summary": "特斯拉正在反驳有关其全自动驾驶 (FSD) 系统导致德克萨斯州致命车祸的说法，当时一辆超速行驶的 Model 3 冲进一户人家，导致车内一名 76 岁的妇女死亡。在 X 的回复中，特斯...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/transportation/955153/tesla-full-self-driving-texas-crash",
+          "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "Formula E 的新赛季开始变得更像 F1",
+          "summary": "电动方程式下一赛季将于 12 月开始，采用新的比赛形式和三个新的比赛地点，并配备全新 Gen4 电动赛车。国际汽联今天发布的赛程包括奥斯汀的美洲赛道、肯特的布兰兹哈奇赛道和赞德沃特赛道...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/transportation/955011/formula-e-season-13-electric-racing",
+          "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "Amflow 的 TL 电动自行车已为宝宝的第一次山地探险做好准备",
+          "summary": "从 DJI 衍生出来的电动自行车品牌 Amflow 刚刚推出了 TL Carbon，这是一款全能型“eSUV”，既适合骑自行车冒险，也适合骑车送孩子去托儿所上班。 TL Carbon ...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/transportation/954291/amflows-tl-e-bike-is-ready-for-babys-first-mountain-adventure",
+          "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/23"
+        },
+        {
+          "title": "石板卡车比预期更贵",
+          "summary": "尽管起价较高，Slate 仍增加了卡车的续航里程和性能。",
+          "source": "Motor1",
+          "url": "https://www.motor1.com/news/799615/slate-truck-suv-price-range-specs/",
+          "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        }
+      ]
+    },
+    {
+      "id": "game",
+      "label": "游戏",
+      "description": "主机、PC、移动游戏、产业新闻与玩家文化。",
+      "items": [
+        {
+          "title": "索尼夸耀《侠盗猎车手 6》“在 PS5 上玩得最好”——原因如下",
+          "summary": "索尼表示，侠盗猎车手 6 将“在 PS5 上玩得最好”，因为它利用了各种沉浸式游戏机功能，并夸耀其与 Rockstar Games 的“密切合作关系”。",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/grand-theft-auto-6-plays-best-on-ps5-sony-boasts-heres-why",
+          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "Grand Theft Auto 6：Rockstar 发布 63 张新截图",
+          "summary": "Rockstar 发布了 60 多张新截图，展示了《侠盗猎车手 6》、其中的角色、世界以及一些复古的罪恶都市氛围。",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/grand-theft-auto-6-rockstar-releases-63-new-screenshots",
+          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "GTA 6 价格最终确定，发布时提供“单人游戏体验”",
+          "summary": "Rockstar Games 终于公布了《GTA 6》的价格，同时确认其在发布时具有“单人游戏体验”。",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/gta-6-price-finally-confirmed-features-a-single-player-experience-at-launch",
+          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "《侠盗猎车手 6》实体版不包含光盘，只是盒子里的代码",
+          "summary": "Rockstar 将出售《侠盗猎车手 6》的实体版——不过你只会得到一个包含数字下载代码的盒子。",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/grand-theft-auto-6-physical-copies-wont-include-a-disc-will-just-be-a-code-in-a-box",
+          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "GTA 6 预购将于当地时间 6 月 25 日午夜开始，终极版和预购奖励已确认",
+          "summary": "GTA 6 预购将于当地时间 6 月 25 日午夜开始，终极版和预购奖励已确认。",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/gta-6-preorders-kick-off-midnight-local-time-on-june-25-ultimate-edition-and-preorder-bonuses-confirmed",
+          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "以下是《GTA 6》的售价以及终极版的内容",
+          "summary": "在 6 月 25 日明天开始预购之前，Rockstar 详细介绍了即将推出的 GTA 6 终极版的奖励。至关重要的是，即使在游戏的发行版本中，也不会出现传统的《GTA 6》实体副本。相...",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/heres-how-much-youll-pay-for-gta-6-and-whats-included-in-the-ultimate-edition/",
+          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        }
+      ]
+    },
+    {
+      "id": "dev",
+      "label": "开发",
+      "description": "开发者工具、开源、代码平台、工程效率与安全。",
+      "items": [
+        {
+          "title": "秘密扫描为复制秘密添加了扩展元数据",
+          "summary": "秘密扫描现在包括复制秘密的扩展元数据，为泄露的凭据提供更丰富的上下文。扩展元数据支持此模式现在在检测到时包含扩展元数据，提供更丰富的上下文……秘密扫描为复制秘密添加扩展元数据首先出现在...",
+          "source": "GitHub Blog",
+          "url": "https://github.blog/changelog/2026-06-23-secret-scanning-adds-extended-metadata-for-replicate-secrets",
+          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "通过 REST API 获取代码质量调查结果",
+          "summary": "用于代码质量调查结果的存储库级 REST API 现已提供公共预览版，使 API 支持更接近 GitHub UI 中已有的功能。两个新的只读端点……通过 REST API 获取代码质量...",
+          "source": "GitHub Blog",
+          "url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
+          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "自动 Dependabot 访问 GitHub 托管的注册表",
+          "summary": "Dependabot 现在可以从私有 GitHub Packages 注册表中读取数据，而无需个人访问令牌。如果某个软件包已通过软件包设置中的“管理操作访问权限”授予您的存储库访问权限...",
+          "source": "GitHub Blog",
+          "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
+          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "Copilot CLI：新的终端界面全面可用",
+          "summary": "我们在 Microsoft Build 2026 上预览的重新设计的 GitHub Copilot CLI 终端界面现已正式发布。您可以直接从...获得用于使用 GitHub 的选项卡...",
+          "source": "GitHub Blog",
+          "url": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available",
+          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "Dependabot 弃用 Python 3.9",
+          "summary": "Dependabot 不再支持 Python 版本 3.9，该版本已终止生命周期。如果您继续使用 Python 3.9，则存在 Dependabot 不会创建拉取请求的风险…… Dep...",
+          "source": "GitHub Blog",
+          "url": "https://github.blog/changelog/2026-06-23-deprecation-of-python-3-9-for-dependabot",
+          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/23"
+        },
+        {
+          "title": "里德·霍夫曼 (Reid Hoffman) 表示 SpaceX“不是一家人工智能公司”，xAI“彻底失事”",
+          "summary": "开发方向有一条新动态，适合继续跟进原文细节。",
+          "source": "Hacker News",
+          "url": "https://fortune.com/2026/06/24/reid-hoffman-spacex-musk-openai-anthropic-gen-z-mistake/",
+          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        }
+      ]
+    },
+    {
+      "id": "life",
+      "label": "生活",
+      "description": "影像、城市、效率工具、文化消费和日常灵感。",
+      "items": [
+        {
+          "title": "TDS REVIEW | OPPO Enco Clip2 耳夹式开放真无线耳机体验",
+          "summary": "Enco Clip2 作为耳夹品类里定位相对中高端的产品，我们一起来看看它的表现吧。 查看全文",
+          "source": "少数派",
+          "url": "https://sspai.com/post/111289",
+          "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "从观众到志愿者：加入 TEDxShenzhen 需要做些什么？",
+          "summary": "前言今年是我加入TEDxShenzhen的第三年，经历了2024年和2025年的两次年度大会，我们迎来了2026年的纳新和年度大会筹备。今年纳新时，有几位朋友问我是如何加入Tedx的，...",
+          "source": "少数派",
+          "url": "https://sspai.com/post/111428",
+          "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "DV/HDV 磁带拯救计划：用 AI 驱动十八年前的老设备",
+          "summary": "2026 年是 AI agent 的第一年，2026 年也是 FireWire 的最后一年。 查看全文",
+          "source": "少数派",
+          "url": "https://sspai.com/post/111223",
+          "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "派早报：新款理想 L8 换代上市、Meta 发布 Meta Glasses 智能眼镜等",
+          "summary": "Cloudflare 联合主流浏览器厂商推进 PACT 协议，腾讯推出 TenPayGo 等。 查看全文",
+          "source": "少数派",
+          "url": "https://sspai.com/post/111438",
+          "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        },
+        {
+          "title": "社区速递 146 | 晒晒派友的夏季出门包、百元薄膜键盘与高性价比净化器",
+          "summary": "除了首页时间流和侧栏的精选展位，少数派Matrix社区还有很多优秀内容因条件所限无法得到有效曝光，因此我们决定重启Matrix周报，并在此基础上添加更多社区内容、作者投稿新玩意呈现给大...",
+          "source": "少数派",
+          "url": "https://sspai.com/post/111410",
+          "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/23"
+        },
+        {
+          "title": "VR 耳机和配件 Prime 会员日最佳优惠，最高可享受 32% 折扣",
+          "summary": "以下是所有 VR 设备在 Prime Day 期间最显着的降价。",
+          "source": "Lifehacker",
+          "url": "https://lifehacker.com/tech/best-vr-headset-and-accessory-deals-prime-day-2026?utm_medium=RSS",
+          "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/24"
+        }
+      ]
     }
   ]
 }
