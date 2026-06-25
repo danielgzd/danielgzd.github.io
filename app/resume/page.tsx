@@ -9,7 +9,7 @@ export default function ResumePage() {
         <p className="eyebrow">Resume</p>
         <h1>履历</h1>
         <p>
-          从 iOS 到跨端，从业务交付到体验优化。主线是企业级金融移动应用、长期项目迭代和稳定交付。
+          从 iOS 到跨端，从业务交付到体验优化。主线是企业级金融移动应用、长期项目迭代、稳定交付，以及最近半年持续深化的 AI Coding 实践。
         </p>
       </section>
 

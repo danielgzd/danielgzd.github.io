@@ -5,7 +5,7 @@ const portals = [
   {
     href: "/resume",
     title: "履历",
-    body: "10 年移动端开发经验，从 iOS、React Native 到金融业务长期迭代。",
+    body: "10 年移动端开发经验，从 iOS、React Native、金融业务长期迭代到 AI Coding 实践。",
   },
   {
     href: "/projects",
@@ -29,7 +29,7 @@ export default function Home() {
           <p className="eyebrow">iOS / Cross-platform / Product-minded Engineer</p>
           <h1>Daniel</h1>
           <p className="hero-text">
-            2015 年入行，10 年开发经验，长期参与企业级金融、获客工具、硬件识别、地图定位和前端管理平台建设。这里保留简洁入口，详细内容拆到独立页面。
+            2015 年入行，10 年开发经验，长期参与企业级金融、获客工具、硬件识别、地图定位和前端管理平台建设。已获取人工智能培训师相关证书，最近半年全面拥抱 AI Coding，把智能体流程用于开发、验证和效率提升。
           </p>
           <div className="hero-actions">
             <a href="https://github.com/danielgzd">GitHub</a>
@@ -39,11 +39,11 @@ export default function Home() {
         <aside className="profile-card anime-card" aria-label="profile snapshot">
           <div>
             <span>Focus</span>
-            <strong>iOS、React Native、企业级移动应用</strong>
+            <strong>iOS、React Native、AI Coding、企业级移动应用</strong>
           </div>
           <div>
             <span>Style</span>
-            <strong>重视体验、定位问题快、交付稳定</strong>
+            <strong>重视体验、善用 AI、定位问题快、交付稳定</strong>
           </div>
           <div>
             <span>Radar</span>
