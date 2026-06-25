@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-06-25",
-  "generatedAt": "2026-06-25T09:41:43.980Z",
+  "generatedAt": "2026-06-25T14:53:32.037Z",
   "retentionDays": 10,
   "categories": [
     {
@@ -9,13 +9,58 @@
       "description": "人工智能、模型、智能硬件与 AI 产品动态。",
       "items": [
         {
+          "title": "人工智能时代重新定位零售业",
+          "summary": "人工智能正在迅速重塑零售业，但其方式并非以消费者可能立即注意到的方式。最大的转变可能不是华而不实的虚拟试穿或聊天机器人购物助理，而是幕后决策的方式：产品如何在搜索结果中出现、库存如何在...",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "下载：欧洲热浪袭击电网，IBM 芯片瞄准摩尔定律",
+          "summary": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。欧洲的极端高温正在关闭发电厂欧洲正处于破纪录的热浪之中，随着人们转向……，电网正被推向极限。",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "欧洲热浪对电网意味着什么",
+          "summary": "本周欧洲热浪的头条新闻让人难以忘怀。整个非洲大陆的气温正在打破记录，天气正在威胁生命，导致学校停课，在一个特别具有讽刺意味的案例中，迫使伦敦气候行动周有关极端高温的活动被取消。随着夏季...",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "IBM 推出芯片技术，有助于将摩尔定律再延长十年",
+          "summary": "IBM 在指甲盖大小的区域上构建了一种新的原型芯片，其中包含约 1000 亿个晶体管，其密度是该公司之前于 2021 年宣布的最先进技术的两倍。该设计可为未来几年更快、更节能的计算机铺...",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
           "title": "欧洲极端高温导致发电厂关闭",
           "summary": "欧洲正处于创纪录的热浪之中，随着人们转向风扇和空调来保持凉爽，电网正被推向极限。一些发电厂不会上线来帮助处理负载。 6 月 23 日，法国迎来了自 1947 年有记录以来最热的一天……",
           "source": "MIT Technology Review",
           "url": "https://www.technologyreview.com/2026/06/24/1139676/europe-heat-power-plants/",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "time": "06/24",
-          "fetchedAt": "2026-06-25T09:41:43.980Z"
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "保险公司转向生成人工智能进行灾难建模，但幻觉和销售逻辑可能会阻碍",
+          "summary": "扩散模型会生成数以万计的可能的天气事件，而历史数据并不存在。保险公司希望能够进行更精确的风险评估。研究人员警告人们注意幻觉。文章《保险公司转向生成人工智能进行灾难建模，但幻觉和销售逻辑...",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/insurers-turn-to-generative-ai-for-catastrophe-modeling-but-hallucinations-and-sales-logic-could-get-in-the-way/",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
         },
         {
           "title": "下载：介绍工程问题",
@@ -103,7 +148,7 @@
           "url": "https://www.bbc.com/zhongwen/articles/cg4w2n5ql32o/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "06/25",
-          "fetchedAt": "2026-06-25T09:41:43.980Z"
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
         },
         {
           "title": "法國錄得歷來最炎熱一天後 冷氣引發政治分歧",
@@ -112,16 +157,16 @@
           "url": "https://www.bbc.com/zhongwen/articles/c4gyp5j8j5vo/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "06/25",
-          "fetchedAt": "2026-06-25T09:41:43.980Z"
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
         },
         {
-          "title": "斯坦福大學曾是學生們的黃金門票，AI當道下還管用嗎？",
-          "summary": "BBC採訪了斯坦福大學應屆畢業生，了解他們對人工智慧的真實看法。",
+          "title": "脫歐十年，對英國經濟的影響愈發清晰",
+          "summary": "十年前，許多經濟學家認為英國離開歐盟將對其經濟造成長期損害。那麼，實際上又發生了什麼？",
           "source": "BBC 中文",
-          "url": "https://www.bbc.com/zhongwen/articles/cpq354p324po/trad?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.com/zhongwen/articles/cj4g1v4lz27o/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "06/25",
-          "fetchedAt": "2026-06-25T09:41:43.980Z"
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
         },
         {
           "title": "香港「獵人書店」兩人被捕：國安警察稱涉犯煽動及洗黑錢罪",
@@ -130,7 +175,7 @@
           "url": "https://www.bbc.com/zhongwen/articles/clyezlzl6z6o/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "06/25",
-          "fetchedAt": "2026-06-25T09:41:43.980Z"
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
         },
         {
           "title": "看完全部104場世界盃比賽，這兩人能倒賺5萬美元",
@@ -139,13 +184,22 @@
           "url": "https://www.bbc.com/zhongwen/articles/cly892725wgo/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "06/25",
-          "fetchedAt": "2026-06-25T09:41:43.980Z"
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
         },
         {
           "title": "一场末日浩劫：被世界遗忘的缅甸内战",
           "summary": "当乌克兰和伊朗的冲突吸引了全世界的聚光灯，有5000万人口的缅甸正在一场持续五年、无人关注的内战中崩溃。时报记者探访了仿佛迷失于末日浩劫中的战场腹地。 Daniel Berehulak...",
           "source": "纽约时报中文网",
           "url": "https://cn.nytimes.com/asia-pacific/20260625/myanmar-civil-war-rebels-airstrikes/?utm_source=RSS",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "斯坦福大學曾是學生們的黃金門票，AI當道下還管用嗎？",
+          "summary": "BBC採訪了斯坦福大學應屆畢業生，了解他們對人工智慧的真實看法。",
+          "source": "BBC 中文",
+          "url": "https://www.bbc.com/zhongwen/articles/cpq354p324po/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "06/25",
           "fetchedAt": "2026-06-25T09:41:43.980Z"
@@ -229,6 +283,60 @@
       "label": "财经",
       "description": "市场、公司、消费、宏观经济与投资观察。",
       "items": [
+        {
+          "title": "《抓特务》对观众来说，太复杂了",
+          "summary": "刘远举：历史中的真实冲突，未必比短剧中的冲突更弱，但作为电影，总有其自身的局限，这就造成了电影的理解难度。",
+          "source": "FT 中文网",
+          "url": "https://www.ftchinese.com/story/001110150",
+          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/26",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "回望斯塔默的两年首相时光",
+          "summary": "张璐诗：英国人曾经受够了会撒谎、会闯祸、会制造戏剧性的首相；于是他们选出了一个认真工作、不轻易冒险也不轻易撒谎的首相。但两年后他们发现，这并不足以解决英国的问题。",
+          "source": "FT 中文网",
+          "url": "https://www.ftchinese.com/story/001110149",
+          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/26",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "威尼斯双年展随笔：黎明之前，溪水入海",
+          "summary": "黎蓉：这届双年展看似特别“黑暗”--战火、生态崩塌、算法碾压以及来自评审和策展的种种争议，始终历历在目。但艺术家们的作品，让我看见了光和希望，让我相信这是黎明前的黑暗。",
+          "source": "FT 中文网",
+          "url": "https://www.ftchinese.com/story/001110137",
+          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/26",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "美加墨世界杯札记之三：天王的修罗场与“最高的景色”",
+          "summary": "范力文：在这届世界杯的跌宕起伏之中，可以看到个人在命运面前的挫败与反击，也可以看到团队冷酷如精密齿轮般的纪律和协作。",
+          "source": "FT 中文网",
+          "url": "https://www.ftchinese.com/story/001110148",
+          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/26",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "安东尼奥•高迪的灵感之窗",
+          "summary": "崔莹：这位西班牙建筑师认为，窗是建筑与自然持续对话的媒介，他不仅关注光如何进入建筑，也关心风如何穿过空间。",
+          "source": "FT 中文网",
+          "url": "https://www.ftchinese.com/story/001110145",
+          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/26",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "美联储首选指标显示，5 月份核心通胀率达到 3.4%，为 2023 年 10 月以来最高",
+          "summary": "个人消费支出价格指数预计同比增长4.1%。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/25/pce-inflation-report-may-2026-.html",
+          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
         {
           "title": "Anthropic指控阿里巴巴非法访问Claude",
           "summary": "Anthropic称阿里巴巴使用虚假账号非法访问Claude，这家美国公司并未向中国机构开放该人工智能模型。",
@@ -372,13 +480,58 @@
       "description": "消费电子、互联网产品、平台生态与新硬件。",
       "items": [
         {
+          "title": "三星新款廉价手机尽管降级但价格仍高出 50 美元",
+          "summary": "Galaxy A27 已经发布，售价为 349.99 美元，比去年的 A26 贵了 50 美元。在当前的经济环境下，这是可以理解的，但鉴于三星还降低了一些关键规格，因此销售难度更大。与...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/956835/samsung-galaxy-a27-5g-launch-price-specs",
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "徕卡 6,690 美元的 SL3-P 将 44 兆像素静态照片与 8K 视频结合起来",
+          "summary": "继 2024 年推出 SL3 和去年针对速度和捕捉快速移动物体进行优化的 SL3-S 后，徕卡今天宣布推出新款 SL3-P，提供了两款前代产品的一些最佳功能。与徕卡之前的“P”变体一样...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/956101/leica-digital-camera-sl3-p-8k-video-44-megapixel-price",
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "苹果将​​ Mac、iPad 等产品的价格提高了数百美元",
+          "summary": "为了应对持续的内存和存储短缺问题，苹果公司将 MacBook、iPad 和其他设备的价格提高了数百美元。据报道，虽然新款 MacBook Neo 现在起价为 699 美元，而不是 59...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/952162/apple-price-increase-ram-shortage",
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "Prime Day 第三天的 124 项最佳科技交易",
+          "summary": "伙计们，今天是黄金日的第三天。亚马逊为期四天的促销活动已完成近 75%，毫不奇怪，许多优惠仍然存在。电视、智能家居设备、充电器、耳机等商品都有各种折扣。黄金日通常并不像[...]那么重...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/956199/best-prime-day-2026-deals-tech-electronics-sale-day-three",
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
           "title": "Facebook 的 Creator Studio 已作为 AI 配套应用程序复活",
           "summary": "Meta 正在恢复 Facebook Creator Studio 页面管理器，现在“重新构想”为独立的 AI 配套应用程序。根据 Meta 的公告，这款新应用程序旨在让创作者更轻松地...",
           "source": "The Verge",
           "url": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
           "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
           "time": "06/25",
-          "fetchedAt": "2026-06-25T09:41:43.980Z"
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "苹果提高了大部分硬件的价格",
+          "summary": "Mac、MacBook、iPad 和其他苹果产品变得更加昂贵。",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2201524/apple-hikes-prices-for-most-of-its-hardware/",
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
         },
         {
           "title": "第二天即可享受顶级科技 Prime Day 优惠",
@@ -532,13 +685,31 @@
       "description": "智能汽车、电动化、座舱、辅助驾驶和产业趋势。",
       "items": [
         {
+          "title": "福特不得不重新聘请前工程师来修复其自动化系统所犯的错误",
+          "summary": "为了庆祝其在 JD Power 的主流汽车制造商初始质量排名中排名第一的新地位，福特公开了近年来面临的挑战，特别是在生产和设计中对自动化系统的依赖。事实证明，这些自动化系统并不像之前假...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+          "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "这款太阳能电动自行车是个好主意还是复杂的电子垃圾？",
+          "summary": "我喜欢太阳能电动自行车的想法，但我认为任何人都不应该购买新款 Phosgo Go5——至少现在还不行。这款“世界上第一辆人工智能太阳能电动自行车”承诺“消除里程焦虑”，由中国的一个新品...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/news/956095/worlds-first-solar-ebike-do-not-buy",
+          "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
           "title": "Zoox 的专用机器人出租车即将焕然一新",
           "summary": "亚马逊旗下的自动驾驶汽车公司 Zoox 推出了四四方方的双向机器人出租车的新外观，称其为大规模生产车辆的“下一代进化”。该公司目前正在旧金山、拉斯维加斯、奥斯汀和迈阿密运营免费的机器人...",
           "source": "The Verge",
           "url": "https://www.theverge.com/transportation/955822/zoox-robotaxi-refresh-updates-seats-audio-color",
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "06/24",
-          "fetchedAt": "2026-06-25T09:41:43.980Z"
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
         },
         {
           "title": "我驾驶的是 Slate 卡车——它不仅仅是电动汽车极简主义",
@@ -547,7 +718,7 @@
           "url": "https://www.theverge.com/transportation/955454/slate-truck-ev-price-drive-specs-minimalism",
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "06/24",
-          "fetchedAt": "2026-06-25T09:41:43.980Z"
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
         },
         {
           "title": "Slate Auto 皮卡车起价 24,950 美元",
@@ -556,7 +727,16 @@
           "url": "https://www.theverge.com/transportation/955738/slate-auto-truck-ev-price-availability",
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "06/24",
-          "fetchedAt": "2026-06-25T09:41:43.980Z"
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "Polestar 无法再在美国销售汽车",
+          "summary": "一项新规则限制与中国或俄罗斯有联系的联网汽车的进口和销售。",
+          "source": "Motor1",
+          "url": "https://www.motor1.com/news/799797/polestar-dead-exits-us-market/",
+          "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
         },
         {
           "title": "特斯拉声称在德克萨斯州致命事故中驾驶员“手动超越了自动驾驶”",
@@ -628,6 +808,60 @@
       "label": "游戏",
       "description": "主机、PC、移动游戏、产业新闻与玩家文化。",
       "items": [
+        {
+          "title": "《绝对蝙蝠侠》、《小丑：笑暴动》和《氪星》动画系列宣布",
+          "summary": "DC 工作室和华纳兄弟动画周四在 2026 年安纳西国际动画电影节上宣布了三部新动画系列：《绝对蝙蝠侠》、《小丑：笑暴动》和一部未命名的《氪星》节目。",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/absolute-batman-joker-anime-krypto-animated-series-announced",
+          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "Insomniac 回复金刚狼粉丝确认实体版包装盒中包含一张光盘，我怀疑更多开发者将不得不在 GTA 6 后的世界中回答这个问题",
+          "summary": "Insomniac Games 在社交媒体上回应了一位粉丝的提问，该粉丝询问漫威金刚狼的实体版是否只是盒子里的一个代码——在 Rockstar 做出令人震惊的决定不在 GTA 6 发行...",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/insomniac-responds-to-wolverine-fan-to-confirm-physical-edition-includes-a-disc-in-the-box-and-i-suspect-more-devs-will-have-to-answer-this-question-in-a-post-gta-6-world",
+          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "《GTA 6》光盘的决定不会让一些玩家愤怒，但分析师表示“从商业角度来看，这是有意义的”",
+          "summary": "《侠盗猎车手 6》（Grand Theft Auto 6）可以说是这一代最大、最大众市场的游戏，它跳过了基于光盘的发布——物理媒体现在已经死了吗？",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/no-gta-6-disc-decision-will-make-some-gamers-angry-but-analysts-say-commercially-it-just-makes-sense",
+          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "您会购买 80 美元的 GTA 6 标准版还是 100 美元的终极版？",
+          "summary": "这是继 Rockstar 的 GTA 6 预购日揭晓后最大的问题之一：你会花 80 美元购买标准版还是 100 美元购买终极版？",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/will-you-buy-the-80-gta-6-standard-edition-or-100-ultimate-edition",
+          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "“我很生气，因为这是我的排名游戏”——格斗游戏玩家转型的相扑摔跤手在纽约挥舞着刀猛烈攻击《Apex Legends》粉丝",
+          "summary": "一名格斗游戏社区的英雄成员因在纽约市的一家游戏休息室逮捕了一名情绪激动的《Apex Legends》玩家，这名玩家拔出一把刀而受到赞扬。",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/im-mad-because-this-was-my-rank-up-game-fighting-game-player-turned-sumo-wrestler-bodyslams-knife-wielding-apex-legends-fan-in-new-york-city",
+          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "GameStop首席执行官提出收购马桶上的eBay的计划，希望它成为数字游戏产品的转售商",
+          "summary": "GameStop 首席执行官瑞安·科恩 (Ryan Cohen) 正试图以 560 亿美元收购流行的拍卖网站 eBay。他现在提出了一个新的视角，其中涉及电子游戏。在最近的一次采访中，...",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/gamestop-ceo-came-up-with-plan-to-buy-ebay-on-the-toilet-wants-it-to-become-re-seller-of-digital-gaming-items/",
+          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
         {
           "title": "《苍翼默示录：中心小说》发布十年后，新 DLC 角色即将登场",
           "summary": "Arc System Works 正在清除其 2015 年 2D 格斗游戏《苍翼默示录：中心小说》的尘埃，并在十年后添加了一个新的 DLC 角色。 Arc System Works 今...",
@@ -804,7 +1038,7 @@
           "url": "https://github.blog/changelog/2026-06-24-self-service-credential-revocation-for-incident-response",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "06/25",
-          "fetchedAt": "2026-06-25T09:41:43.980Z"
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
         },
         {
           "title": "免费和学生计划的型号选择发生变化",
@@ -813,7 +1047,7 @@
           "url": "https://github.blog/changelog/2026-06-24-changes-to-model-selection-for-free-and-student-plans",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "06/25",
-          "fetchedAt": "2026-06-25T09:41:43.980Z"
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
         },
         {
           "title": "秘密扫描为复制秘密添加了扩展元数据",
@@ -822,7 +1056,7 @@
           "url": "https://github.blog/changelog/2026-06-23-secret-scanning-adds-extended-metadata-for-replicate-secrets",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "06/24",
-          "fetchedAt": "2026-06-25T09:41:43.980Z"
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
         },
         {
           "title": "通过 REST API 获取代码质量调查结果",
@@ -831,7 +1065,7 @@
           "url": "https://github.blog/changelog/2026-06-23-fetch-code-quality-findings-via-rest-api",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "06/24",
-          "fetchedAt": "2026-06-25T09:41:43.980Z"
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
         },
         {
           "title": "自动 Dependabot 访问 GitHub 托管的注册表",
@@ -840,7 +1074,16 @@
           "url": "https://github.blog/changelog/2026-06-23-automatic-dependabot-access-to-github-hosted-registries",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "06/24",
-          "fetchedAt": "2026-06-25T09:41:43.980Z"
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "问 HN：爱沙尼亚 e-Residency 和运营爱沙尼亚 OÜ 有何让您感到惊讶的地方？",
+          "summary": "开发方向有一条新动态，适合继续跟进原文细节。",
+          "source": "Hacker News",
+          "url": "https://news.ycombinator.com/item?id=48673801",
+          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
         },
         {
           "title": "Aisle 在 Curl 中发现 6 个新 CVE，包括有史以来报告的最古老的问题",
@@ -904,13 +1147,22 @@
       "description": "影像、城市、效率工具、文化消费和日常灵感。",
       "items": [
         {
+          "title": "新玩意 245｜少数派的编辑们最近买了啥？",
+          "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@克莱德：G...",
+          "source": "少数派",
+          "url": "https://sspai.com/post/111518",
+          "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
           "title": "给记忆一个归处：我为什么开始使用 Apple 手记",
           "summary": "《手记》是Apple在iOS17.2中推出的原生日记应用，它可以帮助用户更轻松地记录生活、保存回忆、培养反思与感恩等习惯。今年以来，我频繁地使用手记这款应用。不过，我开始使用它的契机并...",
           "source": "少数派",
           "url": "https://sspai.com/post/111421",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "06/25",
-          "fetchedAt": "2026-06-25T09:41:43.980Z"
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
         },
         {
           "title": "把心情贴在手机背面：XTREM INNO 极稚墨水屏手机壳体验",
@@ -919,7 +1171,7 @@
           "url": "https://sspai.com/post/111483",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "06/25",
-          "fetchedAt": "2026-06-25T09:41:43.980Z"
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
         },
         {
           "title": "风暖鸟声碎，日高花影重：我的昆明与腾冲行记",
@@ -928,7 +1180,7 @@
           "url": "https://sspai.com/post/111349",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "06/25",
-          "fetchedAt": "2026-06-25T09:41:43.980Z"
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
         },
         {
           "title": "派早报：豆包推出专业版、GTA VI 开启预售等",
@@ -937,7 +1189,16 @@
           "url": "https://sspai.com/post/111476",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "06/25",
-          "fetchedAt": "2026-06-25T09:41:43.980Z"
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "Apple、Pixel 和三星智能手表及配件的 Prime Day 最佳优惠",
+          "summary": "苹果、Pixel 和三星手表在 Prime Day 的销量都很高。",
+          "source": "Lifehacker",
+          "url": "https://lifehacker.com/tech/best-smartwatch-deals-prime-day-june-25-2026?utm_medium=RSS",
+          "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
         },
         {
           "title": "TDS REVIEW | OPPO Enco Clip2 耳夹式开放真无线耳机体验",
@@ -946,15 +1207,6 @@
           "url": "https://sspai.com/post/111289",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "06/24",
-          "fetchedAt": "2026-06-25T09:41:43.980Z"
-        },
-        {
-          "title": "2026 年 Prime Day 直播博客：耳机、电视、健身技术等的超值优惠",
-          "summary": "从科技产品到厨房用品再到工具，交易来得迅速而激烈。",
-          "source": "Lifehacker",
-          "url": "https://lifehacker.com/tech/amazon-prime-day-live-blog-06-23-2026?utm_medium=RSS",
-          "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/25",
           "fetchedAt": "2026-06-25T09:41:43.980Z"
         },
         {
@@ -1018,6 +1270,51 @@
       "label": "动漫",
       "description": "动画、漫画、声优、二次元文化和新番动态。",
       "items": [
+        {
+          "title": "鸟海茜的《坏宝贝不哭》漫画完结",
+          "summary": "漫画于 2024 年 7 月推出",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-06-24/akane-torikai-bad-babies-dont-cry-manga-ends/.238914",
+          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "本周动画 - Simoun，20 岁生日快乐！",
+          "summary": "西尔维娅和克里斯在西蒙二十岁生日那天重访西蒙，以纪念女孩接吻的力量。",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/this-week-in-anime/2026-06-25/.238876",
+          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "婚姻毒素 – 第 12 集",
+          "summary": "虽然这一集确实超越了这一情节，为这条弧线带来了一个充满动作的高潮，但它并不是最强大的。",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/review/marriagetoxin/episode-12/.238913",
+          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "《超级马里奥银河》电影跌至第 5 位，《魔女宅急便》电影 4K 重制版在日本首映，排名第 6",
+          "summary": "第 29 部名侦探柯南电影跌至第 7 位，真人版《小松先生》跌至第 9 位",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-06-25/the-super-mario-galaxy-movie-drops-to-no.5-kiki-delivery-service-film-4k-remaster-debuts-at-no.6-in-/.238833",
+          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "总是有收获！ – 第 12 集",
+          "summary": "这是一个很好的例子，说明该系列充分利用了现有的东西并发挥了良好的效果。",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/review/always-a-catch/episode-12/.238887",
+          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
         {
           "title": "真人网络漫画《金特工重新激活》系列发布预告片，Netflix 将于 6 月 26 日全球上映",
           "summary": "Netflix 直播与该剧在韩国首播同时进行",
@@ -1203,6 +1500,60 @@
       "label": "摄影",
       "description": "摄影技巧、人物、人像、风景、器材和后期灵感。",
       "items": [
+        {
+          "title": "AI 数据中心又一个受害者：苹果提高 Mac、iPad 等产品的价格",
+          "summary": "人工智能驱动的闪存短缺又造成了另一个受害者：苹果 MacBook Neo 极其激进的价格。不仅仅是 Neo，苹果还提高了所有 Mac、iPad 型号，甚至已经很昂贵的 Vision P...",
+          "source": "PetaPixel",
+          "url": "https://petapixel.com/2026/06/25/ai-data-centers-claim-another-victim-apple-hikes-prices-across-mac-ipad-and-more/",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "Samyang 和 Schneider-Kreuznach 完成他们的 Compact f/2.8 Holy Trinity",
+          "summary": "继二月底在 CP+ 上展示并在几周前被调侃后，LK Samyang 和 Schneider-Kreuznach 终于揭开了他们最新合作的面纱：全画幅 AF 60-180mm f/2.8...",
+          "source": "PetaPixel",
+          "url": "https://petapixel.com/2026/06/25/samyang-and-schneider-kreuznach-complete-their-compact-f-2-8-holy-trinity/",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "徕卡 SL3-P 评测：有史以来最好的 SL 相机够好吗？",
+          "summary": "高端无反光镜相机与摄影师所联想到的徕卡几乎相反。但新的 44 兆像素 SL3-P 能否改变人们的看法呢？徕卡当然希望如此。 [ 阅读更多 ]",
+          "source": "PetaPixel",
+          "url": "https://petapixel.com/2026/06/25/leica-sl3-p-review-is-the-best-ever-sl-camera-good-enough/",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "44 兆像素徕卡 SL3-P 是该公司有史以来功能最强大的相机",
+          "summary": "徕卡宣布推出 SL3-P，这是一款 44 兆像素 L 接口相机，每秒可拍摄 40 帧。该公司称其为“有史以来性能最好的相机”。 [ 阅读更多 ]",
+          "source": "PetaPixel",
+          "url": "https://petapixel.com/2026/06/25/the-44-megapixel-leica-sl3-p-is-the-companys-most-capable-camera-ever/",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "Leica 100mm f/2.8 是 1987 年 R 接口镜头的现代复兴",
+          "summary": "徕卡宣布推出 APO-Macro-Elmarit-SL 100mm f/2.8 镜头，这是最初于 1987 年发布的备受推崇的 100mm f/2.8 R 卡口镜头的现代复兴版。 [ ...",
+          "source": "PetaPixel",
+          "url": "https://petapixel.com/2026/06/25/the-leica-100mm-f-2-8-is-a-modern-revival-of-an-r-mount-lens-from-1987/",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
+        {
+          "title": "哪里可以买到摄影器材？这是最好的选择",
+          "summary": "购买相机装备应该是有趣的部分。然而，商店数量之多，以及有关灰色市场镜头和不法市场的恐怖故事……在哪里购买摄影器材？这是最佳选择，首先出现在 DIY 摄影上。",
+          "source": "DIY Photography",
+          "url": "https://www.diyphotography.net/where-to-buy-photography-equipment/",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/25",
+          "fetchedAt": "2026-06-25T14:53:32.037Z"
+        },
         {
           "title": "不到四分之一的美国人使用人工智能创建或编辑图像",
           "summary": "皮尤研究中心的一项新研究显示，只有 24% 的美国人使用人工智能来创建和编辑图像或视频。 [ 阅读更多 ]",
