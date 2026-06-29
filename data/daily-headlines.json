@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-06-29",
-  "generatedAt": "2026-06-29T04:57:32.365Z",
+  "generatedAt": "2026-06-29T11:22:42.451Z",
   "retentionDays": 10,
   "categories": [
     {
@@ -15,7 +15,7 @@
           "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "time": "06/26",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "热浪扰乱你的大脑。科学家们正在试图找出原因。",
@@ -24,7 +24,7 @@
           "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "time": "06/26",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "人工智能时代重新定位零售业",
@@ -33,7 +33,7 @@
           "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "time": "06/25",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "下载：欧洲热浪袭击电网，IBM 芯片瞄准摩尔定律",
@@ -42,7 +42,7 @@
           "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "time": "06/25",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "欧洲热浪对电网意味着什么",
@@ -51,7 +51,16 @@
           "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "time": "06/25",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
+        {
+          "title": "Claude Code 在未经验证的情况下运行 GitHub 存储库的隐藏恶意软件，使攻击者能够完全控制",
+          "summary": "Mozilla 0DIN 平台的安全研究人员展示了，当 Claude Code 等 AI 编码工具运行其设置时，单个受感染的 GitHub 存储库如何可以接管开发人员的计算机。问题是：...",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/claude-code-runs-a-github-repos-hidden-malware-without-verification-giving-attackers-full-control/",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/29",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "人工智能在停止回答并开始完成任务之前不会成为真正的同事",
@@ -241,13 +250,22 @@
       "description": "国际局势、社会议题与全球公共事件。",
       "items": [
         {
+          "title": "中國合肥民眾抗議垃圾站，官員當場煞停工程",
+          "summary": "網絡流傳中國安徽合肥爆發民眾大規模抗議，反對興建大型垃圾中轉站。BBC中文翻查資料，中國近年已發生多宗類似因「鄰避效應」而生、環繞「厭惡設施」選址鄰近民居的抗議事件。",
+          "source": "BBC 中文",
+          "url": "https://www.bbc.com/zhongwen/articles/crm0lenk8n8o/trad?at_medium=RSS&at_campaign=rss",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/29",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
+        {
           "title": "「中國尊」撞機事件背後的三大疑點：禁區、動機、飛行員",
           "summary": "為什麼一架飛機能夠不顧管制，暢行無阻，進入北京的中心？飛行員究竟是誰？這次事件到底是一場挾私報復，還是純粹的意外？BBC中文梳理「中國尊空難」的未解之謎。",
           "source": "BBC 中文",
           "url": "https://www.bbc.com/zhongwen/articles/cn4d1ev0vlpo/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "06/28",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "歐洲熱浪：世衛稱逾1300人死亡 德國錄得攝氏41.7度高溫",
@@ -256,7 +274,34 @@
           "url": "https://www.bbc.com/zhongwen/articles/c78yvn5zj8eo/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "06/29",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
+        {
+          "title": "這些西方人為嚮往俄羅斯價值而移民 如今卻落得一個失落",
+          "summary": "部分西方人拋下西方「覺醒」文化透過俄羅斯「共享價值簽證」移居俄國。他們希望在當地尋求傳統家庭與基督教價值，有人因愛情、信仰或安全感前往但現實常不如預期。",
+          "source": "BBC 中文",
+          "url": "https://www.bbc.com/zhongwen/articles/clyemvy4x17o/trad?at_medium=RSS&at_campaign=rss",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/29",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
+        {
+          "title": "韓國總統要求徹查世界盃「荒唐」敗仗 警察防主教練回國遇刺",
+          "summary": "韓國未能躋身成績最佳八支分組第三名隊伍之列，因而被淘汰出局。",
+          "source": "BBC 中文",
+          "url": "https://www.bbc.com/zhongwen/articles/c0myk4dj84xo/trad?at_medium=RSS&at_campaign=rss",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/29",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
+        {
+          "title": "谁将从美国哈萨克斯坦矿业交易中获利？特朗普的儿子们",
+          "summary": "哈萨克斯坦同意将全球最大未开发钨矿藏之一的开采权授予一家美国公司。时报调查发现，特朗普家族和商务部长卢特尼克家族与多家参与哈萨克斯坦项目的公司存在财务联系。 Sergey Ponoma...",
+          "source": "纽约时报中文网",
+          "url": "https://cn.nytimes.com/usa/20260629/trump-lutnick-sons-kazakhstan/?utm_source=RSS",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/29",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "蘋果加價之際 科技與電玩企業紛紛怪罪AI",
@@ -545,13 +590,40 @@
       "description": "市场、公司、消费、宏观经济与投资观察。",
       "items": [
         {
+          "title": "不想成为北伏，西方电池企业用起了亚洲的闲置生产线",
+          "summary": "北伏倒闭促使西方电池初创公司转向轻资产模式，但分析师警告称，采用这种外包方式可能会加强中国对关键供应链的控制。",
+          "source": "FT 中文网",
+          "url": "https://www.ftchinese.com/story/001110175",
+          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/29",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
+        {
+          "title": "科技牛市下的最大考验",
+          "summary": "徐瑾：中美牛市之下，资金集中涌向科技相关行业，分化趋势会导致什么结果？投资者在其中面临的最大考验是什么？卖出是比买入更孤独的决策。",
+          "source": "FT 中文网",
+          "url": "https://www.ftchinese.com/story/001110096",
+          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/29",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
+        {
+          "title": "一周世界舆论聚焦：台海议题再起与IAEA再度活跃",
+          "summary": "曹辛：美国政府再次挑起台湾议题，将使中美关系变得更复杂。IAEA在特朗普支持下再次在全球核热点问题中发挥作用，其效果可以期待。",
+          "source": "FT 中文网",
+          "url": "https://www.ftchinese.com/story/001110174",
+          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/29",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
+        {
           "title": "夏季达沃斯观察：为何中东将成为全球规模化创新的重要场域？",
           "summary": "文晶：中东正跳出全球地缘冲突和能源供给中心的单一标签，悄然成为全球规模化创新浪潮里举足轻重的落地试验场。",
           "source": "FT 中文网",
           "url": "https://www.ftchinese.com/story/001110172",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "06/29",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "策展如何重塑城市：文化、资源与决策的重构",
@@ -560,7 +632,16 @@
           "url": "https://www.ftchinese.com/story/001110171",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "06/29",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
+        {
+          "title": "康卡斯特宣布将把媒体和科技部门分拆为独立的上市公司后股价飙升 23%",
+          "summary": "康卡斯特表示，将通过免税分拆 NBCUniversal 和 Sky 分成两家上市公司",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/06/29/comcast-announces-it-will-spin-off-media-and-tech-wings-into-separate-public-companies.html",
+          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/29",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "伯纳姆接替斯塔默的过程为何如此“悠闲”",
@@ -954,7 +1035,7 @@
           "url": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
           "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
           "time": "06/29",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "中国声称拥有世界上最快的超级计算机",
@@ -963,7 +1044,7 @@
           "url": "https://www.theverge.com/tech/958768/china-claims-the-worlds-fastest-supercomputer",
           "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
           "time": "06/29",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "Nest 致力于修复你的恒温器",
@@ -972,7 +1053,7 @@
           "url": "https://www.theverge.com/podcast/958735/nest-thermostat-version-history",
           "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
           "time": "06/28",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "TMD 的无钥匙自行车锁只需 280 美元就能解决 60 美元的问题",
@@ -981,7 +1062,7 @@
           "url": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
           "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
           "time": "06/28",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "Teenage Engineering 为其 KO II 采样器添加了低保真模式、USB 音频等功能",
@@ -990,7 +1071,16 @@
           "url": "https://www.theverge.com/entertainment/958723/teenage-engineering-os-25-ep-133-ko-ii-sampler",
           "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
           "time": "06/28",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
+        {
+          "title": "据报道，谷歌限制了 Meta 使用 Gemini AI 进行编码和聊天机器人的使用",
+          "summary": "由于容量不足，谷歌被迫限制 Meta 对 Gemini AI 的使用。",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2203579/google-reportedly-capped-meta-use-of-gemini-ai-for-coding-chatbots/",
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/29",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "延长电动汽车续航里程的 5 种简单方法",
@@ -1492,7 +1582,7 @@
           "url": "https://www.theverge.com/tech/957603/tmd-smart-keyless-bike-lock-review",
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "06/28",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "Polestar已被逐出美国市场",
@@ -1501,7 +1591,7 @@
           "url": "https://www.theverge.com/transportation/957033/polestar-banned-us-sales-china-software",
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "06/26",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "Slate 的电动卡车：有关超小型电动汽车的所有新闻",
@@ -1510,7 +1600,7 @@
           "url": "https://www.theverge.com/transportation/956963/slate-truck-news-updates-price-specs-order",
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "06/25",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "福特不得不重新聘请前工程师来修复其自动化系统所犯的错误",
@@ -1519,7 +1609,7 @@
           "url": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "06/25",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "这款太阳能电动自行车是个好主意还是复杂的电子垃圾？",
@@ -1528,7 +1618,16 @@
           "url": "https://www.theverge.com/news/956095/worlds-first-solar-ebike-do-not-buy",
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "06/25",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
+        {
+          "title": "马自达表示新款 Miata 将是最后一款配备燃气发动机的汽车",
+          "summary": "第五代 MX-5 距离发布还有几年时间。",
+          "source": "Motor1",
+          "url": "https://www.motor1.com/news/800048/next-mazda-miata-last-gas-engine/",
+          "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/29",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "最热门的兰博基尼 Urus 下个月首次亮相",
@@ -1727,13 +1826,40 @@
       "description": "主机、PC、移动游戏、产业新闻与玩家文化。",
       "items": [
         {
+          "title": "小岛秀夫等人向去世享年 91 岁的《幽灵公主》中狼女神毛罗背后的日本标志性歌手兼演员三轮昭宏致敬",
+          "summary": "包括《每日新闻》在内的日本新闻媒体周末宣布，日本标志性歌手兼演员三轮明宏 (Akihiro Miwa) 于 6 月 20 日去世，享年 91 岁。",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/hideo-kojima-and-more-pay-tribute-to-akihiro-miwa-the-iconic-japanese-singer-and-actor-behind-wolf-goddess-moro-in-princess-mononoke-who-has-died-aged-91",
+          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/29",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
+        {
+          "title": "《Marvel Tōkon: Fighting Souls》公布了最后 3 个可玩角色 - 以及一眨眼就会错过的 PlayStation 图标",
+          "summary": "《Marvel Tōkon: Fighting Souls》公布了最后三名可玩角色，其中包括许多粉丝最喜欢的角色以及 PlayStation 图标。",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/marvel-tokon-fighting-souls-reveals-last-3-playable-characters-and-a-blink-and-youll-miss-it-look-at-a-playstation-icon",
+          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/29",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
+        {
+          "title": "《死或生 6》最后一轮遭遇负面评价，光荣特库摩要求玩家重新购买 DLC",
+          "summary": "《死或生 6 最后一战》在 Steam 上的评价已降至“大多负面”，因为玩家警告称该游戏存在持续性错误、缺乏功能以及需要重新购买一些之前拥有的 DLC。",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/dead-or-alive-6-last-round-pummeled-by-negative-reviews-as-koei-tecmo-asks-players-to-rebuy-dlc",
+          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/29",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
+        {
           "title": "《蜘蛛侠：全新日间》明星汤姆·赫兰德表示他正在努力将迈尔斯·莫拉莱斯带入漫威宇宙",
           "summary": "汤姆·赫兰德很快就会回归漫威电影宇宙《蜘蛛侠：全新的一天》，但他已经在“努力”迈尔斯·莫拉莱斯和他的彼得·帕克可以并肩摇摆的未来。",
           "source": "IGN",
           "url": "https://www.ign.com/articles/spider-man-brand-new-day-star-tom-holland-says-hes-working-to-bring-miles-morales-into-the-mcu",
           "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
           "time": "06/29",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "克里斯托弗·诺兰表示，“谨慎行事”的主流电影如果想成功就应该冒更多风险",
@@ -1742,7 +1868,16 @@
           "url": "https://www.ign.com/articles/christopher-nolan-says-mainstream-movies-that-play-it-safe-should-take-more-risks-if-they-want-to-succeed",
           "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
           "time": "06/29",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
+        {
+          "title": "Steam 机器预购即将开始，所以它们当然已经在 eBay 上上架了",
+          "summary": "Steam Machine 还没有推出，尽管 Valve 已经开始发送令人困惑的电子邮件，说明人们是否在该设备的“队列”或“候补名单”中。但这并没有阻止网民们做出不可避免的事情：在 e...",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/steam-machine-preorders-are-about-to-begin-so-of-course-theyre-already-on-ebay/",
+          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/27",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "《女超人》首映票房 6800 万美元却未能成功",
@@ -1769,15 +1904,6 @@
           "url": "https://www.ign.com/articles/gta-6-scalpers-are-finding-buyers-on-ebay-despite-rockstars-commitment-to-a-digital-release",
           "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
           "time": "06/28",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
-        },
-        {
-          "title": "Steam 机器预购即将开始，所以它们当然已经在 eBay 上上架了",
-          "summary": "Steam Machine 还没有推出，尽管 Valve 已经开始发送令人困惑的电子邮件，说明人们是否在该设备的“队列”或“候补名单”中。但这并没有阻止网民们做出不可避免的事情：在 e...",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/steam-machine-preorders-are-about-to-begin-so-of-course-theyre-already-on-ebay/",
-          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/27",
           "fetchedAt": "2026-06-29T04:57:32.365Z"
         },
         {
@@ -2271,7 +2397,7 @@
           "url": "https://github.blog/changelog/2026-06-26-track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "06/27",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "适用于 Copilot Business 和 Copilot Enterprise 的 MAI-Code-1-Flash",
@@ -2280,7 +2406,7 @@
           "url": "https://github.blog/changelog/2026-06-26-mai-code-1-flash-for-copilot-business-and-copilot-enterprise",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "06/27",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "GitHub Desktop 3.6：工作树和更深入的 Copilot 集成",
@@ -2289,7 +2415,7 @@
           "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "06/26",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "Copilot 代码审查：分析深度和效率更新",
@@ -2298,7 +2424,7 @@
           "url": "https://github.blog/changelog/2026-06-25-copilot-code-review-analysis-depth-and-efficiency-updates",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "06/26",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "企业管理的设置现在支持 VS Code 和 GitHub Copilot CLI 中的 strictKnownMarketplaces",
@@ -2307,7 +2433,16 @@
           "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "06/26",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
+        {
+          "title": "Pollen（CEO Negus-Fancey、CTO Wright）试图删除文章，Google 帮忙",
+          "summary": "开发方向有一条新动态，适合继续跟进原文细节。",
+          "source": "Hacker News",
+          "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/29",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "年龄验证只是语音自动归因的前奏",
@@ -2596,13 +2731,31 @@
       "description": "影像、城市、效率工具、文化消费和日常灵感。",
       "items": [
         {
+          "title": "派评 | 近期值得关注的 App",
+          "summary": ">下载少数派2.0客户端、关注少数派公众号，解锁全新阅读体验📰>实用、好用的正版软件，少数派为你呈现🚀 查看全文",
+          "source": "少数派",
+          "url": "https://sspai.com/post/111697",
+          "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/29",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
+        {
+          "title": "在格鲁吉亚的大地上：徒步篇",
+          "summary": "Matrix首页推荐Matrix是少数派的写作社区，我们主张分享真实的产品体验，有实用价值的经验与思考。我们会不定期挑选Matrix最优质的文章，展示来自用户的最真实的体验和观点。文章...",
+          "source": "少数派",
+          "url": "https://sspai.com/post/111369",
+          "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/29",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
+        {
           "title": "让音乐「更好听」的代价：可视化谈频响、动态与不可逆损失",
           "summary": "越是优化的声音系统，越容易在某些类型的音乐上暴露疲劳感；而越是追求响度，也越容易在归一化之后原形毕露。 查看全文",
           "source": "少数派",
           "url": "https://sspai.com/post/111462",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "06/29",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "派早报：微软改口称 8GB 足够运行 Windows 11",
@@ -2611,7 +2764,7 @@
           "url": "https://sspai.com/post/111639",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "06/29",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "兜兜转转四款笔记软件，我终于为思考找到了安身之所",
@@ -2620,7 +2773,16 @@
           "url": "https://sspai.com/post/110935",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "06/28",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
+        {
+          "title": "2026 年 Prime Day 直播博客：耳机、电视、健身技术等的超值优惠",
+          "summary": "从科技产品到厨房用品再到工具，交易来得迅速而激烈。",
+          "source": "Lifehacker",
+          "url": "https://lifehacker.com/tech/amazon-prime-day-live-blog-06-26-2026?utm_medium=RSS",
+          "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/27",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "俄西双城游记：莫斯科时代折叠，圣彼得堡文化巡礼",
@@ -2638,15 +2800,6 @@
           "url": "https://sspai.com/post/111562",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "06/26",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
-        },
-        {
-          "title": "2026 年 Prime Day 直播博客：耳机、电视、健身技术等的超值优惠",
-          "summary": "从科技产品到厨房用品再到工具，交易来得迅速而激烈。",
-          "source": "Lifehacker",
-          "url": "https://lifehacker.com/tech/amazon-prime-day-live-blog-06-26-2026?utm_medium=RSS",
-          "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/27",
           "fetchedAt": "2026-06-29T04:57:32.365Z"
         },
         {
@@ -2845,6 +2998,51 @@
       "label": "动漫",
       "description": "动画、漫画、声优、二次元文化和新番动态。",
       "items": [
+        {
+          "title": "TV 动画《公主骑士的被人》预告视频揭示了更多工作人员，将于 2027 年 1 月首次亮相",
+          "summary": "动画预告视觉、角色视觉也公开",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-06-29/the-kept-man-of-the-princess-knight-tv-anime-teaser-video-reveals-more-staff-members-january-2027-/.239089",
+          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/29",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
+        {
+          "title": "声优铃村健一中断回归",
+          "summary": "配音演员因适应障碍于2月中断",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-06-29/voice-actor-kenichi-suzumura-returns-from-hiatus/.239091",
+          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/29",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
+        {
+          "title": "《英雄杀手》动画电视剧导演确定，Passion Paris 加盟制作",
+          "summary": "预告视觉图也曝光",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-06-29/hero-killer-animated-tv-series-reveals-director-passion-paris-joins-production/.239051",
+          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/29",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
+        {
+          "title": "红河动画公布片尾主题曲艺术家 Miisha Shimizu",
+          "summary": "片尾主题曲名为《重逢》",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-06-29/red-river-anime-reveals-ending-theme-song-artist-miisha-shimizu/.239090",
+          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/29",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
+        {
+          "title": "《铁拳 8》游戏在游戏预告片中透露了 Bob 将于 8 月 19 日发布的抢先体验版",
+          "summary": "该角色将于 8 月 24 日正式发布",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-06-29/tekken-8-game-reveals-bob-august-19-early-access-release-in-gameplay-trailer/.239083",
+          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
+          "time": "06/29",
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
+        },
         {
           "title": "鬼魂与猫耳漫画时隔12年完结",
           "summary": "第12、13卷将于年底同时发行",
@@ -3640,7 +3838,7 @@
           "url": "https://petapixel.com/2026/06/28/this-new-20-35mm-film-camera-embraces-a-classic-east-german-brand/",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "06/29",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "是时候推出全景富士X100了：它将大受欢迎",
@@ -3649,7 +3847,7 @@
           "url": "https://petapixel.com/2026/06/28/its-time-for-a-panoramic-fujifilm-x100-it-would-be-a-huge-hit/",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "06/28",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "摄影师与隔离生活的智利牧场主一起度过了六年",
@@ -3658,7 +3856,7 @@
           "url": "https://petapixel.com/2026/06/28/photographer-spends-six-years-with-chilean-ranchers-who-live-in-isolation/",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "06/28",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "这位摄影师厌倦了压缩，他在没有压缩的情况下建立了一个照片共享网站",
@@ -3667,7 +3865,7 @@
           "url": "https://petapixel.com/2026/06/27/this-photographer-got-so-tired-of-compression-he-built-a-photo-sharing-website-without-it/",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "06/28",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "Viltrox EVO 75mm f/1.8 和 90mm f/2.2 评测：基本上是双胞胎",
@@ -3676,7 +3874,7 @@
           "url": "https://petapixel.com/2026/06/27/viltrox-evo-75mm-f-1-8-and-90mm-f-2-2-review-basically-twins/",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "06/27",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "哈勃太空望远镜拍摄到宇宙枝形吊灯",
@@ -3685,7 +3883,7 @@
           "url": "https://www.diyphotography.net/hubble-space-telescope-photographs-a-cosmic-chandelier/",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "06/29",
-          "fetchedAt": "2026-06-29T04:57:32.365Z"
+          "fetchedAt": "2026-06-29T11:22:42.451Z"
         },
         {
           "title": "Adobe 正在收购 Topaz Labs 以增强 AI 照片和视频编辑能力",
