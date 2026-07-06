@@ -24,9 +24,9 @@ export const resumeHighlights = [
     body: "长期负责银行移动端、Native + H5 混合应用、React Native/iPad 场景和企业级 App 持续迭代。",
   },
   {
-    value: "8,816 次",
+    value: "核心主力",
     label: "我的云 iOS + H5 长期主力",
-    body: "两个核心仓库合计 8,816 次提交中个人贡献 4,184 次，占比约 47.5%；iOS 容器个人贡献约 85%，长期承担主力开发与版本交付。",
+    body: "长期承担 iOS 原生容器与 H5 外勤平台核心开发、问题定位、跨端联调和版本交付，是项目稳定迭代的重要主力。",
   },
   {
     value: "45+ 页面",
@@ -76,11 +76,11 @@ export const timeline = [
 export const practices = [
   {
     title: "我的云 iOS 原生容器",
-    body: "银行管理云/我的云 iOS 客户端，近 6 年 2,340 次提交中个人贡献 1,990 次，占比约 85%。负责 Native 容器、WebView、JSBridge、登录授权、地图定位、扫码/相机、OCR、活体检测、NFC、语音识别等原生能力封装，支撑 H5 业务在 iOS 端稳定运行。",
+    body: "银行管理云/我的云 iOS 客户端。负责 Native 容器、WebView、JSBridge、登录授权、地图定位、扫码/相机、OCR、活体检测、NFC、语音识别等原生能力封装，支撑 H5 业务在 iOS 端稳定运行。",
   },
   {
     title: "我的云 H5 外勤移动办公平台",
-    body: "银行外勤移动 H5 应用，5 年 6,476 次提交中个人贡献 2,194 次，占比约 33.9%。参与 React + TypeScript + MobX 技术栈、dsbridge 原生桥接、多角色首页、数据看板、作战地图、场景打卡、搜索收藏、权限体系和灰度发布等长期建设。",
+    body: "银行外勤移动 H5 应用。参与 React + TypeScript + MobX 技术栈、dsbridge 原生桥接、多角色首页、数据看板、作战地图、场景打卡、搜索收藏、权限体系和灰度发布等长期建设。",
   },
   {
     title: "AI 问答 / AI 对练 / 技能仓库",

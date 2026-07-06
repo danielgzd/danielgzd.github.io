@@ -47,7 +47,7 @@ export default function Home() {
           </div>
           <div>
             <span>Impact</span>
-            <strong>我的云核心仓库个人贡献 4,184 次提交，占比约 47.5%</strong>
+            <strong>我的云 iOS 容器与 H5 平台长期主力开发</strong>
           </div>
         </aside>
       </section>
