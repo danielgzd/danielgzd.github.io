@@ -5,7 +5,7 @@ const portals = [
   {
     href: "/resume",
     title: "履历",
-    body: "10 年移动端开发，聚焦金融科技、iOS 原生容器、混合架构、React/TS 移动 H5 和 AI 落地。",
+    body: "聚焦金融科技、iOS 原生容器、混合架构、React/TS 移动 H5 和 AI 落地。",
   },
   {
     href: "/projects",
@@ -29,7 +29,7 @@ export default function Home() {
           <p className="eyebrow">iOS / Cross-platform / Product-minded Engineer</p>
           <h1>Daniel</h1>
           <p className="hero-text">
-            2015 年入行，10 年移动端开发经验。长期主力参与招商银行“我的云”iOS 原生容器与 H5 外勤平台建设，覆盖 Native + H5、React/TypeScript、地图定位、OCR/活体检测、数据看板和 AI 问答/对练能力。
+            长期深耕金融移动端与企业级移动应用，主力参与银行“我的云”iOS 原生容器与 H5 外勤平台建设，覆盖 Native + H5、React/TypeScript、地图定位、OCR/活体检测、数据看板和 AI 问答/对练能力。
           </p>
           <div className="hero-actions">
             <a href="https://github.com/danielgzd">GitHub</a>
@@ -47,7 +47,7 @@ export default function Home() {
           </div>
           <div>
             <span>Impact</span>
-            <strong>我的云 iOS 1,990 次提交，H5 2,194 次提交</strong>
+            <strong>我的云核心仓库个人贡献 4,184 次提交，占比约 47.5%</strong>
           </div>
         </aside>
       </section>

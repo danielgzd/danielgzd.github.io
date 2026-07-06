@@ -9,7 +9,7 @@ export default function ResumePage() {
         <p className="eyebrow">Resume</p>
         <h1>履历</h1>
         <p>
-          10 年移动端开发，主线是金融科技、iOS 原生容器、Native + H5 混合架构、React/TypeScript 移动 H5，以及正在落地的 AI Coding 与业务 AI 能力。
+          主线是金融科技、iOS 原生容器、Native + H5 混合架构、React/TypeScript 移动 H5，以及正在落地的 AI Coding 与业务 AI 能力。
         </p>
         <div className="hero-actions resume-actions">
           <a href="/Daniel-iOS-Resume-2026.md">Markdown 简历</a>
