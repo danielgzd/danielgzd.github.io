@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import radar from "@/data/daily-headlines.json";
-import { practices, skills, timeline, type RadarCategory } from "./content";
+import { practices, resumeHighlights, skills, timeline, type RadarCategory } from "./content";
 
 const categories = radar.categories as RadarCategory[];
 
@@ -25,6 +25,20 @@ export function SkillList() {
     <div className="skill-list">
       {skills.map((skill) => (
         <span key={skill}>{skill}</span>
+      ))}
+    </div>
+  );
+}
+
+export function HighlightGrid() {
+  return (
+    <div className="highlight-grid">
+      {resumeHighlights.map((item) => (
+        <article className="soft-panel highlight-card" key={item.label}>
+          <strong>{item.value}</strong>
+          <h3>{item.label}</h3>
+          <p>{item.body}</p>
+        </article>
       ))}
     </div>
   );

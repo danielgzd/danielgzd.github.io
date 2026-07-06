@@ -195,6 +195,10 @@ a {
   border-color: rgba(192, 86, 138, 0.36);
 }
 
+.resume-actions {
+  margin-top: 22px;
+}
+
 .profile-card,
 .soft-panel,
 .news-card {
@@ -290,6 +294,39 @@ a {
   font-size: 0.9rem;
   font-weight: 720;
   background: rgba(255, 234, 243, 0.66);
+}
+
+.highlight-grid {
+  display: grid;
+  gap: 14px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.highlight-card {
+  padding: 20px;
+}
+
+.highlight-card strong {
+  display: block;
+  color: #c0568a;
+  font-size: clamp(1.35rem, 3vw, 2rem);
+  font-weight: 850;
+  line-height: 1.1;
+}
+
+.highlight-card h3 {
+  margin: 12px 0 0;
+  color: #172033;
+  font-size: 1rem;
+  font-weight: 820;
+  line-height: 1.45;
+}
+
+.highlight-card p {
+  margin: 8px 0 0;
+  color: #52627a;
+  font-size: 0.94rem;
+  line-height: 1.72;
 }
 
 .timeline {
@@ -456,15 +493,19 @@ a {
 }
 
 @media (max-width: 900px) {
-  .hero,
-  .about-grid,
-  .practice-grid,
-  .news-grid,
-  .portal-grid {
+  .about-grid {
     grid-template-columns: 1fr;
   }
 
+  .highlight-grid,
+  .practice-grid,
+  .news-grid,
+  .portal-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .hero {
+    grid-template-columns: 1fr;
     min-height: auto;
     padding-top: 56px;
   }
@@ -482,6 +523,13 @@ a {
 
   .hero h1 {
     font-size: 4rem;
+  }
+
+  .highlight-grid,
+  .practice-grid,
+  .news-grid,
+  .portal-grid {
+    grid-template-columns: 1fr;
   }
 
   .timeline article {

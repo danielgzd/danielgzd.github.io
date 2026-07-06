@@ -1,4 +1,4 @@
-import { SkillList, Timeline, TopNav } from "../components";
+import { HighlightGrid, PracticeGrid, SkillList, Timeline, TopNav } from "../components";
 
 export default function ResumePage() {
   return (
@@ -9,8 +9,20 @@ export default function ResumePage() {
         <p className="eyebrow">Resume</p>
         <h1>履历</h1>
         <p>
-          从 iOS 到跨端，从业务交付到体验优化。主线是企业级金融移动应用、长期项目迭代、稳定交付，以及最近半年持续深化的 AI Coding 实践。
+          10 年移动端开发，主线是金融科技、iOS 原生容器、Native + H5 混合架构、React/TypeScript 移动 H5，以及正在落地的 AI Coding 与业务 AI 能力。
         </p>
+        <div className="hero-actions resume-actions">
+          <a href="/Daniel-iOS-Resume-2026.md">Markdown 简历</a>
+          <a href="mailto:daniel.gzd@outlook.com">联系我</a>
+        </div>
+      </section>
+
+      <section className="section">
+        <div className="section-title">
+          <p>Highlights</p>
+          <h2>先看重点。</h2>
+        </div>
+        <HighlightGrid />
       </section>
 
       <section className="section">
@@ -19,6 +31,14 @@ export default function ResumePage() {
           <h2>工作经历。</h2>
         </div>
         <Timeline />
+      </section>
+
+      <section className="section">
+        <div className="section-title">
+          <p>Projects</p>
+          <h2>代表项目。</h2>
+        </div>
+        <PracticeGrid />
       </section>
 
       <section className="section">

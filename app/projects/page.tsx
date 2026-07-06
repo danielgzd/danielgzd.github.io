@@ -9,7 +9,7 @@ export default function ProjectsPage() {
         <p className="eyebrow">Projects</p>
         <h1>项目</h1>
         <p>
-          更具体的项目经历。重点是“我的云”长期迭代，也包括 MSP、掌握、前端管理平台与早期硬件/地图类应用。
+          重点展示“我的云”iOS 原生容器与 H5 外勤平台的长期贡献，也包括 AI 问答/对练、作战地图、实时获客、MSP Pad、掌握和早期硬件/地图类应用。
         </p>
       </section>
 

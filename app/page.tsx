@@ -5,12 +5,12 @@ const portals = [
   {
     href: "/resume",
     title: "履历",
-    body: "10 年移动端开发经验，从 iOS、React Native、金融业务长期迭代到 AI Coding 实践。",
+    body: "10 年移动端开发，聚焦金融科技、iOS 原生容器、混合架构、React/TS 移动 H5 和 AI 落地。",
   },
   {
     href: "/projects",
     title: "项目",
-    body: "我的云、MSP、掌握、前端管理平台，以及早期硬件与地图类应用。",
+    body: "我的云 iOS/H5、AI 问答与对练、作战地图、实时获客、MSP Pad 和掌握。",
   },
   {
     href: "/radar",
@@ -29,7 +29,7 @@ export default function Home() {
           <p className="eyebrow">iOS / Cross-platform / Product-minded Engineer</p>
           <h1>Daniel</h1>
           <p className="hero-text">
-            2015 年入行，10 年开发经验，长期参与企业级金融、获客工具、硬件识别、地图定位和前端管理平台建设。已获取人工智能培训师相关证书，最近半年全面拥抱 AI Coding，把智能体流程用于开发、验证和效率提升。
+            2015 年入行，10 年移动端开发经验。长期主力参与招商银行“我的云”iOS 原生容器与 H5 外勤平台建设，覆盖 Native + H5、React/TypeScript、地图定位、OCR/活体检测、数据看板和 AI 问答/对练能力。
           </p>
           <div className="hero-actions">
             <a href="https://github.com/danielgzd">GitHub</a>
@@ -39,15 +39,15 @@ export default function Home() {
         <aside className="profile-card anime-card" aria-label="profile snapshot">
           <div>
             <span>Focus</span>
-            <strong>iOS、React Native、AI Coding、企业级移动应用</strong>
+            <strong>iOS 容器、混合架构、React/TS 移动 H5、AI Coding</strong>
           </div>
           <div>
             <span>Style</span>
-            <strong>重视体验、善用 AI、定位问题快、交付稳定</strong>
+            <strong>熟悉金融业务、问题定位扎实、长期项目交付稳定</strong>
           </div>
           <div>
-            <span>Radar</span>
-            <strong>技术、动漫、展会、摄影和生活灵感</strong>
+            <span>Impact</span>
+            <strong>我的云 iOS 1,990 次提交，H5 2,194 次提交</strong>
           </div>
         </aside>
       </section>
