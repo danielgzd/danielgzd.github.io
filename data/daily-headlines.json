@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-07-08",
-  "generatedAt": "2026-07-08T08:43:11.116Z",
+  "generatedAt": "2026-07-08T14:38:10.251Z",
   "retentionDays": 10,
   "categories": [
     {
@@ -9,13 +9,22 @@
       "description": "人工智能、模型、智能硬件与 AI 产品动态。",
       "items": [
         {
+          "title": "下载：蠕虫对抗污染，地球工程面对现实",
+          "summary": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。为什么蠕虫（和微生物）作为一种粪便污染解决方案而流行起来加州第三代奶农安东尼·阿格达（Anthony...",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
+        {
           "title": "下载：您在 OpenAI 中的股份以及财政部的人工智能警告",
           "summary": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。你的家族在 OpenAI 中持有 300 美元的股份 Sam Altman 提出美国人应该分享人工智...",
           "source": "MIT Technology Review",
           "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "time": "07/07",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "IT 领导者需要扩展的 AI 架构的基本元素",
@@ -24,7 +33,7 @@
           "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "time": "07/07",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "为什么蠕虫（和微生物）作为粪便污染解决方案正在流行",
@@ -33,7 +42,7 @@
           "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "time": "07/07",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "您家族在 OpenAI 中持有 300 美元的股份",
@@ -42,7 +51,16 @@
           "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "time": "07/07",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
+        {
+          "title": "中国人工智能初创公司 MiniMax 计划在今年晚些时候开源 2.7 万亿参数模型",
+          "summary": "中国人工智能开发商 MiniMax 正在开发一种具有 2.7 万亿个参数的新大型语言模型。 MiniMax 计划将该模型作为开源发布。中国人工智能初创公司 MiniMax 计划在今年晚...",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/chinese-ai-startup-minimax-plans-to-open-source-a-2-7-trillion-parameter-model-later-this-year/",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "下载：韩国最热门的单身汉和先进的眼部移植手术",
@@ -493,15 +511,6 @@
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "time": "06/28",
           "fetchedAt": "2026-06-29T04:57:32.365Z"
-        },
-        {
-          "title": "新浪的开放模型 VibeThinker-3B 旨在展示推理可以很好地压缩，但事实知识却不能",
-          "summary": "新浪微博的 VibeThinker-3B 只有 30 亿个参数，但在数学和编码基准上与 DeepSeek V3.2 和 Kimi K2.5 等模型相匹配。这些模型的尺寸扩大了 333 ...",
-          "source": "The Decoder",
-          "url": "https://the-decoder.com/sinas-open-model-vibethinker-3b-aims-to-show-reasoning-compresses-well-but-factual-knowledge-doesnt/",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/28",
-          "fetchedAt": "2026-06-28T09:30:15.404Z"
         }
       ]
     },
@@ -511,22 +520,22 @@
       "description": "国际局势、社会议题与全球公共事件。",
       "items": [
         {
-          "title": "德國華人性侵案：Telegram「老司機」群組上的跨國犯罪網絡",
-          "summary": "一個主要由中國籍男性組成的Telegram群組「德國老司機駕校」，涉及跨國大規模迷姦案件，犯案成員相繼落網，近日因為審訊及判刑再次引起公眾廣泛關注。",
+          "title": "中國實施信訪新規：有學者指「最終目的是減少進北京上訪者」",
+          "summary": "熟悉中國社會的學者向BBC中文分析指出，信訪制度主要為中央政府樹立形象，但實際上難以處理問題；新規主要增加了行政限制，減少赴京上訪者。",
           "source": "BBC 中文",
-          "url": "https://www.bbc.com/zhongwen/articles/cwyd8y1gy60o/trad?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.com/zhongwen/articles/cly85p711zno/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
-          "title": "性侵案受害者：我要讓他們為這些事情感到羞恥",
-          "summary": "今年27歲的李靜是德國華人性侵案中，首位願意分享經歷的受害人。她被案中其一被告偷拍裸露的影像而毫不知情，一直至四年後德國警方聯絡。",
+          "title": "美伊徹夜交火 特朗普稱停火協議「完了」",
+          "summary": "美國總統稱不想再與德黑蘭政權接觸，甚至形容對方為「人渣」；至少三艘國際船舶被砲火擊中。",
           "source": "BBC 中文",
-          "url": "https://www.bbc.com/zhongwen/articles/c5yz21e5jy5o/trad?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.com/zhongwen/articles/cvg5xypkl80o/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "「洪水來得太快了」：颱風在中國引發水災及罕見龍捲風",
@@ -535,7 +544,34 @@
           "url": "https://www.bbc.com/zhongwen/articles/ckg732x8l8yo/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
+        {
+          "title": "德國華人性侵案：Telegram「老司機」群組上的跨國犯罪網絡",
+          "summary": "一個主要由中國籍男性組成的Telegram群組「德國老司機駕校」，涉及跨國大規模迷姦案件，犯案成員相繼落網，近日因為審訊及判刑再次引起公眾廣泛關注。",
+          "source": "BBC 中文",
+          "url": "https://www.bbc.com/zhongwen/articles/cwyd8y1gy60o/trad?at_medium=RSS&at_campaign=rss",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
+        {
+          "title": "性侵案受害者：我要讓他們為這些事情感到羞恥",
+          "summary": "今年27歲的李靜是德國華人性侵案中，首位願意分享經歷的受害人。她被案中其一被告偷拍裸露的影像而毫不知情，一直至四年後德國警方聯絡。",
+          "source": "BBC 中文",
+          "url": "https://www.bbc.com/zhongwen/articles/c5yz21e5jy5o/trad?at_medium=RSS&at_campaign=rss",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
+        {
+          "title": "酷热夏天如何避暑降温？试试穿长袍、洒冷水",
+          "summary": "在空调问世之前，世界各地的人们想出了许多令人惊讶的降温方法，而且这些方法实际上都很有效。给人行道洒点水、吃辛辣食物、喝茶、午休……这个夏天不妨一试。 The Yomiuri Shimb...",
+          "source": "纽约时报中文网",
+          "url": "https://cn.nytimes.com/health/20260708/traditions-stay-cool-heat-wave/?utm_source=RSS",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "法國極右領袖馬琳·勒龐宣布2027參選總統，將就貪污案再上訴",
@@ -553,15 +589,6 @@
           "url": "https://www.bbc.com/zhongwen/articles/cjwgxdz5n49o/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/07",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
-        },
-        {
-          "title": "酷热夏天如何避暑降温？试试穿长袍、洒冷水",
-          "summary": "在空调问世之前，世界各地的人们想出了许多令人惊讶的降温方法，而且这些方法实际上都很有效。给人行道洒点水、吃辛辣食物、喝茶、午休……这个夏天不妨一试。 The Yomiuri Shimb...",
-          "source": "纽约时报中文网",
-          "url": "https://cn.nytimes.com/health/20260708/traditions-stay-cool-heat-wave/?utm_source=RSS",
-          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/08",
           "fetchedAt": "2026-07-08T08:43:11.116Z"
         },
         {
@@ -1220,15 +1247,6 @@
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "06/27",
           "fetchedAt": "2026-06-28T19:43:34.208Z"
-        },
-        {
-          "title": "小型飛機撞上北京最高樓「中國尊」 官方時隔近一天後證實",
-          "summary": "一架小型飛機撞上了中國首都北京的最高建築——「中國尊」，官方在事發後將近一天證實一人死亡，未知事發原因。",
-          "source": "BBC 中文",
-          "url": "https://www.bbc.com/zhongwen/articles/c8625lpy12yo/trad?at_medium=RSS&at_campaign=rss",
-          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/27",
-          "fetchedAt": "2026-06-28T09:30:15.404Z"
         }
       ]
     },
@@ -1244,7 +1262,7 @@
           "url": "https://www.ftchinese.com/story/001110259",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "青少年社交媒体禁令：这是治本之策吗？",
@@ -1253,7 +1271,7 @@
           "url": "https://www.ftchinese.com/story/001110257",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "“对等报复”：中国外交毫不含糊、但有克制的现实主义",
@@ -1262,7 +1280,7 @@
           "url": "https://www.ftchinese.com/story/001110256",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "掌握美国命运的47%：独立选民将会如何投票？",
@@ -1271,7 +1289,7 @@
           "url": "https://www.ftchinese.com/story/001110258",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "OECD：竞业限制条款使用增加，损害生产率",
@@ -1280,7 +1298,16 @@
           "url": "https://www.ftchinese.com/story/001110255",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
+        {
+          "title": "特朗普称伊朗停火已经“结束”，美国将“今晚严厉打击他们”",
+          "summary": "总统被问及中东战事升级后的停火事宜。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/08/trump-says-iran-ceasefire-is-over-after-latest-round-of-strikes.html",
+          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "特朗普表示他不想与西班牙有任何关系：“切断所有贸易”",
@@ -2199,13 +2226,31 @@
       "description": "消费电子、互联网产品、平台生态与新硬件。",
       "items": [
         {
+          "title": "Fi 的 Starlink 宠物追踪器在 LTE 找不到的情况下找到了我的狗",
+          "summary": "Fi Ultra 是您可以购买的第一款支持 Starlink 的宠物追踪器。它扩展了 GPS 和 LTE 跟踪器，在进入蜂窝死区时为 T-Mobile 的 T-Satellite 品牌...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/962224/fi-ultra-dog-tracker-starlink-t-satellite-specs-price-release-date",
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
+        {
+          "title": "蒸汽机适合我的电视、我的办公桌和我的生活",
+          "summary": "在过去的几周里，我的处境非常幸运：我花了很多时间在 Valve 的 Steam 机器上玩游戏。我们给 Steam Machine 打了 6 分，我不同意我的同事 Sean Hollis...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/962561/valve-steam-machine-tv-desk-life",
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
+        {
           "title": "三星将于 7 月 22 日推出新款宽屏可折叠手机",
           "summary": "三星宣布，下一次 Galaxy Unpacked 发布会将于 7 月 22 日举行，活动口号是：“全新造型展开”。长期以来一直有传言称，三星即将将其可折叠手机产品线扩展到第三种格式，即...",
           "source": "The Verge",
           "url": "https://www.theverge.com/tech/962658/samsung-galaxy-unpacked-wide-foldable-watch-july",
           "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "如果你篡改隐私灯，Meta 的眼镜将关闭摄像头",
@@ -2214,7 +2259,7 @@
           "url": "https://www.theverge.com/gadgets/962514/meta-privacy-light-tampering-smart-glasses-update",
           "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "Meta的新Muse Image模型可以将其他Instagram用户拉入AI照片中",
@@ -2223,7 +2268,16 @@
           "url": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
           "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
+        {
+          "title": "苹果承诺购买 300 亿美元的博通美国制造芯片",
+          "summary": "苹果公司投资美国制造业的计划预计将花费 300 亿美元购买博通芯片。",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2210449/apple-pledges-to-buy-30-billion-of-broadcom-us-made-chips/",
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "X 称顶级账户在发布新视频工具时窃取其他用户的视频",
@@ -3169,42 +3223,6 @@
           "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
           "time": "06/28",
           "fetchedAt": "2026-06-28T19:43:34.208Z"
-        },
-        {
-          "title": "为什么苹果要求我为大型科技公司对人工智能的痴迷支付更多费用？",
-          "summary": "蒂姆·库克最近表示，涨价是“不可避免的”，并称该公司的定价“不可持续”。 16 英寸 MacBook Pro 的价格上涨了 300 美元。 11 英寸 iPad Air 从 599 美...",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/27",
-          "fetchedAt": "2026-06-28T14:13:00.774Z"
-        },
-        {
-          "title": "集群摄像头追踪的不仅仅是你的车牌，而且它们正在快速传播",
-          "summary": "日益严重的隐私和安全问题引起了居民和活动人士的关注。",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2203000/flock-cameras-recording-license-plate/",
-          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/28",
-          "fetchedAt": "2026-06-28T14:13:00.774Z"
-        },
-        {
-          "title": "智能家居行业仍在押注 Matter 的房间内",
-          "summary": "四年前，俯瞰阿姆斯特丹的一条运河，智能家居行业集体推出了 Matter，这是一个统治所有运河的互操作性标准。 Matter 被誉为行业困境的解决方案，它建立在开放标准和现有技术的基础上...",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/958008/matter-unify-conference-csa-apple-google-amazon-samsung-smart-home-interoperability",
-          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/27",
-          "fetchedAt": "2026-06-28T09:30:15.404Z"
-        },
-        {
-          "title": "这是您的每日提醒：您不拥有数字内容",
-          "summary": "欧洲人很快将无法再观看在 PlayStation Store 上付费购买的 Studio Canal 电影。",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2203232/heres-your-daily-reminder-that-you-dont-own-digital-content/",
-          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/28",
-          "fetchedAt": "2026-06-28T09:30:15.404Z"
         }
       ]
     },
@@ -3214,13 +3232,22 @@
       "description": "智能汽车、电动化、座舱、辅助驾驶和产业趋势。",
       "items": [
         {
+          "title": "可能禁止特斯拉的机器人出租车法",
+          "summary": "十多年来，一个问题一直困扰着自动驾驶汽车的竞赛：仅靠摄像头是否足以安全地取代人类驾驶员，或者真正的无人驾驶汽车是否需要额外的、重叠的传感器（如激光雷达和雷达）来可靠地导航世界？特斯拉已...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla",
+          "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
+        {
           "title": "“高尔夫球车中的 G-Wagen”可能是理想的第二辆车",
           "summary": "当汽车行业在电动汽车市场上绞尽脑汁、为空气动力学效率和里程焦虑等细节而苦恼时，一家总部位于葡萄牙里斯本的新电动汽车初创公司却正朝着不同的方向前进。 Amble 的新型电动越野车不会以其...",
           "source": "The Verge",
           "url": "https://www.theverge.com/transportation/962187/amble-golf-cart-moon-buggy-ev-design-price-specs",
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "特斯拉司机因德克萨斯州车祸导致一名妇女在家中死亡，面临过失杀人罪指控",
@@ -3229,7 +3256,7 @@
           "url": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges",
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "07/03",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "特斯拉第二季度销量增长 25%",
@@ -3238,7 +3265,7 @@
           "url": "https://www.theverge.com/transportation/957685/tesla-q2-2026-sales-production-delivery-report",
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "07/02",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "这款电机可能是电动自行车的未来",
@@ -3247,7 +3274,16 @@
           "url": "https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt",
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "06/30",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
+        {
+          "title": "丰田可能正在开发一款更热的凯美瑞",
+          "summary": "遗憾的是，它可能不是您期待的运动型凯美瑞。",
+          "source": "Motor1",
+          "url": "https://www.motor1.com/news/800894/toyota-camry-hotter-variant/",
+          "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "TMD 的无钥匙自行车锁只需 280 美元就能解决 60 美元的问题",
@@ -3554,33 +3590,6 @@
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "06/29",
           "fetchedAt": "2026-06-29T04:57:32.365Z"
-        },
-        {
-          "title": "McMurtry 预告其 Wild 电动超级跑车的量产版",
-          "summary": "Spéirling Pure 将仅生产 100 辆",
-          "source": "Motor1",
-          "url": "https://www.motor1.com/news/799930/mcmurtry-speirling-pure-teaser/",
-          "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/28",
-          "fetchedAt": "2026-06-28T14:13:00.774Z"
-        },
-        {
-          "title": "Zoox 的专用机器人出租车即将焕然一新",
-          "summary": "亚马逊旗下的自动驾驶汽车公司 Zoox 推出了四四方方的双向机器人出租车的新外观，称其为大规模生产车辆的“下一代进化”。该公司目前正在旧金山、拉斯维加斯、奥斯汀和迈阿密运营免费的机器人...",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/transportation/955822/zoox-robotaxi-refresh-updates-seats-audio-color",
-          "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/24",
-          "fetchedAt": "2026-06-28T09:30:15.404Z"
-        },
-        {
-          "title": "克里斯蒂安·冯·科尼赛克谈电动汽车和内燃机的未来：采访",
-          "summary": "这家超级跑车制造商解释了混合动力的选择以及内燃机仍然不可替代的原因。",
-          "source": "Motor1",
-          "url": "https://www.motor1.com/news/799947/koenigsegg-interview-evs-synthetic-fuels-combustion-engines/",
-          "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/28",
-          "fetchedAt": "2026-06-28T09:30:15.404Z"
         }
       ]
     },
@@ -3589,6 +3598,60 @@
       "label": "游戏",
       "description": "主机、PC、移动游戏、产业新闻与玩家文化。",
       "items": [
+        {
+          "title": "《深海迷航 2》抢先体验版 1.1 更新改善了生物的退缩，因此您会知道何时使用生存多功能工具击中它们 - 但不，您仍然无法杀死鱼",
+          "summary": "《深海迷航 2》开发商 Unknown Worlds 将于今天（7 月 8 日）发布该游戏的抢先体验 1.1 更新，而且它不会让你杀鱼。这是值得期待的事情。",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/subnautica-2-early-access-11-update-improves-creature-flinches-so-youll-know-when-youve-hit-them-with-the-survival-multitool-but-no-you-still-cant-kill-fish",
+          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
+        {
+          "title": "“他们现在等待这场风暴过去”——PS5 用户取消 PlayStation Plus 订阅以抗议索尼杀戮光盘，但分析师称这不会产生任何影响",
+          "summary": "PS5 用户正在取消 PlayStation Plus 订阅，以抗议索尼停止在实体光盘上发行游戏的有争议的决定，但分析师表示，这一举动不会迫使这家游戏机制造商改变主意。",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/they-now-wait-for-this-storm-to-pass-ps5-owners-are-cancelling-playstation-plus-subscriptions-to-protest-sony-killing-discs-but-analysts-say-it-wont-make-any-difference",
+          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
+        {
+          "title": "Palworld 在抢先体验推出 2.5 年后，玩家数量突破了 4000 万，1.0 版即将到来",
+          "summary": "Palworld 在抢先体验发布 2.5 年后实现了令人印象深刻的玩家里程碑，并且 1.0 版本即将发布。",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/palworld-hits-an-incredible-40-million-players-25-years-after-early-access-launch-and-with-10-right-around-the-corner",
+          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
+        {
+          "title": "备受争议的 Uwe Boll 电影《公民治安》下周将登陆 PS5，游戏看起来和你想象的一样粗糙",
+          "summary": "有争议的乌韦·波尔复仇电影《公民治安》即将推出 PS5 官方游戏，该游戏似乎是由一家独立开发商制作的。",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/controversial-uwe-boll-movie-citizen-vigilante-gets-ps5-tie-in-game-next-week-and-it-looks-as-rough-as-youd-expect",
+          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
+        {
+          "title": "克里斯托弗·诺兰解释了为什么他要在《奥德赛》中进行当代对话，但承认这个决定“可能会咬我的屁股”",
+          "summary": "汤姆·赫兰德饰演的特勒马科斯告诉罗伯特·帕丁森饰演的反派安提诺斯，“我爸爸要回家了。”这只是五月份《奥德赛》预告片中透露的一行对话——但它确实引起了人们的议论。",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/christopher-nolan-explains-why-he-went-for-contemporary-dialogue-in-the-odyssey-but-admits-the-decision-might-bite-me-on-the-ass",
+          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
+        {
+          "title": "《我的世界》 (Minecraft) 正在添加一项备受期待的功能，该功能已经缺失 17 年了",
+          "summary": "Minecraft 的新更新添加了游戏 17 年历史中从未有过的东西，这是每个人都喜欢做的事情：坐下来。在一段新视频中，制作人 Gustav Höglund 证实，最终将有一种“直接”...",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/minecraft-is-adding-a-highly-requested-feature-its-been-missing-for-17-years/",
+          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
         {
           "title": "据报道《速度与激情11》尚未投入生产",
           "summary": "范·迪塞尔 (Vin Diesel) 的现场更新似乎与 FIFA 世界杯宣传片有关。",
@@ -4839,15 +4902,6 @@
           "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
           "time": "06/28",
           "fetchedAt": "2026-06-28T19:43:34.208Z"
-        },
-        {
-          "title": "《玩具熊的五夜后宫 3》聘请该公司和安娜贝尔编剧为其剧本",
-          "summary": "据报道，《玩具熊的五夜后宫 3》已聘请 It 和 Annabelle 的编剧 Gary Dauberman 来撰写剧本。",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/five-nights-at-freddys-3-enlists-it-and-annabelle-writer-for-its-script",
-          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/27",
-          "fetchedAt": "2026-06-28T14:13:00.774Z"
         }
       ]
     },
@@ -4863,7 +4917,7 @@
           "url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "Kimi K2.7 现已适用于 Copilot Business 和 Enterprise",
@@ -4872,7 +4926,7 @@
           "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "计费 UI 中成本中心的每用户预算",
@@ -4881,7 +4935,7 @@
           "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "秘密扫描扩展元数据和多部分验证",
@@ -4890,7 +4944,7 @@
           "url": "https://github.blog/changelog/2026-07-07-secret-scanning-extended-metadata-and-multipart-validation",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "限制谁可以驳回规则集中的评论",
@@ -4899,7 +4953,16 @@
           "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "07/07",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
+        {
+          "title": "美国食品和药物管理局拒绝设定食品中 PFAS 限量的请愿书",
+          "summary": "开发方向有一条新动态，适合继续跟进原文细节。",
+          "source": "Hacker News",
+          "url": "https://www.theguardian.com/us-news/2026/jul/08/us-food-and-drug-administration-rejects-petition-to-set-pfas-limits-in-food",
+          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "GitLost：我们欺骗 GitHub 的 AI 代理泄露私人存储库",
@@ -5530,24 +5593,6 @@
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "06/29",
           "fetchedAt": "2026-06-28T19:43:34.208Z"
-        },
-        {
-          "title": "问 HN：旧金山的每个人都在谈论什么？",
-          "summary": "开发方向有一条新动态，适合继续跟进原文细节。",
-          "source": "Hacker News",
-          "url": "https://news.ycombinator.com/item?id=48707307",
-          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/28",
-          "fetchedAt": "2026-06-28T14:13:00.774Z"
-        },
-        {
-          "title": "中国能造出自己的ASML吗？",
-          "summary": "开发方向有一条新动态，适合继续跟进原文细节。",
-          "source": "Hacker News",
-          "url": "https://nikkei.shorthandstories.com/can-china-build-its-own-asml/",
-          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/28",
-          "fetchedAt": "2026-06-28T09:30:15.404Z"
         }
       ]
     },
@@ -5557,13 +5602,22 @@
       "description": "影像、城市、效率工具、文化消费和日常灵感。",
       "items": [
         {
+          "title": "乌兰布统，草原观星",
+          "summary": "以后争取每年都来乌兰布统这一大片地方走走看看。 查看全文",
+          "source": "少数派",
+          "url": "https://sspai.com/post/111923",
+          "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
+        {
           "title": "我的出行好伙伴，用 iPhone 一站式解决旅途痛点",
           "summary": "暑期将至，许多「大朋友、小朋友」都会选择在最近两个月内出游。在旅行的过程中，我们难免会遇到各种各样的问题，也会遇到各种各样令人心烦的琐事。如果你恰好在使用iPhone，不妨看看我如何从...",
           "source": "少数派",
           "url": "https://sspai.com/post/112044",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "好的桌面需要设备，更需要灯光：明基×少数派线下店体验空间升级",
@@ -5572,7 +5626,7 @@
           "url": "https://sspai.com/post/110993",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "派早报：Nothing Ear (3a) 发布、Meta 推出 Muse 图像生成模型等",
@@ -5581,7 +5635,7 @@
           "url": "https://sspai.com/post/112049",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "家庭饮品 DIY 指南（二）：常用液体物料推荐",
@@ -5590,7 +5644,16 @@
           "url": "https://sspai.com/prime/story/home-made-beverages-2",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/07",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
+        {
+          "title": "这个求职面试骗局是窃取您的 Google 凭据的策略",
+          "summary": "Netflix、OpenAI 和 FIFA 不会招募你。",
+          "source": "Lifehacker",
+          "url": "https://lifehacker.com/money/this-job-invite-scam-is-trying-to-steal-your-google-credentials?utm_medium=RSS",
+          "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "社区速递 148 | 派友的全屋智能实操、水月雨布丁耳机与MUJI可调节毛巾枕",
@@ -6110,7 +6173,7 @@
           "url": "https://www.animenewsnetwork.com/news/2026-07-08/jun-wakatsuki-promise-me-the-spotlight-manga-gets-tv-anime/.239418",
           "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "红河动画由南高山、井上和彦饰演尤里的父母",
@@ -6119,16 +6182,16 @@
           "url": "https://www.animenewsnetwork.com/news/2026-07-08/red-river-anime-casts-minami-takayama-kazuhiko-inoue-as-yuri-parents/.239413",
           "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
-          "title": "动漫世界各地的 2026 年七夕快乐，第五部分",
+          "title": "来自动漫世界的 2026 年七夕快乐，第五部分",
           "summary": "收录有《怪物猎人》、《动物森友会》、《灵魂食粮》、《小双星》、《MARRIAGETOXIN》、《Rascal》、《Tomotsuka Haruomi》、《三浦满》等作品！",
           "source": "Anime News Network",
           "url": "https://www.animenewsnetwork.com/interest/2026-07-07/happy-tanabata-2026-from-around-the-anime-world-part-v/.239403",
           "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "动漫界的 2026 年七夕快乐（第四部分）",
@@ -6137,7 +6200,7 @@
           "url": "https://www.animenewsnetwork.com/interest/2026-07-07/happy-tanabata-2026-from-around-the-anime-world-part-iv/.239402",
           "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "动漫界的 2026 年七夕快乐（第三部分）",
@@ -6146,7 +6209,7 @@
           "url": "https://www.animenewsnetwork.com/interest/2026-07-07/happy-tanabata-2026-from-around-the-anime-world-part-iii/.239398",
           "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "《刀剑神域：艾恩葛朗特的回响》新预告片预告死亡游戏模式",
@@ -7515,96 +7578,6 @@
           "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
           "time": "06/28",
           "fetchedAt": "2026-06-28T19:43:34.208Z"
-        },
-        {
-          "title": "感伤涂鸦约会模拟游戏重制",
-          "summary": "1998 年经典土星游戏重制，改进了图像、更新了场景、新的演员阵容",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-06-28/sentimental-graffiti-dating-simulation-game-gets-remake/.239065",
-          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/28",
-          "fetchedAt": "2026-06-28T14:13:00.774Z"
-        },
-        {
-          "title": "《棱镜之王》动漫获得新的三星电影",
-          "summary": "故事发生在 Prism Show 三人组“Prism.3”比赛期间",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-06-28/king-of-prism-anime-gets-new-tri-star-act-film/.239064",
-          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/28",
-          "fetchedAt": "2026-06-28T14:13:00.774Z"
-        },
-        {
-          "title": "第五部《少女与战车》大结局电影预告片预告故事",
-          "summary": "第五部影片10月9日在日本上映",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-06-28/5th-girls-und-panzer-das-finale-film-trailer-previews-story/.239062",
-          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/28",
-          "fetchedAt": "2026-06-28T14:13:00.774Z"
-        },
-        {
-          "title": "真人版《奇异博士》：伊藤润二的不眠夜故事系列重新安排了剧集顺序",
-          "summary": "真人动画综合剧《奇异博士：伊藤润二的不眠夜物语》（奇异博士 -伊藤润二的夜 mo Nemurenu Kimyō na Hanashi-）的工作人员...",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/daily-briefs/2026-06-28/live-action-strange-junji-ito-tales-for-sleepless-nights-series-rearranges-episode-order/.239063",
-          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/28",
-          "fetchedAt": "2026-06-28T14:13:00.774Z"
-        },
-        {
-          "title": "虽然我是一个无能的恶棍动画的新字幕视频揭晓了 Rokudenashi 的片尾曲",
-          "summary": "Rokudenashi 表演“Shooting Star”为 7 月 12 日系列结束",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-06-28/though-i-am-an-inept-villainess-anime-new-subtitled-video-unveils-rokudenashi-ending-song/.239061",
-          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/28",
-          "fetchedAt": "2026-06-28T14:13:00.774Z"
-        },
-        {
-          "title": "任务：夜樱家族动画第二季将于十月继续第二部分",
-          "summary": "第二季第一部分于周日以动画第 39 集结束",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-06-28/mission-yozakura-family-anime-2nd-season-continues-with-2nd-part-in-october/.239053",
-          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/28",
-          "fetchedAt": "2026-06-28T09:30:15.404Z"
-        },
-        {
-          "title": "Guilty Gear -Strive- 游戏发布 DLC 角色 Robo-Ky 的完整预告片",
-          "summary": "角色将于 7 月 2 日作为第 5 季通行证的一部分推出",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-06-28/guilty-gear-strive-game-releases-full-trailer-for-dlc-character-robo-ky/.239049",
-          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/28",
-          "fetchedAt": "2026-06-28T09:30:15.404Z"
-        },
-        {
-          "title": "Blazblue：CentralFiction 格斗游戏推出新 DLC 角色 Trinity Glassfille",
-          "summary": "9年来第一个新角色加入游戏仅在PS4、PC版上可用",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-06-28/blazblue-centralfiction-fighting-game-reveals-new-dlc-character-trinity-glassfille/.239050",
-          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/28",
-          "fetchedAt": "2026-06-28T09:30:15.404Z"
-        },
-        {
-          "title": "《Under Night In-Birth II Sys:Celes》格斗游戏发布 DLC 角色 Zohar “Doppelganger” 预告片",
-          "summary": "角色将于 2026 年夏季推出",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-06-28/under-night-in-birth-ii-sys-celes-fighting-game-reveals-trailer-for-dlc-character-zohar-the-/.239055",
-          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/28",
-          "fetchedAt": "2026-06-28T09:30:15.404Z"
-        },
-        {
-          "title": "Wit Studio 公布片桐隆导演的《LONA》原创电视动画，预计将于 2027 年春季首播",
-          "summary": "片桐掌管光学与神经分析实验室动画，故事原创，由野木明子编剧",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-06-28/wit-studio-reveals-lona-original-tv-anime-by-director-takashi-katagiri-slated-for-spring-2027-debut/.239047",
-          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/28",
-          "fetchedAt": "2026-06-28T09:30:15.404Z"
         }
       ]
     },
@@ -7648,13 +7621,40 @@
       "description": "摄影技巧、人物、人像、风景、器材和后期灵感。",
       "items": [
         {
+          "title": "得益于 Reflx Labs 的两只新股票，110 电影市场规模翻了一番",
+          "summary": "如果胶片摄影是一个利基市场，那么 110 胶卷就是一个利基市场中的一个利基市场。过去 15 年里，基于墨盒的胶片格式一直由 Lomography 独家提供，但 Reflx Lab 刚刚...",
+          "source": "PetaPixel",
+          "url": "https://petapixel.com/2026/07/08/the-110-film-market-just-doubled-in-size-thanks-to-two-new-stocks-from-reflx-labs/",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
+        {
+          "title": "美科正在为全画幅无反相机打造 AF 85mm f/1.2 人像定焦镜头",
+          "summary": "就在美科发布一款适用于 E、L 和 Z 卡口无反光镜相机的新型 85mm f/1.8 SE II 定焦镜头后不久，该公司又推出了另一款 85mm prime 镜头，这次是超高速 f/1...",
+          "source": "PetaPixel",
+          "url": "https://petapixel.com/2026/07/08/meike-is-making-an-af-85mm-f-1-2-portrait-prime-for-full-frame-mirrorless-cameras/",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
+        {
+          "title": "Meta 表示，如果用户隐藏智能眼镜上的录制灯，相机将被禁用",
+          "summary": "Meta 正在听取对其智能眼镜的批评，并表示，如果用户试图隐藏表明设备正在录制的闪烁 LED 灯，它将禁用摄像头。 [ 阅读更多 ]",
+          "source": "PetaPixel",
+          "url": "https://petapixel.com/2026/07/08/if-users-conceal-the-recording-light-on-smart-glasses-meta-says-it-will-disable-the-camera/",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
+        {
           "title": "15 年照片系列展示来自全国各地的美国国旗",
           "summary": "屡获殊荣的摄影师兼电影制片人杰森·林赛 (Jason Lindsey) 的最新项目《未完成》(UNFINISHED) 是一部“纪念美国成立 250 周年的电影”。在这部四分钟的短片中，...",
           "source": "PetaPixel",
           "url": "https://petapixel.com/2026/07/07/15-year-photo-series-showcases-american-flags-from-around-the-country/",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "Discord 禁止大约 8,200 名用户发布无攻击性的网格图片",
@@ -7663,7 +7663,16 @@
           "url": "https://petapixel.com/2026/07/07/discord-banned-around-8200-users-for-posting-inoffensive-images-of-grids/",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-08T08:43:11.116Z"
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
+        },
+        {
+          "title": "如何学习摄影：哪种方法适合您？",
+          "summary": "学习摄影没有唯一正确的方法。有些人完全免费自学，有些人参加结构化课程，有些人通过协助工作专业人士来学习，而大多数人最终选择混合使用。它们的共同点是任何人都无法跳过的部分：拿起相机并进行...",
+          "source": "DIY Photography",
+          "url": "https://www.diyphotography.net/how-to-learn-photography/",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/08",
+          "fetchedAt": "2026-07-08T14:38:10.251Z"
         },
         {
           "title": "iPhone 16 落入海中，拍摄鱼和它自己的营救",
@@ -8501,51 +8510,6 @@
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "06/29",
           "fetchedAt": "2026-06-28T19:43:34.208Z"
-        },
-        {
-          "title": "摄影师 Michael Shainblum 展现新西兰的非凡之美",
-          "summary": "在他最新的视频项目中，摄影师迈克尔·谢恩布鲁姆（Michael Shainblum）回到了新西兰多变的、受天气影响的风景，其作品较少受固定构图的影响，更多的是对不断变化的反应。我们采访...",
-          "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/06/27/photographer-michael-shainblum-reveals-new-zealands-remarkable-beauty/",
-          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/27",
-          "fetchedAt": "2026-06-28T14:13:00.774Z"
-        },
-        {
-          "title": "钱德拉 (Chandra) 捕捉到 M87 黑洞喷流最清晰的 X 射线图像",
-          "summary": "超大质量黑洞塑造了远远超出其周围环境的星系的演化。尽管它们占据的区域不比我们的太阳系大，但它们...钱德拉捕捉到 M87 黑洞喷流最清晰的 X 射线视图的帖子首先出现在 DIY 摄影上...",
-          "source": "DIY Photography",
-          "url": "https://www.diyphotography.net/chandra-captures-the-sharpest-x-ray-view-of-m87s-black-hole-jet/",
-          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/28",
-          "fetchedAt": "2026-06-28T14:13:00.774Z"
-        },
-        {
-          "title": "摄影师用十年时间记录血腥禁毒战争",
-          "summary": "一位摄影师花了十年的大部分时间来记录毒品战争——观察可卡因的来源和最终去向。 [ 阅读更多 ]",
-          "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/06/27/photographer-spends-10-years-documenting-the-bloody-war-on-drugs/",
-          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/27",
-          "fetchedAt": "2026-06-28T09:30:15.404Z"
-        },
-        {
-          "title": "研究人员开发出可以记录和显示光线的全新像素类型",
-          "summary": "苏黎世联邦理工学院的研究人员开发了一种新型像素，既可以捕获图像也可以显示图像。将来，这种新像素可以在混合相机/显示设备中使用。 [ 阅读更多 ]",
-          "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/06/26/researchers-develop-all-new-pixel-type-that-can-both-record-and-display-light/",
-          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/27",
-          "fetchedAt": "2026-06-28T09:30:15.404Z"
-        },
-        {
-          "title": "哈勃揭示了早期星系如何帮助清除宇宙迷雾",
-          "summary": "宇宙历史的前十亿年见证了宇宙演化中最戏剧性的转变之一。在此期间，星系间...哈勃揭示了早期星系如何帮助清除宇宙迷雾的帖子首先出现在 DIY Photography 上。",
-          "source": "DIY Photography",
-          "url": "https://www.diyphotography.net/hubble-reveals-how-an-early-galaxy-helped-clear-the-cosmic-fog/",
-          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/28",
-          "fetchedAt": "2026-06-28T09:30:15.404Z"
         }
       ]
     }
