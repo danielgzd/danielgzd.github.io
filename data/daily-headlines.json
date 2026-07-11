@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-11",
-  "generatedAt": "2026-07-11T13:49:55.364Z",
+  "updatedAt": "2026-07-12",
+  "generatedAt": "2026-07-11T19:23:25.485Z",
   "retentionDays": 10,
   "categories": [
     {
@@ -15,7 +15,7 @@
           "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "time": "07/10",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "欧洲生育组织表示，精子捐赠者需要受到限制",
@@ -24,7 +24,7 @@
           "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "time": "07/10",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "人类发现了一个隐藏的空间，克劳德在这里对概念感到困惑",
@@ -33,7 +33,7 @@
           "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "time": "07/10",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "下载：核里程碑，中国关注英伟达芯片",
@@ -42,7 +42,7 @@
           "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "time": "07/09",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "美国的四个核反应堆达到了一个重要的里程碑",
@@ -51,7 +51,16 @@
           "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "time": "07/09",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
+        },
+        {
+          "title": "据报道，OpenAI 的 GPT-5.6 Sol Ultra 在不到一小时内解决了 50 年前的数学问题",
+          "summary": "OpenAI 的 GPT-5.6 Sol Ultra 使用 64 个并行工作的子代理，在一小时内生成了循环双盖猜想的证明。这个猜想50年来一直没有得到解决。数学家托马斯·布鲁姆称这个证...",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/openais-gpt-5-6-sol-ultra-reportedly-solves-a-50-year-old-math-problem-in-under-an-hour/",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/12",
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "中国的逆戟鲸世界模型与专门的机器人系统相匹配，而没有看到任何单一的动作标签",
@@ -466,15 +475,6 @@
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "time": "06/30",
           "fetchedAt": "2026-07-02T04:19:31.765Z"
-        },
-        {
-          "title": "克劳德代码中的隐藏代码秘密标记中国用户",
-          "summary": "在社交媒体上引发愤怒后，Anthropic 正在从其编程工具 Claude Code 中删除一项隐藏的监控功能。文章《Claude Code 中的隐藏代码秘密标记中国用户》首先出现在 ...",
-          "source": "The Decoder",
-          "url": "https://the-decoder.com/hidden-code-in-claude-code-secretly-flagged-chinese-users/",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
         }
       ]
     },
@@ -484,13 +484,22 @@
       "description": "国际局势、社会议题与全球公共事件。",
       "items": [
         {
-          "title": "颱風巴威籠罩台灣閩浙沖繩 台灣113傷、大陸疏散185萬人",
-          "summary": "颱風巴威導致台灣北部、東部等多個地區豪雨，數以萬計住戶一度停電。預料巴威週六深夜至週日凌晨在浙江溫嶺至瑞安一帶沿海登陸。",
+          "title": "颱風巴威登陸浙江 台灣113傷、中國大陸疏散185萬人",
+          "summary": "颱風巴威在深夜時分登陸浙江台州玉環市。熱帶氣旋此前導致台灣北部、東部等多個地區豪雨，數以萬計住戶一度停電。",
           "source": "BBC 中文",
           "url": "https://www.bbc.com/zhongwen/live/czj8zrvmy4lt/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
+        },
+        {
+          "title": "巴威逼近登陸：中國嚴陣以待一週內第二個颱風",
+          "summary": "數十萬人已從浙江東部疏散，人口約1,000萬的溫州市位於風暴路徑附近。",
+          "source": "BBC 中文",
+          "url": "https://www.bbc.com/zhongwen/articles/c4gy1xleelgo/trad?at_medium=RSS&at_campaign=rss",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/11",
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "廣西水災：「大躍進」時期建的水庫為何擋不了極端洪水？",
@@ -499,7 +508,7 @@
           "url": "https://www.bbc.com/zhongwen/articles/ce8kxgwjer4o/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/10",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "新加坡夫婦收養了印尼男嬰，卻發現孩子疑遭人口販運",
@@ -508,7 +517,7 @@
           "url": "https://www.bbc.com/zhongwen/articles/c892jgqnke3o/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/10",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "福建泉州晉江鞋廠大火致28人遇難，習近平指「嚴肅追責」",
@@ -517,22 +526,22 @@
           "url": "https://www.bbc.com/zhongwen/articles/cdr47vzk81no/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/10",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
-        },
-        {
-          "title": "「我掌管英國最大銀行」：推薦五種理財方法",
-          "summary": "勞埃德銀行執行長談到如何在戀愛關係中儲蓄、制定預算、避免詐騙和管理金錢。",
-          "source": "BBC 中文",
-          "url": "https://www.bbc.com/zhongwen/articles/c4gyq35n0d2o/trad?at_medium=RSS&at_campaign=rss",
-          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/10",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "中国开启可回收火箭时代，加速追赶SpaceX",
           "summary": "中国航天科技集团表示，长征十号乙火箭实现了“全球首次运载火箭网系回收”。此前中国公司一直使用一次性火箭发射卫星，这一突破为与SpaceX的竞争扫清关键障碍。 Visual China ...",
           "source": "纽约时报中文网",
           "url": "https://cn.nytimes.com/china/20260710/china-space-reusable-rocket-launch-spacex/?utm_source=RSS",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/10",
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
+        },
+        {
+          "title": "「我掌管英國最大銀行」：推薦五種理財方法",
+          "summary": "勞埃德銀行執行長談到如何在戀愛關係中儲蓄、制定預算、避免詐騙和管理金錢。",
+          "source": "BBC 中文",
+          "url": "https://www.bbc.com/zhongwen/articles/c4gyq35n0d2o/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/10",
           "fetchedAt": "2026-07-11T13:49:55.364Z"
@@ -1208,7 +1217,7 @@
           "url": "https://www.ftchinese.com/story/001110283",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/10",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "国泰海通业绩爆发 券商整合显现规模红利",
@@ -1217,7 +1226,7 @@
           "url": "https://www.ftchinese.com/story/001110281",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/10",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "歌礼制药产品销售“归零” 全面押注减重赛道能否突围？",
@@ -1226,7 +1235,7 @@
           "url": "https://www.ftchinese.com/story/001110282",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/10",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "法拉奇的补选豪赌：制度问责能否被民主授权改写？",
@@ -1235,7 +1244,7 @@
           "url": "https://www.ftchinese.com/story/001110278",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/10",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "夏日有灵光",
@@ -1244,7 +1253,16 @@
           "url": "https://www.ftchinese.com/story/001110273",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/10",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
+        },
+        {
+          "title": "“Funflation”击中要害：为什么呆在家里并不能像以前那样节省成本",
+          "summary": "随着一波价格上涨，流媒体电影或玩视频游戏等家庭消遣活动正在挤压钱包。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html",
+          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/11",
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "特朗普威胁称，如果伊朗试图杀死他，他将“摧毁”伊朗，因为财政部制裁伊朗金融家",
@@ -2064,15 +2082,6 @@
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/02",
           "fetchedAt": "2026-07-01T20:09:50.323Z"
-        },
-        {
-          "title": "特朗普儿童账户将于 7 月 4 日推出：家长需要了解什么",
-          "summary": "以下详细介绍了特朗普账户的运作方式、谁有资格获得免费资金以及何时可以提取资金。",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/01/trump-accounts-launch-july-4.html",
-          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
         }
       ]
     },
@@ -2082,13 +2091,22 @@
       "description": "消费电子、互联网产品、平台生态与新硬件。",
       "items": [
         {
+          "title": "FL Studio 负责人 Constantin Koehncke 向 Reddit 寻求反馈和乐趣",
+          "summary": "如果您是某个年龄段的音乐制作人，那么您可能曾经尝试过一款名为 Fruity Loops 的小应用程序的盗版。如今，它被称为 FL Studio，Constantin Koehncke ...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/entertainment/963509/image-line-ceo-constantin-koehncke-fl-studio-interview",
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/11",
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
+        },
+        {
           "title": "适合您所有小修理的完美套件",
           "summary": "嗨，朋友们！欢迎来到第 135 号安装程序，这是您了解世界上最好、最前沿的东西的指南。 （如果您是新来的，欢迎，打开空调，您也可以在安装程序主页上阅读所有旧版本。）本周，我一直在阅读有...",
           "source": "The Verge",
           "url": "https://www.theverge.com/tech/964169/ifixit-repairs-kit-nothing-3a-installer",
           "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/11",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "你够脏吗，买得起 700 美元的便携式淋浴器吗？",
@@ -2097,7 +2115,7 @@
           "url": "https://www.theverge.com/reviews/963814/joolca-hottap-portable-shower-review",
           "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/11",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "不，Flock 并没有因为人们辩论监控而威胁人们",
@@ -2106,7 +2124,7 @@
           "url": "https://www.theverge.com/tech/964425/flock-safety-cease-and-desist-letter",
           "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/11",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "Meta 关闭了 Instagram 功能，该功能允许用户对公共帐户进行人工智能深度伪造",
@@ -2115,7 +2133,16 @@
           "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
           "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/11",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
+        },
+        {
+          "title": "飞利浦在更新砖砌智能照明中心后提供免费更换",
+          "summary": "该公司还表示，正在推出新的更新，应该可以防止该问题。",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2212954/philips-free-replacements-hue-bridge-pro-update-bricked-smart-lighting-hubs/",
+          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/12",
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "FCC 正在打击规避外国无人机禁令的大疆科技",
@@ -3133,33 +3160,6 @@
           "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/02",
           "fetchedAt": "2026-07-01T20:09:50.323Z"
-        },
-        {
-          "title": "富士胶片推出两款新的 QuickSnap 相机，因为 Z 世代无法满足",
-          "summary": "富士胶片正在扩大其 QuickSnap 产品线，推出一款专注于拍摄单色照片的新型一次性相机，以及另一款专为恶劣户外环境而设计的相机。售价 22.90 美元的 QuickSnap Bla...",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/gadgets/960067/fujifilm-quicksnap-active-black-and-white-price-availability",
-          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
-        },
-        {
-          "title": "美国批准，英国出轨：Getty 与 Shutterstock 合并失败",
-          "summary": "在英国监管机构施加限制，阻止 Shutterstock 的部分业务纳入交易后，Getty 计划取消与 Shutterstock 价值 37 亿美元的合并协议。尽管美国司法部在二月份批准...",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/tech/960047/getty-shutterstock-merger-agreement-termination",
-          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
-        },
-        {
-          "title": "索尼将从 2028 年开始停止制作基于光盘的 PlayStation 游戏",
-          "summary": "RIP 到物理 PlayStation 光盘。",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2205792/sony-will-stop-making-disc-based-playstation-games-starting-2028/",
-          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
         }
       ]
     },
@@ -3175,7 +3175,7 @@
           "url": "https://www.theverge.com/transportation/963399/polestar-owners-ban-dealers-service-warranty-lease",
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "07/10",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "美国最便宜的新型电动汽车比乒乓球桌还小，最高时速为 19 英里/小时",
@@ -3184,16 +3184,16 @@
           "url": "https://www.theverge.com/transportation/962753/fiat-topolino-ev-us-price-specs-micromobiilty",
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "07/09",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "可能禁止特斯拉的机器人出租车法",
-          "summary": "十多年来，一个问题一直困扰着自动驾驶汽车的竞赛：仅靠摄像头是否足以安全地取代人类驾驶员，或者真正的无人驾驶汽车是否需要额外的、重叠的传感器（如激光雷达和雷达）来可靠地导航世界？特斯拉已...",
+          "summary": "十多年来，一个问题一直困扰着自动驾驶汽车的竞赛：仅靠摄像头是否足以安全地取代人类驾驶员，或者真正的无人驾驶汽车是否需要激光雷达和雷达等额外的、重叠的传感器来可靠地导航世界？特斯拉已投入...",
           "source": "The Verge",
           "url": "https://www.theverge.com/transportation/962309/new-jersey-robotaxi-bill-lidar-tesla",
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "“高尔夫球车中的 G-Wagen”可能是理想的第二辆车",
@@ -3202,7 +3202,7 @@
           "url": "https://www.theverge.com/transportation/962187/amble-golf-cart-moon-buggy-ev-design-price-specs",
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "特斯拉司机因德克萨斯州车祸导致一名妇女在家中死亡，面临过失杀人罪指控",
@@ -3211,7 +3211,16 @@
           "url": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges",
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "07/03",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
+        },
+        {
+          "title": "这款新型意大利超级跑车配备自然吸气 V8 发动机和手动变速箱",
+          "summary": "Automobili Mignatta 对 Rina Coupe 进行了调侃，而 Barchetta 则获得了特殊的涂装。",
+          "source": "Motor1",
+          "url": "https://www.motor1.com/news/801330/new-italian-supercar-v8-manual/",
+          "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/12",
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "奥迪 Nuvolari 和捷豹 Type 01 Storm Goodwood。互联网的反应",
@@ -3527,24 +3536,6 @@
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "07/02",
           "fetchedAt": "2026-07-02T04:19:31.765Z"
-        },
-        {
-          "title": "这款太阳能电动自行车是个好主意还是复杂的电子垃圾？",
-          "summary": "我喜欢太阳能电动自行车的想法，但我认为任何人都不应该购买新款 Phosgo Go5——至少现在还不行。这款“世界上第一辆人工智能太阳能电动自行车”承诺“消除里程焦虑”，由中国的一个新品...",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/news/956095/worlds-first-solar-ebike-do-not-buy",
-          "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
-          "time": "06/25",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
-        },
-        {
-          "title": "起亚刚刚度过了有史以来最好的六月，混合动力车销量猛增",
-          "summary": "起亚广泛的动力系统选择，包括全电动和混合动力，正在吸引买家。",
-          "source": "Motor1",
-          "url": "https://www.motor1.com/news/800296/kia-sales-results-june-q2-2026/",
-          "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
         }
       ]
     },
@@ -3560,7 +3551,7 @@
           "url": "https://www.ign.com/articles/eu-says-its-powerless-to-stop-playstation-from-killing-discs-companies-are-free-to-offer-games-and-services-in-the-manner-they-see-fit",
           "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/11",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "《奥德赛》导演克里斯托弗·诺兰表示“AI Slop”正被年轻观众“彻底拒绝”",
@@ -3569,7 +3560,7 @@
           "url": "https://www.ign.com/articles/the-odyssey-director-christopher-nolan-says-ai-slop-is-being-utterly-rejected-by-younger-audiences",
           "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/11",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "《辐射 5》、《上古卷轴 6》、《刀锋战士》等：Xbox 裁员严重，Bethesda 发生了什么？",
@@ -3578,7 +3569,7 @@
           "url": "https://www.ign.com/articles/fallout-5-the-elder-scrolls-6-blade-and-more-as-xbox-layoffs-hit-hard-whats-going-on-at-bethesda",
           "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/11",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "《刺客信条：黑旗》重新同步第一天销量就达到 200 万份",
@@ -3587,7 +3578,7 @@
           "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-sales-reach-2-million-on-day-1",
           "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/11",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "因社区强烈反对，EA 确认计划取消 EA Sports College Football 27 中的付费升级选项",
@@ -3596,7 +3587,7 @@
           "url": "https://www.ign.com/articles/ea-sports-college-football-27-faces-backlash-after-fans-discover-xp-microtransactions-for-offline-game-modes",
           "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/11",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "加菲猫因马里奥赛车游戏即将关闭而对马里奥大发雷霆",
@@ -3605,7 +3596,7 @@
           "url": "https://www.gamespot.com/articles/garfield-craps-on-mario-over-upcoming-mario-kart-game-shutdown/",
           "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/11",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "《战神 Laufey》实体光盘已确认发行，预计 2027 年发行",
@@ -4767,60 +4758,6 @@
           "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/02",
           "fetchedAt": "2026-07-01T20:09:50.323Z"
-        },
-        {
-          "title": "13 年后 PlayStation 淘汰光盘，记住索尼标志性的“这就是你在 PS4 上分享游戏的方式”视频",
-          "summary": "我们还记得索尼那段极其残酷的“这就是你在 PS4 上分享游戏的方式”视频，13 年后 PlayStation 就消灭了光盘。",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/remembering-sonys-iconic-this-is-how-you-share-games-on-ps4-video-as-playstation-kills-discs-13-years-later",
-          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
-        },
-        {
-          "title": "分析师认为，索尼做出了从 2028 年 1 月起取消 PlayStation 光盘的令人震惊的决定，这让我们了解了很多有关 PS6 的信息，包括它的发布时间",
-          "summary": "随着视频游戏界消化索尼从 2028 年 1 月起取消 PlayStation 游戏机上的视频游戏光盘的令人震惊的决定，分析师认为，这发出了有关 PS6 的强烈信号 - 包括它何时推出。",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/sonys-shock-decision-to-kill-discs-on-playstation-from-jan-2028-tells-us-a-lot-about-ps6-analysts-believe-including-when-it-will-be-released",
-          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
-        },
-        {
-          "title": "索尼关闭 PlayStation Store 以供新购买的 PS3 和 Vita 游戏使用",
-          "summary": "索尼宣布从下个月开始在某些国家/地区关闭 PS3 和 Vita 上的 PlayStation Store。",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/sony-shutting-down-playstation-store-for-new-purchases-on-ps3-and-vita",
-          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
-        },
-        {
-          "title": "索尼刚刚取消光盘：PlayStation 游戏机上发布新游戏的实体光盘生产将于 2028 年 1 月结束",
-          "summary": "索尼宣布 PlayStation 游戏机上发布的新游戏的实体光盘生产将于 2028 年 1 月结束。",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/sony-just-killed-discs-physical-disc-production-to-end-january-2028-for-new-games-releasing-on-playstation-consoles",
-          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
-        },
-        {
-          "title": "《战锤 40,000：Battlesector Publisher》从 Nacon 崩溃中拯救了《战锤 Blood Bowl》视频游戏系列",
-          "summary": "血碗得救了。",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/warhammer-blood-bowl-video-game-franchise-saved-from-nacon-collapse-by-warhammer-40000-battlesector-publisher",
-          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
-        },
-        {
-          "title": "近年来 PlayStation 光盘游戏销量大幅下降",
-          "summary": "索尼已确认，从 2028 年 1 月开始，它将不再支持 PlayStation 游戏（包括第一方和第三方游戏）的物理光盘。许多人想知道原因，这可能与这家游戏巨头的物理软件销量急剧下降有...",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/playstations-disc-based-game-sales-have-dropped-dramatically-in-recent-years/",
-          "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
         }
       ]
     },
@@ -4836,7 +4773,7 @@
           "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "07/11",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "秘密扫描探测器类型的更清晰名称",
@@ -4845,7 +4782,7 @@
           "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "07/11",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "REST API 中多用户预算的每用户状态",
@@ -4854,7 +4791,7 @@
           "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "07/10",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序",
@@ -4863,7 +4800,7 @@
           "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "07/10",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "新的拉取请求仪表板现已普遍可用",
@@ -4872,7 +4809,16 @@
           "url": "https://github.blog/changelog/2026-07-09-new-pull-requests-dashboard-is-now-generally-available",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "07/10",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
+        },
+        {
+          "title": "如何躲避杀手无人机",
+          "summary": "开发方向有一条新动态，适合继续跟进原文细节。",
+          "source": "Hacker News",
+          "url": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
+          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/12",
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "浏览器中的语义/混合搜索",
@@ -5521,51 +5467,6 @@
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "07/02",
           "fetchedAt": "2026-07-01T20:09:50.323Z"
-        },
-        {
-          "title": "Claude Sonnet 5 一般可用于 GitHub Copilot",
-          "summary": "Claude Sonnet 5 是 Anthropic 最新的 Sonnet 级模型，现已在 GitHub Copilot 中提供。它为日常开发和代理工作流程带来了强大的编码性能，为开...",
-          "source": "GitHub Blog",
-          "url": "https://github.blog/changelog/2026-06-30-claude-sonnet-5-is-generally-available-for-github-copilot",
-          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
-        },
-        {
-          "title": "GitHub 代码覆盖率合并保护拉取请求",
-          "summary": "现在，当测试覆盖率低于您设置的阈值时，您可以使用分支规则集阻止拉取请求合并。您可以设置最小覆盖率、允许的最大覆盖率……拉取请求的 GitHub 代码覆盖率合并保护帖子首先出现在 Git...",
-          "source": "GitHub Blog",
-          "url": "https://github.blog/changelog/2026-06-30-github-code-coverage-merge-protection-for-pull-requests",
-          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
-        },
-        {
-          "title": "发布：侧边栏导航和每个资产的下载计数",
-          "summary": "现在，您可以使用专用的侧边栏目录更轻松地扫描和导航发布页面。我们还更新了发布元数据的放置，以获得更一致的布局，因此......帖子发布：侧边栏导航和每个资产的下载计数首先出现在 Git...",
-          "source": "GitHub Blog",
-          "url": "https://github.blog/changelog/2026-06-30-releases-sidebar-navigation-and-per-asset-download-counts",
-          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
-        },
-        {
-          "title": "Copilot Agent 现已在 JetBrains AI Assistant 中可用",
-          "summary": "今天，JetBrains 和 GitHub 宣布 JetBrains AI Assistant 和 GitHub Copilot 之间进行更深入的集成。数以百万计的开发人员已经依赖 G...",
-          "source": "GitHub Blog",
-          "url": "https://github.blog/changelog/2026-06-30-copilot-agent-is-now-available-in-jetbrains-ai-assistant",
-          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
-        },
-        {
-          "title": "开源许可证合规性处于公共预览版",
-          "summary": "企业现在可以通过执行集中策略的复杂的、基于规则集的检查来大规模管理其依赖项的许可证。开源许可证合规性处于公共预览版，让您可以阻止不合规的...帖子“开源许可证合规性处于公共预览版”首先...",
-          "source": "GitHub Blog",
-          "url": "https://github.blog/changelog/2026-06-30-open-source-license-compliance-is-in-public-preview",
-          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
         }
       ]
     },
@@ -5581,7 +5482,7 @@
           "url": "https://sspai.com/post/68024",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/11",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "本周看什么 | 最近值得一看的 8 部作品",
@@ -5590,7 +5491,7 @@
           "url": "https://sspai.com/post/112169",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/10",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "安达卢西亚的日与夜：格拉纳达漫游指南",
@@ -5599,7 +5500,7 @@
           "url": "https://sspai.com/post/112097",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/10",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "Vibe Coding 时代，为什么降本不一定增效？",
@@ -5608,7 +5509,7 @@
           "url": "https://sspai.com/post/111975",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/10",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "派早报：蔚来 ES8 大五座版正式上市等",
@@ -5617,7 +5518,7 @@
           "url": "https://sspai.com/post/112143",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/10",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "每个 Google Home 用户都应该知道的 10 个技巧",
@@ -5626,7 +5527,7 @@
           "url": "https://lifehacker.com/tech/best-google-home-hacks?utm_medium=RSS",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/11",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "TDS REVIEW | 小米耳夹式耳机体验",
@@ -6086,15 +5987,6 @@
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/02",
           "fetchedAt": "2026-07-01T20:09:50.323Z"
-        },
-        {
-          "title": "据报道，苹果的“隐藏我的电子邮件”会暴露您的真实电子邮件地址",
-          "summary": "该公司已经知道这个问题一年多了。",
-          "source": "Lifehacker",
-          "url": "https://lifehacker.com/tech/apples-hide-my-email-reportedly-exposes-your-real-email-address?utm_medium=RSS",
-          "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
         }
       ]
     },
@@ -6104,13 +5996,49 @@
       "description": "动画、漫画、声优、二次元文化和新番动态。",
       "items": [
         {
+          "title": "6月29日-7月5日日本动画电视排行榜",
+          "summary": "《贾杜加尔：蒙古女巫》首次亮相，排名第七；画这个，然后死！首次亮相排名第 10",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-07-11/japanese-animation-tv-ranking-june-29-july-5/.239490",
+          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/12",
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
+        },
+        {
+          "title": "WEBTOON 推出 AI 故事聊天服务 byUs，采用创作者认可的网络漫画 IP",
+          "summary": "该服务允许用户通过与创作者认可的 IP 中的角色互动来创作原创故事",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-07-11/webtoon-launches-ai-story-chat-service-byus-featuring-creator-approved-webtoon-ip/.239448",
+          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/12",
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
+        },
+        {
+          "title": "未解之谜//蝴蝶刀剑神域动漫影评",
+          "summary": "虽然这部电影对于任何喜欢《刀剑神域》的人来说当然值得一看，但 110 美元的入场门槛让人感觉很可笑。",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/review/unanswered/butterfly/sword-art-online-anime-film/.239500",
+          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/12",
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
+        },
+        {
+          "title": "AIC 赢得法律诉讼，重新成为 AIC 权利股东",
+          "summary": "2021年开始诉讼，上诉2次",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-07-11/aic-wins-legal-battle-to-return-as-shareholder-of-aic-rights/.239366",
+          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/11",
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
+        },
+        {
           "title": "利川市政府启动人工智能生成网络漫画大赛",
           "summary": "提交截止日期为 8 月 14 日，分 3 个组别：小学、初高中、普通组",
           "source": "Anime News Network",
           "url": "https://www.animenewsnetwork.com/news/2026-07-11/icheon-city-government-launches-ai-generated-webtoon-contest/.239518",
           "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
           "time": "07/11",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "动漫博览会创下 422,000 名十字转门参观者新纪录",
@@ -7488,51 +7416,6 @@
           "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
           "time": "07/02",
           "fetchedAt": "2026-07-01T20:09:50.323Z"
-        },
-        {
-          "title": "索尼终止 PlayStation 游戏机的实体光盘生产",
-          "summary": "实体光盘将于 2028 年 1 月结束生产； PS3/PS Vita 上的 PS Store 关闭",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-07-01/sony-ends-physical-disc-production-for-playstation-consoles/.239181",
-          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
-        },
-        {
-          "title": "在 Taito Play Base 重温经典街机乐趣！",
-          "summary": "您是电子游戏迷吗？参观当地的游乐场并与朋友一起玩几轮新游戏的经典体验怎么样？那么，Taito 就在动漫博览会上提供这种体验！",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/advertorial/2026-07-01/relive-classic-arcade-fun-at-the-taito-play-base/.239110",
-          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
-        },
-        {
-          "title": "婚姻毒素 – 第 13 集",
-          "summary": "《婚姻毒素》可能不是本季任何类型中最强大的节目，但格罗对新娘的追求提供了足够的美好时光，我准备好看到更多他一路上遇到的新单身女子或刺客。",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/review/marriagetoxin/episode-13/.239158",
-          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
-        },
-        {
-          "title": "2026 年夏季动画预览指南",
-          "summary": "动漫新闻网动漫预览指南推出 10 部不容错过的新节目，从《世界在跳舞》到《少女不会玩格斗游戏》！",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/preview-guide/2026/summer/.237625",
-          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
-        },
-        {
-          "title": "《疯人院》公布“幽灵”原创动画电影预告片，完整标题，将于 2027 年 2 月 11 日首映",
-          "summary": "《幽灵 – 深夜电影》还透露了歌曲艺术家 Hisujibungaku，漫画改编版将于 8 月 4 日推出",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-07-01/madhouse-reveals-ghost-original-anime-film-teaser-full-title-february-11-2027-debut/.239177",
-          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
         }
       ]
     },
@@ -7576,13 +7459,22 @@
       "description": "摄影技巧、人物、人像、风景、器材和后期灵感。",
       "items": [
         {
+          "title": "哪种高分辨率全画幅相机拥有最好的传感器？",
+          "summary": "中档传感器市场竞争非常激烈，特别是因为绝大多数潜在买家最终都会购买一款。但高端市场又如何呢？成本上升，但百万像素也在上升，现阶段的传感器将是每个制造商的技术巅峰。如果您正在寻找最好的传...",
+          "source": "PetaPixel",
+          "url": "https://petapixel.com/2026/07/11/which-high-resolution-full-frame-camera-has-the-best-sensor/",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/11",
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
+        },
+        {
           "title": "捕捉夜晚：ProMaster 2026 年夏季天文摄影指南",
           "summary": "2026 年夏季将成为天文摄影难以置信的季节。在 ProMaster，我们相信合适的设备不应该只是支持您的相机，它应该是您创作过程的延伸。 [ 阅读更多 ]",
           "source": "PetaPixel",
           "url": "https://petapixel.com/2026/07/11/capture-the-night-promasters-summer-2026-astrophotography-guide/",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/11",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "我们现在比以往任何时候都更需要街头摄影",
@@ -7591,7 +7483,7 @@
           "url": "https://petapixel.com/2026/07/11/we-need-street-photography-now-more-than-ever/",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/11",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "苹果起诉 OpenAI，指控前员工窃取机密硬件商业机密",
@@ -7600,7 +7492,7 @@
           "url": "https://petapixel.com/2026/07/10/apple-sues-openai-alleging-former-employees-stole-confidential-hardware-trade-secrets/",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/11",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "FCC 对多家据称将大疆科技引入美国的公司处以罚款",
@@ -7609,7 +7501,7 @@
           "url": "https://petapixel.com/2026/07/10/fcc-fines-multiple-companies-it-says-are-bringing-dji-tech-into-the-u-s/",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/11",
-          "fetchedAt": "2026-07-11T13:49:55.364Z"
+          "fetchedAt": "2026-07-11T19:23:25.485Z"
         },
         {
           "title": "在用户强烈反对后，Meta 删除了使用 Instagram 公开帖子的 AI 图像生成功能",
@@ -8501,42 +8393,6 @@
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/01",
           "fetchedAt": "2026-07-01T20:09:50.323Z"
-        },
-        {
-          "title": "安妮·莱博维茨因使用墨西哥过滤器而受到批评",
-          "summary": "也许世界上没有哪个摄影师的作品会像安妮·莱博维茨 (Annie Leibovitz) 那样受到批评，昨天在 Instagram 上发布的展示她最新展览照片的帖子也不例外。 [ 阅读更多...",
-          "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/07/01/annie-leibovitz-criticized-for-using-the-mexico-filter/",
-          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
-        },
-        {
-          "title": "由于英国法规，Getty 计划终止 Shutterstock 合并",
-          "summary": "就在英国监管机构对美国摄影机构 Getty Images 和 Shutterstock 的合并表示担忧四个多月后，Getty Images 宣布计划终止这项价值 37 亿美元的合并协议...",
-          "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/07/01/getty-plans-to-terminate-shutterstock-merger-because-of-uk-regulations/",
-          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
-        },
-        {
-          "title": "16 位获奖摄影师展示 iPhone 的力量",
-          "summary": "2026 年 iPhone 摄影奖 (IPPAWARDS) 公布了第 20 届年度竞赛的获奖者名单。今年，来自 140 多个国家/地区的数千名摄影师展示了 iPhone 在正确的手中可...",
-          "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/07/01/16-award-winning-photographers-showcase-the-power-of-iphone/",
-          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
-        },
-        {
-          "title": "2026 年 iPhone 摄影奖证明优秀的照片与昂贵的相机无关",
-          "summary": "2026 年 iPhone 摄影奖 (IPPAWARDS) 的获奖者已经公布，以庆祝历史最悠久的智能手机摄影比赛之一举办二十周年。今年的……《2026 年 iPhone 摄影奖证明好照...",
-          "source": "DIY Photography",
-          "url": "https://www.diyphotography.net/the-2026-iphone-photography-awards-prove-great-photos-have-nothing-to-do-with-expensive-cameras/",
-          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/01",
-          "fetchedAt": "2026-07-01T15:10:31.814Z"
         }
       ]
     }
