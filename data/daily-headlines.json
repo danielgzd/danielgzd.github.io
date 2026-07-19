@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-07-19",
-  "generatedAt": "2026-07-19T03:48:47.176Z",
+  "generatedAt": "2026-07-19T08:32:15.923Z",
   "retentionDays": 10,
   "categories": [
     {
@@ -15,7 +15,7 @@
           "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "time": "07/17",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "关于围绝经期有很多炒作。不要买它。",
@@ -24,7 +24,7 @@
           "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "time": "07/17",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "天气数据遭到破坏的风险正在上升",
@@ -33,7 +33,7 @@
           "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "time": "07/17",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "下载：OpenAI 推出 GPT-Red，热泵在美国崛起",
@@ -42,7 +42,7 @@
           "url": "https://www.technologyreview.com/2026/07/16/1140600/the-download-openai-unveils-gpt-red-heat-pumps-rise-us/",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "time": "07/16",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "为什么热泵在美国仍然如此热门",
@@ -51,7 +51,16 @@
           "url": "https://www.technologyreview.com/2026/07/16/1140505/heat-pump-sales-us/",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "time": "07/16",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
+        },
+        {
+          "title": "读取 X 射线的人工智能聊天机器人即使是错误的，也可能会危险地自信",
+          "summary": "RadLE 2.0 基准测试放射学中的人工智能模型是否能够判断何时应该将诊断留给人类。许多模型充满信心地给出了错误的结果，而人类放射科医生仍然遥遥领先。在人工智能能够自行诊断之前，它需...",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/ai-chatbots-reading-x-rays-can-be-dangerously-confident-even-when-theyre-wrong/",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/19",
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "中国新成立的世界人工智能合作组织是习近平主席迄今为止为平行人工智能秩序做出的最明确的表态",
@@ -439,24 +448,6 @@
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
           "time": "07/09",
           "fetchedAt": "2026-07-09T10:01:25.910Z"
-        },
-        {
-          "title": "为什么蠕虫（和微生物）作为粪便污染解决方案正在流行",
-          "summary": "安东尼·阿格达 (Anthony Agueda) 是加州第三代奶农，他在自家位于希克曼 (该州农业中心地带的一个小镇) 的土地上，用耙子扫过一片又黑又湿的木屑床。他双手伸手，拉起一团泥...",
-          "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/07",
-          "fetchedAt": "2026-07-09T04:10:43.232Z"
-        },
-        {
-          "title": "与 Fable 5 和 GPT 5.5 相比，Grok 4.5 非常便宜，基准测试差距可能并不重要",
-          "summary": "xAI 发布了 Grok 4.5，在数万个 Nvidia GB300 GPU 上进行了训练。在编码基准测试中，该模型落后于 Fable 5 和 GPT-5.5，但需要的令牌比 Opus...",
-          "source": "The Decoder",
-          "url": "https://the-decoder.com/grok-4-5-is-so-cheap-compared-to-fable-5-and-gpt-5-5-that-benchmark-gaps-may-not-matter-much/",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/09",
-          "fetchedAt": "2026-07-09T04:10:43.232Z"
         }
       ]
     },
@@ -466,28 +457,64 @@
       "description": "国际局势、社会议题与全球公共事件。",
       "items": [
         {
+          "title": "中國揭陽虐狗案：如何席捲全球各地輿論？",
+          "summary": "中國揭陽虐狗案引爆輿論，各地城巿群眾以不同方式聲援，在鬧巿投放廣告、派發傳單，甚至進一步演變成抵制行動。有學者希望事件能促使政府立法保護動物。",
+          "source": "BBC 中文",
+          "url": "https://www.bbc.com/zhongwen/articles/ce97zxp9795o/trad?at_medium=RSS&at_campaign=rss",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/19",
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
+        },
+        {
+          "title": "金正恩本應是朝鮮人唯一的偶像，直到他們發現K-pop",
+          "summary": "多名脫北者向BBC表示，儘管受到種種限制，韓國流行音樂仍突破重重封鎖，傳入這個令人窒息的獨裁國家。",
+          "source": "BBC 中文",
+          "url": "https://www.bbc.com/zhongwen/articles/cx2mlyg0x21o/trad?at_medium=RSS&at_campaign=rss",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/19",
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
+        },
+        {
           "title": "梅西、馬拉多納、貝利——誰才是真正的足球史上最強？",
           "summary": "39歲的梅西依然是阿根廷征戰2026年世界盃的核心人物，但他是否已超越同胞馬拉多納，以及巴西傳奇貝利？",
           "source": "BBC 中文",
           "url": "https://www.bbc.com/zhongwen/articles/c9w0jqyqngdo/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/18",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
-          "title": "輪到你了，梅西——姆巴佩領跑史詩級世界盃金靴之爭",
-          "summary": "姆巴佩在金靴之爭中領先兩球，但梅西仍有可能在世界盃決賽反超前。",
+          "title": "熱浪下歐洲人轉向中國空調，能否洗刷「中國製造」污名？",
+          "summary": "中國品牌正滿足歐洲急增的空調需求，而當地的空調普及率一向偏低。",
           "source": "BBC 中文",
-          "url": "https://www.bbc.com/zhongwen/articles/c78g1858m7go/trad?at_medium=RSS&at_campaign=rss",
+          "url": "https://www.bbc.com/zhongwen/articles/cm2gm3mymwwo/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/19",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "遙遠恆星的適居帶內，首次發現類似地球的行星存在大氣層",
           "summary": "研究人員發現，一顆類似地球的岩質行星在遙遠恆星的適居帶內運行，並擁有大氣層。",
           "source": "BBC 中文",
           "url": "https://www.bbc.com/zhongwen/articles/c36d1glwl66o/trad?at_medium=RSS&at_campaign=rss",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/19",
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
+        },
+        {
+          "title": "黄瓜有多健康？",
+          "summary": "黄瓜热量低，水分充足且含有一定膳食纤维，对健康有益。此外，黄瓜口感清脆，味道温和清爽，所以非常适合与许多食物搭配。这种夏日里令人满足的常备食材怎么吃最美味？",
+          "source": "纽约时报中文网",
+          "url": "https://cn.nytimes.com/health/20260717/cucumber-health-benefits/?utm_source=RSS",
+          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/17",
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
+        },
+        {
+          "title": "輪到你了，梅西——姆巴佩領跑史詩級世界盃金靴之爭",
+          "summary": "姆巴佩在金靴之爭中領先兩球，但梅西仍有可能在世界盃決賽反超前。",
+          "source": "BBC 中文",
+          "url": "https://www.bbc.com/zhongwen/articles/c78g1858m7go/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/19",
           "fetchedAt": "2026-07-19T03:48:47.176Z"
@@ -506,15 +533,6 @@
           "summary": "自2020年港區國安法生效後，每年香港都有不同書籍被下架、消失或點名。BBC中文梳理這些年，曾被圖書館及書展下架、被建制報章點名，以及近來國安在搜捕行動中被檢走的書籍，試圖從這些軌跡中...",
           "source": "BBC 中文",
           "url": "https://www.bbc.com/zhongwen/articles/c3v0xg2zq9go/trad?at_medium=RSS&at_campaign=rss",
-          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/17",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
-        },
-        {
-          "title": "黄瓜有多健康？",
-          "summary": "黄瓜热量低，水分充足且含有一定膳食纤维，对健康有益。此外，黄瓜口感清脆，味道温和清爽，所以非常适合与许多食物搭配。这种夏日里令人满足的常备食材怎么吃最美味？",
-          "source": "纽约时报中文网",
-          "url": "https://cn.nytimes.com/health/20260717/cucumber-health-benefits/?utm_source=RSS",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/17",
           "fetchedAt": "2026-07-19T03:48:47.176Z"
@@ -1121,33 +1139,6 @@
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/09",
           "fetchedAt": "2026-07-09T10:01:25.910Z"
-        },
-        {
-          "title": "觀察：特朗普虛張聲勢再多，除了與伊朗談判別無選擇",
-          "summary": "BBC國際事務編輯傑里米·鮑文（Jeremy Bowen）指出，談判進程十分脆弱，而美國近日的空襲顯示，要達成協議將有多麼困難。",
-          "source": "BBC 中文",
-          "url": "https://www.bbc.com/zhongwen/articles/clyw8ke99z2o/trad?at_medium=RSS&at_campaign=rss",
-          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/09",
-          "fetchedAt": "2026-07-09T04:10:43.232Z"
-        },
-        {
-          "title": "中國實施信訪新規：有學者指「最終目的是減少進北京上訪者」",
-          "summary": "熟悉中國社會的學者向BBC中文分析指出，信訪制度主要為中央政府樹立形象，但實際上難以處理問題；新規主要增加了行政限制，減少赴京上訪者。",
-          "source": "BBC 中文",
-          "url": "https://www.bbc.com/zhongwen/articles/cly85p711zno/trad?at_medium=RSS&at_campaign=rss",
-          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/08",
-          "fetchedAt": "2026-07-09T04:10:43.232Z"
-        },
-        {
-          "title": "受伊朗战争和通货膨胀冲击，全球经济增长面临急剧放缓",
-          "summary": "国际货币基金组织警告，受伊朗战争及其引发的通货膨胀冲击，今年全球经济增长将大幅放缓。该组织将今年全球经济增长率调低，并敦促政策制定者将稳定物价作为重点。 Arash Khamooshi...",
-          "source": "纽约时报中文网",
-          "url": "https://cn.nytimes.com/business/20260709/imf-world-economy-inflation/?utm_source=RSS",
-          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/09",
-          "fetchedAt": "2026-07-09T04:10:43.232Z"
         }
       ]
     },
@@ -1163,7 +1154,7 @@
           "url": "https://www.ftchinese.com/story/001110354",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/17",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "中期选举临近，特朗普重提大选干预论",
@@ -1172,7 +1163,7 @@
           "url": "https://www.ftchinese.com/story/001110353",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/17",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "快递业告别价格战？“反内卷”成效待利润验证",
@@ -1181,7 +1172,7 @@
           "url": "https://www.ftchinese.com/story/001110352",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/17",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "工业革命催生了工会，1300万第一代移民又将催生什么？",
@@ -1190,7 +1181,7 @@
           "url": "https://www.ftchinese.com/story/001110351",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/17",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "IMF：英国已无力增加公共支出",
@@ -1199,7 +1190,7 @@
           "url": "https://www.ftchinese.com/story/001110350",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/17",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "两名美国军人在约旦丧生，其中一人失踪；伊朗取消临时和平协议后威胁“难忘的教训”",
@@ -1208,7 +1199,7 @@
           "url": "https://www.cnbc.com/2026/07/18/us-military-says-it-completed-latest-round-of-strikes-against-iran.html",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/19",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "“WarshGPT”：华尔街如何适应美联储的沟通新时代",
@@ -2019,24 +2010,6 @@
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/09",
           "fetchedAt": "2026-07-09T10:01:25.910Z"
-        },
-        {
-          "title": "乌克兰加紧袭击亚速海俄罗斯商船",
-          "summary": "乌克兰军方称，继击中俄罗斯“影子船队”两艘较大型船舶后，其进一步袭击了八艘向克里米亚运送燃料的小型油轮，包括受西方制裁的船舶。",
-          "source": "FT 中文网",
-          "url": "https://www.ftchinese.com/story/001110264",
-          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/09",
-          "fetchedAt": "2026-07-09T04:10:43.232Z"
-        },
-        {
-          "title": "数据中心建设狂潮的“合法丑闻”",
-          "summary": "克拉克：40多年前，美国政治记者金斯利提出“合法丑闻”法则，即掌握实权的圈内人能够以不公平却合法的方式行事而不受惩罚。",
-          "source": "FT 中文网",
-          "url": "https://www.ftchinese.com/story/001110263",
-          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/09",
-          "fetchedAt": "2026-07-09T04:10:43.232Z"
         }
       ]
     },
@@ -2052,7 +2025,7 @@
           "url": "https://www.theverge.com/tech/967612/google-pixel-11a-tensor-g6-leak",
           "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/19",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "谷歌正在开源其 3D 表情符号",
@@ -2061,7 +2034,7 @@
           "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
           "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/19",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "惊喜！人脸识别智能锁其实也不错",
@@ -2070,7 +2043,7 @@
           "url": "https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review",
           "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/18",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "索尼旗舰 RGB LED 电视令人难以置信",
@@ -2079,7 +2052,7 @@
           "url": "https://www.theverge.com/tech/966788/sony-bravia-9-ii-tv-review",
           "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/18",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "每个读者都需要的应用程序、小工具和工具",
@@ -2088,7 +2061,7 @@
           "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
           "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/18",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "法国加倍限制进入Polymarket",
@@ -2097,7 +2070,7 @@
           "url": "https://www.engadget.com/2218130/france-doubles-down-on-restricting-access-to-polymarket/",
           "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/19",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "好吧，电动山地自行车不差劲",
@@ -3232,15 +3205,6 @@
           "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
           "time": "07/09",
           "fetchedAt": "2026-07-09T10:01:25.910Z"
-        },
-        {
-          "title": "大众汽车在波兰的一个太阳能农场雇佣了 100 只羊",
-          "summary": "这更像是一种安排。",
-          "source": "Engadget",
-          "url": "https://www.engadget.com/2211107/volkswagen-is-employing-100-sheep-at-a-solar-farm-in-poland/",
-          "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/09",
-          "fetchedAt": "2026-07-09T04:10:43.232Z"
         }
       ]
     },
@@ -3256,7 +3220,7 @@
           "url": "https://www.theverge.com/tech/966964/emtb-riders-are-not-cheaters",
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "07/18",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "美国准备好迎接这种奇特的吉普车外观、可以自动停车的电动汽车了吗？",
@@ -3265,7 +3229,7 @@
           "url": "https://www.theverge.com/transportation/966498/chip-motors-low-speed-ev-remote-park-price",
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "07/17",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "调查人员证实，德克萨斯州发生致命车祸的特斯拉司机“100%”踩油门，超越了 FSD",
@@ -3274,7 +3238,7 @@
           "url": "https://www.theverge.com/transportation/966563/tesla-texas-crash-ntsb-investigation",
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "07/16",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "Lucid 的破产传闻对电动汽车的未来来说是一个坏兆头",
@@ -3283,7 +3247,7 @@
           "url": "https://www.theverge.com/transportation/965924/lucids-bankruptcy-rumor-is-a-bad-sign-for-the-ev-future",
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "07/16",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "由于高油价，电动汽车市场正走上复苏之路",
@@ -3292,7 +3256,7 @@
           "url": "https://www.theverge.com/transportation/964663/ev-sales-q2-2026-gas-prices-tesla-toyota",
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "07/14",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "奥迪Q7涨价，SQ7接近10万美元",
@@ -3301,7 +3265,7 @@
           "url": "https://www.motor1.com/news/802062/2027-audi-q7-price-sq7/",
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "07/18",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "你知道中国制造了甲虫克隆吗？它变得更好了",
@@ -3635,15 +3599,6 @@
           "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
           "time": "07/09",
           "fetchedAt": "2026-07-09T10:01:25.910Z"
-        },
-        {
-          "title": "阿斯顿·马丁推迟推出电动汽车以保持 V12 发动机的活力",
-          "summary": "在大型发动机即将灭绝的世界里，阿斯顿·马丁正在为爱好者们保留它们。",
-          "source": "Motor1",
-          "url": "https://www.motor1.com/news/800882/aston-martin-v12-evs-delay/",
-          "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/09",
-          "fetchedAt": "2026-07-09T04:10:43.232Z"
         }
       ]
     },
@@ -3659,7 +3614,7 @@
           "url": "https://www.ign.com/articles/matt-damon-wants-new-jason-bourne-movie-to-be-like-the-first-3-as-work-with-conclave-director-continues",
           "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/19",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "Valve 的蒸汽机工程师表示未来前景严峻，内存危机“仍在恶化”",
@@ -3668,7 +3623,7 @@
           "url": "https://www.ign.com/articles/steam-machine-engineers-at-valve-signal-grim-future-as-memory-crisis-is-still-getting-worse",
           "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/19",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "导演确认《使命召唤》电影将在现代战争宇宙中发生",
@@ -3677,7 +3632,7 @@
           "url": "https://www.ign.com/articles/call-of-duty-movie-to-take-place-in-the-modern-warfare-universe-director-confirms",
           "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/19",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "Disco Elysium Dev ZA/UM 宣布裁员多达 32 名员工",
@@ -3686,7 +3641,7 @@
           "url": "https://www.ign.com/articles/disco-elysium-dev-zaum-announces-layoffs-affecting-up-to-32-staff",
           "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/19",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "克里斯托弗·诺兰表示，在《奥德赛》将他推向极限之后，我们“至少”要三年才能看到他的下一部电影",
@@ -3695,7 +3650,7 @@
           "url": "https://www.ign.com/articles/christopher-nolan-says-it-will-be-at-least-3-years-before-we-see-his-next-film-after-the-odyssey-pushed-him-to-his-limits",
           "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/18",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "马拉松游戏总监在动荡时期离开 Bungie",
@@ -3704,7 +3659,7 @@
           "url": "https://www.gamespot.com/articles/marathon-game-director-leaves-bungie-at-a-tumultuous-time/",
           "image": "https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/18",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "詹妮弗·英格利希因健康问题退出《毁灭战士》角色",
@@ -4935,7 +4890,7 @@
           "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "07/18",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "GitHub Copilot 应用程序现在可在使用指标 API 中使用",
@@ -4944,7 +4899,7 @@
           "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "07/18",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "Copilot 代码审查：定制和可配置性改进",
@@ -4953,7 +4908,7 @@
           "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "07/18",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论",
@@ -4962,7 +4917,7 @@
           "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "07/18",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "项目的高级搜索已普遍可用",
@@ -4971,7 +4926,16 @@
           "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "07/17",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
+        },
+        {
+          "title": "探知 AMD GFX1250 LLVM 茶叶",
+          "summary": "开发方向有一条新动态，适合继续跟进原文细节。",
+          "source": "Hacker News",
+          "url": "https://chipsandcheese.com/p/scrying-the-amd-gfx1250-llvm-tea",
+          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/19",
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "LLM-综合多变量微积分课程",
@@ -5539,15 +5503,6 @@
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "07/09",
           "fetchedAt": "2026-07-09T10:01:25.910Z"
-        },
-        {
-          "title": "因此：长篇哲学讲座",
-          "summary": "开发方向有一条新动态，适合继续跟进原文细节。",
-          "source": "Hacker News",
-          "url": "https://ergo.org/",
-          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/09",
-          "fetchedAt": "2026-07-09T04:10:43.232Z"
         }
       ]
     },
@@ -5557,13 +5512,22 @@
       "description": "影像、城市、效率工具、文化消费和日常灵感。",
       "items": [
         {
+          "title": "TDS REVIEW | 索尼 WH-1000XX 无线降噪头戴耳机体验",
+          "summary": "这篇文章是TDSStudio在少数派上的第26篇文章，依然是全平台首发。1000XTheColleXion，这是索尼1000X系列的十周年纪念产品线。完全想不到跟群友们畅聊MDR-10...",
+          "source": "少数派",
+          "url": "https://sspai.com/post/112374",
+          "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/19",
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
+        },
+        {
           "title": "小米 NAS 拆解与初步上手：它会是你的第一台 NAS 吗？",
           "summary": "小米智能存储最适合两类用户：家里已经有较多米家设备的人，以及小米手机用户。 查看全文",
           "source": "少数派",
           "url": "https://sspai.com/post/112398",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/18",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "本周看什么 | 最近值得一看的 10 部作品",
@@ -5572,7 +5536,7 @@
           "url": "https://sspai.com/post/112444",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/17",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "具透 | watchOS 27 公测版一览：动态应用网格、Liquid Glass 微调……",
@@ -5581,7 +5545,7 @@
           "url": "https://sspai.com/post/112430",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/17",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "UniGetUI：可能是 Windows 下最好用的应用商店",
@@ -5590,16 +5554,7 @@
           "url": "https://sspai.com/post/111128",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/17",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
-        },
-        {
-          "title": "派早报：OPPO 宣布调整旗下子品牌的全球产品策略等",
-          "summary": "月之暗面发布 Kimi K3 模型，支付宝升级 Apple 教育优惠认证等。 查看全文",
-          "source": "少数派",
-          "url": "https://sspai.com/post/112414",
-          "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/17",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "Lifehacker Deals Live Blog：最好的技术销售，尽在一个地方",
@@ -5608,6 +5563,15 @@
           "url": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/18",
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
+        },
+        {
+          "title": "派早报：OPPO 宣布调整旗下子品牌的全球产品策略等",
+          "summary": "月之暗面发布 Kimi K3 模型，支付宝升级 Apple 教育优惠认证等。 查看全文",
+          "source": "少数派",
+          "url": "https://sspai.com/post/112414",
+          "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/17",
           "fetchedAt": "2026-07-19T03:48:47.176Z"
         },
         {
@@ -6050,15 +6014,6 @@
           "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
           "time": "07/08",
           "fetchedAt": "2026-07-09T10:01:25.910Z"
-        },
-        {
-          "title": "好的桌面需要设备，更需要灯光：明基×少数派线下店体验空间升级",
-          "summary": "如果你最近正在考虑升级自己的桌面，或者想体验墨水屏显示器、屏幕挂灯、阅读灯在真实环境下的使用效果，欢迎来到少数派深圳线下体验店，坐下来试试看。 查看全文",
-          "source": "少数派",
-          "url": "https://sspai.com/post/110993",
-          "image": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/08",
-          "fetchedAt": "2026-07-09T04:10:43.232Z"
         }
       ]
     },
@@ -6068,13 +6023,40 @@
       "description": "动画、漫画、声优、二次元文化和新番动态。",
       "items": [
         {
+          "title": "配音演员日高里奈、内田雄真宣布第一个孩子出生",
+          "summary": "热带胭脂之声！ Precure's Cure La Mer & Delicious Party♡Precure's Black Pepper 迎来健康女婴",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/interest/2026-07-19/voice-actors-rina-hidaka-yuma-uchida-announce-birth-of-1st-child/.239768",
+          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/19",
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
+        },
+        {
+          "title": "《BLEACH Mirrors High》手游预告片揭晓 3 位新角色",
+          "summary": "笹原优为时岛舞子配音、巴取翔吾为环道配音、和泉深花为十林奈鸣配音",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-07-19/bleach-mirrors-high-mobile-game-trailer-reveals-3-new-characters/.239749",
+          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/19",
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
+        },
+        {
+          "title": "Crunchyroll 公布新季《武食转生》、《100 个女朋友》、《你和我是截然相反》的英文配音演员阵容",
+          "summary": "所有 3 系列的英语配音将于周日首次亮相",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-07-19/crunchyroll-reveals-english-dub-casts-for-new-seasons-of-mushoku-tensei-100-girlfriends-you-and-i-/.239751",
+          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
+          "time": "07/19",
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
+        },
+        {
           "title": "花与修罗漫画八月完结",
           "summary": "成长系列于 2021 年 6 月推出，灵感源自动画于 2025 年 1 月",
           "source": "Anime News Network",
           "url": "https://www.animenewsnetwork.com/news/2026-07-18/flower-and-asura-manga-ends-in-august/.239761",
           "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
           "time": "07/19",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "“连学生会也有漏洞！”动漫公布更多演员阵容",
@@ -6083,7 +6065,7 @@
           "url": "https://www.animenewsnetwork.com/news/2026-07-18/even-the-student-council-has-its-holes-anime-reveals-more-cast/.239755",
           "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
           "time": "07/19",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "画这个，然后死！ – 第 1-3 集",
@@ -7389,51 +7371,6 @@
           "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
           "time": "07/09",
           "fetchedAt": "2026-07-09T10:01:25.910Z"
-        },
-        {
-          "title": "配音演员涩谷小豆宣布结婚",
-          "summary": "并于2025年结婚",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/interest/2026-07-03/voice-actor-azuki-shibuya-announces-marriage/.239254",
-          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/09",
-          "fetchedAt": "2026-07-09T04:10:43.232Z"
-        },
-        {
-          "title": "真人版《月色黄昏》预告片揭晓主题曲",
-          "summary": "浪速男子表演《月光》",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-07-08/live-action-in-the-clear-moonlit-dusk-film-trailer-reveals-theme-song/.239432",
-          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/09",
-          "fetchedAt": "2026-07-09T04:10:43.232Z"
-        },
-        {
-          "title": "《你、烟火和我们的约定》动画电影视频预览主题曲",
-          "summary": "timelesz 歌曲搭配 7 月 17 日电影、现实生活中的长冈节日烟花片段",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-07-08/you-fireworks-and-our-promise-anime-film-video-previews-theme-song/.239437",
-          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/09",
-          "fetchedAt": "2026-07-09T04:10:43.232Z"
-        },
-        {
-          "title": "《星球大战：幻视》的“黑色”短片获得艾美奖动画节目提名",
-          "summary": "Shinya Ohira，David Production 的短片与 Bob's Burgers、Rick & Morty、Simpsons、Smiling Friends、South...",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-07-08/star-wars-visions-black-short-nominated-for-emmy-for-animated-program/.239430",
-          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/09",
-          "fetchedAt": "2026-07-09T04:10:43.232Z"
-        },
-        {
-          "title": "《马里奥赛车巡回赛》游戏将于 9 月 29 日结束服务",
-          "summary": "游戏于 2019 年推出，2023 年停止添加新内容",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-07-08/mario-kart-tour-game-ends-service-on-september-29/.239425",
-          "image": "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/09",
-          "fetchedAt": "2026-07-09T04:10:43.232Z"
         }
       ]
     },
@@ -7483,7 +7420,7 @@
           "url": "https://petapixel.com/2026/07/18/how-to-light-and-shoot-product-videos-in-your-dining-room/",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/18",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "摄影师起诉艺术家涉嫌盗用她的十几张照片",
@@ -7492,7 +7429,7 @@
           "url": "https://petapixel.com/2026/07/18/photographer-sues-artist-over-alleged-appropriation-of-more-than-a-dozen-of-her-images/",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/18",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "OnePlus 的退出意味着在缺乏选择的市场中选择更少",
@@ -7501,7 +7438,7 @@
           "url": "https://petapixel.com/2026/07/18/oneplus-exit-means-fewer-options-in-a-market-mired-by-lack-of-choice/",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/18",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "几乎所有无反光镜相机的多功能变焦超值优惠",
@@ -7510,7 +7447,7 @@
           "url": "https://petapixel.com/2026/07/17/the-best-deals-on-versatile-zooms-for-nearly-every-mirrorless-camera/",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/18",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "CineStill 50D 是适合灿烂夏日的完美慢速胶片",
@@ -7519,7 +7456,7 @@
           "url": "https://petapixel.com/2026/07/17/cinestill-50d-is-a-perfect-slow-speed-film-for-bright-summer-days/",
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/18",
-          "fetchedAt": "2026-07-19T03:48:47.176Z"
+          "fetchedAt": "2026-07-19T08:32:15.923Z"
         },
         {
           "title": "哈勃捕捉到银河系的两个古老星团",
@@ -8510,24 +8447,6 @@
           "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
           "time": "07/09",
           "fetchedAt": "2026-07-09T10:01:25.910Z"
-        },
-        {
-          "title": "测试的 6 种最佳图像放大工具：照片放大而不具有塑料外观",
-          "summary": "在过去的几年里，由人工智能驱动的图像放大工具已经非常擅长放大照片。挑战不再是图像是否可以放大到 4K 甚至 8K，而是结果是否仍然看起来像原始照片。 [ 阅读更多 ]",
-          "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/07/08/6-best-image-upscalers-tested-photo-upscaling-without-the-plastic-look/",
-          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/09",
-          "fetchedAt": "2026-07-09T04:10:43.232Z"
-        },
-        {
-          "title": "IMAX 推出全新大画幅胶片摄影机，曾拍摄《奥德赛》并配备 LCD 屏幕",
-          "summary": "关于《奥德赛》的文章已经有很多了。历史上第一部完全使用超大幅面 IMAX 系统拍摄的电影。不过，这只有在IMAX发布新一代摄影机后才有可能实现。 [ 阅读更多 ]",
-          "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/07/08/imax-reveals-new-large-format-film-camera-that-filmed-the-odyssey-and-boasts-lcd-screen/",
-          "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=80",
-          "time": "07/09",
-          "fetchedAt": "2026-07-09T04:10:43.232Z"
         }
       ]
     }
