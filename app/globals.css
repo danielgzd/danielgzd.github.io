@@ -56,36 +56,80 @@ a {
 }
 
 .site-shell {
-  width: min(1120px, calc(100% - 36px));
+  width: min(1180px, calc(100% - 40px));
   margin: 0 auto;
-  padding: 22px 0 72px;
+  padding: 16px 0 80px;
+}
+
+.site-header {
+  position: sticky;
+  top: 12px;
+  z-index: 20;
+  padding-top: 1px;
 }
 
 .top-nav {
-  position: sticky;
-  top: 0;
-  z-index: 10;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  min-height: 58px;
-  border-bottom: 1px solid var(--line);
-  background: rgba(255, 250, 253, 0.82);
-  backdrop-filter: blur(16px);
+  min-height: 64px;
+  border: 1px solid rgba(255, 255, 255, 0.82);
+  border-radius: 20px;
+  padding: 8px 10px 8px 14px;
+  background: rgba(255, 255, 255, 0.78);
+  box-shadow:
+    0 14px 36px rgba(31, 41, 55, 0.08),
+    inset 0 0 0 1px rgba(23, 32, 51, 0.04);
+  backdrop-filter: blur(20px) saturate(1.25);
   animation: slide-down 520ms var(--ease-out) both;
 }
 
 .brand {
-  color: #c0568a;
-  font-size: 1.05rem;
-  font-weight: 850;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  min-width: 0;
 }
 
-.top-nav div {
-  display: flex;
-  gap: 22px;
+.brand-mark {
+  display: grid;
+  width: 40px;
+  height: 40px;
+  place-items: center;
+  border-radius: 13px;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 900;
+  background: linear-gradient(145deg, #ca5d90, #8a5fc7);
+  box-shadow: 0 8px 20px rgba(192, 86, 138, 0.24);
+}
+
+.brand-copy {
+  display: grid;
+  gap: 1px;
+}
+
+.brand-copy strong {
+  color: #9d3f71;
+  font-size: 0.98rem;
+  font-weight: 850;
+  line-height: 1.2;
+}
+
+.brand-copy small {
   color: var(--muted);
-  font-size: 0.92rem;
+  font-size: 0.68rem;
+  font-weight: 650;
+  letter-spacing: 0.04em;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--muted);
+  font-size: 0.9rem;
+  font-weight: 700;
 }
 
 .top-nav a:hover {
@@ -96,10 +140,22 @@ a {
   position: relative;
 }
 
+.nav-links a {
+  display: inline-flex;
+  min-height: 40px;
+  align-items: center;
+  border-radius: 12px;
+  padding: 0 15px;
+}
+
+.nav-links a:hover {
+  background: rgba(255, 234, 243, 0.7);
+}
+
 .top-nav a::after {
   position: absolute;
   right: 0;
-  bottom: -7px;
+  bottom: 3px;
   left: 0;
   height: 2px;
   content: "";
@@ -594,6 +650,9 @@ a {
 }
 
 #tab-ai:checked ~ .tab-labels label[for="tab-ai"],
+#tab-cn-market:checked ~ .tab-labels label[for="tab-cn-market"],
+#tab-us-market:checked ~ .tab-labels label[for="tab-us-market"],
+#tab-middle-east:checked ~ .tab-labels label[for="tab-middle-east"],
 #tab-world:checked ~ .tab-labels label[for="tab-world"],
 #tab-finance:checked ~ .tab-labels label[for="tab-finance"],
 #tab-tech:checked ~ .tab-labels label[for="tab-tech"],
@@ -618,6 +677,9 @@ a {
 }
 
 #tab-ai:checked ~ .tab-panel[data-panel="ai"],
+#tab-cn-market:checked ~ .tab-panel[data-panel="cn-market"],
+#tab-us-market:checked ~ .tab-panel[data-panel="us-market"],
+#tab-middle-east:checked ~ .tab-panel[data-panel="middle-east"],
 #tab-world:checked ~ .tab-panel[data-panel="world"],
 #tab-finance:checked ~ .tab-panel[data-panel="finance"],
 #tab-tech:checked ~ .tab-panel[data-panel="tech"],
@@ -748,12 +810,37 @@ a {
 
 @media (max-width: 640px) {
   .site-shell {
-    width: min(100% - 26px, 1120px);
+    width: min(100% - 24px, 1180px);
+    padding-top: 10px;
     padding-bottom: 48px;
   }
 
-  .top-nav div {
-    gap: 14px;
+  .site-header {
+    top: 8px;
+  }
+
+  .top-nav {
+    min-height: 58px;
+    border-radius: 17px;
+    padding: 6px 7px 6px 10px;
+  }
+
+  .brand-mark {
+    width: 36px;
+    height: 36px;
+  }
+
+  .brand-copy small {
+    display: none;
+  }
+
+  .nav-links {
+    gap: 0;
+  }
+
+  .nav-links a {
+    min-height: 40px;
+    padding: 0 10px;
   }
 
   .hero h1 {

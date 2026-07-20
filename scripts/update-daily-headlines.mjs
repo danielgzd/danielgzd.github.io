@@ -2,6 +2,45 @@ import { readFile, writeFile } from "node:fs/promises";
 
 const categories = [
   {
+    id: "cn-market",
+    label: "A股",
+    description: "A 股公司公告、盘面变化、政策与行业催化，优先来自财联社公开电报。",
+    image:
+      "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+    clsTopic: "cn-market",
+    feeds: [],
+    fallback: [
+      ["A 股市场进入新一轮信息窗口", "关注公司公告、产业政策、成交结构与主要指数变化，并以交易所公告为准。"],
+      ["市场热点需要结合基本面验证", "短期消息可能放大波动，阅读快讯后仍应回到公告和正式披露。"],
+    ],
+  },
+  {
+    id: "us-market",
+    label: "美股",
+    description: "美股指数、科技公司、美联储与全球资金动态，优先来自财联社公开电报。",
+    image:
+      "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    clsTopic: "us-market",
+    feeds: [{ source: "CNBC", url: "https://www.cnbc.com/id/100003114/device/rss/rss.html" }],
+    fallback: [
+      ["美股市场继续关注盈利与利率路径", "主要指数、科技公司财报和美联储预期共同影响全球风险偏好。"],
+      ["跨市场波动需要关注交易时段差异", "盘前、盘中与盘后消息可能产生不同影响，应结合正式披露持续观察。"],
+    ],
+  },
+  {
+    id: "middle-east",
+    label: "中东",
+    description: "中东安全局势、外交进展、能源运输与市场影响，优先来自财联社公开电报。",
+    image:
+      "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=1200&q=80",
+    clsTopic: "middle-east",
+    feeds: [{ source: "BBC 中文", url: "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml" }],
+    fallback: [
+      ["中东局势持续影响能源与航运预期", "关注各方正式声明、外交斡旋和主要航道变化，避免依赖未经核实的单一消息。"],
+      ["地缘冲突信息需要交叉验证", "快讯适合发现线索，重要进展仍应结合政府、国际组织与多家媒体报道判断。"],
+    ],
+  },
+  {
     id: "ai",
     label: "AI",
     description: "人工智能、模型、智能硬件与 AI 产品动态。",
@@ -225,6 +264,33 @@ const dictionary = new Map([
 ]);
 
 const translationCache = new Map();
+let clsTelegraphCache;
+
+const clsMatchers = {
+  "cn-market": (item) =>
+    item.stock_list?.some((stock) => /^(sh|sz|bj)/i.test(stock.StockID ?? "")) ||
+    /(A股|沪指|深证|创业板|科创板|北交所|上证|两融|上市公司|证监会|交易所)/i.test(
+      `${item.title ?? ""} ${item.brief ?? ""} ${item.subjects?.map((subject) => subject.subject_name).join(" ") ?? ""}`,
+    ),
+  "us-market": (item) =>
+    /(美股|纳指|纳斯达克|道指|道琼斯|标普|华尔街|美联储|纽交所|英伟达|特斯拉|苹果公司|微软|Meta|亚马逊)/i.test(
+      item.title ?? "",
+    ),
+  "middle-east": (item) =>
+    /(中东|以色列|伊朗|加沙|巴勒斯坦|黎巴嫩|叙利亚|也门|胡塞|卡塔尔|沙特|阿联酋|伊拉克|约旦|霍尔木兹|红海|哈马斯|真主党)/i.test(
+      `${item.title ?? ""} ${item.brief ?? ""}`,
+    ),
+};
+
+const categoryContentMatchers = {
+  "us-market": /(美股|纳指|纳斯达克|道指|道琼斯|标普|华尔街|美联储|纽交所|英伟达|特斯拉|苹果公司|微软|亚马逊|U\.S\. stocks?|Nasdaq|Dow Jones|S&P 500|Wall Street|Federal Reserve|NYSE|Nvidia|Tesla|Apple|Microsoft|Meta|Amazon)/i,
+  "middle-east": /(中东|以色列|伊朗|加沙|巴勒斯坦|黎巴嫩|叙利亚|也门|胡塞|卡塔尔|沙特|阿联酋|伊拉克|约旦|霍尔木兹|红海|哈马斯|真主党|Middle East|Israel|Iran|Gaza|Palestin|Lebanon|Syria|Yemen|Houthi|Qatar|Saudi|UAE|Iraq|Jordan|Hormuz|Red Sea|Hamas|Hezbollah)/i,
+};
+
+function matchesCategoryContent(item, category) {
+  const matcher = categoryContentMatchers[category.id];
+  return !matcher || matcher.test(`${item.title ?? ""} ${item.summary ?? ""}`);
+}
 
 function decode(value = "") {
   return value
@@ -373,12 +439,16 @@ async function fetchFeed(feed, category) {
   const entries = xml.match(/<item[\s\S]*?<\/item>/gi) ?? xml.match(/<entry[\s\S]*?<\/entry>/gi) ?? [];
 
   return entries
-    .slice(0, 5)
+    .slice(0, categoryContentMatchers[category.id] ? 20 : 5)
     .reduce(async (promise, item) => {
       const list = await promise;
       const rawTitle = tagValue(item, "title");
       const description =
         tagValue(item, "description") || tagValue(item, "summary") || tagValue(item, "content:encoded");
+
+      if (!matchesCategoryContent({ title: rawTitle, summary: description }, category)) {
+        return list;
+      }
 
       const parsed = {
         title: await localize(rawTitle, category.label),
@@ -391,11 +461,74 @@ async function fetchFeed(feed, category) {
       };
 
       parsed.summary = await parsed.summary;
-      if (parsed.title && parsed.url) {
+      if (parsed.title && parsed.url && matchesCategoryContent(parsed, category)) {
         list.push(parsed);
       }
       return list;
     }, Promise.resolve([]));
+}
+
+async function fetchClsTelegraphs() {
+  if (clsTelegraphCache) {
+    return clsTelegraphCache;
+  }
+
+  const endpoint = new URL("https://www.cls.cn/api/cache");
+  endpoint.searchParams.set("rn", "100");
+  endpoint.searchParams.set("lastTime", String(Math.floor(Date.now() / 1000)));
+  endpoint.searchParams.set("name", "telegraph");
+
+  clsTelegraphCache = fetch(endpoint, {
+    headers: {
+      accept: "application/json",
+      referer: "https://www.cls.cn/telegraph",
+      "user-agent": "danielgzd.github.io daily-radar",
+    },
+  }).then(async (response) => {
+    if (!response.ok) {
+      throw new Error(`财联社 ${response.status}`);
+    }
+
+    const payload = await response.json();
+    return Array.isArray(payload?.data?.roll_data) ? payload.data.roll_data : [];
+  });
+
+  return clsTelegraphCache;
+}
+
+async function fetchClsItems(category) {
+  const matcher = clsMatchers[category.clsTopic];
+  if (!matcher) {
+    return [];
+  }
+
+  const telegraphs = await fetchClsTelegraphs();
+  return telegraphs
+    .filter((item) => matcher(item) && decode(item.brief || item.content || ""))
+    .slice(0, 8)
+    .map((item) => {
+      const publishedAt = Number(item.ctime) > 0 ? new Date(Number(item.ctime) * 1000) : now;
+      const rawSummary = decode(item.brief || item.content || "");
+      const summary = rawSummary.slice(0, 116);
+
+      return {
+        title: decode(item.title),
+        summary: summary.length < rawSummary.length ? `${summary}...` : summary,
+        source: "财联社电报",
+        url: `https://www.cls.cn/detail/${item.id}`,
+        image: item.images?.[0] || category.image,
+        time: new Intl.DateTimeFormat("zh-CN", {
+          timeZone: "Asia/Shanghai",
+          month: "2-digit",
+          day: "2-digit",
+          hour: "2-digit",
+          minute: "2-digit",
+          hour12: false,
+        }).format(publishedAt),
+        fetchedAt: publishedAt.toISOString(),
+      };
+    })
+    .filter((item) => item.title && item.url);
 }
 
 function fallbackItems(category) {
@@ -471,13 +604,28 @@ async function probeUrl(url) {
   return true;
 }
 
-async function validateExistingItems(items) {
-  const normalized = items.map(normalizeExistingItem).filter((item) => item.title && item.url && isRecent(item));
+async function validateExistingItems(items, category) {
+  const normalized = items
+    .map(normalizeExistingItem)
+    .filter(
+      (item) =>
+        item.title &&
+        item.summary &&
+        item.source &&
+        item.url &&
+        item.image &&
+        isRecent(item) &&
+        matchesCategoryContent(item, category),
+    );
   const checked = [];
 
-  for (const item of normalized) {
-    if (await probeUrl(item.url)) {
-      checked.push(item);
+  for (let index = 0; index < normalized.length; index += 8) {
+    const batch = normalized.slice(index, index + 8);
+    const results = await Promise.all(batch.map(async (item) => ({ item, valid: await probeUrl(item.url) })));
+    for (const result of results) {
+      if (result.valid) {
+        checked.push(result.item);
+      }
     }
   }
 
@@ -496,8 +644,12 @@ function uniqueByUrl(items) {
 }
 
 async function buildCategory(category, existingMap) {
-  const existing = await validateExistingItems(existingMap.get(category.id) ?? []);
-  const results = await Promise.allSettled(category.feeds.map((feed) => fetchFeed(feed, category)));
+  const existing = await validateExistingItems(existingMap.get(category.id) ?? [], category);
+  const sources = category.feeds.map((feed) => fetchFeed(feed, category));
+  if (category.clsTopic) {
+    sources.unshift(fetchClsItems(category));
+  }
+  const results = await Promise.allSettled(sources);
   const fetched = results
     .filter((result) => result.status === "fulfilled")
     .flatMap((result) => result.value);
@@ -509,7 +661,9 @@ async function buildCategory(category, existingMap) {
     id: category.id,
     label: category.label,
     description: category.description,
-    items: items.length >= 2 ? items : fallbackItems(category),
+    items: items.length
+      ? uniqueByUrl([...items, ...fallbackItems(category)]).slice(0, 6)
+      : fallbackItems(category),
   };
 }
 

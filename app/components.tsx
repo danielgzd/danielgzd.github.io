@@ -7,16 +7,22 @@ const categories = radar.categories as RadarCategory[];
 
 export function TopNav() {
   return (
-    <nav className="top-nav">
-      <Link href="/" className="brand">
-        Daniel
-      </Link>
-      <div>
-        <Link href="/resume">履历</Link>
-        <Link href="/projects">项目</Link>
-        <Link href="/radar">雷达</Link>
-      </div>
-    </nav>
+    <header className="site-header">
+      <nav className="top-nav" aria-label="主导航">
+        <Link href="/" className="brand" aria-label="Daniel 首页">
+          <span className="brand-mark">D</span>
+          <span className="brand-copy">
+            <strong>Daniel</strong>
+            <small>Engineer &amp; Builder</small>
+          </span>
+        </Link>
+        <div className="nav-links">
+          <Link href="/resume">履历</Link>
+          <Link href="/projects">项目</Link>
+          <Link href="/radar">雷达</Link>
+        </div>
+      </nav>
+    </header>
   );
 }
 

@@ -9,7 +9,7 @@ export default function RadarPage() {
         <p className="eyebrow">Daily Radar</p>
         <h1>今日信息流</h1>
         <p>
-          技术之外，也收集动漫、展会、汉服、摄影、人物、风景和生活灵感。这里更像一个轻量兴趣看板。
+          聚合 A 股、美股、中东局势与科技趋势，也收集动漫、摄影和生活灵感。每六小时整理一次，只保留值得继续阅读的线索。
         </p>
       </section>
 
