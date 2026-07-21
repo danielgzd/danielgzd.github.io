@@ -10,7 +10,10 @@ const categories = [
     clsTopic: "cn-market",
     feeds: [],
     fallback: [
-      ["A 股市场进入新一轮信息窗口", "关注公司公告、产业政策、成交结构与主要指数变化，并以交易所公告为准。"],
+      [
+        "A 股市场进入新一轮信息窗口",
+        "关注公司公告、产业政策、成交结构与主要指数变化，并以交易所公告为准。",
+      ],
       ["市场热点需要结合基本面验证", "短期消息可能放大波动，阅读快讯后仍应回到公告和正式披露。"],
     ],
   },
@@ -23,8 +26,14 @@ const categories = [
     clsTopic: "us-market",
     feeds: [{ source: "CNBC", url: "https://www.cnbc.com/id/100003114/device/rss/rss.html" }],
     fallback: [
-      ["美股市场继续关注盈利与利率路径", "主要指数、科技公司财报和美联储预期共同影响全球风险偏好。"],
-      ["跨市场波动需要关注交易时段差异", "盘前、盘中与盘后消息可能产生不同影响，应结合正式披露持续观察。"],
+      [
+        "美股市场继续关注盈利与利率路径",
+        "主要指数、科技公司财报和美联储预期共同影响全球风险偏好。",
+      ],
+      [
+        "跨市场波动需要关注交易时段差异",
+        "盘前、盘中与盘后消息可能产生不同影响，应结合正式披露持续观察。",
+      ],
     ],
   },
   {
@@ -36,8 +45,14 @@ const categories = [
     clsTopic: "middle-east",
     feeds: [{ source: "BBC 中文", url: "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml" }],
     fallback: [
-      ["中东局势持续影响能源与航运预期", "关注各方正式声明、外交斡旋和主要航道变化，避免依赖未经核实的单一消息。"],
-      ["地缘冲突信息需要交叉验证", "快讯适合发现线索，重要进展仍应结合政府、国际组织与多家媒体报道判断。"],
+      [
+        "中东局势持续影响能源与航运预期",
+        "关注各方正式声明、外交斡旋和主要航道变化，避免依赖未经核实的单一消息。",
+      ],
+      [
+        "地缘冲突信息需要交叉验证",
+        "快讯适合发现线索，重要进展仍应结合政府、国际组织与多家媒体报道判断。",
+      ],
     ],
   },
   {
@@ -47,12 +62,19 @@ const categories = [
     image:
       "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=1200&q=80",
     feeds: [
+      { source: "Google AI", url: "https://blog.google/technology/ai/rss/" },
       { source: "MIT Technology Review", url: "https://www.technologyreview.com/feed/" },
       { source: "The Decoder", url: "https://the-decoder.com/feed/" },
     ],
     fallback: [
-      ["AI 产品继续从聊天框走向工作流", "模型能力正在进入搜索、代码、办公和终端设备，真正的竞争点会回到场景完成度。"],
-      ["端侧智能成为新一轮硬件关键词", "隐私、响应速度和续航会决定 AI 功能能否从演示走向日常使用。"],
+      [
+        "AI 产品继续从聊天框走向工作流",
+        "模型能力正在进入搜索、代码、办公和终端设备，真正的竞争点会回到场景完成度。",
+      ],
+      [
+        "端侧智能成为新一轮硬件关键词",
+        "隐私、响应速度和续航会决定 AI 功能能否从演示走向日常使用。",
+      ],
     ],
   },
   {
@@ -66,8 +88,14 @@ const categories = [
       { source: "纽约时报中文网", url: "https://cn.nytimes.com/rss/" },
     ],
     fallback: [
-      ["国际局势持续牵动能源、贸易与科技产业链", "地缘政治的变化正在影响企业供应链、市场预期和普通人的消费选择。"],
-      ["全球公共议题进入更复杂的协商阶段", "气候、移民、安全和技术治理继续交织，信息判断比单点新闻更重要。"],
+      [
+        "国际局势持续牵动能源、贸易与科技产业链",
+        "地缘政治的变化正在影响企业供应链、市场预期和普通人的消费选择。",
+      ],
+      [
+        "全球公共议题进入更复杂的协商阶段",
+        "气候、移民、安全和技术治理继续交织，信息判断比单点新闻更重要。",
+      ],
     ],
   },
   {
@@ -81,8 +109,14 @@ const categories = [
       { source: "CNBC", url: "https://www.cnbc.com/id/100003114/device/rss/rss.html" },
     ],
     fallback: [
-      ["全球市场继续围绕利率与科技股重新定价", "资金正在寻找增长确定性，AI、芯片、能源和消费成为观察重点。"],
-      ["公司增长叙事更依赖真实现金流", "宏观不确定时，盈利质量、成本控制和业务韧性会被市场重新审视。"],
+      [
+        "全球市场继续围绕利率与科技股重新定价",
+        "资金正在寻找增长确定性，AI、芯片、能源和消费成为观察重点。",
+      ],
+      [
+        "公司增长叙事更依赖真实现金流",
+        "宏观不确定时，盈利质量、成本控制和业务韧性会被市场重新审视。",
+      ],
     ],
   },
   {
@@ -94,10 +128,18 @@ const categories = [
     feeds: [
       { source: "The Verge", url: "https://www.theverge.com/rss/tech/index.xml" },
       { source: "Engadget", url: "https://www.engadget.com/rss.xml" },
+      { source: "Apple Developer", url: "https://developer.apple.com/news/rss/news.rss" },
+      { source: "Ars Technica", url: "https://feeds.arstechnica.com/arstechnica/index" },
     ],
     fallback: [
-      ["消费电子重新强调系统级体验", "硬件参数之外，AI 能力、跨设备协同和软件更新正在成为更强的购买理由。"],
-      ["互联网产品继续向工具化和订阅化演进", "平台开始把效率、内容和智能助手整合进更完整的使用场景。"],
+      [
+        "消费电子重新强调系统级体验",
+        "硬件参数之外，AI 能力、跨设备协同和软件更新正在成为更强的购买理由。",
+      ],
+      [
+        "互联网产品继续向工具化和订阅化演进",
+        "平台开始把效率、内容和智能助手整合进更完整的使用场景。",
+      ],
     ],
   },
   {
@@ -111,8 +153,14 @@ const categories = [
       { source: "Motor1", url: "https://www.motor1.com/rss/news/all/" },
     ],
     fallback: [
-      ["智能汽车竞争继续转向软件体验", "当电动平台逐渐趋同，座舱、辅助驾驶、补能和长期 OTA 会更容易拉开差距。"],
-      ["车企开始用生态能力争夺用户时间", "车机应用、手机互联和智能助手会影响用户对一辆车的长期满意度。"],
+      [
+        "智能汽车竞争继续转向软件体验",
+        "当电动平台逐渐趋同，座舱、辅助驾驶、补能和长期 OTA 会更容易拉开差距。",
+      ],
+      [
+        "车企开始用生态能力争夺用户时间",
+        "车机应用、手机互联和智能助手会影响用户对一辆车的长期满意度。",
+      ],
     ],
   },
   {
@@ -126,8 +174,14 @@ const categories = [
       { source: "GameSpot", url: "https://www.gamespot.com/feeds/news/" },
     ],
     fallback: [
-      ["游戏行业继续寻找大作与长线运营的平衡", "研发成本、玩家时间和社区生态决定了新作品能否长期留在日常里。"],
-      ["创作者工具正在改变玩家和游戏的关系", "模组、UGC 和直播社区让游戏不只是消费品，也是一套持续生长的内容系统。"],
+      [
+        "游戏行业继续寻找大作与长线运营的平衡",
+        "研发成本、玩家时间和社区生态决定了新作品能否长期留在日常里。",
+      ],
+      [
+        "创作者工具正在改变玩家和游戏的关系",
+        "模组、UGC 和直播社区让游戏不只是消费品，也是一套持续生长的内容系统。",
+      ],
     ],
   },
   {
@@ -137,11 +191,16 @@ const categories = [
     image:
       "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
     feeds: [
+      { source: "GitHub Engineering", url: "https://github.blog/engineering/feed/" },
       { source: "GitHub Blog", url: "https://github.blog/changelog/feed/" },
+      { source: "Cloudflare Blog", url: "https://blog.cloudflare.com/rss/" },
       { source: "Hacker News", url: "https://hnrss.org/frontpage" },
     ],
     fallback: [
-      ["开发者工具继续向自动化协作升级", "代码生成只是起点，真正有价值的是能帮助理解上下文、执行验证和降低维护成本。"],
+      [
+        "开发者工具继续向自动化协作升级",
+        "代码生成只是起点，真正有价值的是能帮助理解上下文、执行验证和降低维护成本。",
+      ],
       ["开源生态更重视供应链安全", "依赖管理、自动化审计和发布流程正在成为现代工程的基础能力。"],
     ],
   },
@@ -167,11 +226,20 @@ const categories = [
     image:
       "https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?auto=format&fit=crop&w=1200&q=80",
     feeds: [
-      { source: "Anime News Network", url: "https://www.animenewsnetwork.com/all/rss.xml?ann-edition=us" },
+      {
+        source: "Anime News Network",
+        url: "https://www.animenewsnetwork.com/all/rss.xml?ann-edition=us",
+      },
     ],
     fallback: [
-      ["新番观察：题材、制作公司和宣发节奏值得一起看", "动漫资讯不只看作品上线，也可以关注制作团队、声优阵容、平台排播和海外反馈。"],
-      ["轻量追番清单可以按季度维护", "把想看的动画、漫画和展会活动分开记录，会比临时收藏更适合长期跟进。"],
+      [
+        "新番观察：题材、制作公司和宣发节奏值得一起看",
+        "动漫资讯不只看作品上线，也可以关注制作团队、声优阵容、平台排播和海外反馈。",
+      ],
+      [
+        "轻量追番清单可以按季度维护",
+        "把想看的动画、漫画和展会活动分开记录，会比临时收藏更适合长期跟进。",
+      ],
     ],
   },
   {
@@ -182,9 +250,18 @@ const categories = [
       "https://images.unsplash.com/photo-1523580494863-6f3031224c94?auto=format&fit=crop&w=1200&q=80",
     feeds: [],
     fallback: [
-      ["动漫展与同人展适合提前做城市清单", "重点关注购票时间、嘉宾阵容、摊位图、交通路线和返图规则，周末安排会轻松很多。"],
-      ["汉服展会可以从主题、场景和摄影友好度筛选", "看活动时不只看规模，也看场地光线、布景、换装便利度和是否适合人像拍摄。"],
-      ["展会记录可以做成图片故事", "从入场、摊位、人物、舞台到城市夜景，按时间线整理比单张照片更有记忆点。"],
+      [
+        "动漫展与同人展适合提前做城市清单",
+        "重点关注购票时间、嘉宾阵容、摊位图、交通路线和返图规则，周末安排会轻松很多。",
+      ],
+      [
+        "汉服展会可以从主题、场景和摄影友好度筛选",
+        "看活动时不只看规模，也看场地光线、布景、换装便利度和是否适合人像拍摄。",
+      ],
+      [
+        "展会记录可以做成图片故事",
+        "从入场、摊位、人物、舞台到城市夜景，按时间线整理比单张照片更有记忆点。",
+      ],
     ],
   },
   {
@@ -198,9 +275,18 @@ const categories = [
       { source: "DIY Photography", url: "https://www.diyphotography.net/feed/" },
     ],
     fallback: [
-      ["人像摄影先处理光线，再处理姿态", "自然光、眼神光、背景距离和人物手部动作，往往比器材参数更影响出片质感。"],
-      ["风景摄影可以提前看天气和机位动线", "日出日落、云层、前景、长焦压缩和步行路线，会决定一组照片能不能形成完整叙事。"],
-      ["展会摄影要提前设定拍摄边界", "人物授权、现场光线、拥挤动线和快门安全值，是动漫展和汉服展拍摄最容易忽略的部分。"],
+      [
+        "人像摄影先处理光线，再处理姿态",
+        "自然光、眼神光、背景距离和人物手部动作，往往比器材参数更影响出片质感。",
+      ],
+      [
+        "风景摄影可以提前看天气和机位动线",
+        "日出日落、云层、前景、长焦压缩和步行路线，会决定一组照片能不能形成完整叙事。",
+      ],
+      [
+        "展会摄影要提前设定拍摄边界",
+        "人物授权、现场光线、拥挤动线和快门安全值，是动漫展和汉服展拍摄最容易忽略的部分。",
+      ],
     ],
   },
 ];
@@ -283,8 +369,10 @@ const clsMatchers = {
 };
 
 const categoryContentMatchers = {
-  "us-market": /(美股|纳指|纳斯达克|道指|道琼斯|标普|华尔街|美联储|纽交所|英伟达|特斯拉|苹果公司|微软|亚马逊|U\.S\. stocks?|Nasdaq|Dow Jones|S&P 500|Wall Street|Federal Reserve|NYSE|Nvidia|Tesla|Apple|Microsoft|Meta|Amazon)/i,
-  "middle-east": /(中东|以色列|伊朗|加沙|巴勒斯坦|黎巴嫩|叙利亚|也门|胡塞|卡塔尔|沙特|阿联酋|伊拉克|约旦|霍尔木兹|红海|哈马斯|真主党|Middle East|Israel|Iran|Gaza|Palestin|Lebanon|Syria|Yemen|Houthi|Qatar|Saudi|UAE|Iraq|Jordan|Hormuz|Red Sea|Hamas|Hezbollah)/i,
+  "us-market":
+    /(美股|纳指|纳斯达克|道指|道琼斯|标普|华尔街|美联储|纽交所|英伟达|特斯拉|苹果公司|微软|亚马逊|U\.S\. stocks?|Nasdaq|Dow Jones|S&P 500|Wall Street|Federal Reserve|NYSE|Nvidia|Tesla|Apple|Microsoft|Meta|Amazon)/i,
+  "middle-east":
+    /(中东|以色列|伊朗|加沙|巴勒斯坦|黎巴嫩|叙利亚|也门|胡塞|卡塔尔|沙特|阿联酋|伊拉克|约旦|霍尔木兹|红海|哈马斯|真主党|Middle East|Israel|Iran|Gaza|Palestin|Lebanon|Syria|Yemen|Houthi|Qatar|Saudi|UAE|Iraq|Jordan|Hormuz|Red Sea|Hamas|Hezbollah)/i,
 };
 
 function matchesCategoryContent(item, category) {
@@ -336,7 +424,10 @@ async function translateWithGoogle(text) {
   }
 
   const payload = await response.json();
-  const translated = payload?.[0]?.map((part) => part?.[0] ?? "").join("").trim();
+  const translated = payload?.[0]
+    ?.map((part) => part?.[0] ?? "")
+    .join("")
+    .trim();
   if (!translated) {
     throw new Error("translate empty");
   }
@@ -393,17 +484,69 @@ function tagValue(item, tag) {
   return decode(match?.[1]);
 }
 
+function attributeValue(tag = "", attribute) {
+  const match = tag.match(new RegExp(`${attribute}\\s*=\\s*["']([^"']+)["']`, "i"));
+  return decode(match?.[1]);
+}
+
+function absoluteUrl(value, baseUrl) {
+  if (!value || value.startsWith("data:")) return "";
+  try {
+    return new URL(value, baseUrl).toString();
+  } catch {
+    return "";
+  }
+}
+
+function extractEmbeddedImage(item, articleUrl) {
+  const mediaTag = item.match(/<media:(?:content|thumbnail)\b[^>]*>/i)?.[0];
+  const enclosureTags = item.match(/<enclosure\b[^>]*>/gi) ?? [];
+  const imageEnclosure = enclosureTags.find((tag) => /type\s*=\s*["']image\//i.test(tag));
+  const imageTag = item.match(/<img\b[^>]*>/i)?.[0];
+
+  return absoluteUrl(
+    attributeValue(mediaTag, "url") ||
+      attributeValue(imageEnclosure, "url") ||
+      attributeValue(imageTag, "src"),
+    articleUrl,
+  );
+}
+
+async function extractPageImage(articleUrl) {
+  if (!articleUrl) return "";
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), 6000);
+
+  try {
+    const response = await fetch(articleUrl, {
+      redirect: "follow",
+      signal: controller.signal,
+      headers: {
+        accept: "text/html,application/xhtml+xml",
+        "user-agent": "Mozilla/5.0 (compatible; DanielDailyRadar/1.0)",
+      },
+    });
+    if (!response.ok || !response.headers.get("content-type")?.includes("text/html")) return "";
+
+    const html = await response.text();
+    const metaTags = html.match(/<meta\b[^>]*>/gi) ?? [];
+    const imageMeta = metaTags.find((tag) =>
+      /(?:property|name)\s*=\s*["'](?:og:image(?::secure_url)?|twitter:image(?::src)?)["']/i.test(
+        tag,
+      ),
+    );
+    return absoluteUrl(attributeValue(imageMeta, "content"), response.url || articleUrl);
+  } catch {
+    return "";
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
 function extractLink(item) {
   const linkText = tagValue(item, "link");
   const href = item.match(/<link[^>]+href="([^"]+)"/i)?.[1];
   return decode(href ?? linkText);
-}
-
-function extractImage(item, fallback) {
-  const media = item.match(/<media:content[^>]+url="([^"]+)"/i);
-  const thumbnail = item.match(/<media:thumbnail[^>]+url="([^"]+)"/i);
-  const enclosure = item.match(/<enclosure[^>]+url="([^"]+)"/i);
-  return decode(media?.[1] ?? thumbnail?.[1] ?? enclosure?.[1] ?? fallback);
 }
 
 function extractTime(item) {
@@ -436,7 +579,8 @@ async function fetchFeed(feed, category) {
   }
 
   const xml = await response.text();
-  const entries = xml.match(/<item[\s\S]*?<\/item>/gi) ?? xml.match(/<entry[\s\S]*?<\/entry>/gi) ?? [];
+  const entries =
+    xml.match(/<item[\s\S]*?<\/item>/gi) ?? xml.match(/<entry[\s\S]*?<\/entry>/gi) ?? [];
 
   return entries
     .slice(0, categoryContentMatchers[category.id] ? 20 : 5)
@@ -444,7 +588,10 @@ async function fetchFeed(feed, category) {
       const list = await promise;
       const rawTitle = tagValue(item, "title");
       const description =
-        tagValue(item, "description") || tagValue(item, "summary") || tagValue(item, "content:encoded");
+        tagValue(item, "description") ||
+        tagValue(item, "summary") ||
+        tagValue(item, "content:encoded");
+      const url = extractLink(item);
 
       if (!matchesCategoryContent({ title: rawTitle, summary: description }, category)) {
         return list;
@@ -454,8 +601,8 @@ async function fetchFeed(feed, category) {
         title: await localize(rawTitle, category.label),
         summary: summaryFrom(description, category.label),
         source: feed.source,
-        url: extractLink(item),
-        image: category.image,
+        url,
+        image: extractEmbeddedImage(item, url) || (await extractPageImage(url)) || category.image,
         time: extractTime(item),
         fetchedAt: nowIso,
       };
@@ -565,7 +712,9 @@ async function readExistingCategories() {
   try {
     const raw = await readFile(outputUrl, "utf8");
     const parsed = JSON.parse(raw);
-    return new Map((parsed.categories ?? []).map((category) => [category.id, category.items ?? []]));
+    return new Map(
+      (parsed.categories ?? []).map((category) => [category.id, category.items ?? []]),
+    );
   } catch {
     return new Map();
   }
@@ -621,7 +770,9 @@ async function validateExistingItems(items, category) {
 
   for (let index = 0; index < normalized.length; index += 8) {
     const batch = normalized.slice(index, index + 8);
-    const results = await Promise.all(batch.map(async (item) => ({ item, valid: await probeUrl(item.url) })));
+    const results = await Promise.all(
+      batch.map(async (item) => ({ item, valid: await probeUrl(item.url) })),
+    );
     for (const result of results) {
       if (result.valid) {
         checked.push(result.item);
@@ -643,6 +794,17 @@ function uniqueByUrl(items) {
   });
 }
 
+function interleave(lists) {
+  const result = [];
+  const longest = Math.max(0, ...lists.map((list) => list.length));
+  for (let index = 0; index < longest; index += 1) {
+    for (const list of lists) {
+      if (list[index]) result.push(list[index]);
+    }
+  }
+  return result;
+}
+
 async function buildCategory(category, existingMap) {
   const existing = await validateExistingItems(existingMap.get(category.id) ?? [], category);
   const sources = category.feeds.map((feed) => fetchFeed(feed, category));
@@ -650,11 +812,11 @@ async function buildCategory(category, existingMap) {
     sources.unshift(fetchClsItems(category));
   }
   const results = await Promise.allSettled(sources);
-  const fetched = results
+  const fetchedBySource = results
     .filter((result) => result.status === "fulfilled")
-    .flatMap((result) => result.value);
+    .map((result) => result.value);
 
-  const fresh = uniqueByUrl(fetched).slice(0, 6);
+  const fresh = uniqueByUrl(interleave(fetchedBySource)).slice(0, 6);
   const items = uniqueByUrl([...fresh, ...existing]);
 
   return {
@@ -677,4 +839,6 @@ const output = {
 
 await writeFile(outputUrl, `${JSON.stringify(output, null, 2)}\n`);
 
-console.log(`Updated ${output.categories.length} radar categories for ${today}; retained valid items for 10 days.`);
+console.log(
+  `Updated ${output.categories.length} radar categories for ${today}; retained valid items for 10 days.`,
+);
