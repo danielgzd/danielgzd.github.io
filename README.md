@@ -1,83 +1,91 @@
 # Daniel Personal Site
 
-这是 Daniel 的个人宣传主页，用于展示移动端开发履历、AI Coding 实践、代表项目、个人实践和兴趣信息流。站点以中文为主，公共页面不展示头像，也不展示中文姓名。
+Daniel 的个人品牌、项目档案、技术博客与兴趣信息雷达。站点使用静态优先架构部署到 GitHub Pages，设计语言以 Dark First、清晰层级和克制动效为核心。
 
-## 内容结构
+## Technology
 
-- `/`：个人主页入口，展示职业定位、技术关键词和主要模块。
-- `/resume`：履历页面，突出银行“我的云”iOS/H5 长期贡献、金融移动端项目经验和 AI Coding/业务 AI 落地能力。
-- `/projects`：项目页面，重点展示“我的云”iOS 原生容器、H5 外勤平台、AI 问答/对练、作战地图、实时获客、MSP、掌握和早期硬件/地图项目。
-- `/radar`：每日信息流，按 tab 展示 AI、世界、财经、科技、汽车、游戏、开发、生活、动漫、展会、摄影等内容。
+- Next.js 16 App Router
+- React 19 and TypeScript
+- Tailwind CSS 4
+- shadcn/ui conventions and Radix primitives
+- Framer Motion and CSS View Timeline
+- Lucide and Simple Icons
+- MDX, Shiki, GFM and RSS
+- GitHub Pages static export
 
-## 交互体验
+## Routes
 
-站点使用 CSS 动效增强页面反馈：
+- `/` — 个人主页与精选内容
+- `/projects` — 项目档案和静态 Case Study
+- `/blog` — MDX 技术文章
+- `/resume` — 工作经历、能力与简历下载
+- `/radar` — 每六小时更新的兴趣信息流
+- `/feed.xml` — 博客 RSS
+- `/sitemap.xml` — 搜索引擎站点地图
 
-- 页面、导航、Hero 和内容区块有轻量进入转场。
-- 履历亮点、项目、入口和新闻卡片支持 hover 抬升、边框高亮、阴影增强和扫光反馈。
-- 按钮、卡片和信息流 tab 在点击时有按下反馈，选中的 tab 会突出显示。
-- 新闻卡片图片 hover 时轻微放大并增强质感。
-- 支持 `prefers-reduced-motion`，系统设置减少动态效果时会自动降级。
+## Structure
 
-## 信息流更新
+```text
+app/          Routes, metadata and static endpoints
+components/   Shared layout, motion and UI primitives
+content/      MDX articles
+data/         Profile, navigation, projects and radar data
+features/     Page-level feature components
+lib/          Content readers, site config and utilities
+styles/       Design tokens
+types/        Shared domain types
+scripts/      Radar collection and update scripts
+```
 
-信息流数据来自 `scripts/update-daily-headlines.mjs`，输出到 `data/daily-headlines.json`。
+## Development
 
-更新策略：
+```bash
+npm ci
+npm run dev
+```
 
-- GitHub Actions 每 6 小时执行一次。
-- 每次更新会追加新内容，而不是只覆盖当天内容。
-- 内容保留最近 10 天。
-- 更新前会校验已有链接，明确失效的链接会被删除。
-- 英文来源会尽量翻译为中文；翻译失败时会使用本地关键词转换和中文摘要兜底。
+Production validation:
 
-手动更新：
+```bash
+npm run lint
+npm run typecheck
+npm run format:check
+npm run build
+npm run preview
+```
+
+## Writing
+
+Blog posts live in `content/blog/*.mdx`. Frontmatter is the canonical source for listing pages, metadata, reading time and RSS.
+
+```yaml
+---
+title: "Article title"
+description: "Short search and social description"
+publishedAt: "2026-07-21"
+category: "AI"
+tags:
+  - Agent
+  - Engineering
+---
+```
+
+Use semantic headings without manual numbering. Add a language identifier to every fenced code block.
+
+## Projects
+
+Project metadata and Case Study content live in `data/projects.ts`. Enterprise projects intentionally omit private source and internal demo links.
+
+## Daily Radar
+
+Update the local radar dataset with:
 
 ```bash
 npm run headlines:update
 ```
 
-## 本地开发
+The scheduled GitHub workflow runs every six hours, validates and deduplicates links, retains the latest ten days, then triggers a Pages deployment.
 
-安装依赖：
+## Deployment
 
-```bash
-npm ci
-```
-
-启动开发服务：
-
-```bash
-npm run dev
-```
-
-默认访问：
-
-```text
-http://localhost:3000
-```
-
-质量检查：
-
-```bash
-npm run lint
-npm run build
-```
-
-## 部署
-
-仓库使用 GitHub Pages 部署，分支为 `gh-pages`。推送到该分支后，`.github/workflows` 中的 Pages workflow 会自动构建并发布静态站点。
-
-站点地址：
-
-```text
-https://danielgzd.github.io/
-```
-
-## 简历文件
-
-公开 Markdown 简历随站点发布：
-
-```text
-https://danielgzd.github.io/Daniel-iOS-Resume-2026.md
-```
+Pushing to `gh-pages` triggers the GitHub Pages workflow. Next.js exports the complete site to `out/`; no runtime Node.js server is required.

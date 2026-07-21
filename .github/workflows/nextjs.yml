@@ -2,12 +2,11 @@
 #
 # To get started with Next.js see: https://nextjs.org/docs/getting-started
 #
-name: Deploy Next.js site to Pages
+name: Build and deploy Next.js site
 
 on:
-  # Runs on pushes targeting the default branch
+  # Validate every pushed branch. Deployment remains limited to gh-pages.
   push:
-    branches: ["gh-pages"]
 
   # Rebuild after the scheduled radar update workflow completes. Commits made
   # with GITHUB_TOKEN do not emit a push event that starts another workflow.
@@ -89,6 +88,12 @@ jobs:
 
   # Deployment job
   deploy:
+    if: >-
+      ${{
+        (github.event_name == 'push' && github.ref == 'refs/heads/gh-pages') ||
+        github.event_name == 'workflow_dispatch' ||
+        (github.event_name == 'workflow_run' && github.event.workflow_run.conclusion == 'success')
+      }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}

@@ -1,6 +1,7 @@
 name: Update daily radar
 
 on:
+  # Pull fresh RSS and news data every six hours (UTC).
   schedule:
     - cron: "10 */6 * * *"
   workflow_dispatch:
