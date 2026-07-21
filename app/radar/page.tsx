@@ -17,9 +17,9 @@ export default function RadarPage() {
       id="main-content"
     >
       <Reveal className="max-w-3xl">
-        <Badge variant="success">Updated {radar.updatedAt}</Badge>
+        <Badge variant="success">更新于 {radar.updatedAt}</Badge>
         <h1 className="text-foreground mt-6 text-5xl font-bold tracking-[-0.04em] sm:text-6xl">
-          Signals, not noise.
+          捕捉信号，过滤噪音
         </h1>
         <p className="text-muted-foreground mt-6 text-base leading-8 sm:text-lg">
           聚合 AI、市场、科技、开发、摄影与生活灵感。每六小时整理一次，保留值得继续阅读的线索。

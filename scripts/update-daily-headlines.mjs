@@ -130,6 +130,8 @@ const categories = [
       { source: "Engadget", url: "https://www.engadget.com/rss.xml" },
       { source: "Apple Developer", url: "https://developer.apple.com/news/rss/news.rss" },
       { source: "Ars Technica", url: "https://feeds.arstechnica.com/arstechnica/index" },
+      { source: "web.dev", url: "https://web.dev/feed.xml" },
+      { source: "Mozilla Hacks", url: "https://hacks.mozilla.org/feed/" },
     ],
     fallback: [
       [
@@ -195,6 +197,11 @@ const categories = [
       { source: "GitHub Blog", url: "https://github.blog/changelog/feed/" },
       { source: "Cloudflare Blog", url: "https://blog.cloudflare.com/rss/" },
       { source: "Hacker News", url: "https://hnrss.org/frontpage" },
+      {
+        source: "Android Developers",
+        url: "https://android-developers.googleblog.com/feeds/posts/default",
+      },
+      { source: "Swift.org", url: "https://www.swift.org/atom.xml" },
     ],
     fallback: [
       [
@@ -545,8 +552,9 @@ async function extractPageImage(articleUrl) {
 
 function extractLink(item) {
   const linkText = tagValue(item, "link");
-  const href = item.match(/<link[^>]+href="([^"]+)"/i)?.[1];
-  return decode(href ?? linkText);
+  const linkTag = item.match(/<link\b[^>]*>/i)?.[0];
+  const href = attributeValue(linkTag, "href");
+  return decode(href || linkText);
 }
 
 function extractTime(item) {

@@ -1,6 +1,6 @@
 "use client";
 
-import { ArrowUpRight, Search } from "lucide-react";
+import { ArrowUpRight, Radio, Rss, Search } from "lucide-react";
 import Image from "next/image";
 import { useMemo, useState } from "react";
 import radarJson from "@/data/daily-headlines.json";
@@ -22,9 +22,79 @@ export function RadarExplorer() {
       `${item.title} ${item.summary} ${item.source}`.toLowerCase().includes(keyword),
     );
   }, [category, query]);
+  const latestSources = useMemo(() => {
+    const sourceMap = new Map<
+      string,
+      { categoryId: string; categoryLabel: string; source: string; title: string }
+    >();
+
+    for (const currentCategory of radar.categories.filter((item) =>
+      ["ai", "tech", "dev"].includes(item.id),
+    )) {
+      for (const item of currentCategory.items) {
+        if (item.source !== "Daily Radar" && !sourceMap.has(item.source)) {
+          sourceMap.set(item.source, {
+            categoryId: currentCategory.id,
+            categoryLabel: currentCategory.label,
+            source: item.source,
+            title: item.title,
+          });
+        }
+      }
+    }
+
+    return [...sourceMap.values()].slice(0, 12);
+  }, []);
+
+  function selectSource(source: (typeof latestSources)[number]) {
+    setCategoryId(source.categoryId);
+    setQuery(source.source);
+    window.setTimeout(() => {
+      document
+        .querySelector("#radar-stream")
+        ?.scrollIntoView({ behavior: "smooth", block: "start" });
+    }, 0);
+  }
 
   return (
     <div>
+      <Card className="border-primary/20 relative mb-10 overflow-hidden p-5 sm:p-7">
+        <div className="bg-primary/8 pointer-events-none absolute -top-24 -right-20 size-64 rounded-full blur-3xl" />
+        <div className="relative flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
+          <div>
+            <div className="text-primary flex items-center gap-2 text-xs font-semibold tracking-[0.16em] uppercase">
+              <Rss className="size-4" />
+              RSS 信息源
+            </div>
+            <h2 className="text-foreground mt-3 text-2xl font-bold tracking-tight">最新信息源</h2>
+            <p className="text-muted-foreground mt-2 max-w-2xl text-sm leading-7">
+              聚合人工智能、产品与开发领域的活跃来源。点击来源即可查看本轮抓取的最新内容。
+            </p>
+          </div>
+          <div className="text-muted-foreground flex items-center gap-2 text-xs">
+            <Radio className="text-accent size-4" />每 6 小时自动同步
+          </div>
+        </div>
+        <div className="relative mt-6 grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
+          {latestSources.map((source) => (
+            <button
+              className="border-border bg-background/55 hover:border-primary/35 hover:bg-muted/50 focus-visible:ring-ring rounded-lg border p-4 text-left transition-colors focus-visible:ring-2 focus-visible:outline-none"
+              key={source.source}
+              onClick={() => selectSource(source)}
+              type="button"
+            >
+              <span className="flex items-center justify-between gap-3">
+                <strong className="text-foreground text-sm font-semibold">{source.source}</strong>
+                <Badge variant="outline">{source.categoryLabel}</Badge>
+              </span>
+              <span className="text-muted-foreground mt-3 line-clamp-2 block text-xs leading-5">
+                {source.title}
+              </span>
+            </button>
+          ))}
+        </div>
+      </Card>
+
       <div className="border-border bg-background/90 sticky top-16 z-30 -mx-4 border-y px-4 py-4 backdrop-blur-xl sm:-mx-6 sm:px-6 lg:mx-0 lg:rounded-xl lg:border lg:p-4">
         <div
           className="flex scrollbar-none gap-2 overflow-x-auto pb-1"
@@ -51,7 +121,10 @@ export function RadarExplorer() {
         </div>
       </div>
 
-      <div className="mt-8 flex flex-col gap-5 sm:flex-row sm:items-end sm:justify-between">
+      <div
+        className="mt-8 flex scroll-mt-40 flex-col gap-5 sm:flex-row sm:items-end sm:justify-between"
+        id="radar-stream"
+      >
         <div>
           <Badge variant="secondary">{category?.label}</Badge>
           <p className="text-muted-foreground mt-3 max-w-2xl text-sm leading-7">
