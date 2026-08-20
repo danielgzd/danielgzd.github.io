@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-08-20",
-  "generatedAt": "2026-08-20T01:48:34.040Z",
+  "generatedAt": "2026-08-20T07:02:34.370Z",
   "retentionDays": 10,
   "categories": [
     {
@@ -70,6 +70,15 @@
       "description": "美股指数、科技公司、美联储与全球资金动态，优先来自财联社公开电报。",
       "items": [
         {
+          "title": "消息人士告诉 CNBC，随着该地区人工智能数据中心交易的蓬勃发展，英伟达在北欧扮演了媒人的角色",
+          "summary": "Nvidia 正试图将 GPU 客户与北欧数据中心运营商联系起来，因为廉价的电力和可用的土地推动了该地区人工智能基础设施的繁荣。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/19/nvidia-nordic-ai-data-centers.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108330581-1783302717764-gettyimages-2266485037-NVIDIA_GTC.jpeg?v=1784578669&w=1920&h=1080",
+          "time": "08/19",
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
+        },
+        {
           "title": "会议纪要显示美联储官员认为如果通胀不降温则需要加息",
           "summary": "美联储周三发布了 7 月 28 日至 29 日政策会议纪要。",
           "source": "CNBC",
@@ -86,15 +95,6 @@
           "image": "https://image.cnbcfm.com/api/v1/image/108333087-17836325902026-07-09t212757z_1706285672_rc2kamahyrd8_rtrmadp_0_media-sunvalley.jpeg?v=1783632643&w=1920&h=1080",
           "time": "08/20",
           "fetchedAt": "2026-08-20T01:48:34.040Z"
-        },
-        {
-          "title": "消息人士告诉 CNBC，随着该地区人工智能数据中心交易的蓬勃发展，英伟达在北欧扮演了媒人的角色",
-          "summary": "Nvidia 正试图将 GPU 客户与北欧数据中心运营商联系起来，因为廉价的电力和可用的土地推动了该地区人工智能基础设施的繁荣。",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/19/nvidia-nordic-ai-data-centers.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108330581-1783302717764-gettyimages-2266485037-NVIDIA_GTC.jpeg?v=1784578669&w=1920&h=1080",
-          "time": "08/19",
-          "fetchedAt": "2026-08-19T18:51:03.629Z"
         },
         {
           "title": "Marvell 在 AI 芯片交易中股价上涨 8%，谷歌可购买高达 122 亿美元的股票",
@@ -198,7 +198,7 @@
           "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
           "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "下载：人工智能的自我完善问题以及推动热度的原因",
@@ -207,7 +207,7 @@
           "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/",
           "image": "https://wp.technologyreview.com/wp-content/uploads/2025/10/ND25-Hanna-01b.jpg?fit=1920,1280",
           "time": "08/19",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "Stripe 宣称我们生活在奇点，并以此作为不进行 IPO 的理由",
@@ -216,7 +216,7 @@
           "url": "https://the-decoder.com/stripe-declares-were-living-in-the-singularity-and-uses-it-as-a-reason-not-to-ipo/",
           "image": "https://the-decoder.com/wp-content/uploads/2026/08/stripe_logo_wall.png",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "与 Gemini 和 Pixel 一起近距离接触游戏",
@@ -225,7 +225,7 @@
           "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
           "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp",
           "time": "08/17",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "儿童监控应用程序可能需要重新启动",
@@ -234,7 +234,7 @@
           "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/",
           "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MIT-Teh-Review-Illu1-FINAL-send.jpg?w=840",
           "time": "08/19",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "美国机构警告称，攻击者正在利用人工智能为工业控制系统构建漏洞",
@@ -243,7 +243,7 @@
           "url": "https://the-decoder.com/attackers-are-using-ai-to-build-exploits-for-industrial-control-systems-u-s-agencies-warn/",
           "image": "https://the-decoder.com/wp-content/uploads/2026/05/cybersecurity_llm_kraken.png",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         }
       ]
     },
@@ -253,58 +253,58 @@
       "description": "国际局势、社会议题与全球公共事件。",
       "items": [
         {
+          "title": "恆大許家印被判處無期徒刑 集團罰款近160億元人民幣",
+          "summary": "深圳法院裁定沒收許家印個人全部財產；已被頒令清盤的恆大集團與恆大地產合共被罰款158.2億元人民幣（23.52億美元；749.45億元新台幣）。",
+          "source": "BBC 中文",
+          "url": "https://www.bbc.com/zhongwen/articles/cvgjdjnynvlo/trad?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a0da/live/5a787d90-9c62-11f1-a291-b542ee92de7c.jpg",
+          "time": "08/20",
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
+        },
+        {
+          "title": "经济悲观情绪蔓延，中国农民工文学引发共鸣",
+          "summary": "这类作品唤起了人们对农民工和零工从业者严酷生活现实的关注，也赞颂困境中不屈不挠的人性。对中国公众而言，对这些工人的好奇心与对自身前景的焦虑交织在一起。 Jade Gao/Agence ...",
+          "source": "纽约时报中文网",
+          "url": "https://cn.nytimes.com/china/20260820/china-working-class-writers-books/?utm_source=RSS",
+          "image": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-china-workers-literature1-ftpz/17int-china-workers-literature1-ftpz-articleLarge.jpg",
+          "time": "08/20",
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
+        },
+        {
+          "title": "台灣為何此刻提出「鞭刑入法」公投？",
+          "summary": "關於鞭刑的討論已在台灣醞釀了近十年，尤其在重大刑案發生後，民眾不滿刑罰不足，主張仿效新加坡制度。最新民調顯示約八成台灣人贊同政府評估鞭刑，人權團體與法律界則批評此舉違反國際人權標準。",
+          "source": "BBC 中文",
+          "url": "https://www.bbc.com/zhongwen/articles/cn0n418jnj9o/trad?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/44b8/live/cc47c200-9c44-11f1-aa7b-4f8061485a9b.jpg",
+          "time": "08/20",
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
+        },
+        {
+          "title": "欧洲加大对前沿技术投资，能否与美中抗衡？",
+          "summary": "多年来，欧洲在投资、研发和生产率增长等竞争力指标上一直落后于美中。面对近1万亿美元的投资资金缺口，欧洲各国政府正广泛撒网，支持开发开创性技术的初创企业。 Owen Richards f...",
+          "source": "纽约时报中文网",
+          "url": "https://cn.nytimes.com/business/20260820/europe-investment-innovation-competition-us-china/?utm_source=RSS",
+          "image": "https://static01.nyt.com/images/2026/08/20/multimedia/Biz-Europe-Compete-zhgp-cn/Biz-Europe-Compete-zhgp-videoLarge.jpg",
+          "time": "08/20",
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
+        },
+        {
           "title": "「我就是個普通人」：中國出入境新規上路前，那些早已受困的民眾",
           "summary": "從9月15日開始，中國出入境新規將開始實施，不少民眾擔心出境自由受限。但早在新規出台前，從公務員、國企人員到普通民眾，已經有不少人因為各種原因被限制出境。",
           "source": "BBC 中文",
           "url": "https://www.bbc.com/zhongwen/articles/ce3q0yd25j9o/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b375/live/90fed690-9a99-11f1-9bc9-3357f6c86fbb.jpg",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
-          "title": "朝鲜回应特朗普缩减美韩军演规模：“对我们毫无吸引力”",
-          "summary": "金正恩胞妹金与正称特朗普的示好举动“对我们毫无吸引力”，并表示即使规模缩减，这些演习依然“具有挑衅性和侵略性”。她还表示并不了解美朝政府之间有任何沟通。 Jung Yeon-Je/Ag...",
+          "title": "美国债务突破40万亿美元，借贷狂潮继续",
+          "summary": "尽管美国仍是世界最大经济体，但不断攀升的债务负担可能导致投资者要求提高美国债券利率，或对美国信誉产生质疑，从而削弱对美元作为世界储备货币的信心。 Al Drago for The Ne...",
           "source": "纽约时报中文网",
-          "url": "https://cn.nytimes.com/world/20260820/north-korea-trump-military-drills/?utm_source=RSS",
-          "image": "https://static01.nyt.com/images/2026/08/19/multimedia/19int-nkorea-drill-1-cjwm/19int-nkorea-drill-1-cjwm-articleLarge.jpg",
+          "url": "https://cn.nytimes.com/business/20260820/us-debt-40-trillion/?utm_source=RSS",
+          "image": "https://static01.nyt.com/images/2026/08/18/multimedia/00dc-debt-vgzp/00dc-debt-vgzp-articleLarge.jpg",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
-        },
-        {
-          "title": "《牛來》為何爆紅？觀眾、導演與電影從業者解讀「粗糙」動畫的意外狂歡",
-          "summary": "一部因製作粗糙而被網友嘲笑的中國動畫《牛來》，意外在社交網絡走紅並掀起觀影熱潮，觀眾為何從「玩梗」轉而買票支持？",
-          "source": "BBC 中文",
-          "url": "https://www.bbc.com/zhongwen/articles/cq56nzxq39qo/trad?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c222/live/57f7f3a0-9ba6-11f1-aed2-8d6da8d75094.jpg",
-          "time": "08/19",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
-        },
-        {
-          "title": "郭德纲改编红歌被调查，中国言论空间日益收窄",
-          "summary": "郭德纲因在演出时即兴改编了一首红歌的歌词而遭到举报，目前正接受官方调查。随着习近平将文化艺术作为意识形态整顿的重点，中国演艺人士自我表达的空间正日益收窄。 Shiho Fukada f...",
-          "source": "纽约时报中文网",
-          "url": "https://cn.nytimes.com/china/20260820/guo-degang-china-comic-investigated/?utm_source=RSS",
-          "image": "https://static01.nyt.com/images/2026/08/19/multimedia/19int-china-comedian-kwmc/19int-china-comedian-kwmc-videoLarge.jpg",
-          "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
-        },
-        {
-          "title": "上市首天漲價近五倍 宇樹科技是怎樣的機械人企業？",
-          "summary": "全球最大人形機械人製造商的股票於上海科創板開始交易，首天股價漲幅數以倍計。",
-          "source": "BBC 中文",
-          "url": "https://www.bbc.com/zhongwen/articles/c5yrnedq47go/trad?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f5e/live/f165f440-9b6c-11f1-b1cb-859c01609bc4.jpg",
-          "time": "08/19",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
-        },
-        {
-          "title": "如果北京武力攻台，普通人能“保卫台湾”吗？",
-          "summary": "中国在台湾周边的军事演习日益频繁。越来越多的台湾民众参与民防演习，学习如何疏散伤员、提供急救和营救人质。但也有人批评民防倡导者是在制造恐慌、鼓吹战争。",
-          "source": "纽约时报中文网",
-          "url": "https://cn.nytimes.com/asia-pacific/20260819/taiwan-china-invasion-defense/?utm_source=RSS",
-          "image": "https://static01.nyt.com/images/2026/07/16/magazine/00mag-Taiwan-27/00mag-Taiwan-27-articleLarge-v2.jpg",
-          "time": "08/19",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         }
       ]
     },
@@ -314,49 +314,13 @@
       "description": "市场、公司、消费、宏观经济与投资观察。",
       "items": [
         {
-          "title": "美国财政部宣布将长期国债回购规模至少扩大一倍",
-          "summary": "在美国长期国债遭遇剧烈抛售、导致借款成本飙升至多年高点的背景下，美国财政部宣布将“流动性支持回购操作的规模至少扩大一倍”。",
-          "source": "FT 中文网",
-          "url": "https://www.ftchinese.com/story/001110662",
-          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-          "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
-        },
-        {
-          "title": "美国政府债务超过40万亿美元，十年内翻了一倍多",
-          "summary": "财经方向有一条新动态，适合继续跟进原文细节。",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108351875-1787178100146-gettyimages-2290607138-AFP_C62Z247.jpeg?v=1787178332&w=1920&h=1080",
-          "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
-        },
-        {
-          "title": "欧洲只能寄希望于马尔科•鲁比奥",
-          "summary": "加内什：最有可能鼓动在海外采取鲁莽行动的美国人，往往也最有可能保卫欧洲。因此欧洲应该希望鲁比奥而非万斯在2028年代表共和党竞选总统。",
-          "source": "FT 中文网",
-          "url": "https://www.ftchinese.com/story/001110661",
-          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-          "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
-        },
-        {
-          "title": "贝森特采取措施抑制国债收益率，给沃什领导的美联储带来新压力",
-          "summary": "财政部回购更多长期债务的举措缓解了债券抛售，但经济学家警告称，这可能会给美联储带来新的通胀和独立性问题",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/19/bessent-treasury-buybacks-yields-warsh-fed.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108320567-1781206171021-gettyimages-2280431547-FOSTERING_FUTURE_ACCOUNTS.jpeg?v=1781206206&w=1920&h=1080",
-          "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
-        },
-        {
-          "title": "香港零售汽油利润率，21年间上涨15倍",
-          "summary": "周文、邹弘哲：据笔者估算，从2005年到2026年，香港每升汽油的纯利提高了约15倍之多。21年间，到底是什么导致油站盈利能力大幅提升、消费者利益严重受损？",
+          "title": "香港零售汽油利润率，21年间上涨6倍",
+          "summary": "周文、邹弘哲：据笔者估算，从2005年到2026年，香港每升汽油的纯利提高了约6倍之多。21年间，到底是什么导致油站盈利能力大幅提升、消费者利益严重受损？",
           "source": "FT 中文网",
           "url": "https://www.ftchinese.com/story/001110635",
           "image": "https://d1sh1cgb4xvhl.cloudfront.net/unsafe/1200x630/picture/2/000310722_piclink.jpg",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "特朗普宣布对伊朗发动“经济战”，威胁为其支持者带来“巨大”后果",
@@ -365,7 +329,43 @@
           "url": "https://www.cnbc.com/2026/08/19/us-iran-war-trump-hormuz-economic-warfare.html",
           "image": "https://image.cnbcfm.com/api/v1/image/108351808-1787168900566-gettyimages-2290597225-AFP_C62R99D.jpeg?v=1787168978&w=1920&h=1080",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
+        },
+        {
+          "title": "美国财政部宣布将长期国债回购规模至少扩大一倍",
+          "summary": "在美国长期国债遭遇剧烈抛售、导致借款成本飙升至多年高点的背景下，美国财政部宣布将“流动性支持回购操作的规模至少扩大一倍”。",
+          "source": "FT 中文网",
+          "url": "https://www.ftchinese.com/story/001110662",
+          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+          "time": "08/20",
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
+        },
+        {
+          "title": "特朗普敦促国会通过加密货币清晰度法案，比特币和以太币飙升",
+          "summary": "在美国总统唐纳德·特朗普敦促国会通过一项为加密货币行业制定监管框架的法案后，比特币和以太坊价格飙升。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/20/cryptocurrencies-trump-bitcoin-ethereum.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108268514-1771860022958-gettyimages-2259655540-raa-bitcoinc260206_npQ9g.jpeg?v=1771860130&w=1920&h=1080",
+          "time": "08/20",
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
+        },
+        {
+          "title": "欧洲只能寄希望于马尔科•鲁比奥",
+          "summary": "加内什：最有可能鼓动在海外采取鲁莽行动的美国人，往往也最有可能保卫欧洲。因此欧洲应该希望鲁比奥而非万斯在2028年代表共和党竞选总统。",
+          "source": "FT 中文网",
+          "url": "https://www.ftchinese.com/story/001110661",
+          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+          "time": "08/20",
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
+        },
+        {
+          "title": "特朗普缩减美韩演习的风险不仅仅是联合军事准备",
+          "summary": "特朗普的举动也将开始引发人们对华盛顿对联盟承诺的可信度的质疑。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/20/trump-south-korea-military-drills-cuts-.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108351917-1787194970294-gettyimages-2228863853-csj11343_unvnmg4c.jpeg?v=1787195424&w=1920&h=1080",
+          "time": "08/20",
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         }
       ]
     },
@@ -375,13 +375,13 @@
       "description": "消费电子、互联网产品、平台生态与新硬件。",
       "items": [
         {
-          "title": "给相机机翼是否可以规避 FCC 的无人机禁令？",
-          "summary": "HoverAir 无人机总是有一些有趣的花招。这款可折叠平放以放入您的口袋中。这个可以在水上降落。另一个可以在其手提箱内充电。但该品牌的最新伎俩可能是最危险的：它试图让无人机偷偷通过 ...",
+          "title": "谷歌双子座将建立一个专门的学生中心",
+          "summary": "在我们为返校季做准备之际，Google 正在 Gemini 推出一个新的专用学生中心。它是一个一站式存储库，用于在学习笔记本中收集研究成果、创建抽认卡、参加练习测验等。谷歌还通过对图表...",
           "source": "The Verge",
-          "url": "https://www.theverge.com/tech/981834/hoverair-versa-drone-camera-fcc-loophole-indiegogo",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/hoverair-versa.webp?quality=90&strip=all&crop=0,0,100,100",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-19-at-2.05.46-PM.png?quality=90&strip=all&crop=0,0,100,100",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "《以撒的结合：忏悔+》在线版将于 11 月 19 日与《GTA 6》正面交锋",
@@ -390,7 +390,7 @@
           "url": "https://www.engadget.com/2240496/the-binding-of-isaac-repentance-online-release-goes-head-to-head-with-gta-6-on-november-19/",
           "image": "https://www.engadget.com/img/gallery/the-binding-of-isaac-repentance-online-release-goes-head-to-head-with-gta-6-on-november-19/l-intro-1787181003.jpg",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "欧盟应用程序的变化",
@@ -399,16 +399,16 @@
           "url": "https://developer.apple.com/news/?id=gmws0jgp",
           "image": "https://developer.apple.com/news/images/og/apple-developer-og.png",
           "time": "08/18",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
-          "title": "美国宇航局取消救援斯威夫特伽马射线天文台的任务",
+          "title": "美国宇航局取消拯救斯威夫特伽马射线天文台的任务",
           "summary": "如果没有救援，美国宇航局的斯威夫特天文台预计将在今年晚些时候重新进入大气层。",
           "source": "Ars Technica",
           "url": "https://arstechnica.com/space/2026/08/nasa-calls-off-mission-to-rescue-swift-gamma-ray-observatory/",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/1783980227655-1152x648.jpg",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "5月份网络平台新功能",
@@ -417,7 +417,7 @@
           "url": "https://web.dev/blog/web-platform-05-2026?hl=en",
           "image": "https://web.dev/static/blog/web-platform-05-2026/hero.png",
           "time": "05/29",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "PACT：网络匿名凭证",
@@ -426,7 +426,7 @@
           "url": "https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/",
           "image": "https://hacks.mozilla.org/wp-content/uploads/2026/06/pact-drawings-1.excalidraw1-scaled.png",
           "time": "06/23",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         }
       ]
     },
@@ -442,34 +442,34 @@
           "url": "https://www.theverge.com/transportation/981398/tesla-cybercab-launch-robotaxi-fsd-safe-ready",
           "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2270749481.jpg?quality=90&strip=all&crop=0,0,100,100",
           "time": "08/19",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
-          "title": "凯迪拉克正在考虑为客户推出 V-Series.R 轨道车",
-          "summary": "如果有足够的客户，凯迪拉克就会建造它。",
+          "title": "随着 SV 基础装饰的消失，日产刚刚提高了 Murano 的价格",
+          "summary": "Nissan Murano SL 起售价为 45,535 美元，Dark Armor 加入了具有黑色造型和附加装备的三装饰阵容。",
           "source": "Motor1",
-          "url": "https://www.motor1.com/news/805506/cadillac-v-one-concept-production-possible/",
-          "image": "https://cdn.motor1.com/images/mgl/qkYzYq/s3/cadillac-v-one-concept.jpg",
+          "url": "https://www.motor1.com/news/805531/2027-nissan-murano-prices-dark/",
+          "image": "https://cdn.motor1.com/images/mgl/NGPYqy/s3/2027-nissan-murano-dark-armor.jpg",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "埃隆·马斯克 (Elon Musk) 打破了美国联邦航空管理局 (FAA) 的制裁——Palantir 正在收拾残局",
-          "summary": "8 月 6 日，明尼阿波利斯航线交通控制中心失去雷达和通讯约两个小时。这次停电中断了该中心 330,000 平方英里、涵盖九个州的空域范围内的 1,100 多个航班。两天前，即 8 月...",
+          "summary": "8 月 6 日，明尼阿波利斯航线交通控制中心失去雷达和通讯约两个小时。此次停电中断了该中心 330,000 平方英里、涵盖 9 个州的空域范围内的 1,100 多个航班。两天前，即 8...",
           "source": "The Verge",
           "url": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
           "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268692_Elon_Musk_tore_down_the_FAA_so_Peter_Thiel_could_build_it_back_up_CVirginia.jpg?quality=90&strip=all&crop=0,0,100,100",
           "time": "08/18",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
-          "title": "捷恩斯G90旗舰轿车亮相新面孔",
-          "summary": "第二代 Genesis G90 正在进行中期更新，包括重新设计的外观和改进的驾驶室。",
+          "title": "据报道，宝马XM正面临砧板",
+          "summary": "慕尼黑这款古怪的 SUV 正在苦苦挣扎，它的未来看起来越来越不确定。",
           "source": "Motor1",
-          "url": "https://www.motor1.com/news/805489/genesis-g90-sedan-spied-design-changes/",
-          "image": "https://cdn.motor1.com/images/mgl/koK3Zn/s3/genesis-g90-spy-photo.jpg",
+          "url": "https://www.motor1.com/news/805528/bmw-xm-successor-unlikely-report/",
+          "image": "https://cdn.motor1.com/images/mgl/y2Ggoe/s3/bmw-xm.jpg",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "Uber 与 Zipline 合作开发 Eats 无人机送货服务",
@@ -478,16 +478,16 @@
           "url": "https://www.theverge.com/transportation/980912/uber-eats-zipline-drone-delivery-investment",
           "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ulta-image-final-updated.avif?quality=90&strip=all&crop=0,0,100,100",
           "time": "08/17",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
-          "title": "新的大巡演来了。观看第一部预告片",
-          "summary": "詹姆斯·恩格斯曼 (James Engelsman)、托马斯·霍兰德 (Thomas Holland) 和弗朗西斯·布尔乔亚 (Francis Bourgeois) 凭借高速赛车、狂野...",
+          "title": "2027 Genesis GV90 首次亮相，配备客车门旗舰 SUV",
+          "summary": "Genesis 的新旗舰配备 657 马力、123.5 千瓦时的电池，以及带客车门的可用四座内饰。听起来很花哨。",
           "source": "Motor1",
-          "url": "https://www.motor1.com/news/805504/grand-tour-first-trailer/",
-          "image": "https://cdn.motor1.com/images/mgl/Qe7znY/s3/new-grand-tour-first-trailer.jpg",
+          "url": "https://www.motor1.com/news/805518/2027-genesis-gv90-horsepower-price-details/",
+          "image": "https://cdn.motor1.com/images/mgl/koK3RP/s3/2027-genesis-gv90-exterior.jpg",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         }
       ]
     },
@@ -497,13 +497,13 @@
       "description": "主机、PC、移动游戏、产业新闻与玩家文化。",
       "items": [
         {
-          "title": "邮购媒体巨头 Columbia House 在 71 年后关闭",
-          "summary": "邮购音乐和电影俱乐部 Columbia House 在运营 71 年后正式关闭并停止新订单。",
+          "title": "瑞恩·雷诺兹祝贺克里斯托弗·诺兰执导的《奥德赛》超越《死侍》和《金刚狼》，成为有史以来票房最高的 R 级电影",
+          "summary": "克里斯托弗·诺兰改编的古希腊史诗片和雷诺与休·杰克曼合作的第四部破壁《死侍》电影的共同点是，它们都曾一度成为世界上票房最高的 R 级电影。",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/mail-order-media-giant-columbia-house-shutting-down-after-71-years",
-          "image": "https://assets-prd.ignimgs.com/2026/08/19/columbia-house-ad-thumb-1787180573678.jpg",
+          "url": "https://www.ign.com/articles/ryan-reynolds-congratulates-christopher-nolans-the-odyssey-for-surpassing-deadpool-wolverine-to-become-highest-grossing-r-rated-movie-of-all-time",
+          "image": "https://assets-prd.ignimgs.com/2026/08/20/ryan-reynolds-congratulates-the-odyssey-highes-grossing-r-rated-movie-of-all-time-1787185455616.jpg",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "想要《现代战争 4》测试版代码吗？只说垃圾话",
@@ -512,16 +512,16 @@
           "url": "https://www.gamespot.com/articles/want-a-modern-warfare-4-beta-code-just-talk-trash/",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/08/MW4-Beta-Insults.jpg?w=300",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
-          "title": "随着拆箱和安装视频在线泄露，Steam Frame 似乎即将面世",
-          "summary": "设置视频在网上泄露后，Valve 选择正式将其发布。",
+          "title": "邮购媒体巨头 Columbia House 在 71 年后关闭",
+          "summary": "邮购音乐和电影俱乐部 Columbia House 在运营 71 年后正式关闭并停止新订单。",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/steam-frame-seems-to-be-on-the-horizon-as-unboxing-and-setup-videos-leak-online",
-          "image": "https://assets-prd.ignimgs.com/2025/11/12/steamframe-hardwaredeepdive-blogroll-1762917165879.jpg",
+          "url": "https://www.ign.com/articles/mail-order-media-giant-columbia-house-shutting-down-after-71-years",
+          "image": "https://assets-prd.ignimgs.com/2026/08/19/columbia-house-ad-thumb-1787180573678.jpg",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "显然，GTA 6 的预购收入已经超过 4 亿美元",
@@ -530,16 +530,16 @@
           "url": "https://www.gamespot.com/articles/gta-6-has-already-made-400-million-from-preorders-apparently/",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/08/GTAKayak.jpg?w=300",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
-          "title": "漫威金刚狼导演在延长游戏镜头引发强烈反对后做出回应",
-          "summary": "漫威《金刚狼》的导演迈克·戴利 (Mike Daly) 公开了最近对该游戏的强烈反对，因为其延长的游戏玩法展示在网上引起了批评。",
+          "title": "随着拆箱和安装视频在线泄露，Steam Frame 似乎即将面世",
+          "summary": "设置视频在网上泄露后，Valve 选择正式将其发布。",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/director-of-marvels-wolverine-responds-after-extended-gameplay-footage-sparks-backlash",
-          "image": "https://assets-prd.ignimgs.com/2026/07/22/ps-studios-blog-1784719617494.jpg",
+          "url": "https://www.ign.com/articles/steam-frame-seems-to-be-on-the-horizon-as-unboxing-and-setup-videos-leak-online",
+          "image": "https://assets-prd.ignimgs.com/2025/11/12/steamframe-hardwaredeepdive-blogroll-1762917165879.jpg",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "Xbox 的最新主机更新最终将允许您选择要删除的旧存档",
@@ -548,7 +548,7 @@
           "url": "https://www.gamespot.com/articles/xboxs-latest-console-update-will-finally-let-you-choose-old-saves-to-delete/",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Xbox-Update-Local-Saves.jpg?w=300",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         }
       ]
     },
@@ -564,7 +564,7 @@
           "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
           "image": "https://github.blog/wp-content/uploads/2026/08/figure-01-app-flow-diagram.png?resize=1024%2C173",
           "time": "08/11",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
@@ -573,7 +573,7 @@
           "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
           "image": "https://github.blog/wp-content/uploads/2026/08/637751962-e8ae4ea4-dd52-4404-b971-e2066865aaa8.jpeg",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "回顾对 Cloudflare Workers 的远程 Spectre 攻击",
@@ -582,16 +582,16 @@
           "url": "https://blog.cloudflare.com/revisiting-spectre-attacks-on-workers/",
           "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M00XZZC7473CXRW6EF1Z69ZW.png",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
-          "title": "梯度下降神经网络训练的普遍性",
+          "title": "Windows 为每个人带来了罗夏墨迹测验",
           "summary": "开发方向有一条新动态，适合继续跟进原文细节。",
           "source": "Hacker News",
-          "url": "https://arxiv.org/abs/2007.13664",
-          "image": "https://arxiv.org/static/browse/0.3.4/images/arxiv-logo-fb.png",
+          "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+          "image": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "让您的应用程序适应更广泛的内存限制",
@@ -600,7 +600,7 @@
           "url": "https://android-developers.googleblog.com/feeds/4265891887313386931/comments/default",
           "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxXjhFI2-zK8JEgBW_5dT7E4Wd_32EifVKThmEesvM8ei4pyt3TZUwR7FXW5VEHQGc6pPxXW8hYjsfHATAKi_wKFTFfXDevcK3wOWs9DIkJ5vhLKhVZnmCQw-IiM92tKPy1zPBZ0ZBei6qxvDbOsQX_j8NnFNEen6HWparIesRo-DPc5TP_318hU89fiU/s72-c/%5BABL_116%5D%20Preparing%20your%20app%20for%20expanded%20memory%20limits%20-%20meta.png",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "Swift 的新增功能：2026 年 7 月版",
@@ -609,7 +609,7 @@
           "url": "https://swift.org/blog/whats-new-in-swift-july-2026/",
           "image": "https://swift.org/apple-touch-icon-180x180.png",
           "time": "08/07",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         }
       ]
     },
@@ -619,13 +619,13 @@
       "description": "影像、城市、效率工具、文化消费和日常灵感。",
       "items": [
         {
-          "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
-          "summary": "哈浮 VERSA 飞行口袋云台相机发布，OpenAI 回应少量 Codex 用户调用 GPT-5.6 系列 AI 模型误删文件问题等。 查看全文",
+          "title": "「务实且高效」的日系次旗舰：夏普 AQUOS R9 评测",
+          "summary": "在 R9 身上，我竟依稀能感到夏普正在谋求一种仰望星空和脚踏实地间的精妙平衡。 查看全文",
           "source": "少数派",
-          "url": "https://sspai.com/post/113638",
-          "image": "https://rssfile.sspai.com/8/20/2026/article/36a843c7-47e7-3110-a5fa-973ed07ce592.png?imageMogr2/auto-orient/format/webp/ignore-error/1",
+          "url": "https://sspai.com/post/113497",
+          "image": "https://rssfile.sspai.com/2026/08/16/f997756d73ceca28c03f184094cc59e5.png?imageMogr2/auto-orient/ignore-error/1",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "每个 Mac 用户都应该知道的 10 个 Finder 技巧",
@@ -634,16 +634,16 @@
           "url": "https://lifehacker.com/tech/10-finder-hacks-every-mac-user-should-know?utm_medium=RSS",
           "image": "https://lifehacker.com/imagery/articles/01M0ANKAC589C21G7C5Z8J8JZT/hero-image.jpg",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
-          "title": "iOS 27 测试版近期动向，还有 Apple 产品新消息",
-          "summary": "7月20日至今，Apple陆续发布了iOS27的DeveloperBeta4、5、6三个测试版本。随着9月秋季发布会的渐进，iOS27距离正式版的发布越来越近。今天，我们就来一起看看这...",
+          "title": "派早报：石头发布 A30 Pro Steam 3.0 洗地机、Framework 升级 Laptop 12 笔记本",
+          "summary": "哈浮 VERSA 飞行口袋云台相机发布，OpenAI 回应少量 Codex 用户调用 GPT-5.6 系列 AI 模型误删文件问题等。 查看全文",
           "source": "少数派",
-          "url": "https://sspai.com/post/113618",
-          "image": "https://rssfile.sspai.com/2026/8/19/article/957923eb-5f5d-3905-8ef9-6dfe53fdbec1.jpeg?imageMogr2/auto-orient/ignore-error/1",
-          "time": "08/19",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "url": "https://sspai.com/post/113638",
+          "image": "https://rssfile.sspai.com/8/20/2026/article/36a843c7-47e7-3110-a5fa-973ed07ce592.png?imageMogr2/auto-orient/ignore-error/1",
+          "time": "08/20",
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "这些 Beats 产品折扣高达 50%",
@@ -652,16 +652,16 @@
           "url": "https://lifehacker.com/tech/beats-headphones-sale-amazon-august-2026?utm_medium=RSS",
           "image": "https://lifehacker.com/imagery/articles/01M0DV0XHSBJ3N57EGHWVMK79N/hero-image.jpg",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
-          "title": "《控制》新作体验：新怪谈游戏的祖师爷，又杀回来了",
-          "summary": "本文首发于「游研社」，作者@亚锌，少数派经授权转载，仅对排版略作调整。阅读原文在ChinaJoy期间，我参与了Remedy举办的《控制：共振》闭门试玩会。其实在开始前，我除了战斗部分之...",
+          "title": "iOS 27 测试版近期动向，还有 Apple 产品新消息",
+          "summary": "7月20日至今，Apple陆续发布了iOS27的DeveloperBeta4、5、6三个测试版本。随着9月秋季发布会的渐进，iOS27距离正式版的发布越来越近。今天，我们就来一起看看这...",
           "source": "少数派",
-          "url": "https://sspai.com/post/113588",
-          "image": "https://rssfile.sspai.com/2026/8/19/article/902ee45a-707d-0fd0-aa7a-4dbd674c8180.png?imageMogr2/auto-orient/ignore-error/1",
+          "url": "https://sspai.com/post/113618",
+          "image": "https://rssfile.sspai.com/2026/8/19/article/957923eb-5f5d-3905-8ef9-6dfe53fdbec1.jpeg?imageMogr2/auto-orient/ignore-error/1",
           "time": "08/19",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "亚马逊正在为这些电视免费提供 Alexa+",
@@ -670,7 +670,7 @@
           "url": "https://lifehacker.com/tech/amazon-alexa-plus-free-for-these-tvs?utm_medium=RSS",
           "image": "https://lifehacker.com/imagery/articles/01M0DP4SQT46G4WAF7YHGN7RNV/hero-image.png",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         }
       ]
     },
@@ -680,6 +680,51 @@
       "description": "动画、漫画、声优、二次元文化和新番动态。",
       "items": [
         {
+          "title": "Metallica 赞扬 Ado 夏季音速表演《进入桑德曼》",
+          "summary": "Metallica：“看着年轻一代找到他们的音乐之路永远不会变老......这是这样做最好的部分之一”",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/interest/2026-08-19/metallica-praises-ado-summer-sonic-performance-of-enter-sandman/.240713",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIN/cms/interest.3/240713/ado-summer-sonic-2026-tokyo.jpg",
+          "time": "08/20",
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
+        },
+        {
+          "title": "《爱情就像鸡尾酒的水晶》阳介推出浪漫喜剧漫画",
+          "summary": "Tokoro de Machi Chuka wa Date ni Irimasu ka？ 9月18日上线",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-08-19/love-is-like-a-cocktail-crystal-na-yosuke-launches-romantic-comedy-manga/.240702",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIE/cms/news.9/240702/big.jpg",
+          "time": "08/20",
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
+        },
+        {
+          "title": "吉卜力的频繁作曲家久石让荣获三项吉尼斯世界纪录",
+          "summary": "久石让因在东京巨蛋、好莱坞露天剧场、无线电城音乐厅打破纪录而获奖",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/interest/2026-08-19/ghibli-frequent-composer-joe-hisaishi-receives-3-guinness-world-records/.240717",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/herald/200430/777766886-18116675749933906-8616499653511304775-n.jpg",
+          "time": "08/20",
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
+        },
+        {
+          "title": "我们是外星人电影揭晓更多演员阵容",
+          "summary": "佐野岳、大关丽香、佐佐木亚里沙、江户晴美加盟",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-08-19/we-are-aliens-film-unveils-more-cast/.240734",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH0/cms/news.9/240734/wearealiens-morecast.jpg.webp",
+          "time": "08/20",
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
+        },
+        {
+          "title": "真人版 S 和 X：治疗师的自白系列直播第 1 2 分钟",
+          "summary": "该剧将于周四在 Netflix 全球首播",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-08-19/live-action-s-and-x-confession-of-therapist-series-streams-1st-2-minutes/.240733",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI7/youtube/7tHnfGcInNY.jpg",
+          "time": "08/20",
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
+        },
+        {
           "title": "山根绫乃的《哈士奇和他的白猫师尊》漫画改编暂停",
           "summary": "艺术家为社交媒体帖子引起的“不适”和“担忧”道歉",
           "source": "Anime News Network",
@@ -687,51 +732,6 @@
           "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gAA/cms/news.9/240730/hp6bplfaiaakrc1.jpg",
           "time": "08/20",
           "fetchedAt": "2026-08-20T01:48:34.040Z"
-        },
-        {
-          "title": "明星名侦探光之美少女！电影演员喜剧二重奏棉花",
-          "summary": "Cotton 的 Jinji Nishimura 和 Kyon 在 9 月 18 日的电影中扮演 Dame Dame 生物",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-08-19/star-detective-precure-film-casts-comedy-duo-cotton/.240732",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJK/cms/news.9/239977/precure.jpg",
-          "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
-        },
-        {
-          "title": "迪士尼扭曲仙境动画的新预告片宣布 Fairouz Ai 饰演 Yuuka",
-          "summary": "平坂优香是动画第二季《Savanaclaw》的主角",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-08-19/disney-twisted-wonderland-anime-new-teaser-announces-fairouz-ai-as-yuuka/.240731",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gPG/youtube/-NF3hbmXclE.jpg",
-          "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
-        },
-        {
-          "title": "Scholastic 的 Graphix Imprint 将推出 5 款基于手冢治虫漫画的新作品",
-          "summary": "基于 Atomcat / AstroCat、Princess Knight、The Three-Eyed One、Triton of the Sea、Zero Man 的游戏",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-08-19/scholastic-graphix-imprint-to-offer-5-new-titles-based-on-osamu-tezuka-manga/.240728",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHE/cms/news.9/240728/m0011-01.jpg",
-          "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
-        },
-        {
-          "title": "Overgeared Anime 的新视频公布了更多演员阵容和主题曲，将于 10 月 2 日首演",
-          "summary": "杉山里穗、水仲正明、本子原浩、福西雅也、天咲航平、土木俊一加盟",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-08-19/overgeared-anime-new-video-unveils-more-cast-theme-songs-october-2-debut/.240727",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGC/cms/news.9/240727/00000024.jpg",
-          "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
-        },
-        {
-          "title": "重生为自动售货机，我现在漫游迷宫第3季动漫系列评论",
-          "summary": "第三季是多么古怪、随意和有趣的旅程啊！",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/review/reborn-as-a-vending-machine-i-now-wander-the-dungeon-season-3/anime-series/.240475",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIT/cms/review.2/240475/jihanki-1.jpeg",
-          "time": "08/20",
-          "fetchedAt": "2026-08-19T18:51:03.629Z"
         }
       ]
     },
@@ -781,16 +781,16 @@
           "url": "https://petapixel.com/2026/08/19/two-photographers-spent-a-year-planning-the-perfect-eclipse-photo-and-success-came-down-to-30-seconds/",
           "image": "https://petapixel.com/assets/uploads/2026/08/eclipse-featured-header-gertsman-yoder-1600x840.jpg",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
-          "title": "拍出更好照片的秘诀是知道何时停止",
-          "summary": "摄影师 Adam Gibbs 解释了为什么拍出更好照片的秘诀不是改变你的装备。它知道作品何时真正完成。帖子“更好的照片的秘密是知道何时停止”首先出现在 DIY 摄影上。",
+          "title": "火星日食：毅力号捕捉到穿越太阳的火卫一",
+          "summary": "就在日全食穿过地球部分地区的一天后，美国宇航局的毅力号火星车在火星上观测到了日全食。八月......火星日食后：毅力捕捉到穿越太阳的火卫一首先出现在 DIY 摄影上。",
           "source": "DIY Photography",
-          "url": "https://www.diyphotography.net/secret-to-better-photos/",
-          "image": "https://www.diyphotography.net/wp-content/uploads/2025/10/2-6-300x169.jpg",
-          "time": "08/19",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "url": "https://www.diyphotography.net/solar-eclipse-on-mars-perseverance-captures-phobos-crossing-the-sun/",
+          "image": "https://www.diyphotography.net/wp-content/uploads/2026/08/mars-solar-eclipse-cover-300x169.jpg",
+          "time": "08/20",
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "日本政府表示数码相机行业正在复苏",
@@ -799,16 +799,16 @@
           "url": "https://petapixel.com/2026/08/19/japanese-government-says-the-digital-camera-industry-is-in-recovery/",
           "image": "https://petapixel.com/assets/uploads/2026/02/cipa-camera-2025-featured.jpg",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
-          "title": "2026 年哪里有卖图库照片：图库摄影仍然值得吗？",
-          "summary": "如果您曾经考虑通过摄影赚钱，您可能遇到过图库摄影。基本想法很简单：您将照片上传到... 2026 年在哪里出售 Stock Photos 的帖子：Stock Photography 仍...",
+          "title": "拍出更好照片的秘诀是知道何时停止",
+          "summary": "摄影师 Adam Gibbs 解释了为什么拍出更好照片的秘诀不是改变你的装备。它知道作品何时真正完成。帖子“更好的照片的秘密是知道何时停止”首先出现在 DIY 摄影上。",
           "source": "DIY Photography",
-          "url": "https://www.diyphotography.net/where-to-sell-stock-photos-in-2026-is-stock-photography-still-worth-it/",
-          "image": "https://www.diyphotography.net/wp-content/uploads/2026/08/gallery-of-canoe-paddling-pictures-from-colorado-2026-01-11-10-25-11-utc-300x169.jpg",
+          "url": "https://www.diyphotography.net/secret-to-better-photos/",
+          "image": "https://www.diyphotography.net/wp-content/uploads/2025/10/2-6-300x169.jpg",
           "time": "08/19",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
           "title": "你可以在 16 年前的佳能 DSLR 上玩《毁灭战士》",
@@ -817,16 +817,16 @@
           "url": "https://petapixel.com/2026/08/19/you-can-play-doom-on-a-16-year-old-canon-dslr/",
           "image": "https://petapixel.com/assets/uploads/2026/08/doom-canon-550d-featured.jpg",
           "time": "08/20",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         },
         {
-          "title": "NASA 月球轨道飞行器捕获月球上的猎鹰 9 号撞击坑",
-          "summary": "NASA 的月球勘测轨道飞行器 (LRO) 拍摄到了猎鹰 9 号火箭在月球上形成的新陨石坑。航天器捕捉到了这些图像...美国宇航局月球轨道飞行器捕捉到月球上的猎鹰 9 号撞击坑的帖子首...",
+          "title": "2026 年哪里有卖图库照片：图库摄影仍然值得吗？",
+          "summary": "如果您曾经考虑通过摄影赚钱，您可能遇到过图库摄影。基本想法很简单：您将照片上传到... 2026 年在哪里出售 Stock Photos 的帖子：Stock Photography 仍...",
           "source": "DIY Photography",
-          "url": "https://www.diyphotography.net/nasas-lunar-orbiter-captures-the-falcon-9-impact-crater-on-the-moon/",
-          "image": "https://www.diyphotography.net/wp-content/uploads/2026/08/lro-falcon-9-cover-300x169.jpg",
+          "url": "https://www.diyphotography.net/where-to-sell-stock-photos-in-2026-is-stock-photography-still-worth-it/",
+          "image": "https://www.diyphotography.net/wp-content/uploads/2026/08/gallery-of-canoe-paddling-pictures-from-colorado-2026-01-11-10-25-11-utc-300x169.jpg",
           "time": "08/19",
-          "fetchedAt": "2026-08-20T01:48:34.040Z"
+          "fetchedAt": "2026-08-20T07:02:34.370Z"
         }
       ]
     }
