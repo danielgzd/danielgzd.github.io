@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-22",
-  "generatedAt": "2026-08-22T12:57:47.478Z",
+  "updatedAt": "2026-08-23",
+  "generatedAt": "2026-08-22T18:46:30.756Z",
   "retentionDays": 10,
   "categories": [
     {
@@ -70,13 +70,31 @@
       "description": "美股指数、科技公司、美联储与全球资金动态，优先来自财联社公开电报。",
       "items": [
         {
+          "title": "特朗普在六月重组了他的投资组合，出售了 Meta 等公司并收购了伯克希尔哈撒韦公司",
+          "summary": "唐纳德·特朗普总统在 6 月份披露了超过 1,000 项财务转型，这似乎是对他的投资组合的广泛重组。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108351625-17871534152026-08-19t152922z_1488525833_rc2r1nalvhpd_rtrmadp_0_usa-trump.jpeg?v=1787153453&w=1920&h=1080",
+          "time": "08/23",
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
+        },
+        {
           "title": "Meta 是最新一家进入她法庭的科技巨头。认识伊冯·冈萨雷斯·罗杰斯法官",
           "summary": "法官伊冯·冈萨雷斯·罗杰斯 (Yvonne Gonzalez Rogers) 主持了一系列具有里程碑意义的技术审判，目前正在审理一个可能对 Meta 的未来产生巨大影响的案件。",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
           "image": "https://image.cnbcfm.com/api/v1/image/108298316-1777383492077-gettyimages-2207562352-AFP_38UZ4BA.jpeg?v=1777383527&w=1920&h=1080",
           "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
+        },
+        {
+          "title": "美国最大的股票对你来说表现很好。专家说不能贪心",
+          "summary": "低成本标普 500 指数基金是许多投资组合增加财富的基础，但投资者应增加资产以实现多元化并降低波动性。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/22/stocks-market-investments-diversification.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353032-1787395101542-gettyimages-2289192280-mms15340_f7byyguf.jpeg?v=1787395129&w=1920&h=1080",
+          "time": "08/22",
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "特斯拉因门把手安全、驾驶员监控等问题在中国召回 300 万辆汽车",
@@ -104,24 +122,6 @@
           "image": "https://image.cnbcfm.com/api/v1/image/108341785-17853378942026-07-29t150859z_29779515_rc2pnmaq6tsf_rtrmadp_0_usa-stocks.jpeg?v=1785338016&w=1920&h=1080",
           "time": "08/21",
           "fetchedAt": "2026-08-21T13:07:23.694Z"
-        },
-        {
-          "title": "不再有厄运滚动或 Instagram 故事吗？ Meta 审判失败可能会终结我们所知道的社交媒体",
-          "summary": "一位分析师告诉 CNBC：“这些审判经常与 90 年代的大型烟草诉讼相比较，结果也可能相似。”",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/21/meta-social-media-lawsuit-trial-instagram-facebook.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108352586-1787302499508-gettyimages-2256247005-237a2895-migliorato-nr.jpeg?v=1787302554&w=1920&h=1080",
-          "time": "08/21",
-          "fetchedAt": "2026-08-21T13:07:23.694Z"
-        },
-        {
-          "title": "前景令华尔街失望后沃尔玛股价暴跌 9%",
-          "summary": "沃尔玛预计将于周四公布第二财季收益，提供有关消费者和 K 型经济的解读。",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/20/walmart-wmt-q2-2027-earnings.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108225096-1762985318201-gettyimages-2230322266-WALMART_EARNS.jpeg?v=1762985452&w=1920&h=1080",
-          "time": "08/21",
-          "fetchedAt": "2026-08-21T07:04:09.714Z"
         }
       ]
     },
@@ -198,16 +198,16 @@
           "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
           "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp",
           "time": "08/20",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "下载：来自太空镜子的威胁和人工智能药物的功劳",
-          "summary": "这是今天版本的《下载》，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。这家公司部署太空镜子的计划可能会危及许多人的夜空一家计划按需从太空向地球发射阳光的公司可能会无意中照...",
+          "summary": "这是今天的《下载》版本，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。这家公司部署太空镜子的计划可能会危及许多人的夜空一家计划按需从太空向地球发射阳光的公司可能会无意中照...",
           "source": "MIT Technology Review",
           "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
           "image": "https://wp.technologyreview.com/wp-content/uploads/2025/12/SB1-top_3.jpg?fit=3840,2560",
           "time": "08/21",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "研究解释了为什么人工智能代理会从“技能”中受益以及何时会失败",
@@ -216,7 +216,7 @@
           "url": "https://the-decoder.com/study-explains-why-ai-agents-benefit-from-skills-and-when-they-fail/",
           "image": "https://the-decoder.com/wp-content/uploads/2026/08/Agent-Skill-Pick.png",
           "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "与 Gemini 和 Pixel 一起近距离接触游戏",
@@ -225,7 +225,7 @@
           "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
           "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/football_multi-club_hero_nphU3P.max-600x600.format-webp.webp",
           "time": "08/17",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "母语",
@@ -234,7 +234,7 @@
           "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/",
           "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/GettyImages-1095318768-thumb.jpg?resize=1200,600",
           "time": "08/21",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "新研究表明，忽视人类信念的世界模型会预测错误的行为",
@@ -243,7 +243,7 @@
           "url": "https://the-decoder.com/world-models-that-ignore-human-beliefs-predict-the-wrong-actions-new-research-shows/",
           "image": "https://the-decoder.com/wp-content/uploads/2026/08/mental-world-model-nano-banana-pro.jpg",
           "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         }
       ]
     },
@@ -259,7 +259,7 @@
           "url": "https://www.bbc.com/zhongwen/articles/c74g2d2293zo/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f73b/live/1c118420-9c76-11f1-b109-879e35c24276.jpg",
           "time": "08/21",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "豌豆有多健康？",
@@ -268,7 +268,7 @@
           "url": "https://cn.nytimes.com/health/20260821/peas-health-benefits-recipes/?utm_source=RSS",
           "image": "https://static01.nyt.com/images/2026/06/08/well/08WELL-HEALTHY-PEAS3/08WELL-HEALTHY-PEAS3-videoLarge.jpg",
           "time": "08/21",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "香港支聯會「煽動顛覆」案 高等法院裁定有罪",
@@ -277,7 +277,7 @@
           "url": "https://www.bbc.com/zhongwen/articles/cvgvrpy7pjro/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3602/live/746ddbd0-9d4f-11f1-b109-879e35c24276.jpg",
           "time": "08/21",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "聊天机器人正将我们推向后人类互联网",
@@ -286,7 +286,7 @@
           "url": "https://cn.nytimes.com/technology/20260821/ai-chatbots-internet-communication-loops/?utm_source=RSS",
           "image": "https://static01.nyt.com/images/2026/08/23/magazine/23mag-context-bot-loop-promo/23mag-context-bot-loop-promo-articleLarge.jpg",
           "time": "08/21",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "台灣「三大公投」：時隔一年再公投，這次投什麼？通過門檻為何？",
@@ -295,7 +295,7 @@
           "url": "https://www.bbc.com/zhongwen/articles/c0rdle4l1lvo/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eb94/live/1c4078c0-9d39-11f1-bc05-aff3aa1f91c7.jpg",
           "time": "08/21",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "mRNA癌症疫苗取得突破进展，莫德纳股价大涨",
@@ -304,7 +304,7 @@
           "url": "https://cn.nytimes.com/business/20260821/moderna-cancer-melanoma/?utm_source=RSS",
           "image": "https://static01.nyt.com/images/2026/08/19/business/19biz-moderna-alt/19biz-moderna-alt-articleLarge.jpg",
           "time": "08/21",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         }
       ]
     },
@@ -320,16 +320,16 @@
           "url": "https://www.ftchinese.com/story/001110684",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "08/21",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
-          "title": "Meta 是最新一家进入她法庭的科技巨头。认识伊冯·冈萨雷斯·罗杰斯法官",
-          "summary": "法官伊冯·冈萨雷斯·罗杰斯 (Yvonne Gonzalez Rogers) 主持了一系列具有里程碑意义的技术审判，目前正在审理一个可能对 Meta 的未来产生巨大影响的案件。",
+          "title": "随着美加贸易谈判破裂，卡尼表示报复性关税将于 9 月 8 日开始",
+          "summary": "在美国和加拿大周五未能达成协议后，特朗普政府对部分加拿大出口产品征收新的 50% 关税。",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/22/meet-yvonne-gonzalez-rogers-judge-taking-on-meta.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108298316-1777383492077-gettyimages-2207562352-AFP_38UZ4BA.jpeg?v=1777383527&w=1920&h=1080",
-          "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "url": "https://www.cnbc.com/2026/08/22/us-canada-trade-talks-collapse-ushering-in-wave-of-new-tariffs.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108351356-1787125838744-gettyimages-2281261895-AFP_B79K3Z3.jpeg?v=1787125848&w=1920&h=1080",
+          "time": "08/23",
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "上海科创板何以大幅领先？",
@@ -338,7 +338,7 @@
           "url": "https://www.ftchinese.com/story/001110682",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "08/21",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "可口可乐秘密创新实验室的内部：这家饮料巨头希望如何实现脏汽水和清凉饮料的自动化",
@@ -347,7 +347,7 @@
           "url": "https://www.cnbc.com/2026/08/22/coca-cola-innovation-labs-dirty-sodas-refreshers.html",
           "image": "https://image.cnbcfm.com/api/v1/image/108352277-1787245835671-Coca-Cola_Mixology.JPG?v=1787245933&w=1920&h=1080",
           "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "国际关系研究需要一线的真实声音",
@@ -356,16 +356,16 @@
           "url": "https://www.ftchinese.com/story/001110672",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "08/21",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
-          "title": "在美国实施新的严厉制裁之前，伊朗批评“治外法权”",
-          "summary": "美国财政部长斯科特·贝森特周四对 CNBC 表示，拟议的经济措施可能会消除美国重大军事行动的必要性。",
+          "title": "特朗普在六月重组了他的投资组合，出售了 Meta 等公司并收购了伯克希尔哈撒韦公司",
+          "summary": "唐纳德·特朗普总统在 6 月份披露了超过 1,000 项财务转型，这似乎是对他的投资组合的广泛重组。",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108353031-1787394498553-gettyimages-2290522587-nikoubazl-commemor260818_npyfJ.jpeg?v=1787394519&w=1920&h=1080",
-          "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "url": "https://www.cnbc.com/2026/08/22/trump-reshuffled-his-portfolio-in-june-selling-names-like-meta-and-buying-berkshire-hathaway.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108351625-17871534152026-08-19t152922z_1488525833_rc2r1nalvhpd_rtrmadp_0_usa-trump.jpeg?v=1787153453&w=1920&h=1080",
+          "time": "08/23",
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         }
       ]
     },
@@ -375,22 +375,22 @@
       "description": "消费电子、互联网产品、平台生态与新硬件。",
       "items": [
         {
-          "title": "两个很棒的新可修复小工具",
-          "summary": "嗨，朋友们！欢迎来到《Installer No. 141》，这是您了解世界上最好、最前沿的东西的指南。 （如果您是新来的，欢迎，我也是新来的，您也可以在安装程序主页上阅读所有旧版本。）...",
+          "title": "使用 Musical Spirograph 在浏览器中涂鸦生成作品",
+          "summary": "我记得小时候有一台螺旋描记器并且对它很着迷。其几何图案迷人而华丽。我也喜欢生成音乐创作。因此，将这两件事放在浏览器选项卡中，我着迷了。音乐螺旋记录器是一个相对简单的概念。一组点根据 [...",
           "source": "The Verge",
-          "url": "https://www.theverge.com/tech/983375/fairphone-6-plus-framework-12-laptop-mutiny-mortal-shell-2",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/installer.jpg?quality=90&strip=all&crop=0,0,100,100",
-          "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "url": "https://www.theverge.com/entertainment/983322/musical-spirograph-generative-composition",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-21-at-2.49.24-PM.png?quality=90&strip=all&crop=0,0,100,100",
+          "time": "08/23",
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
-          "title": "这个方便的 Google Pixel 功能可以帮助解决烦人的 Android 蓝牙问题",
-          "summary": "如果您的 Pixel 手机上的蓝牙连接遇到问题，此工具是开始排除故障的好地方。",
+          "title": "2026年数码相机还值得购买吗？",
+          "summary": "是的，只要您愿意投入工作（和金钱）来获得更好的照片。",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2240108/google-pixel-android-bluetooth-diagnostics-feature/",
-          "image": "https://www.engadget.com/img/gallery/this-handy-google-pixel-feature-can-help-solve-annoying-android-bluetooth-problems/l-intro-1786976534.jpg",
-          "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "url": "https://www.engadget.com/2240133/digital-cameras-still-worth-buying-2026/",
+          "image": "https://www.engadget.com/img/gallery/are-digital-cameras-still-worth-buying-in-2026/l-intro-1786982736.jpg",
+          "time": "08/23",
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "欧盟应用程序的变化",
@@ -399,7 +399,7 @@
           "url": "https://developer.apple.com/news/?id=gmws0jgp",
           "image": "https://developer.apple.com/news/images/og/apple-developer-og.png",
           "time": "08/18",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "让小鼠冬眠会导致突触大量丧失",
@@ -408,7 +408,7 @@
           "url": "https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-535196267-1152x648.jpg",
           "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "5月份网络平台新功能",
@@ -417,7 +417,7 @@
           "url": "https://web.dev/blog/web-platform-05-2026?hl=en",
           "image": "https://web.dev/static/blog/web-platform-05-2026/hero.png",
           "time": "05/29",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "PACT：网络匿名凭证",
@@ -426,7 +426,7 @@
           "url": "https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/",
           "image": "https://hacks.mozilla.org/wp-content/uploads/2026/06/pact-drawings-1.excalidraw1-scaled.png",
           "time": "06/23",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         }
       ]
     },
@@ -437,21 +437,21 @@
       "items": [
         {
           "title": "特斯拉取消其太阳能屋顶瓦片",
-          "summary": "据 Electrek 报道，特斯拉已经停止生产太阳能屋顶，其太阳能电池板的设计看起来就像普通的屋顶瓦片。 “接近该计划”的消息人士告诉该出版物，特斯拉已通知其第三方安装网络，太阳能屋顶...",
+          "summary": "据 Electrek 报道，特斯拉已经停止生产 Solar Roof，其太阳能电池板的设计看起来就像普通的屋顶瓦片。 “接近该计划”的消息人士告诉该出版物，特斯拉已通知其第三方安装网络...",
           "source": "The Verge",
           "url": "https://www.theverge.com/tech/983167/tesla-solar-roof-tiles-discontinued",
           "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7369261/2016-10-28_at_5.57_PM.0.png?quality=90&strip=all&crop=0,0,100,100",
           "time": "08/21",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
-          "title": "福特正在考虑一款廉价的拉力赛车吗？当然听起来像这样",
-          "summary": "首席执行官吉姆·法利表示，福特“对我们的拉力赛方向感到兴奋”，他相信该品牌应该提供一款价格实惠的拉力赛车。",
+          "title": "Genesis G70 正在失去其最好的发动机",
+          "summary": "政府网站显示，这款 V6 动力运动型轿车将于 2027 年停产。",
           "source": "Motor1",
-          "url": "https://www.motor1.com/news/805740/affordable-ford-rally-car-jim-farley-rumor/",
-          "image": "https://cdn.motor1.com/images/mgl/bNVY3/s3/1986-ford-rs200.jpg",
-          "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "url": "https://www.motor1.com/news/805746/genesis-g70-v6-engine-discontinued/",
+          "image": "https://cdn.motor1.com/images/mgl/W8KVV3/s3/2026-genesis-g70.jpg",
+          "time": "08/23",
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "Genesis GV90 打破了电动汽车设计的可能性",
@@ -460,16 +460,16 @@
           "url": "https://www.theverge.com/transportation/982910/genesis-gv90-ev-suv-coach-door-heated-floor",
           "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Original-6722-photo-2-gv90-neolun-exterior.jpg?quality=90&strip=all&crop=0,0,100,100",
           "time": "08/21",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
-          "title": "联邦调查局扩大对通用汽车存在问题的 V8 发动机的调查",
-          "summary": "美国国家公路交通安全管理局收到了去年召回范围之外的发动机故障投诉。",
+          "title": "福特正在考虑一款廉价的拉力赛车吗？当然听起来像这样",
+          "summary": "首席执行官吉姆·法利表示，福特“对我们的拉力赛方向感到兴奋”，他相信该品牌应该提供一款价格实惠的拉力赛车。",
           "source": "Motor1",
-          "url": "https://www.motor1.com/news/805731/nhtsa-gm-l87-v8-investigation-expands/",
-          "image": "https://cdn.motor1.com/images/mgl/L37n7W/s3/2024-chevrolet-silverado.jpg",
+          "url": "https://www.motor1.com/news/805740/affordable-ford-rally-car-jim-farley-rumor/",
+          "image": "https://cdn.motor1.com/images/mgl/bNVY3/s3/1986-ford-rs200.jpg",
           "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "亚马逊的无人机送货落在水池和池塘里",
@@ -478,16 +478,16 @@
           "url": "https://www.theverge.com/tech/982808/amazon-prime-air-drones-packages-pools-ponds",
           "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/amazon-pool-drone.jpeg?quality=90&strip=all&crop=0,0,100,100",
           "time": "08/20",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
-          "title": "为什么特斯拉的设计总监保留了他的 Model S 格子图案 #001",
-          "summary": "Franz von Holzhausen 将他的 Model S Plaid Signature Edition 底盘 001 发送给 Unplugged Performance 进行...",
+          "title": "联邦调查局扩大对通用汽车存在问题的 V8 发动机的调查",
+          "summary": "美国国家公路交通安全管理局收到了去年召回范围之外的发动机故障投诉。",
           "source": "Motor1",
-          "url": "https://www.motor1.com/news/805705/tesla-design-boss-protects-model/",
-          "image": "https://cdn.motor1.com/images/mgl/Ak3o8P/s3/tesla-model-s-plaid-signature-edition-001-completed-preservation---front-view.jpg",
-          "time": "08/21",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "url": "https://www.motor1.com/news/805731/nhtsa-gm-l87-v8-investigation-expands/",
+          "image": "https://cdn.motor1.com/images/mgl/L37n7W/s3/2024-chevrolet-silverado.jpg",
+          "time": "08/22",
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         }
       ]
     },
@@ -503,7 +503,7 @@
           "url": "https://www.ign.com/articles/hoping-for-a-huge-october-surprise-but-not-holding-my-breath-arc-raiders-players-torn-after-embark-delays-future-expeditions-until-early-2027",
           "image": "https://assets-prd.ignimgs.com/2026/08/22/arc-raiders-expedition-delay-1787357374549.png",
           "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "《使命召唤》中最具争议的物品回归《现代战争 4》，但有一些重大变化",
@@ -512,7 +512,7 @@
           "url": "https://www.gamespot.com/articles/call-of-dutys-most-controversial-item-is-back-in-modern-warfare-4-but-with-some-major-changes/",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/08/CODMW4New.webp?w=300",
           "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "Psychonauts Studio 确认，Double Fine 拥有 Xbox 拆分后所有游戏的知识产权和出版权",
@@ -521,7 +521,7 @@
           "url": "https://www.ign.com/articles/double-fine-owns-ip-and-publishing-rights-for-all-of-its-games-following-xbox-split-psychonauts-studio-confirms",
           "image": "https://assets-prd.ignimgs.com/2023/02/12/raz-smiling-1629392108306-1643856964438-1676178991278.jpg",
           "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "GTA 6 泄密者尚未确定 – 报告",
@@ -530,7 +530,7 @@
           "url": "https://www.gamespot.com/articles/gta-6-leaker-has-not-been-identified-yet-report/",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/08/Jason_Duval_01.07m377xeb6jhq.jpg?w=300",
           "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "Genki 的新型高端 PC 和 Switch 2 控制器具有内置屏幕和板载操作系统",
@@ -539,7 +539,7 @@
           "url": "https://www.ign.com/articles/genkis-new-high-end-pc-and-switch-2-controller-has-a-built-in-screen-and-onboard-os",
           "image": "https://assets-prd.ignimgs.com/2026/08/21/genkiblogroll2-1787350715279.png",
           "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "CoD：MW4 DLC 向现实生活中在手榴弹爆炸中失去眼睛和牙齿的荣誉勋章获得者致敬",
@@ -548,7 +548,7 @@
           "url": "https://www.gamespot.com/articles/cod-mw4-dlc-honors-real-life-medal-of-honor-recipient-who-lost-his-eye-and-teeth-in-grenade-blast/",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/08/COD-Large.jpeg?w=300",
           "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         }
       ]
     },
@@ -564,16 +564,16 @@
           "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
           "image": "https://github.blog/wp-content/uploads/2026/08/figure-01-app-flow-diagram.png?resize=1024%2C173",
           "time": "08/11",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "用于管理被阻止用户的更好工具",
-          "summary": "对于个人帐户和组织来说，管理被阻止的用户现在更快、更清晰。通过此更新，您可以： 按用户名、全名或电子邮件搜索。对长列表进行排序和分页...“用于管理被阻止用户的更好工具”一文首先出现在...",
+          "summary": "对于个人帐户和组织来说，管理被阻止的用户现在变得更快、更清晰。通过此更新，您可以： 按用户名、全名或电子邮件搜索。对长列表进行排序和分页...“用于管理被阻止用户的更好工具”一文首先出...",
           "source": "GitHub Blog",
           "url": "https://github.blog/changelog/2026-08-21-better-tools-for-managing-blocked-users",
           "image": "https://github.blog/wp-content/uploads/2026/08/Changelog-Improvements-Unfurl-Centered-BetterBlockTools.jpg",
           "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "说一次：介绍机器人偏好同步",
@@ -582,16 +582,16 @@
           "url": "https://blog.cloudflare.com/bot-preference-sync/",
           "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M0GECYRV44NP1WR229SCRK7E.png",
           "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
-          "title": "钩住、抓住、收获和隐藏：Meta 在第一周制定的所谓策略",
+          "title": "比利时汽车推销员在DNA测试证明王室血统后成为王子",
           "summary": "开发方向有一条新动态，适合继续跟进原文细节。",
           "source": "Hacker News",
-          "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-          "image": "https://i.guim.co.uk/img/media/5fe3c6e2663c1940dc067dd6bc16c1117ac663b4/955_0_4016_3213/master/4016.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d230dbeb5c6c85168c698cf5d9542f3f",
-          "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "url": "https://www.cnn.com/2026/08/22/europe/prince-belgium-secret-son-scli-intl",
+          "image": "https://media.cnn.com/api/v1/images/stellar/prod/sipausa-66517102.jpg?c=16x9&q=w_800,c_fill",
+          "time": "08/23",
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "让您的应用程序适应更广泛的内存限制",
@@ -600,7 +600,7 @@
           "url": "https://android-developers.googleblog.com/feeds/4265891887313386931/comments/default",
           "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxXjhFI2-zK8JEgBW_5dT7E4Wd_32EifVKThmEesvM8ei4pyt3TZUwR7FXW5VEHQGc6pPxXW8hYjsfHATAKi_wKFTFfXDevcK3wOWs9DIkJ5vhLKhVZnmCQw-IiM92tKPy1zPBZ0ZBei6qxvDbOsQX_j8NnFNEen6HWparIesRo-DPc5TP_318hU89fiU/s72-c/%5BABL_116%5D%20Preparing%20your%20app%20for%20expanded%20memory%20limits%20-%20meta.png",
           "time": "08/20",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "Swift 6.4 中的嵌入式 Swift 改进",
@@ -609,7 +609,7 @@
           "url": "https://swift.org/blog/embedded-swift-improvements-coming-in-swift-6.4/",
           "image": "https://swift.org/apple-touch-icon-180x180.png",
           "time": "08/20",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         }
       ]
     },
@@ -623,9 +623,9 @@
           "summary": "又一年8月29日如期而至，MichaelJackson的诞辰来到了第68个年头，我们决定在少数派广州线下店举办一场MJ唱片展。少数派广州店一直想做一处能让数码和音乐爱好者都能自在落脚的...",
           "source": "少数派",
           "url": "https://sspai.com/post/113675",
-          "image": "https://rssfile.sspai.com/2026/8/21/article/551b75e2-393d-5b46-55bd-aae117b151ec.jpeg?imageMogr2/auto-orient/ignore-error/1",
+          "image": "https://rssfile.sspai.com/2026/8/21/article/551b75e2-393d-5b46-55bd-aae117b151ec.jpeg?imageMogr2/auto-orient/format/webp/ignore-error/1",
           "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "我是一名交易作家，这些是我本周的十大科技交易",
@@ -634,7 +634,7 @@
           "url": "https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS",
           "image": "https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.png",
           "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "本周看什么 | 最近值得一看的 10 部作品",
@@ -643,7 +643,7 @@
           "url": "https://sspai.com/post/113693",
           "image": "https://rssfile.sspai.com/2026/8/21/article/64cacf92-6e33-57f3-4827-6b9873aaab28.png?imageMogr2/auto-orient/ignore-error/1",
           "time": "08/21",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "Facebook Marketplace 买家和卖家都应该知道的 10 个技巧",
@@ -652,7 +652,7 @@
           "url": "https://lifehacker.com/tech/hacks-for-facebook-marketplace-users?utm_medium=RSS",
           "image": "https://lifehacker.com/imagery/articles/01M0GC7823K9AQ1CPFAHZT037C/hero-image.jpg",
           "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "TDS REVIEW | Nothing Ear (3a) 降噪真无线耳机体验",
@@ -661,7 +661,7 @@
           "url": "https://sspai.com/post/113586",
           "image": "https://rssfile.sspai.com/2026/08/18/646c3223f40c29f577cd4df085a20309.jpg?imageMogr2/auto-orient/ignore-error/1",
           "time": "08/21",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "您应该在 Google Pixel 上启用七项紧急功能",
@@ -670,7 +670,7 @@
           "url": "https://lifehacker.com/tech/emergency-features-you-should-enable-on-your-android?utm_medium=RSS",
           "image": "https://lifehacker.com/imagery/articles/01M0BDAGCXA56M8AFE9TRDRV0F/hero-image.jpg",
           "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         }
       ]
     },
@@ -680,6 +680,51 @@
       "description": "动画、漫画、声优、二次元文化和新番动态。",
       "items": [
         {
+          "title": "和你一起在超市后面抽烟 – 第 7 集",
+          "summary": "虽然这一集并没有以任何方式扩大节目的范围，但它让我思考自己的生活，并且看起来比我预期的要好！",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/review/smoking-behind-the-supermarket-with-you/episode-7/.240840",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gNA/cms/episode-review.5/240840/supermarket-smoking-episode-7-review-image.png.jpg",
+          "time": "08/23",
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
+        },
+        {
+          "title": "少妇不玩格斗游戏——第7集",
+          "summary": "在这一点上，我们已经形成了一些竞争，我百分百支持它。",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/review/young-ladies-dont-play-fighting-games/episode-7/.240839",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gLE/cms/episode-review.5/240839/yl.jpg",
+          "time": "08/23",
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
+        },
+        {
+          "title": "画这个，然后死！ – 第 7 集",
+          "summary": "即使节目试图以一种愉快的方式来构建事物，它也从不回避作为一个创作者实际上是多么令人畏惧的令人不安的现实。",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/review/draw-this-then-die/episode-7/.240792",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKM/cms/episode-review.5/240792/vlcsnap-2026-08-21-02h30m14s975.png.jpg",
+          "time": "08/23",
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
+        },
+        {
+          "title": "世界在跳舞第 1-6 卷漫画评论",
+          "summary": "这种对能最伟大才华的起源的惊人旋转不仅在视觉上令人惊叹，而且深刻地讲述了每个时代艺术家的困境。",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/review/the-world-is-dancing/volumes-1-6/.240558",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF4/cms/review.2/240558/dancing.jpeg",
+          "time": "08/23",
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
+        },
+        {
+          "title": "Yen Press 公布 9 个新授权，包括《Übel Blatt II》、《灰驱魔人》、《用吻封住我的嘴唇》漫画",
+          "summary": "新的轻小说授权包括：《魔女的定罪》、《野兽的救赎》；因为我就是自由！",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-08-22/yen-press-reveals-9-new-licenses-including-ubel-blatt-ii-the-gray-exorcist-seal-my-lips-with-a-kiss-/.240829",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gL6/cms/news.9/240829/ubel-blatt-ii-v1-cnf.jpg",
+          "time": "08/22",
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
+        },
+        {
           "title": "Clevatess 第 2 季 – 第 7 集",
           "summary": "更多的动漫应该有勇气说：“我们很抱歉，但公主在另一座城堡里……因为她正在用无情的铁拳统治着地狱里最邪恶的恶魔。”",
           "source": "Anime News Network",
@@ -687,51 +732,6 @@
           "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHH/cms/episode-review.5/240563/clevatess-ii-7.png.jpg",
           "time": "08/22",
           "fetchedAt": "2026-08-22T12:57:47.478Z"
-        },
-        {
-          "title": "《决斗大师失落：段子少年》动画将于 10 月 9 日首播",
-          "summary": "视觉，回归员工透露",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-08-22/duel-masters-lost-danzai-no-shonen-anime-reveals-october-9-debut/.240836",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFB/cms/news.9/240836/danzai-kv.png.jpg",
-          "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
-        },
-        {
-          "title": "就连学生会也有漏洞！ TV 动画主宣传视频将于 10 月 3 日首播",
-          "summary": "更多工作人员、开幕主题艺术家也已公布",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-08-22/even-the-student-council-has-its-holes-tv-anime-reveals-october-3-debut-in-main-promo-video/.240834",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG8/youtube/SSePdGrgYLA.jpg",
-          "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
-        },
-        {
-          "title": "2026 年纽约动漫展的所有新闻和评论",
-          "summary": "8 月 20 日星期四新闻与兴趣愚人之夜动画预告片公布更多演员阵容，11 月 26 日全球 Netflix 首映《赛博朋克边缘奔跑者 2》动画的...",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/convention/2026/all-the-news-and-reviews-from-anime-nyc/.240809",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g8C/cms/convention/240809/animenyc-big.png.jpg",
-          "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
-        },
-        {
-          "title": "Tokyopop 授权 2 部新漫画于 2027 年发行",
-          "summary": "有关 2 漫画的更多详细信息，包括确切的发行日期，将在稍后公布",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-08-22/tokyopop-licenses-2-new-manhwa-for-2027-release/.240831",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g01/cms/news.9/240831/lily-of-the-valley.jpg",
-          "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
-        },
-        {
-          "title": "命运/奇怪的假电视动画确认新一季",
-          "summary": "新赛季视觉图曝光",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-08-22/fate-strange-fake-tv-anime-confirms-new-season/.240827",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHK/cms/news.9/240827/fate.png.jpg",
-          "time": "08/22",
-          "fetchedAt": "2026-08-22T06:56:38.943Z"
         }
       ]
     },
@@ -775,13 +775,31 @@
       "description": "摄影技巧、人物、人像、风景、器材和后期灵感。",
       "items": [
         {
-          "title": "Magnum 摄影师花了三年时间记录英格兰全部 42 座圣公会大教堂",
-          "summary": "一场精彩的展览汇集了一位已故玛格南摄影师拍摄的英格兰所有 42 座英国圣公会大教堂的照片，完全在自然光下捕捉到了它们巨大的、通常很少见的内部空间。 [ 阅读更多 ]",
+          "title": "斯科斯比桑德的熄灯：捕捉北极高地的日全食",
+          "summary": "“这真是令人叹为观止，”韦恩说道，他的声音中充满了明显的敬畏。 “这是我一生中拍摄过的最史诗般的事物。” … [ 阅读更多 ]",
           "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/08/22/magnum-photographer-spent-three-years-documenting-all-42-of-englands-anglican-cathedrals/",
-          "image": "https://petapixel.com/assets/uploads/2026/08/magnum-photographer-cathedrals-1.jpg",
+          "url": "https://petapixel.com/2026/08/22/lights-out-in-scoresby-sund-capturing-a-total-eclipse-in-the-high-arctic/",
+          "image": "https://petapixel.com/assets/uploads/2026/08/Lights-Out-in-Scoresby-Sund-Capturing-a-Total-Eclipse-in-the-High-Arctic.jpg",
           "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
+        },
+        {
+          "title": "摄影的要素是什么？",
+          "summary": "摄影的元素是构成每幅图像的基石，它们分为三组：控制曝光的技术元素……帖子什么是摄影的元素？首先出现在DIY摄影上。",
+          "source": "DIY Photography",
+          "url": "https://www.diyphotography.net/what-are-the-elements-of-photography/",
+          "image": "https://www.diyphotography.net/wp-content/uploads/2026/08/photographer-captures-city-scenes-with-camera-2026-03-09-02-59-16-utc-300x169.jpg",
+          "time": "08/22",
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
+        },
+        {
+          "title": "《寡妇湾》的摄影师透露了他如何创造该剧独特的外观",
+          "summary": "广受好评的恐怖喜剧电视节目《寡妇湾》的电影摄影师透露了他如何创造该系列独特的电影外观。 [ 阅读更多 ]",
+          "source": "PetaPixel",
+          "url": "https://petapixel.com/2026/08/22/widows-bay-cinematographer-reveals-how-he-created-the-shows-distinctive-look/",
+          "image": "https://petapixel.com/assets/uploads/2026/08/widows-bay-featured2.jpg",
+          "time": "08/22",
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "这些照片展示了你看不到的夜空颜色",
@@ -790,16 +808,16 @@
           "url": "https://www.diyphotography.net/these-photos-show-the-colors-of-the-night-sky-that-you-cant-see/",
           "image": "https://www.diyphotography.net/wp-content/uploads/2026/08/marmalade-sky-cover-300x169.jpg",
           "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
-          "title": "HoverAir 的飞行云台相机似乎已在美国被禁止",
-          "summary": "HoverAir Versa 于 7 月发布，被宣传为世界上第一款“飞行袖珍相机”。该描述中的第一个词可能使该公司陷入了最近的无人机禁令，因为它似乎已经针对美国客户被取消。 [ 阅读更...",
+          "title": "Magnum 摄影师花了三年时间记录英格兰全部 42 座圣公会大教堂",
+          "summary": "一场精彩的展览汇集了一位已故玛格南摄影师拍摄的英格兰所有 42 座英国圣公会大教堂的照片，完全在自然光下捕捉到了它们巨大的、通常很少见的内部空间。 [ 阅读更多 ]",
           "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/08/21/it-looks-like-hover-airs-flying-gimbal-camera-already-got-banned-in-the-u-s/",
-          "image": "https://petapixel.com/assets/uploads/2026/08/It-Looks-Like-Hover-Airs-Flying-Gimbal-Camera-Already-Got-Banned-in-the-U.S.jpg",
+          "url": "https://petapixel.com/2026/08/22/magnum-photographer-spent-three-years-documenting-all-42-of-englands-anglican-cathedrals/",
+          "image": "https://petapixel.com/assets/uploads/2026/08/magnum-photographer-cathedrals-1.jpg",
           "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         },
         {
           "title": "拥有摄影学位可以做什么？摄影之外的职业选择",
@@ -808,25 +826,7 @@
           "url": "https://www.diyphotography.net/what-can-you-do-with-a-photography-degree-career-options-beyond-photography/",
           "image": "https://www.diyphotography.net/wp-content/uploads/2026/08/child-graduation-with-diploma-in-gown-outdoors-2026-03-09-03-23-00-utc-300x169.jpg",
           "time": "08/21",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
-        },
-        {
-          "title": "Aphera 是一款 RAW 编辑器，专为“追求感觉而不是公式”的摄影师而设计",
-          "summary": "Aphera 是一款专为 macOS 原生构建的全新 RAW 照片编辑器，它优先考虑速度和手工编辑而不是复杂性。 [ 阅读更多 ]",
-          "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/08/21/aphera-is-a-raw-editor-for-photographers-who-chase-feeling-over-formula/",
-          "image": "https://petapixel.com/assets/uploads/2026/08/aphera-app-featured.jpg",
-          "time": "08/22",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
-        },
-        {
-          "title": "我应该成为一名专业摄影师吗？开始之前您需要了解什么",
-          "summary": "你应该成为一名专业摄影师吗？或许。但在你辞去日常工作之前，购买一台价值 5,000 英镑的相机，并在 Instagram 上宣布你“正在关注……《我应该成为一名专业摄影师吗？开始之前你...",
-          "source": "DIY Photography",
-          "url": "https://www.diyphotography.net/should-i-become-a-professional-photographer-what-you-need-to-know-before-you-start/",
-          "image": "https://www.diyphotography.net/wp-content/uploads/2026/08/man-with-camera-taking-picture-in-urban-setting-2026-03-25-06-01-25-utc-300x169.jpg",
-          "time": "08/21",
-          "fetchedAt": "2026-08-22T12:57:47.478Z"
+          "fetchedAt": "2026-08-22T18:46:30.756Z"
         }
       ]
     }
