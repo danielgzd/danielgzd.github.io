@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-03",
-  "generatedAt": "2026-09-03T11:08:23.328Z",
+  "updatedAt": "2026-09-04",
+  "generatedAt": "2026-09-03T16:22:03.018Z",
   "retentionDays": 10,
   "categories": [
     {
@@ -8,6 +8,24 @@
       "label": "A股",
       "description": "A 股公司公告、盘面变化、政策与行业催化，优先来自财联社公开电报。",
       "items": [
+        {
+          "title": "美股三大股指均涨超1% 特斯拉、SpaceX均涨超6% 戴尔回调后率先创出历史新高",
+          "summary": "【美股三大股指均涨超1% 特斯拉、SpaceX均涨超6% 戴尔回调后率先创出历史新高】财联社9月3日电，美股三大股指持续走高，道琼斯指数涨1.18%，标普500指数涨1%，纳斯达克综合指数涨1.33%。英伟达股价上涨1.37%，苹果...",
+          "source": "财联社电报",
+          "url": "https://www.cls.cn/detail/2473665",
+          "image": "https://image.cls.cn/images/20260903/jrCnmdnlgh_618x502.png",
+          "time": "09/03 23:47",
+          "fetchedAt": "2026-09-03T15:47:36.000Z"
+        },
+        {
+          "title": "华阳集团：正在推进与中际旭创和酷冷至尊的合作",
+          "summary": "【华阳集团：正在推进与中际旭创和酷冷至尊的合作】财联社9月3日电，有投资者问华阳集团，请问公司有没拿到中际旭创和酷冷至尊的液冷订单？华阳集团在互动平台表示，公司正在推进与上述客户的合作。",
+          "source": "财联社电报",
+          "url": "https://www.cls.cn/detail/2473661",
+          "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+          "time": "09/03 23:38",
+          "fetchedAt": "2026-09-03T15:38:06.000Z"
+        },
         {
           "title": "燧原科技中签号出炉：中签号码共有20,657个",
           "summary": "【燧原科技中签号出炉：中签号码共有20,657个】财联社9月3日电，燧原科技发布首次公开发行股票并在科创板上市网下初步配售结果及网上中签结果公告，中签号码共有20,657个，每个中签号码只能认购500股燧原科技A股股票。",
@@ -43,24 +61,6 @@
           "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
           "time": "09/03 18:43",
           "fetchedAt": "2026-09-03T10:43:27.000Z"
-        },
-        {
-          "title": "海通发展：拟定增募资不超20亿元全部用于船舶购置项目",
-          "summary": "【海通发展：拟定增募资不超20亿元全部用于船舶购置项目】财联社9月3日电，海通发展(603162.SH)公告称，公司拟向特定对象发行A股股票，募集资金总额不超过20亿元，扣除发行费用后将全部用于船舶购置项目。",
-          "source": "财联社电报",
-          "url": "https://www.cls.cn/detail/2473377",
-          "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
-          "time": "09/03 18:39",
-          "fetchedAt": "2026-09-03T10:39:06.000Z"
-        },
-        {
-          "title": "财联社9月2日午间新闻精选",
-          "summary": "【财联社9月2日午间新闻精选】 1、截至午间收盘，沪指跌0.82%，深证成指跌1.71%，创业板指跌2.18%。 2、港股午间收盘，恒生指数跌0.96%，恒生科技指数跌1.54%。 3、国家能源局召开新型电网建设工作部署会，加快输电...",
-          "source": "财联社电报",
-          "url": "https://www.cls.cn/detail/2471691",
-          "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
-          "time": "09/02 12:04",
-          "fetchedAt": "2026-09-02T04:04:16.000Z"
         }
       ]
     },
@@ -70,13 +70,49 @@
       "description": "美股指数、科技公司、美联储与全球资金动态，优先来自财联社公开电报。",
       "items": [
         {
-          "title": "译：&apos;No steering wheel, no pedals.&apos; 特斯拉 teases fans ahead of long-awaited Cybercab update",
+          "title": "美股三大股指均涨超1% 特斯拉、SpaceX均涨超6% 戴尔回调后率先创出历史新高",
+          "summary": "【美股三大股指均涨超1% 特斯拉、SpaceX均涨超6% 戴尔回调后率先创出历史新高】财联社9月3日电，美股三大股指持续走高，道琼斯指数涨1.18%，标普500指数涨1%，纳斯达克综合指数涨1.33%。英伟达股价上涨1.37%，苹果...",
+          "source": "财联社电报",
+          "url": "https://www.cls.cn/detail/2473665",
+          "image": "https://image.cls.cn/images/20260903/jrCnmdnlgh_618x502.png",
+          "time": "09/03 23:47",
+          "fetchedAt": "2026-09-03T15:47:36.000Z"
+        },
+        {
+          "title": "译：Hugging Face approached 英伟达’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
+          "summary": "译：英伟达 CEO Jensen Huang said that with Hugging Face, the chipmaker will \"expand access to AI ...",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108343877-1785771031007-gettyimages-1663179404-AI_CEOs_555_091323.jpeg?v=1785771160&w=1920&h=1080",
+          "time": "09/03",
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
+        },
+        {
+          "title": "美股三大股指持续走高 道指、纳指均涨超1%",
+          "summary": "美股三大股指持续走高，道琼斯指数涨1.02%，标普500指数涨0.85%，纳斯达克综合指数涨1.17%。",
+          "source": "财联社电报",
+          "url": "https://www.cls.cn/detail/2473652",
+          "image": "https://image.cls.cn/images/20260903/cW9TZEh8NU_754x316.png",
+          "time": "09/03 23:15",
+          "fetchedAt": "2026-09-03T15:15:38.000Z"
+        },
+        {
+          "title": "美股方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "美股方向有一条新动态，适合继续跟进原文细节。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/03/meta-teen-app-changes.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108283711-1774557077741-gettyimages-2267943807-Zuckerberg_181_032626.jpeg?v=1774897810&w=1920&h=1080",
+          "time": "09/03",
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
+        },
+        {
+          "title": "译：&apos;No steering wheel, no pedals&apos;: 特斯拉 teases fans ahead of long-awaited Cybercab update",
           "summary": "译：特斯拉 first unveiled the Cybercab almost two years ago, and fans of the company have been wa...",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/09/03/tesla-teases-no-steering-wheel-no-pedals-ahead-of-cybercab-update.html",
           "image": "https://image.cnbcfm.com/api/v1/image/108217500-17615992202025-10-27t210414z_749579595_rc2gkhaoovvj_rtrmadp_0_tesla-usa.jpeg?v=1761599290&w=1920&h=1080",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "美股方向有一条新动态，适合继续跟进原文细节。",
@@ -86,42 +122,6 @@
           "image": "https://image.cnbcfm.com/api/v1/image/108358139-1788386094940-IMG_0024.jpeg?v=1788386177&w=1920&h=1080",
           "time": "09/03",
           "fetchedAt": "2026-09-03T11:08:23.328Z"
-        },
-        {
-          "title": "美股方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "美股方向有一条新动态，适合继续跟进原文细节。",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/02/microsoft-to-disclose-azure-revenue-as-part-of-segment-changes.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108357983-1788375067852-gettyimages-2272649609-gchanceo-3-2_s0j0mwfy.jpeg?v=1788375145&w=1920&h=1080",
-          "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
-        },
-        {
-          "title": "美股方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "译：Apple 股票 hasn't been this inversely correlated to its tech peers since 2005.",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/02/apple-shares-are-doing-something-they-havent-done-in-20-years-heres-whats-happening.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108354003-1787676182261-gettyimages-2290721593-zawrzel-economya260810_npMeU.jpeg?v=1787676253&w=1920&h=1080",
-          "time": "09/02",
-          "fetchedAt": "2026-09-03T04:17:39.582Z"
-        },
-        {
-          "title": "译：Traders are piling into this international 股票 市场 that just pulled ahead of the Nasdaq",
-          "summary": "美股方向有一条新动态，适合继续跟进原文细节。",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/02/traders-pile-into-this-international-stock-market-thats-beating-the-nasdaq.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108253827-1768609643888-gettyimages-2233847146-BRAZIL_REAL.jpeg?v=1788375631&w=1920&h=1080",
-          "time": "09/03",
-          "fetchedAt": "2026-09-03T04:17:39.582Z"
-        },
-        {
-          "title": "美股三大指数集体收涨 AI应用软件股下挫",
-          "summary": "【美股三大指数集体收涨 AI应用软件股下挫】财联社9月3日电，美股三大指数集体收涨，道指涨0.56%，纳指涨0.45%，标普500指数涨0.46%。AI应用软件股下挫，MongoDB跌超13%，Datadog跌超6%；公用事业板块下...",
-          "source": "财联社电报",
-          "url": "https://www.cls.cn/detail/2472533",
-          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-          "time": "09/03 04:01",
-          "fetchedAt": "2026-09-02T20:01:37.000Z"
         }
       ]
     },
@@ -137,7 +137,7 @@
           "url": "https://www.bbc.com/zhongwen/articles/c4g5djd75gpo/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ae4b/live/abaa7a90-a54c-11f1-aed2-8d6da8d75094.jpg",
           "time": "09/02",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "美军称对伊海上封锁已使86艘商船改变航向",
@@ -198,25 +198,25 @@
           "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
           "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp",
           "time": "09/02",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
-        },
-        {
-          "title": "译：Agriculture relies on fossil fuels. It’s costing 美国.",
-          "summary": "AI方向有一条新动态，适合继续跟进原文细节。",
-          "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
-          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/GettyImages-1300156444.jpg?resize=1200,600",
-          "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "AI方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "译：Anthropic has signed a $35 billion cloud computing deal with Lambda, an 英伟达-backed cloud p...",
-          "source": "The Decoder",
-          "url": "https://the-decoder.com/anthropic-ramps-up-claude-infrastructure-with-35-billion-lambda-deal/",
-          "image": "https://the-decoder.com/wp-content/uploads/2026/08/anthropic_claude.png",
+          "summary": "译：This is today’s edition of The Download, our weekday newsletter that provides a daily dose...",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/2412_GW_2Month_2_1.jpg?w=840",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
+        },
+        {
+          "title": "译：英伟达 buys the front door to open AI as closed labs increasingly design their own silicon",
+          "summary": "译：英伟达 plans to acquire Hugging Face for about $12.9 billion, securing the central platform f...",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/nvidia-buys-the-front-door-to-open-ai-as-closed-labs-increasingly-design-their-own-silicon/",
+          "image": "https://the-decoder.com/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2-1536x864-1.png",
+          "time": "09/03",
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "AI方向有一条新动态，适合继续跟进原文细节。",
@@ -225,25 +225,25 @@
           "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
           "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp",
           "time": "09/02",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
+        },
+        {
+          "title": "译：Agriculture relies on fossil fuels. It’s costing 美国.",
+          "summary": "AI方向有一条新动态，适合继续跟进原文细节。",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/09/GettyImages-1300156444.jpg?resize=1200,600",
+          "time": "09/03",
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "AI方向有一条新动态，适合继续跟进原文细节。",
           "summary": "AI方向有一条新动态，适合继续跟进原文细节。",
-          "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
-          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/08/MITTRI-NiCE-social-card.png?w=840",
-          "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
-        },
-        {
-          "title": "译：美国 Department of Justice backs fair use for AI training in landmark copyright case",
-          "summary": "译：In the class-action lawsuit involving The New York Times, the 美国 Department of Justice arg...",
           "source": "The Decoder",
-          "url": "https://the-decoder.com/us-department-of-justice-backs-fair-use-for-ai-training-in-landmark-copyright-case/",
-          "image": "https://the-decoder.com/wp-content/uploads/2026/09/token_to_ai_content.png",
+          "url": "https://the-decoder.com/claude-fable-5-1-decoded-a-centuries-old-royalist-message-hidden-in-plain-sight-since-1653/",
+          "image": "https://the-decoder.com/wp-content/uploads/2026/09/cyphral_distich.png",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         }
       ]
     },
@@ -257,9 +257,9 @@
           "summary": "聯合國世界氣象組織（WMO）警告，這種自然天氣現象可能為全球經濟帶來衝擊。",
           "source": "BBC 中文",
           "url": "https://www.bbc.com/zhongwen/articles/cm27n2emn1zo/trad?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b726/live/54120bc0-a6bb-11f1-ae1e-219da1d6451a.jpg",
+          "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2bbb/live/3f325b30-a790-11f1-a291-b542ee92de7c.jpg",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "无序的新世界即将到来，我们没有做好准备",
@@ -268,7 +268,7 @@
           "url": "https://cn.nytimes.com/opinion/20260903/world-order-international-relations/?utm_source=RSS",
           "image": "https://static01.nyt.com/images/2026/09/01/opinion/01macmillan-final/01macmillan-draft-videoLarge.jpg",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "《肖申克的救贖》中國公映：官方字幕翻譯何以引發爭議？",
@@ -277,7 +277,7 @@
           "url": "https://www.bbc.com/zhongwen/articles/c5yd4361y6no/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/70e3/live/c7e7e070-a75f-11f1-8888-832c5829c86c.jpg",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "美国海军舰队的后勤噩梦",
@@ -286,7 +286,7 @@
           "url": "https://cn.nytimes.com/usa/20260903/iran-war-us-navy-carriers-supply/?utm_source=RSS",
           "image": "https://static01.nyt.com/images/2026/09/02/multimedia/c03carriers-01/c03carriers-articleLarge.png",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "美國航母「林肯號」航行250天終抵泰國，這是我們目前知道的情況",
@@ -295,7 +295,7 @@
           "url": "https://www.bbc.com/zhongwen/articles/cwyzg4en4k3o/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/54f9/live/eb5af6f0-a6d8-11f1-a291-b542ee92de7c.jpg",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "特朗普对伊朗已经套路用尽、无牌可打？",
@@ -304,7 +304,7 @@
           "url": "https://cn.nytimes.com/usa/20260903/trump-iran-strait-of-hormuz/?utm_source=RSS",
           "image": "https://static01.nyt.com/images/2026/09/02/multimedia/02dc-prexy-wvkg/02dc-prexy-wvkg-articleLarge.jpg",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         }
       ]
     },
@@ -320,16 +320,16 @@
           "url": "https://www.ftchinese.com/story/001110789",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
-          "title": "译：The 世界 appears to be entering a higher-rate era. Here’s who will pay the price",
-          "summary": "译：The bond sell-off is owed to a mix of high government debt issuance, an oil-price shock th...",
+          "title": "译：Hugging Face approached 英伟达’s Huang weeks ahead of $12.9B acquisition, CEO tells CNBC",
+          "summary": "译：英伟达 CEO Jensen Huang said that with Hugging Face, the chipmaker will \"expand access to AI ...",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108353952-1787671978491-Traders-20260825-AS-PRESS-5.jpg?v=1787672206&w=1920&h=1080",
+          "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108343877-1785771031007-gettyimages-1663179404-AI_CEOs_555_091323.jpeg?v=1785771160&w=1920&h=1080",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "习近平访问埃及 在访美前密集出访",
@@ -338,16 +338,16 @@
           "url": "https://www.ftchinese.com/story/001110788",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "财经方向有一条新动态，适合继续跟进原文细节。",
           "summary": "财经方向有一条新动态，适合继续跟进原文细节。",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/03/us-iran-war-trump-hormuz-israel-middle-east-europe-kuwait.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108357939-1788371708953-gettyimages-2293206133-_d2_0263_golm2b58.jpeg?v=1788371810&w=1920&h=1080",
-          "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "url": "https://www.cnbc.com/2026/09/03/carney-lutnick-trump-trade-canada.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108291197-1776182891819-gettyimages-2270831111-AFP_A7RQ38R.jpeg?v=1776182906&w=1920&h=1080",
+          "time": "09/04",
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "AI物流需求：航空货运的结构性增长新引擎",
@@ -356,16 +356,16 @@
           "url": "https://www.ftchinese.com/story/001110787",
           "image": "https://d1sh1cgb4xvhl.cloudfront.net/unsafe/1200x630/picture/8/000344358_piclink.png",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
-          "title": "译：&apos;No steering wheel, no pedals.&apos; 特斯拉 teases fans ahead of long-awaited Cybercab update",
-          "summary": "译：特斯拉 first unveiled the Cybercab almost two years ago, and fans of the company have been wa...",
+          "title": "译：The 世界 appears to be entering a higher-rate era. Here’s who will pay the price",
+          "summary": "译：The bond sell-off is owed to a mix of high government debt issuance, an oil-price shock th...",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/03/tesla-teases-no-steering-wheel-no-pedals-ahead-of-cybercab-update.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108217500-17615992202025-10-27t210414z_749579595_rc2gkhaoovvj_rtrmadp_0_tesla-usa.jpeg?v=1761599290&w=1920&h=1080",
+          "url": "https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108353952-1787671978491-Traders-20260825-AS-PRESS-5.jpg?v=1787672206&w=1920&h=1080",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         }
       ]
     },
@@ -375,22 +375,22 @@
       "description": "消费电子、互联网产品、平台生态与新硬件。",
       "items": [
         {
-          "title": "科技方向有一条新动态，适合继续跟进原文细节。",
+          "title": "译：I held the first truly bezel-free 手机",
           "summary": "科技方向有一条新动态，适合继续跟进原文细节。",
           "source": "The Verge",
-          "url": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_STOCKS_CVirginia_D.jpg?quality=90&strip=all&crop=0,0,100,100",
-          "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "url": "https://www.theverge.com/tech/985009/tecno-bezelless-concept-phone-ifa",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/tecno-bezelless-concept-01.jpg?quality=90&strip=all&crop=0,0,100,100",
+          "time": "09/04",
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
-          "title": "译：DJI's Osmo 360 II adds a replaceable 镜头 and improved low-light capability",
-          "summary": "科技方向有一条新动态，适合继续跟进原文细节。",
+          "title": "科技方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "译：The latest crystal-covered Razr 手机 is here.",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2250097/dji-osmo-360-ii-adds-a-replaceable-lens-and-improved-low-light-capability/",
-          "image": "https://www.engadget.com/img/gallery/djis-osmo-360-ii-adds-a-replaceable-lens-and-improved-low-light-capability/l-intro-1788411104.jpg",
-          "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "url": "https://www.engadget.com/2250433/motorola-just-introduced-another-razr-covered-in-swarovski-crystals/",
+          "image": "https://www.engadget.com/img/gallery/motorola-just-introduced-another-razr-thats-covered-in-swarovski-crystals/l-intro-1788451702.jpg",
+          "time": "09/04",
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "译：Hello 开发者: September 2026",
@@ -399,7 +399,7 @@
           "url": "https://developer.apple.com/news/?id=ote61lrx",
           "image": "https://devimages-cdn.apple.com/wwdc-services/articles/images/118D6B92-8A93-4879-BBB4-EE5F98F8B216/2048.jpeg",
           "time": "09/02",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "科技方向有一条新动态，适合继续跟进原文细节。",
@@ -408,7 +408,7 @@
           "url": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
           "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/05/us-capitol-1152x648-1777657457.jpg",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "科技方向有一条新动态，适合继续跟进原文细节。",
@@ -417,7 +417,7 @@
           "url": "https://web.dev/blog/web-platform-05-2026?hl=en",
           "image": "https://web.dev/static/blog/web-platform-05-2026/hero.png",
           "time": "05/29",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "科技方向有一条新动态，适合继续跟进原文细节。",
@@ -426,7 +426,7 @@
           "url": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
           "image": "https://hacks.mozilla.org/wp-content/uploads/2026/08/progressive-stages.avif",
           "time": "08/24",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         }
       ]
     },
@@ -437,21 +437,21 @@
       "items": [
         {
           "title": "汽车方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "译：Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first...",
+          "summary": "译：Uber launched a robotaxi service in London, beating Waymo to become the first to offer pai...",
           "source": "The Verge",
           "url": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
           "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Photo-1.jpg?quality=90&strip=all&crop=0,0,100,100",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "汽车方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "汽车方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "译：Affordable models and hybrids continue to return record sales for several automakers while...",
           "source": "Motor1",
-          "url": "https://www.motor1.com/news/807017/volkswagen-shut-four-german-plants/",
-          "image": "https://cdn.motor1.com/images/mgl/mMPGzj/s3/volkswagen-id.7-production-start-in-emden-germany-august-21-2023.jpg",
+          "url": "https://www.motor1.com/news/807036/august-auto-sales-winners-losers-results/",
+          "image": "https://cdn.motor1.com/images/mgl/NG6Zyl/s3/august-auto-sales-winners-and-losers.jpg",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "译：Range Rover’s new 电动车 looks just like a regular Range Rover — that’s refreshing",
@@ -460,16 +460,16 @@
           "url": "https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs",
           "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/RANGE-ROVER-ELECTRIC-FRONT-3-4-02_09_26_1.jpg?quality=90&strip=all&crop=0,0,100,100",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "汽车方向有一条新动态，适合继续跟进原文细节。",
           "summary": "汽车方向有一条新动态，适合继续跟进原文细节。",
           "source": "Motor1",
-          "url": "https://www.motor1.com/news/806997/bmw-i4-coupe-convertible-report/",
-          "image": "https://cdn.motor1.com/images/mgl/y29bZm/s3/bmw-i4-coupe-2027-rendering.jpg",
+          "url": "https://www.motor1.com/news/807031/lotus-elise-vhpk-costs-over/",
+          "image": "https://cdn.motor1.com/images/mgl/pb8x8P/s3/lotus-elise-vhpk-by-analogue-automotive.jpg",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "汽车方向有一条新动态，适合继续跟进原文细节。",
@@ -478,16 +478,16 @@
           "url": "https://www.theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robotaxi-camera-lidar",
           "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/STKE001_STK086_Tesla_Robotaxi_3_B.jpg?quality=90&strip=all&crop=0,0,100,100",
           "time": "09/02",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "汽车方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "汽车方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "译：New Cabin Glance, Surround Vision Recorder, and 安全 Recording tools reshape how General Mot...",
           "source": "Motor1",
-          "url": "https://www.motor1.com/news/806999/bristol-fighter-reborn/",
-          "image": "https://cdn.motor1.com/images/mgl/1ZPzKw/s3/bristol-fighter-2026.jpg",
+          "url": "https://www.motor1.com/news/807024/gm-ota-camera-update-passenger/",
+          "image": "https://cdn.motor1.com/images/mgl/JONlLE/s3/2027-chevrolet-traverse-high-country.jpg",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         }
       ]
     },
@@ -497,58 +497,58 @@
       "description": "主机、PC、移动游戏、产业新闻与玩家文化。",
       "items": [
         {
-          "title": "译：Resident Evil's Zach Cregger Admits He Was 'Naive' to Assume Fans Would Approve of Him Avoiding a Direct Adaptation of the 游戏",
-          "summary": "译：Zach Cregger admitted that he was “naive” to think his less-direct approach to adapting Re...",
+          "title": "游戏方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "译：Until Dawn 2 will release on PS5 this January, as confirmed by a new trailer for the 游戏.",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/resident-evils-zach-cregger-admits-he-was-naive-to-assume-fans-would-approve-of-him-avoiding-a-direct-adaptation-of-the-games",
-          "image": "https://assets-prd.ignimgs.com/2026/07/24/resident-evil-movie-trailer-comments-1784908375651.png",
+          "url": "https://www.ign.com/articles/until-dawn-2-reveals-release-date-in-new-trailer",
+          "image": "https://assets-prd.ignimgs.com/2026/09/03/until-dawn-2-1788443338503.jpg",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
+        },
+        {
+          "title": "译：One Of The Coziest 游戏 Of The Year Is Helping Crunchyroll 游戏 Vault Grow Even Bigger",
+          "summary": "译：The Crunchyroll 游戏 Vault is expanding, as the 动画 brand has announced several new additions...",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/one-of-the-coziest-games-of-the-year-is-helping-crunchyroll-game-vault-grow-even-bigger/",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/09/ReStory.jpg?w=300",
+          "time": "09/04",
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "游戏方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "译：Just when you thought there would be a post-Gamescom break&nbsp;for video 游戏 livestreams, ...",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/playstation-state-of-play-september-2026-start-time-how-to-watch-and-what-to-expect/",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/09/State-of-Play.jpg?w=300",
-          "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
-        },
-        {
-          "title": "译：The Witcher 4, Cyberpunk 2077 开发者 CD Projekt Red Ramps Up Hiring on 'Project Hadar'",
-          "summary": "译：The Witcher and Cyberpunk 开发者 CD Projekt Red is staffing up for its unannounced 'Project H...",
+          "summary": "译：Crimson Desert's first expansion releases in October, and it's going to have a ton of 游戏-c...",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/the-witcher-4-cyberpunk-2077-developer-cd-projekt-red-ramps-up-hiring-on-project-hadar",
-          "image": "https://assets-prd.ignimgs.com/2026/09/02/witcher-4k-tech-demo-blogroll-copy-1748975818271-1788385719321.jpg",
+          "url": "https://www.ign.com/articles/crimson-deserts-first-expansion-is-releasing-next-month",
+          "image": "https://assets-prd.ignimgs.com/2026/03/18/cd-blogroll-1773860824069.jpg",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "游戏方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "译：CD Projekt Red has released its latest earnings report for the first half of 2026, and in ...",
+          "summary": "译：CD Projekt joint-CEO Michał Nowakowski has commented on how the studio thinks about 人工智能 w...",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/cd-projekt-red-is-still-raking-in-the-cash-as-we-wait-for-the-witcher-4/",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-3.39.45-PM.png?w=300",
+          "url": "https://www.gamespot.com/articles/the-witcher-4-will-be-made-predominantly-using-people-and-not-ai/",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-03-at-11.26.18-AM.png?w=300",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
-        },
-        {
-          "title": "译：Over 600 Unused Voice Lines From Resident Evil 4 Leak Online, Showing That Capcom Intended to Connect the 游戏 to Village",
-          "summary": "游戏方向有一条新动态，适合继续跟进原文细节。",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/over-600-unused-voice-lines-from-resident-evil-4-leak-online-showing-that-capcom-intended-to-connect-the-game-to-village",
-          "image": "https://assets-prd.ignimgs.com/2026/09/02/resident-evil-4-voice-lines-village-merchant-1788386311351.jpg",
-          "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "游戏方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "译：Prison Architect 2--a very highly anticipated sequel--was originally scheduled to launch w...",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/long-delayed-prison-architect-2-gets-exciting-update-after-two-years-of-mostly-silence/",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/09/prison-architect-2.jpg?w=300",
+          "summary": "译：Double Fine has wasted no time in bringing its curious adventure 游戏 Keeper to PlayStation ...",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/double-fine-shadow-drops-former-xbox-console-exclusive-keeper-on-playstation-5-today",
+          "image": "https://assets-prd.ignimgs.com/2025/12/19/keeperaudio-ign-blogroll-1766180534231.jpg",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
+        },
+        {
+          "title": "游戏方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "译：The most exciting part of a video 游戏 showcase is when 开发者 shadow-drop something immediatel...",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/everything-from-the-state-of-play-that-you-can-try-right-now/",
+          "image": "https://www.gamespot.com/wp-content/uploads/original/1585/15855271/4586492-keeper_screenshot_4.png?w=300",
+          "time": "09/03",
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         }
       ]
     },
@@ -564,16 +564,16 @@
           "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
           "image": "https://github.blog/wp-content/uploads/2026/09/Blog-Graphic-01.png?resize=1024%2C329",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
-          "title": "开发方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "开发方向有一条新动态，适合继续跟进原文细节。",
+          "title": "译：CodeQL 2.26.4 improves GitHub actions 安全 detections",
+          "summary": "译：CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediat...",
           "source": "GitHub Blog",
-          "url": "https://github.blog/changelog/2026-09-02-enterprise-managed-settings-support-any-default-model",
-          "image": "https://github.com/user-attachments/assets/70173fe2-94ea-442e-a1f4-04e35e366b41",
+          "url": "https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections",
+          "image": "https://github.blog/wp-content/uploads/2026/09/642719862-23b15938-a289-499a-8382-c30fe42eefce.jpeg",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "开发方向有一条新动态，适合继续跟进原文细节。",
@@ -582,16 +582,16 @@
           "url": "https://blog.cloudflare.com/cache-transcoding/",
           "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M1DADS947G87BAG8BQJ5RZN6.01M1DADSZ25WXKD5DG1M70HJR8.png",
           "time": "09/01",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
-          "title": "开发方向有一条新动态，适合继续跟进原文细节。",
+          "title": "译：Sony makes bold claim about 游戏 ownership",
           "summary": "开发方向有一条新动态，适合继续跟进原文细节。",
           "source": "Hacker News",
-          "url": "https://wasmos-production.up.railway.app",
+          "url": "https://aginggamer.net/game-industry/sony-makes-bold-claim-about-game-ownership/",
           "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "开发方向有一条新动态，适合继续跟进原文细节。",
@@ -600,7 +600,7 @@
           "url": "https://android-developers.googleblog.com/feeds/2032266210748359882/comments/default",
           "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAC7egt3KI6TzQ0_drlA339KxYZgivK5OTkxFEQ2a_DG3hJLsARHq3L94pgPrYWA44pk884Q9_W1vYpDBdpv9R2H2Qhhz0Ks0MqlMR0ngx9g4kv_PgxzSOIXL3swg8mhc_2M-0k9zpBlYn-2fV00eZYTrmvBlM30FskbbCWk5kXL6jd3pLrnG7i0ZV_B4/s72-c/Quail4Blog_Meta.png",
           "time": "09/01",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "开发方向有一条新动态，适合继续跟进原文细节。",
@@ -609,7 +609,7 @@
           "url": "https://swift.org/blog/embedded-swift-improvements-coming-in-swift-6.4/",
           "image": "https://swift.org/apple-touch-icon-180x180.png",
           "time": "08/20",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         }
       ]
     },
@@ -619,22 +619,40 @@
       "description": "影像、城市、效率工具、文化消费和日常灵感。",
       "items": [
         {
+          "title": "新玩意 251｜少数派的编辑们最近买了啥？",
+          "summary": "关于栏目很多读者都会好奇少数派的编辑们到底平时都「买了啥」。我们希望通过「编辑部的新玩意」介绍编辑部成员们最近在用的新奇产品，让他们自己来谈谈这些新玩意的使用体验究竟如何。@什么陈：洗...",
+          "source": "少数派",
+          "url": "https://sspai.com/post/114154",
+          "image": "https://rssfile.sspai.com/2026/4/23/article/c2b080ab-cf08-9c5a-70ef-54a7bfa9d530.png?imageMogr2/auto-orient/ignore-error/1",
+          "time": "09/03",
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
+        },
+        {
+          "title": "生活方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "生活方向有一条新动态，适合继续跟进原文细节。",
+          "source": "Lifehacker",
+          "url": "https://lifehacker.com/tech/best-deals-from-best-buys-labor-day-sale-2026?utm_medium=RSS",
+          "image": "https://lifehacker.com/imagery/articles/01M1FD8DDV9EYFJ1Q3FA5Z4GWF/hero-image.webp",
+          "time": "09/03",
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
+        },
+        {
           "title": "TDS REVIEW | 无印良品 MUJI 头戴式蓝牙降噪耳机体验",
           "summary": "经过一个季度的使用，聊聊这个此前不会考虑其数码产品的品牌。 查看全文",
           "source": "少数派",
           "url": "https://sspai.com/post/113998",
           "image": "https://rssfile.sspai.com/2026/08/30/220bedd407abff6cc6734d3bd324edb5.jpg?imageMogr2/auto-orient/ignore-error/1",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "生活方向有一条新动态，适合继续跟进原文细节。",
           "summary": "生活方向有一条新动态，适合继续跟进原文细节。",
           "source": "Lifehacker",
-          "url": "https://lifehacker.com/tech/best-tech-deals-amazon-early-labor-day-sale-2026?utm_medium=RSS",
-          "image": "https://lifehacker.com/imagery/articles/01M154WXDQ0G0PJGFPK4M1VV4C/hero-image.webp",
+          "url": "https://lifehacker.com/home/dewalt-tools-sale-lowes-labor-day-2026?utm_medium=RSS",
+          "image": "https://lifehacker.com/imagery/articles/01M15BM7C17T7S4RDF08AE19G7/hero-image.png",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "当说起「Hi-Fi」时，我们到底在追求什么？",
@@ -643,34 +661,16 @@
           "url": "https://sspai.com/post/113159",
           "image": "https://rssfile.sspai.com/2026/08/06/082bd0f5e414cec30ea12542a203a075.jpg?imageMogr2/auto-orient/ignore-error/1",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "生活方向有一条新动态，适合继续跟进原文细节。",
           "summary": "生活方向有一条新动态，适合继续跟进原文细节。",
           "source": "Lifehacker",
-          "url": "https://lifehacker.com/tech/early-labor-day-sales-live-blog-09-02-2026?utm_medium=RSS",
-          "image": "https://lifehacker.com/imagery/articles/01M1CNXXEYPE51P194PSFGJZ9Z/hero-image.webp",
+          "url": "https://lifehacker.com/tech/garmin-venu-3-deal-amazon-labor-day-sale-2026?utm_medium=RSS",
+          "image": "https://lifehacker.com/imagery/articles/01M1KXMJJ3N0WG5PHX92GZC8HR/hero-image.png",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
-        },
-        {
-          "title": "派早报：Google 发布 Gemini 3.8 Flash、理想推出新一代 MEGA 等",
-          "summary": "World Labs 发布多模态世界模型 Atlas、阿里千问推出 Qwen3.8-Max-0902 等。 查看全文",
-          "source": "少数派",
-          "url": "https://sspai.com/post/114113",
-          "image": "https://rssfile.sspai.com/02/09/2026/article/7112d1fd-ee0f-6b1d-d7f4-b12bfbb79399.jpeg?imageMogr2/auto-orient/ignore-error/1",
-          "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
-        },
-        {
-          "title": "生活方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "生活方向有一条新动态，适合继续跟进原文细节。",
-          "source": "Lifehacker",
-          "url": "https://lifehacker.com/tech/alexa-for-shopping-email-verification?utm_medium=RSS",
-          "image": "https://lifehacker.com/imagery/articles/01M1HRKE4ZYS3529AP6YTZ0JMS/hero-image.jpg",
-          "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         }
       ]
     },
@@ -680,6 +680,51 @@
       "description": "动画、漫画、声优、二次元文化和新番动态。",
       "items": [
         {
+          "title": "译：The Detective Is Already Dead Volumes 1-4 漫画 Review",
+          "summary": "动漫方向有一条新动态，适合继续跟进原文细节。",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/review/the-detective-is-already-dead/volumes-1-4/.240955",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g11/cms/review.2/240955/81vnvqa-6cl.ac-uf1000-1000-ql80.jpg",
+          "time": "09/04",
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
+        },
+        {
+          "title": "译：Shimofuri Myojo's Seiya to Guest Star in New Ranma 1/2 动画's Season 3",
+          "summary": "译：Seiya to serve as promotional ambassador for 动画's 3rd season",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-09-03/shimofuri-myojo-seiya-to-guest-star-in-new-ranma-1-2-anime-season-3/.241322",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEF/cms/news.9/241322/ranma3-ambassador-2.jpg",
+          "time": "09/03",
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
+        },
+        {
+          "title": "译：Dark Gathering Season 2 动画 Premieres in 2027",
+          "summary": "译：动画's 1st season debuted in July 2023",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-09-03/dark-gathering-season-2-anime-premieres-in-2027/.241321",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIG/cms/news.9/241321/dark-gathering-season-2-visual.jpg",
+          "time": "09/03",
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
+        },
+        {
+          "title": "译：Giant Ojosama TV 动画's Teaser Trailer Reveals Cast, Staff",
+          "summary": "译：动画 stars Yu Serizawa as Oriko Fujido, Junya Enoki as Dr. Sebastian",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-09-03/giant-ojosama-tv-anime-teaser-trailer-reveals-cast-staff/.241204",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gII/youtube/yOGfDfMGIO8.jpg",
+          "time": "09/03",
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
+        },
+        {
+          "title": "译：Dragon Quest Monsters: The Withered 世界 游戏's Video Previews Monster Wrangling",
+          "summary": "译：游戏 launches for Switch 2, Switch, PS5, Xbox X|S, PC on December 3",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-09-03/dragon-quest-monsters-the-withered-world-game-video-previews-monster-wrangling/.241315",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH7/youtube/_9nrXc0-vm8.jpg",
+          "time": "09/03",
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
+        },
+        {
           "title": "译：Madoka Magica -Walpurgisnacht: Rising- 动画 Film Opens at #1, Chiikawa Film Drops to #2",
           "summary": "动漫方向有一条新动态，适合继续跟进原文细节。",
           "source": "Anime News Network",
@@ -687,51 +732,6 @@
           "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHA/cms/news.8/226689/madoka-magica-walpurgisnacht-rising-.jpg",
           "time": "09/03",
           "fetchedAt": "2026-09-03T11:08:23.328Z"
-        },
-        {
-          "title": "译：Crunchyroll Adds Saga of Tanya the Evil: Operation Desert Pasta 动画 Special's English Dub",
-          "summary": "动漫方向有一条新动态，适合继续跟进原文细节。",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-09-03/crunchyroll-adds-saga-of-tanya-the-evil-operation-desert-pasta-anime-special-english-dub/.241246",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYB/cms/news.9/241246/13-3.jpg",
-          "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
-        },
-        {
-          "title": "译：Magical Sisters Lulutto Lilly 动画 Reveals More Cast, Returning Theme Song Artists, October 4 Debut for 2nd Part",
-          "summary": "动漫方向有一条新动态，适合继续跟进原文细节。",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-09-03/magical-sisters-lulutto-lilly-anime-reveals-more-cast-returning-theme-song-artists-october-4-debut-/.241235",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gBA/cms/news.9/241235/sis2.png.jpg",
-          "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
-        },
-        {
-          "title": "动漫方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "动漫方向有一条新动态，适合继续跟进原文细节。",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-09-03/concept-art-awards-to-honor-yoshitaka-amano-for-lifetime-achievement/.241279",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH7/cms/news.9/241279/yoshitaka-amano.jpg",
-          "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
-        },
-        {
-          "title": "动漫方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "动漫方向有一条新动态，适合继续跟进原文细节。",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-09-03/live-action-bless-series-reveals-new-video-visuals/.241282",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFA/youtube/7qYBavIlcCU.jpg",
-          "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
-        },
-        {
-          "title": "动漫方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "译：Rumiko Takahashi's illustration sold for 1,833,000 yen (about 美国$11,440)",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/interest/2026-09-02/inuyasha-sketch-auctioned-to-help-african-kids-orphaned-by-aids/.241227",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFJ/cms/interest.3/241227/takahashi-rumiko-plas-charity-auction-2026.jpeg",
-          "time": "09/03",
-          "fetchedAt": "2026-09-03T04:17:39.582Z"
         }
       ]
     },
@@ -775,13 +775,31 @@
       "description": "摄影技巧、人物、人像、风景、器材和后期灵感。",
       "items": [
         {
-          "title": "译：Movie About Gerda Taro, The Photojournalist Behind Robert Capa, Gets 世界 Premiere",
-          "summary": "译：A feature film about Gerda Taro, the first female photojournalist to be killed while cover...",
+          "title": "摄影方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "摄影方向有一条新动态，适合继续跟进原文细节。",
           "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/09/03/movie-about-gerda-taro-the-photojournalist-behind-robert-capa-gets-world-premiere/",
-          "image": "https://petapixel.com/assets/uploads/2026/09/The-Girl-With-The-Leica.jpg",
+          "url": "https://petapixel.com/2026/09/03/ap-photographers-captured-over-130000-nfl-photos-using-sony-cameras-last-season/",
+          "image": "https://petapixel.com/assets/uploads/2026/09/AP_Photographer_04.jpg",
+          "time": "09/04",
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
+        },
+        {
+          "title": "摄影方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "译：Saturn has surprised astronomers with a strange shape around its poles. This time, it is n...",
+          "source": "DIY Photography",
+          "url": "https://www.diyphotography.net/hubble-captures-a-giant-decagon-around-saturns-south-pole/",
+          "image": "https://www.diyphotography.net/wp-content/uploads/2026/09/saturn-south-pole-hubble-cover-300x169.jpg",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
+        },
+        {
+          "title": "译：Hohem Unveils the ‘世界’s First’ 2-in-1 Pocket Gimbal 相机",
+          "summary": "译：Hohem has unveiled the Eyepic at IFA 2026, introducing what the company calls the \"世界's fi...",
+          "source": "PetaPixel",
+          "url": "https://petapixel.com/2026/09/03/hohem-unveils-the-worlds-first-2-in-1-pocket-gimbal-camera/",
+          "image": "https://petapixel.com/assets/uploads/2026/09/Hohem-Eyepic-PetaPixel-Cover.jpg",
+          "time": "09/03",
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "摄影方向有一条新动态，适合继续跟进原文细节。",
@@ -790,16 +808,16 @@
           "url": "https://www.diyphotography.net/askar-launches-n210-a-210mm-f-3-4-newtonian-telescope/",
           "image": "https://www.diyphotography.net/wp-content/uploads/2026/09/askar-n160-cover-300x169.jpg",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
-          "title": "摄影方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "译：DJI has announced a new flagship 360-degree 相机, the 8K-capable Osmo 360 II. [ Read More ]",
+          "title": "译：英伟达 Goes All-In on Open AI Models, Buys Hugging Face for $12.93 Billion",
+          "summary": "译：英伟达 has agreed to acquire New York City-based AI company Hugging Face for a whopping $12,9...",
           "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/09/03/dji-osmo-360-ii-action-cam-has-a-new-square-sensor-and-replaceable-lenses/",
-          "image": "https://petapixel.com/assets/uploads/2026/09/OSMO-360-II_KV.jpg",
+          "url": "https://petapixel.com/2026/09/03/nvidia-goes-all-in-on-open-ai-models-buys-hugging-face-for-12-93-billion/",
+          "image": "https://petapixel.com/assets/uploads/2026/09/nvidia-hugging-face.jpg",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         },
         {
           "title": "摄影方向有一条新动态，适合继续跟进原文细节。",
@@ -808,25 +826,7 @@
           "url": "https://www.diyphotography.net/svbony-launches-sv530-integrated-field-flattener-on-an-80mm-refractor/",
           "image": "https://www.diyphotography.net/wp-content/uploads/2026/09/svbony-sv530-cover-300x169.jpg",
           "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
-        },
-        {
-          "title": "摄影方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "摄影方向有一条新动态，适合继续跟进原文细节。",
-          "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/09/03/this-7-smartphone-accessory-can-spot-hidden-cameras-in-seconds/",
-          "image": "https://petapixel.com/assets/uploads/2026/09/hidden-camera-detector-.jpg",
-          "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
-        },
-        {
-          "title": "摄影方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "译：Want to become a better photographer? Try these uncomfortable 摄影 exercises designed to bre...",
-          "source": "DIY Photography",
-          "url": "https://www.diyphotography.net/trick-to-improve-photography/",
-          "image": "https://www.diyphotography.net/wp-content/uploads/2026/07/pexels-casnafu-35129038-300x200.jpg",
-          "time": "09/03",
-          "fetchedAt": "2026-09-03T11:08:23.328Z"
+          "fetchedAt": "2026-09-03T16:22:03.018Z"
         }
       ]
     }
