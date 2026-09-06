@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-09-06",
-  "generatedAt": "2026-09-06T10:51:25.887Z",
+  "generatedAt": "2026-09-06T15:24:48.512Z",
   "retentionDays": 10,
   "categories": [
     {
@@ -70,13 +70,22 @@
       "description": "美股指数、科技公司、美联储与全球资金动态，优先来自财联社公开电报。",
       "items": [
         {
+          "title": "美股方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "译：Anthropic, OpenAI, Meta and Google all released model updates this week, while 英伟达 said it...",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
+          "time": "09/06",
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
+        },
+        {
           "title": "译：Trump turns up the heat on Warsh as 美联储 rate hike looms",
           "summary": "美股方向有一条新动态，适合继续跟进原文细节。",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
           "image": "https://image.cnbcfm.com/api/v1/image/108347529-1786391464606-108347529-1786391400825-gettyimages-2277700921-0d6a1940_h7ptqyou.jpg?v=1786396230&w=1920&h=1080",
           "time": "09/06",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "译：特斯拉&apos;s 股票 drops 6% as Cybercab update &apos;underwhelms&apos; Wall Street",
@@ -113,15 +122,6 @@
           "image": "https://image.cnbcfm.com/api/v1/image/108264701-1770844535585-gettyimages-2261128643-jr_17932_voatn4cl.jpeg?v=1770844678&w=1920&h=1080",
           "time": "09/05",
           "fetchedAt": "2026-09-05T15:09:23.648Z"
-        },
-        {
-          "title": "译：Mike Khouw: Cybercabs are a 游戏 changer—here&apos;s how I&apos;m trading 特斯拉",
-          "summary": "译：The strategist at YieldMaxETFs breaks down how a bullish bet on 特斯拉 could pay off for opti...",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/04/cybercabs-are-a-game-changer-says-mike-khouw-heres-how-hes-trading-tesla.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108358679-17884690152026-09-03t205238z_525073808_rc2vbnaed4tc_rtrmadp_0_tesla-cybercab.jpeg?v=1788469071&w=1920&h=1080",
-          "time": "09/05",
-          "fetchedAt": "2026-09-05T10:30:12.043Z"
         }
       ]
     },
@@ -131,6 +131,15 @@
       "description": "中东安全局势、外交进展、能源运输与市场影响，优先来自财联社公开电报。",
       "items": [
         {
+          "title": "福島爭議升溫：阿根廷制裁附近油企，特朗普暗示未必協助英國",
+          "summary": "美國總統特朗普說，英國「在我們與伊朗開戰時沒有出手幫忙」。他此前表示，若英國未能增加防務開支，美國可能會修改在福克蘭群島主權問題上的中立立場。",
+          "source": "BBC 中文",
+          "url": "https://www.bbc.com/zhongwen/articles/c89jgd5gn14o/trad?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/df89/live/122137b0-a821-11f1-b109-879e35c24276.jpg",
+          "time": "09/04",
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
+        },
+        {
           "title": "伊朗称美方应认识到游戏规则已改变",
           "summary": "财联社9月6日电，据报道，伊朗议会议长卡利巴夫称，美国未来对伊朗安全或利益的攻击将导致更快、更重、更痛苦的反应。",
           "source": "财联社电报",
@@ -138,15 +147,6 @@
           "image": "https://images.unsplash.com/photo-1539650116574-75c0c6d73f6e?auto=format&fit=crop&w=1200&q=80",
           "time": "09/06 17:18",
           "fetchedAt": "2026-09-06T09:18:36.000Z"
-        },
-        {
-          "title": "福島爭議升溫：阿根廷制裁附近油企，特朗普暗示未必協助英國",
-          "summary": "美國總統特朗普說，英國「在我們與伊朗開戰時沒有出手幫忙」。他此前表示，若英國未能增加防務開支，美國可能會修改在福克蘭群島主權問題上的中立立場。",
-          "source": "BBC 中文",
-          "url": "https://www.bbc.com/zhongwen/articles/c89jgd5gn14o/trad?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/df89/live/122137b0-a821-11f1-b109-879e35c24276.jpg",
-          "time": "09/04",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
         },
         {
           "title": "伊朗革命卫队称打击了美航母和驱逐舰",
@@ -198,7 +198,7 @@
           "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
           "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8__fairwind-program__b.max-600x600.format-webp.webp",
           "time": "09/02",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "AI方向有一条新动态，适合继续跟进原文细节。",
@@ -207,16 +207,16 @@
           "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/",
           "image": "https://wp.technologyreview.com/wp-content/uploads/2026/07/iStock-2239372581.jpg?w=840",
           "time": "09/05",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "AI方向有一条新动态，适合继续跟进原文细节。",
           "summary": "AI方向有一条新动态，适合继续跟进原文细节。",
           "source": "The Decoder",
-          "url": "https://the-decoder.com/googles-weathernext-3-ditches-physics-simulations-and-learns-weather-directly-from-live-satellite-data/",
-          "image": "https://the-decoder.com/wp-content/uploads/2026/09/weathernext-3-01-hero.webp",
+          "url": "https://the-decoder.com/chatbots-built-an-echo-chamber-of-one-and-now-psychiatry-has-to-decide-if-ai-psychosis-exists/",
+          "image": "https://the-decoder.com/wp-content/uploads/2026/09/ai_hypnosis_syco.png",
           "time": "09/06",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "AI方向有一条新动态，适合继续跟进原文细节。",
@@ -225,7 +225,7 @@
           "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
           "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp",
           "time": "09/02",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "AI方向有一条新动态，适合继续跟进原文细节。",
@@ -234,16 +234,16 @@
           "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/",
           "image": "https://wp.technologyreview.com/wp-content/uploads/2026/04/AdobeStock_716372037.jpg?fit=2128,1196",
           "time": "09/04",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
-          "title": "译：OpenAI 开发者 claims Astra boosted productivity so much it pulled some plans forward by six months",
-          "summary": "译：OpenAI 开发者 Thibault Sottiaux calls Astra the company's \"biggest competitive advantage\" whi...",
+          "title": "AI方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "AI方向有一条新动态，适合继续跟进原文细节。",
           "source": "The Decoder",
-          "url": "https://the-decoder.com/openai-developer-claims-astra-boosted-productivity-so-much-it-pulled-some-plans-forward-by-six-months/",
-          "image": "https://the-decoder.com/wp-content/uploads/2026/09/openai_logo_astra-2.png",
+          "url": "https://the-decoder.com/googles-weathernext-3-ditches-physics-simulations-and-learns-weather-directly-from-live-satellite-data/",
+          "image": "https://the-decoder.com/wp-content/uploads/2026/09/weathernext-3-01-hero.webp",
           "time": "09/06",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         }
       ]
     },
@@ -259,7 +259,7 @@
           "url": "https://www.bbc.com/zhongwen/articles/c0re1x8wg24o/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/490f/live/cf76c760-a864-11f1-aed2-8d6da8d75094.jpg",
           "time": "09/06",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "美国女权运动标志性人物斯泰纳姆去世，享年92岁",
@@ -268,7 +268,7 @@
           "url": "https://cn.nytimes.com/obits/20260904/gloria-steinem-dead/?utm_source=RSS",
           "image": "https://static01.nyt.com/images/2022/11/07/obituaries/00steinem-01/00steinem-01-articleLarge.jpg",
           "time": "09/04",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "「究竟是誰在批准什麼？」：光州雙年展台灣改名風波背後的角力",
@@ -277,7 +277,7 @@
           "url": "https://www.bbc.com/zhongwen/articles/c2kwv977qlko/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/abc8/live/8ff2a750-a83a-11f1-aed2-8d6da8d75094.jpg",
           "time": "09/04",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "如果这个世界上多一些马友友",
@@ -286,7 +286,7 @@
           "url": "https://cn.nytimes.com/culture/20260904/yo-yo-ma-profile/?utm_source=RSS",
           "image": "https://static01.nyt.com/images/2026/09/06/multimedia/06cul-yo-yo-ma-wlvk/06cul-yo-yo-ma-wlvk-videoLarge.jpg",
           "time": "09/04",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "特朗普取態何以左右福克蘭群島爭議",
@@ -295,7 +295,7 @@
           "url": "https://www.bbc.com/zhongwen/articles/cm2q6pyyzn0o/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4547/live/523d1300-a88f-11f1-96fc-dd627484b0e6.jpg",
           "time": "09/06",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "肾病患者靠移植猪肾生活九个月，直到接受人类肾脏移植",
@@ -304,7 +304,7 @@
           "url": "https://cn.nytimes.com/health/20260904/pig-kidney-bridge-transplant/?utm_source=RSS",
           "image": "https://static01.nyt.com/images/2026/09/03/multimedia/03WELL-PIG-KIDNEYS1-ckjh/03WELL-PIG-KIDNEYS1-ckjh-articleLarge.jpg",
           "time": "09/04",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         }
       ]
     },
@@ -314,31 +314,49 @@
       "description": "市场、公司、消费、宏观经济与投资观察。",
       "items": [
         {
+          "title": "当孙宇晨遇见亚当•斯密",
+          "summary": "徐瑾：今年是《国富论》出版250周年，斯密会如何评价孙宇晨？也许不会反对他的自利，但会对成功凌驾于道德感摇头。以自利为驱动的商业社会，如何维持道德秩序？",
+          "source": "FT 中文网",
+          "url": "https://www.ftchinese.com/story/001110803",
+          "image": "https://d1sh1cgb4xvhl.cloudfront.net/unsafe/1200x630/picture/7/000344707_piclink.jpg",
+          "time": "09/06",
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
+        },
+        {
+          "title": "财经方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "译：Anthropic, OpenAI, Meta and Google all released model updates this week, while 英伟达 said it...",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108267178-1771489879337-gettyimages-2261854815-AFP_984W8YD.jpeg?v=1782487838&w=1920&h=1080",
+          "time": "09/06",
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
+        },
+        {
+          "title": "欧盟在能源依赖上“弃俄投美”意味着什么？",
+          "summary": "张冬方：从俄罗斯转向美国同样意味着，欧盟天然气进口从管道天然气转向液化天然气。",
+          "source": "FT 中文网",
+          "url": "https://www.ftchinese.com/story/001110804",
+          "image": "https://d1sh1cgb4xvhl.cloudfront.net/unsafe/1200x630/picture/8/000344708_piclink.jpg",
+          "time": "09/06",
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
+        },
+        {
+          "title": "财经方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "财经方向有一条新动态，适合继续跟进原文细节。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/09/06/iran-us-response-oil-tanker-strikes.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108359320-1788693543339-gettyimages-2292604250-AFP_C74Y6WE.jpeg?v=1788695254&w=1920&h=1080",
+          "time": "09/06",
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
+        },
+        {
           "title": "社交媒体治理的分水岭：Meta的和解协议不止于180亿美元",
           "summary": "杜毓斌：这也是为什么Meta在声明中顺水推舟，呼吁立法强制要求苹果和谷歌的应用商店在下载层面承担年龄验证责任。",
           "source": "FT 中文网",
           "url": "https://www.ftchinese.com/story/001110802",
           "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
           "time": "09/04",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
-        },
-        {
-          "title": "财经方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "财经方向有一条新动态，适合继续跟进原文细节。",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/05/fervo-energys-enhanced-geothermal-project-aims-to-power-data-center-boom.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108359049-1788538398356-Google_Geothermal_Energy-23332020667147-AP.jpg?v=1788561812&w=1920&h=1080",
-          "time": "09/05",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
-        },
-        {
-          "title": "古道新章——刘香成镜头下的“中国3.0”",
-          "summary": "刘香成新作《古道新章》让“一带一路”这个宏大的时代叙事有了具体的面孔与温度。他毕生的工作恰好与中国半个多世纪的跋涉与探索交叉融合。",
-          "source": "FT 中文网",
-          "url": "https://www.ftchinese.com/story/001110798",
-          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-          "time": "09/04",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "译：Trump turns up the heat on Warsh as 美联储 rate hike looms",
@@ -347,25 +365,7 @@
           "url": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
           "image": "https://image.cnbcfm.com/api/v1/image/108347529-1786391464606-108347529-1786391400825-gettyimages-2277700921-0d6a1940_h7ptqyou.jpg?v=1786396230&w=1920&h=1080",
           "time": "09/06",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
-        },
-        {
-          "title": "新氧做大美丽生意 规模效益逐步浮现",
-          "summary": "随着自营医美诊所网络不断扩张，新氧科技第二季医美服务收入大增130%，带动公司整体收入增长33%。",
-          "source": "FT 中文网",
-          "url": "https://www.ftchinese.com/story/001110801",
-          "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-          "time": "09/04",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
-        },
-        {
-          "title": "财经方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "财经方向有一条新动态，适合继续跟进原文细节。",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/09/05/trump-venezuela-oil-north-america-blue-energy-partners-nabep.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108358071-1788381299776-gettyimages-2292663260-RODRIGUEZ_WRIGHT_VENEZUELA.jpeg?v=1788381351&w=1920&h=1080",
-          "time": "09/05",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         }
       ]
     },
@@ -375,22 +375,22 @@
       "description": "消费电子、互联网产品、平台生态与新硬件。",
       "items": [
         {
-          "title": "科技方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "科技方向有一条新动态，适合继续跟进原文细节。",
+          "title": "译：The Fairphone 6 Plus is the midrange 手机 we desperately needed",
+          "summary": "译：The Fairphone 6 Plus feels like an extremely average midrange Android 手机 and I couldn't be...",
           "source": "The Verge",
-          "url": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Screenshot-2026-09-05-at-5.23.38-PM.png?quality=90&strip=all&crop=0,0,100,100",
+          "url": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268725_Fairphone_6_Plus_review_AJohnson_0001.jpg?quality=90&strip=all&crop=0,0,100,100",
           "time": "09/06",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
-          "title": "译：Is It Safe To Leave Your 手机's Bluetooth Running All The Time?",
-          "summary": "译：Bluetooth is a common setting that's typically always on in modern phones, but this featur...",
+          "title": "科技方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "科技方向有一条新动态，适合继续跟进原文细节。",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2245488/is-it-safe-leave-bluetooth-when-not-using/",
-          "image": "https://www.engadget.com/img/gallery/is-it-safe-to-leave-your-phones-bluetooth-running-all-the-time/l-intro-1787153223.jpg",
+          "url": "https://www.engadget.com/2248626/how-long-playstation-dualsense-wireless-controllers-last/",
+          "image": "https://www.engadget.com/img/gallery/how-long-can-you-expect-a-playstation-5-dualsense-controller-to-last/l-intro-1788276793.jpg",
           "time": "09/06",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "译：Hello 开发者: September 2026",
@@ -399,16 +399,16 @@
           "url": "https://developer.apple.com/news/?id=ote61lrx",
           "image": "https://devimages-cdn.apple.com/wwdc-services/articles/images/118D6B92-8A93-4879-BBB4-EE5F98F8B216/2048.jpeg",
           "time": "09/02",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
-          "title": "译：特斯拉’s Cybercab has been deployed, and it’s already under investigation",
-          "summary": "译：The 美国 government is investigating whether the Cybercab meets vehicle safety standards.",
+          "title": "科技方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "科技方向有一条新动态，适合继续跟进原文细节。",
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2025/05/GettyImages-2183782392-1152x648.jpg",
-          "time": "09/05",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "url": "https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/Spectrum_mission_Onwards_and_upwards_liftoff_pillars-1152x648.jpg",
+          "time": "09/06",
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "科技方向有一条新动态，适合继续跟进原文细节。",
@@ -417,7 +417,7 @@
           "url": "https://web.dev/blog/web-platform-05-2026?hl=en",
           "image": "https://web.dev/static/blog/web-platform-05-2026/hero.png",
           "time": "05/29",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "科技方向有一条新动态，适合继续跟进原文细节。",
@@ -426,7 +426,7 @@
           "url": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
           "image": "https://hacks.mozilla.org/wp-content/uploads/2026/08/progressive-stages.avif",
           "time": "08/24",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         }
       ]
     },
@@ -442,7 +442,7 @@
           "url": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
           "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STKS518_WAYMO_TAXI_D.jpg?quality=90&strip=all&crop=0,0,100,100",
           "time": "09/05",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "汽车方向有一条新动态，适合继续跟进原文细节。",
@@ -451,7 +451,7 @@
           "url": "https://www.motor1.com/news/807183/rolls-royce-vs-bentley-sales-figures/",
           "image": "https://cdn.motor1.com/images/mgl/NG6Zqj/s3/bentley-vs-rolls-royce-sales.jpg",
           "time": "09/06",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "译：特斯拉 Cybercab is barely on the road and it’s already under investigation",
@@ -460,7 +460,7 @@
           "url": "https://www.theverge.com/transportation/990130/tesla-cybercab-nhtsa-investigation-fmvss-certify",
           "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2292811784.jpg?quality=90&strip=all&crop=0,0,100,100",
           "time": "09/04",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "汽车方向有一条新动态，适合继续跟进原文细节。",
@@ -469,7 +469,7 @@
           "url": "https://www.motor1.com/news/807196/2027-dodge-durango-new-paint/",
           "image": "https://cdn.motor1.com/images/mgl/ZnlkZr/s3/2027-dodge-durango-after-dark-paint.jpg",
           "time": "09/05",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "译：The unusually muted 特斯拉 Cybercab launch",
@@ -478,7 +478,7 @@
           "url": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
           "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/gettyimages-2265246421.jpg?quality=90&strip=all&crop=0,0,100,100",
           "time": "09/04",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "译：Toyota Highlander 电动车 Faces More Delays",
@@ -487,7 +487,7 @@
           "url": "https://www.motor1.com/news/807181/toyota-highlander-ev-delayed-again/",
           "image": "https://cdn.motor1.com/images/mgl/2N9Oek/s3/2027-toyota-highlander-ev.jpg",
           "time": "09/05",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         }
       ]
     },
@@ -498,12 +498,12 @@
       "items": [
         {
           "title": "游戏方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "游戏方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "译：League of Legends 开发者 Riot 游戏 is still bashing away on its MMO, which co-founder Mark Merr...",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/how-to-watch-the-september-2026-nintendo-direct-and-zelda-40th-anniversary-direct",
-          "image": "https://assets-prd.ignimgs.com/2026/06/09/nintendodirect-blogroll-1781017491411.jpg",
+          "url": "https://www.ign.com/articles/riot-co-founder-calls-league-of-legends-mmo-the-grail-quest-5-years-after-it-was-announced",
+          "image": "https://assets-prd.ignimgs.com/2026/09/06/02bw005-bilgewater-unit-hired-gun-1788698434115.jpg",
           "time": "09/06",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "译：Before HBO’s The Last Of 美国, An Entirely Different Adaptation Was Proposed",
@@ -512,16 +512,16 @@
           "url": "https://www.gamespot.com/articles/before-hbos-the-last-of-us-an-entirely-different-adaptation-was-proposed/",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Screenshot-2026-09-03-at-11.57.50-AM-1.png?w=300",
           "time": "09/05",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "游戏方向有一条新动态，适合继续跟进原文细节。",
           "summary": "游戏方向有一条新动态，适合继续跟进原文细节。",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/left-4-dead-2-dev-admits-valve-intentionally-leaked-its-own-trailer-after-the-esrb-blocked-it-from-release",
-          "image": "https://assets-prd.ignimgs.com/2026/09/05/left-4-dead-2-1788649176685.png",
+          "url": "https://www.ign.com/articles/how-to-watch-the-september-2026-nintendo-direct-and-zelda-40th-anniversary-direct",
+          "image": "https://assets-prd.ignimgs.com/2026/06/09/nintendodirect-blogroll-1781017491411.jpg",
           "time": "09/06",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "译：游戏 Director Finally Addresses His Rumored Foot Fetish–Wait, Not Kojima, The Other One",
@@ -530,16 +530,16 @@
           "url": "https://www.gamespot.com/articles/game-director-finally-addresses-his-rumored-foot-fetish-wait-not-kojima-the-other-one/",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/09/darksoles.png?w=300",
           "time": "09/04",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "游戏方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "译：Insomniac 游戏 has cleared the air after a new trailer for Marvel's Wolverine had fans confu...",
+          "summary": "游戏方向有一条新动态，适合继续跟进原文细节。",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/insomniac-clears-the-air-after-marvels-wolverine-fans-confuse-lady-deathstrike-for-psylocke",
-          "image": "https://assets-prd.ignimgs.com/2026/09/05/marvels-wolverine-lady-deathstrike-1788643655912.png",
+          "url": "https://www.ign.com/articles/left-4-dead-2-dev-admits-valve-intentionally-leaked-its-own-trailer-after-the-esrb-blocked-it-from-release",
+          "image": "https://assets-prd.ignimgs.com/2026/09/05/left-4-dead-2-1788649176685.png",
           "time": "09/06",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "游戏方向有一条新动态，适合继续跟进原文细节。",
@@ -548,7 +548,7 @@
           "url": "https://www.gamespot.com/articles/xbox-new-tcl-partnership-couldnt-come-at-a-worse-time/",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/09/Xbox-TCL.jpg?w=300",
           "time": "09/04",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         }
       ]
     },
@@ -564,7 +564,7 @@
           "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
           "image": "https://github.blog/wp-content/uploads/2026/09/Blog-Graphic-01.png?resize=1024%2C329",
           "time": "09/03",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "开发方向有一条新动态，适合继续跟进原文细节。",
@@ -573,7 +573,7 @@
           "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
           "image": "https://github.blog/wp-content/uploads/2026/09/Changelog_NewRelease_Unfurl_Centered_GitHubCopilotWeeklyReleaseAugust31.jpg",
           "time": "09/05",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "开发方向有一条新动态，适合继续跟进原文细节。",
@@ -582,16 +582,16 @@
           "url": "https://blog.cloudflare.com/vulnerability-discovery-remediation/",
           "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M1JDYW2RHXMJDDXS13K6VESF.01M1JDYX370D7EV4BHCDQS4C6J.png",
           "time": "09/04",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
-          "title": "译：You Don't Have a Right to Safe Drinking Water, 美国 Court Rules",
+          "title": "开发方向有一条新动态，适合继续跟进原文细节。",
           "summary": "开发方向有一条新动态，适合继续跟进原文细节。",
           "source": "Hacker News",
-          "url": "https://www.motherjones.com/politics/2026/09/drinking-water-mississippi-lawsuit/",
-          "image": "https://www.motherjones.com/wp-content/uploads/2026/09/jackson-ms-resized.jpg?w=1200&h=630&crop=1",
+          "url": "https://beza1e1.tuxen.de/ai_feelings.html",
+          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "09/06",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "开发方向有一条新动态，适合继续跟进原文细节。",
@@ -600,7 +600,7 @@
           "url": "https://android-developers.googleblog.com/feeds/2032266210748359882/comments/default",
           "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAC7egt3KI6TzQ0_drlA339KxYZgivK5OTkxFEQ2a_DG3hJLsARHq3L94pgPrYWA44pk884Q9_W1vYpDBdpv9R2H2Qhhz0Ks0MqlMR0ngx9g4kv_PgxzSOIXL3swg8mhc_2M-0k9zpBlYn-2fV00eZYTrmvBlM30FskbbCWk5kXL6jd3pLrnG7i0ZV_B4/s72-c/Quail4Blog_Meta.png",
           "time": "09/01",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "开发方向有一条新动态，适合继续跟进原文细节。",
@@ -609,7 +609,7 @@
           "url": "https://swift.org/blog/whats-new-in-swift-august-2026/",
           "image": "https://swift.org/apple-touch-icon-180x180.png",
           "time": "09/05",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         }
       ]
     },
@@ -625,7 +625,7 @@
           "url": "https://sspai.com/post/114076",
           "image": "https://rssfile.sspai.com/2026/9/6/article/deaad783-d8f5-471d-072f-fa9632bbff8a.png?imageMogr2/auto-orient/ignore-error/1",
           "time": "09/06",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "生活方向有一条新动态，适合继续跟进原文细节。",
@@ -634,7 +634,7 @@
           "url": "https://lifehacker.com/tech/labor-day-sales-live-blog-09-04-2026?utm_medium=RSS",
           "image": "https://lifehacker.com/imagery/articles/01M1CNXXEYPE51P194PSFGJZ9Z/hero-image.webp",
           "time": "09/06",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "最值得买的顶级公路车？TREK 八代 Madone 评测",
@@ -643,7 +643,7 @@
           "url": "https://sspai.com/post/114040",
           "image": "https://rssfile.sspai.com/2026/08/31/80ba831babcef78184f6467458e9fc93.jpg?imageMogr2/auto-orient/ignore-error/1",
           "time": "09/05",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "生活方向有一条新动态，适合继续跟进原文细节。",
@@ -652,7 +652,7 @@
           "url": "https://lifehacker.com/tech/apple-guessing-game-round-3-predictions?utm_medium=RSS",
           "image": "https://lifehacker.com/imagery/articles/01M1MH1ND610K15FFDKGES07WG/hero-image.png",
           "time": "09/05",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "本周看什么 | 最近值得一看的 8 部作品",
@@ -661,7 +661,7 @@
           "url": "https://sspai.com/post/114175",
           "image": "https://rssfile.sspai.com/2026/9/4/article/6acb4950-74ad-b52f-d26b-12785f7fe349.png?imageMogr2/auto-orient/ignore-error/1",
           "time": "09/04",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "生活方向有一条新动态，适合继续跟进原文细节。",
@@ -670,7 +670,7 @@
           "url": "https://lifehacker.com/home/milwaukee-tool-set-deal-labor-day-2026?utm_medium=RSS",
           "image": "https://lifehacker.com/imagery/articles/01M1Q5W9SYXAEQ5VQFBX9KRSP8/hero-image.png",
           "time": "09/05",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         }
       ]
     },
@@ -680,13 +680,49 @@
       "description": "动画、漫画、声优、二次元文化和新番动态。",
       "items": [
         {
+          "title": "译：ChaO, The Last Blossom, Cocoon, More 动画 Films Screen at Modern Film Fest in Texas This Month",
+          "summary": "动漫方向有一条新动态，适合继续跟进原文细节。",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-09-06/chao-the-last-blossom-cocoon-more-anime-films-screen-at-modern-film-fest-in-texas-this-month/.241430",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGH/cms/news.8/225195/chao-visual.jfif.jpeg",
+          "time": "09/06",
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
+        },
+        {
+          "title": "译：'Hope You're Happy, Lemon' 漫画 Ends in Next Chapter",
+          "summary": "动漫方向有一条新动态，适合继续跟进原文细节。",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-09-06/hope-youre-happy-lemon-manga-ends-in-next-chapter/.241440",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK8/cms/news.8/220615/lemon-img.jpg",
+          "time": "09/06",
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
+        },
+        {
+          "title": "译：Persona 4 Revival 游戏's Videos Highlight Kanji, Yosuke, Chie, Yukiko",
+          "summary": "译：游戏 launches for PS5, Xbox X|S, Xbox PC with Xbox 游戏 Pass, PC via Steam on February 18",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-09-06/persona-4-revival-game-videos-highlight-kanji-yosuke-chie-yukiko/.241444",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gK2/youtube/MrxM5g688SI.jpg",
+          "time": "09/06",
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
+        },
+        {
+          "title": "动漫方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "动漫方向有一条新动态，适合继续跟进原文细节。",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-09-06/wandance-gets-stage-play-in-march-2027/.241437",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gMG/cms/news.9/241437/wandance.png.jpg",
+          "time": "09/06",
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
+        },
+        {
           "title": "动漫方向有一条新动态，适合继续跟进原文细节。",
           "summary": "动漫方向有一条新动态，适合继续跟进原文细节。",
           "source": "Anime News Network",
           "url": "https://www.animenewsnetwork.com/news/2026-09-06/kuji-furumiya-unnamed-memory-after-the-end-sequel-light-novel-series-ends-in-december/.241425",
           "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIC/cms/news.9/241425/unnamed-memory-after-the-end-1.webp",
           "time": "09/06",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "动漫方向有一条新动态，适合继续跟进原文细节。",
@@ -696,42 +732,6 @@
           "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gH9/cms/interest.3/241003/rilakkuma-sasuke.jpeg",
           "time": "09/06",
           "fetchedAt": "2026-09-06T10:51:25.887Z"
-        },
-        {
-          "title": "动漫方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "动漫方向有一条新动态，适合继续跟进原文细节。",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/interest/2026-09-05/madoka-homura-become-large-plushes-in-time-for-latest-madoka-magica-film/.241183",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHJ/cms/interest.3/241183/madomagi-large-plush-dolls.jpeg",
-          "time": "09/06",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
-        },
-        {
-          "title": "译：Medabots S Smartphone 游戏 to Get Global Launch",
-          "summary": "译：游戏's App Store page lists January 21, 2027 release date",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-09-05/medabots-s-smartphone-game-to-get-global-launch/.241429",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGB/youtube/3mDmoYrUng4.jpg",
-          "time": "09/06",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
-        },
-        {
-          "title": "译：Kana Delays Inio Asano's Before Dawn and the End of the 世界 漫画 to March 4",
-          "summary": "动漫方向有一条新动态，适合继续跟进原文细节。",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-09-05/kana-delays-inio-asano-before-dawn-and-the-end-of-the-world-manga-to-march-4/.241445",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gFJ/cms/news.9/241445/795875812-18616359937059742-2214606173807009095-n.jpg",
-          "time": "09/06",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
-        },
-        {
-          "title": "动漫方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "动漫方向有一条新动态，适合继续跟进原文细节。",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-09-05/star-detective-precure-film-posts-miracle-light-trailer-teases-more-precures-future-forms/.241447",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gI9/cms/news.9/241447/fix-c-2048x1446.jpg",
-          "time": "09/06",
-          "fetchedAt": "2026-09-06T04:31:18.166Z"
         }
       ]
     },
@@ -775,13 +775,31 @@
       "description": "摄影技巧、人物、人像、风景、器材和后期灵感。",
       "items": [
         {
+          "title": "译：10 Great Vintage Lenses for 人像 摄影",
+          "summary": "译：Vintage lenses are often talked about as if their only value is “character.” That usually ...",
+          "source": "PetaPixel",
+          "url": "https://petapixel.com/2026/09/06/10-great-vintage-lenses-for-portrait-photography/",
+          "image": "https://petapixel.com/assets/uploads/2026/09/10-Great-Vintage-Lenses-for-Portrait-Photography.jpg",
+          "time": "09/06",
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
+        },
+        {
           "title": "摄影方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "译：We now have a new color image of the comet C/2025 K1. NSF NOIRLab released the image on Se...",
+          "source": "DIY Photography",
+          "url": "https://www.diyphotography.net/gemini-north-captures-a-color-image-of-a-comet-breaking-into-pieces/",
+          "image": "https://www.diyphotography.net/wp-content/uploads/2026/09/gemini-north-colour-comet-cover-300x169.jpg",
+          "time": "09/06",
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
+        },
+        {
+          "title": "译：Apparently ‘摄影 Is All Fake Anyway’",
           "summary": "摄影方向有一条新动态，适合继续跟进原文细节。",
           "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/09/05/10-winning-photographs-from-the-underwater-awards-australasia-2026/",
-          "image": "https://petapixel.com/assets/uploads/2026/09/Underwater-Awards-Australasia.jpg",
+          "url": "https://petapixel.com/2026/09/06/apparently-photography-is-all-fake-anyway/",
+          "image": "https://petapixel.com/assets/uploads/2026/09/Apparently-Photography-Is-All-Fake-Anyway.jpg",
           "time": "09/06",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "摄影方向有一条新动态，适合继续跟进原文细节。",
@@ -790,16 +808,16 @@
           "url": "https://www.diyphotography.net/esos-moons-sees-first-light-revealing-hidden-stars-and-galaxies/",
           "image": "https://www.diyphotography.net/wp-content/uploads/2026/09/eso-moons-first-light-cover-300x169.jpg",
           "time": "09/06",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
-          "title": "译：The Ultimate Beginner’s Guide to Waterfall 摄影",
-          "summary": "译：New to waterfall 摄影? Learn how to choose your gear, find great locations, work with changi...",
+          "title": "摄影方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "摄影方向有一条新动态，适合继续跟进原文细节。",
           "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/09/05/the-ultimate-beginners-guide-to-waterfall-photography/",
-          "image": "https://petapixel.com/assets/uploads/2026/09/Starter-Guide-to-Waterfall-Photography-by-Kate-Garibaldi-PetaPixel-Cover.jpg",
-          "time": "09/05",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "url": "https://petapixel.com/2026/09/06/photographer-captured-everyday-california-life-in-1980s-from-behind-the-wheel/",
+          "image": "https://petapixel.com/assets/uploads/2026/09/henry-wessel-exhibit.jpg",
+          "time": "09/06",
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         },
         {
           "title": "摄影方向有一条新动态，适合继续跟进原文细节。",
@@ -808,25 +826,7 @@
           "url": "https://www.diyphotography.net/this-spiral-galaxy-image-was-selected-and-named-by-students/",
           "image": "https://www.diyphotography.net/wp-content/uploads/2026/09/students-named-galaxy-image-cover-300x169.jpg",
           "time": "09/05",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
-        },
-        {
-          "title": "摄影方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "摄影方向有一条新动态，适合继续跟进原文细节。",
-          "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/09/05/the-way-we-never-were-photo-exhibit-examines-the-myth-of-postwar-america/",
-          "image": "https://petapixel.com/assets/uploads/2026/09/The-Way-We-Never-Were.jpg",
-          "time": "09/05",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
-        },
-        {
-          "title": "摄影方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "译：When the Nikon ZR was originally released in October 2025, I was curious what the lovechil...",
-          "source": "DIY Photography",
-          "url": "https://www.diyphotography.net/nikon-zr-review/",
-          "image": "https://www.diyphotography.net/wp-content/uploads/2026/08/Alberto-Lima-DIYPhotography-Nikon-ZR-Review_Featured-Logo-300x169.jpg",
-          "time": "09/04",
-          "fetchedAt": "2026-09-06T10:51:25.887Z"
+          "fetchedAt": "2026-09-06T15:24:48.512Z"
         }
       ]
     }
