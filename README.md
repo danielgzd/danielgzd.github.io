@@ -1,6 +1,6 @@
-# Daniel Personal Site
+# Daniel Products
 
-Daniel 的个人品牌、项目档案、技术博客与兴趣信息雷达。站点使用静态优先架构部署到 GitHub Pages，设计语言以 Dark First、清晰层级和克制动效为核心。
+Daniel 的独立软件官网、产品下载中心、开发者履历、项目档案、技术博客与兴趣信息雷达。站点使用静态优先架构部署到 GitHub Pages。
 
 ## Technology
 
@@ -15,7 +15,11 @@ Daniel 的个人品牌、项目档案、技术博客与兴趣信息雷达。站�
 
 ## Routes
 
-- `/` — 个人主页与精选内容
+- `/` — 产品品牌主页
+- `/products` — 产品中心
+- `/products/lumacapture` — LumaCapture 宣传与下载
+- `/products/markdown-text-tool` — MarkdownTextTool 宣传与下载
+- `/downloads` — 全部产品下载中心
 - `/projects` — 项目档案和静态 Case Study
 - `/blog` — MDX 技术文章
 - `/resume` — 工作经历、能力与简历下载

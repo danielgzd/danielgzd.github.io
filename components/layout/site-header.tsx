@@ -12,12 +12,12 @@ export function SiteHeader() {
           className="group focus-visible:ring-ring flex items-center gap-3 rounded-lg focus-visible:ring-2 focus-visible:outline-none"
           href="/"
         >
-          <span className="bg-foreground text-background grid size-9 place-items-center rounded-lg text-sm font-bold transition-transform group-hover:scale-105">
-            D
+          <span className="brand-mark grid size-9 place-items-center text-sm font-black text-white transition-transform group-hover:scale-105">
+            D/
           </span>
           <span className="hidden leading-tight sm:block">
-            <strong className="text-foreground block text-sm font-semibold">Daniel</strong>
-            <small className="text-muted-foreground block text-xs">工程师 · 产品构建者</small>
+            <strong className="text-foreground block text-sm font-bold">Daniel Products</strong>
+            <small className="text-muted-foreground block text-xs">独立软件工作室</small>
           </span>
         </Link>
 

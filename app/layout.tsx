@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { SiteFooter } from "@/components/layout/site-footer";
 import { SiteHeader } from "@/components/layout/site-header";
 import { ThemeProvider } from "@/components/providers/theme-provider";
+import { products } from "@/data/products";
 import { siteConfig } from "@/lib/site-config";
 import { geistSans } from "./fonts";
 import "./globals.css";
@@ -10,7 +11,15 @@ export const metadata: Metadata = {
   title: { default: siteConfig.title, template: "%s | Daniel" },
   description: siteConfig.description,
   metadataBase: new URL(siteConfig.url),
-  keywords: ["Daniel Gao", "iOS Developer", "Swift", "Next.js", "AI Builder", "LLM", "MCP"],
+  keywords: [
+    "Daniel Products",
+    "LumaCapture",
+    "MarkdownTextTool",
+    "macOS 截图",
+    "macOS 录屏",
+    "Markdown 编辑器",
+    "Swift",
+  ],
   authors: [{ name: "Daniel Gao", url: siteConfig.url }],
   creator: "Daniel Gao",
   alternates: { types: { "application/rss+xml": "/feed.xml" } },
@@ -59,17 +68,26 @@ export default function RootLayout({
             dangerouslySetInnerHTML={{
               __html: JSON.stringify({
                 "@context": "https://schema.org",
-                "@type": "Person",
-                name: "Daniel Gao",
-                url: siteConfig.url,
-                sameAs: [siteConfig.links.github],
-                jobTitle: "iOS Developer & AI Builder",
-                knowsAbout: [
-                  "Swift",
-                  "iOS",
-                  "Next.js",
-                  "Artificial Intelligence",
-                  "Large Language Models",
+                "@graph": [
+                  {
+                    "@type": "Organization",
+                    name: siteConfig.name,
+                    url: siteConfig.url,
+                    founder: {
+                      "@type": "Person",
+                      name: "Daniel Gao",
+                      url: `${siteConfig.url}/resume`,
+                    },
+                    sameAs: [siteConfig.links.github],
+                  },
+                  ...products.map((product) => ({
+                    "@type": "SoftwareApplication",
+                    name: product.name,
+                    url: `${siteConfig.url}/products/${product.slug}`,
+                    operatingSystem: product.platforms.join(", "),
+                    applicationCategory: "ProductivityApplication",
+                    description: product.description,
+                  })),
                 ],
               }).replace(/</g, "\\u003c"),
             }}

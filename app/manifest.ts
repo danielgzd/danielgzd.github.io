@@ -4,13 +4,13 @@ export const dynamic = "force-static";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Daniel — iOS 开发者与 AI 产品构建者",
-    short_name: "Daniel",
-    description: "Daniel 的个人网站，记录 iOS、Web、AI 产品实践与技术思考。",
+    name: "Daniel Products — 独立软件与生产力工具",
+    short_name: "Daniel Products",
+    description: "LumaCapture、MarkdownTextTool 官方产品与下载中心。",
     start_url: "/",
     display: "standalone",
-    background_color: "#09090B",
-    theme_color: "#09090B",
+    background_color: "#07070A",
+    theme_color: "#07070A",
     lang: "zh-CN",
   };
 }

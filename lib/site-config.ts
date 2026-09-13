@@ -1,9 +1,10 @@
 import type { SiteConfig } from "@/types/site";
 
 export const siteConfig = {
-  name: "Daniel",
-  title: "Daniel | iOS 开发者与 AI 产品构建者",
-  description: "Daniel 的个人网站，记录 iOS、Web、AI 产品实践与技术思考。",
+  name: "Daniel Products",
+  title: "Daniel Products | 独立软件与生产力工具",
+  description:
+    "Daniel Products 官方网站：下载 LumaCapture、MarkdownTextTool，了解产品更新与开发者信息。",
   url: "https://danielgzd.github.io",
   locale: "zh-CN",
   links: {

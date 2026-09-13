@@ -1,16 +1,31 @@
 import type { MetadataRoute } from "next";
 import { projects } from "@/data/projects";
+import { products } from "@/data/products";
 import { getAllPosts } from "@/lib/posts";
 import { siteConfig } from "@/lib/site-config";
 
 export const dynamic = "force-static";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const staticPages = ["", "/projects", "/blog", "/resume", "/radar"].map((pagePath) => ({
+  const staticPages = [
+    "",
+    "/products",
+    "/downloads",
+    "/projects",
+    "/blog",
+    "/resume",
+    "/radar",
+  ].map((pagePath) => ({
     url: `${siteConfig.url}${pagePath}`,
     lastModified: new Date(),
     changeFrequency: pagePath === "/radar" ? ("daily" as const) : ("monthly" as const),
     priority: pagePath === "" ? 1 : 0.8,
+  }));
+  const productPages = products.map((product) => ({
+    url: `${siteConfig.url}/products/${product.slug}`,
+    lastModified: new Date("2026-09-12"),
+    changeFrequency: "monthly" as const,
+    priority: 0.9,
   }));
   const projectPages = projects.map((project) => ({
     url: `${siteConfig.url}/projects/${project.slug}`,
@@ -24,5 +39,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     changeFrequency: "yearly" as const,
     priority: 0.7,
   }));
-  return [...staticPages, ...projectPages, ...postPages];
+  return [...staticPages, ...productPages, ...projectPages, ...postPages];
 }

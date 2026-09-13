@@ -23,9 +23,9 @@ export function MobileNav() {
         </Button>
       </SheetTrigger>
       <SheetContent>
-        <SheetTitle className="text-foreground text-lg font-semibold">Daniel</SheetTitle>
+        <SheetTitle className="text-foreground text-lg font-semibold">Daniel Products</SheetTitle>
         <SheetDescription className="text-muted-foreground mt-1 text-sm">
-          iOS 开发者 · AI 产品构建者
+          简洁、可靠的原生生产力软件
         </SheetDescription>
         <div className="mt-8">
           <NavigationLinks mobile onNavigate={() => setOpen(false)} />

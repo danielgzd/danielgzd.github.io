@@ -1,8 +1,8 @@
 import type { Metadata } from "next";
-import { HomePage } from "@/features/home/home-page";
+import { ProductHomePage } from "@/features/home/product-home-page";
 
 export const metadata: Metadata = { alternates: { canonical: "/" } };
 
 export default function Home() {
-  return <HomePage />;
+  return <ProductHomePage />;
 }
