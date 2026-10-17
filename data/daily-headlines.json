@@ -1,6 +1,6 @@
 {
   "updatedAt": "2026-10-17",
-  "generatedAt": "2026-10-17T10:34:37.025Z",
+  "generatedAt": "2026-10-17T15:28:20.009Z",
   "retentionDays": 10,
   "categories": [
     {
@@ -70,22 +70,13 @@
       "description": "美股指数、科技公司、美联储与全球资金动态，优先来自财联社公开电报。",
       "items": [
         {
-          "title": "华尔街的恐惧指数正在急剧上升。交易员认为价格会更高",
-          "summary": "人工智能相关股票的抛售推动 VIX 指数四个月来首次突破 22。一系列交易表明它可能会走得更高。",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108408957-1791988869652-gettyimages-2300173631-mms15477_dpxylhl3.jpeg?v=1791989017&w=1920&h=1080",
-          "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
-        },
-        {
           "title": "特斯拉推出与 SpaceX 合作开发的 Roadster，引发了合并猜测",
-          "summary": "译：Elon Musk first debuted the Roadster refresh concept in 2017 but 特斯拉 has since missed ever...",
+          "summary": "埃隆·马斯克 (Elon Musk) 于 2017 年首次推出了 Roadster 更新概念车，但特斯拉此后错过了每个目标交付日期。",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
           "image": "https://image.cnbcfm.com/api/v1/image/108419270-1792151092525-108419270-1792150895998-screenshot_2026-10-15_at_60952___pm.jpg?v=1792164782&w=1920&h=1080",
           "time": "10/16",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
           "title": "预测 2027 年初特斯拉与 SpaceX 合并的市场可能性超过 50%",
@@ -94,7 +85,16 @@
           "url": "https://www.cnbc.com/2026/10/16/tesla-spacex-merger-odds-rise-on-kalshi.html",
           "image": "https://image.cnbcfm.com/api/v1/image/108368089-1790695523016-108368089-1790346944343-gettyimages-2296349180-TRUMP_XI.jpg?v=1792098929&w=1920&h=1080",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
+        },
+        {
+          "title": "华尔街的恐惧指数正在急剧上升。交易员认为价格会更高",
+          "summary": "人工智能相关股票的抛售推动 VIX 指数四个月来首次突破 22。一系列交易表明它可能会走得更高。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/16/wall-streets-fear-gauge-is-ripping-traders-see-it-going-even-higher.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108408957-1791988869652-gettyimages-2300173631-mms15477_dpxylhl3.jpeg?v=1791989017&w=1920&h=1080",
+          "time": "10/17",
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
           "title": "美股收盘：纳指跌超2% 热门科技股普跌 存储、半导体纷纷下挫",
@@ -193,12 +193,12 @@
       "items": [
         {
           "title": "AI方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "我们为开发人员、企业、科学家和消费者提供了使用我们最新前沿模型 Gemini 4 Argon 的机会。",
+          "summary": "译：We’re giving 开发者, enterprises, scientists, and consumers access to Gemini 4 Argon, our lat...",
           "source": "Google AI",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
           "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp",
           "time": "10/14",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
           "title": "圆桌会议：与人工智能病毒创造者的对话",
@@ -207,16 +207,16 @@
           "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
           "image": "https://wp.technologyreview.com/wp-content/uploads/2024/01/MIT-TR-Roundtables_Oct-2-Thumbnail.png?resize=1200,600",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
-          "title": "Deepseek V4.1 Flash 1017 在代理任务中击败了更大的竞争对手，同时再次大幅削减了每个任务的成本",
-          "summary": "Deepseek 发布了 V4.1-Flash-1017 作为开放权重模型，与前身相比，它可以发布更好的基准、更快地完成任务并产生更短的输出。该公司还通过新的 Search 和 Fet...",
+          "title": "Anthropics 的 Claude 在 30 分钟内破解了 NSA 长达 25 年的密码学谜团",
+          "summary": "Anthropic 的人工智能模型 Claude 解决了一个长达 25 年的密码学难题。 NIST 数字签名标准曲线背后的神秘种子是由 NSA 提供的，但没有做出任何解释，这引发了人们...",
           "source": "The Decoder",
-          "url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
-          "image": "https://the-decoder.com/wp-content/uploads/2026/06/deepseek_red_whale.png",
+          "url": "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/",
+          "image": "https://the-decoder.com/wp-content/uploads/2026/10/anthropic_unintended_actions.png",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
           "title": "Playground 简介：创建和玩自定义游戏",
@@ -225,7 +225,7 @@
           "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
           "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/THUMBNAIL_BLOG.max-600x600.format-webp.webp",
           "time": "10/07",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
           "title": "下载：失败的社交媒体禁令和延长宠物的寿命",
@@ -234,16 +234,16 @@
           "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
           "image": "https://wp.technologyreview.com/wp-content/uploads/2026/05/Craig-at-pool-surface-1_R1-mobile-edited-1.jpg",
           "time": "10/16",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
-          "title": "人工智能模型会在自己的工作报告中隐藏错误，但提示中的一句话可以提供帮助",
-          "summary": "人工智能代理会系统地跳过自己报告中的错误，即使他们发现了问题。在 Google Research、麻省理工学院和哈佛大学的一项研究中，GPT-5.5 在 200 份论文摘要中遗漏了 1...",
+          "title": "Deepseek V4.1 Flash 1017 在代理任务中击败了更大的竞争对手，同时再次大幅削减了每个任务的成本",
+          "summary": "Deepseek 发布了 V4.1-Flash-1017 作为开放权重模型，与前身相比，它可以发布更好的基准、更快地完成任务并产生更短的输出。该公司还通过新的 Search 和 Fet...",
           "source": "The Decoder",
-          "url": "https://the-decoder.com/ai-models-hide-mistakes-in-their-own-work-reports-but-one-sentence-in-your-prompt-can-help/",
-          "image": "https://the-decoder.com/wp-content/uploads/2026/10/insecure-reporters-checkmarks-nano-banana-pro.jpg",
+          "url": "https://the-decoder.com/deepseek-v4-1-flash-1017-beats-larger-rivals-in-agentic-tasks-while-once-again-massively-cutting-per-task-costs/",
+          "image": "https://the-decoder.com/wp-content/uploads/2026/06/deepseek_red_whale.png",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         }
       ]
     },
@@ -253,13 +253,13 @@
       "description": "国际局势、社会议题与全球公共事件。",
       "items": [
         {
-          "title": "上任僅五天便下台，特朗普的白宮新聞秘書出了甚麼問題？",
-          "summary": "BBC駐北美記者分析，距離關鍵的國會中期選舉只剩幾個星期，白宮正面臨愈來愈多的挑戰。",
+          "title": "「我擔心得不敢去中國了」：韓國脫北者接連收到警方赴華警告",
+          "summary": "為何已在韓國定居的脫北者，如今對前往中國感到憂慮？BBC深入了解韓國警方發出旅遊警告的背景，以及脫北者實際遭中國當局拒絕入境的個案。",
           "source": "BBC 中文",
-          "url": "https://www.bbc.com/zhongwen/articles/ck5yng42z0dlo/trad?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/355e/live/bd7af110-c99f-11f1-ad54-aba20166b422.jpg",
+          "url": "https://www.bbc.com/zhongwen/articles/cmd6dgj9jwp8o/trad?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ceeb/live/358939a0-c923-11f1-9a39-31b474234113.jpg",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
           "title": "真的有人能活到200岁吗？",
@@ -268,16 +268,16 @@
           "url": "https://cn.nytimes.com/health/20261016/humans-lifespan-limits-potential/?utm_source=RSS",
           "image": "https://static01.nyt.com/images/2026/10/14/well/14well-age-longevity/14well-age-longevity-articleLarge.jpg",
           "time": "10/16",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
-          "title": "石油出口放緩之際 霍爾木茲海峽輪船遇襲案件創新高",
-          "summary": "BBC事實查核（BBC Verify）對英國海事機構數據的分析顯示，過去一星期內有12艘船隻遭到襲擊。",
+          "title": "上任僅五天便下台，特朗普的白宮新聞秘書出了甚麼問題？",
+          "summary": "BBC駐北美記者分析，距離關鍵的國會中期選舉只剩幾個星期，白宮正面臨愈來愈多的挑戰。",
           "source": "BBC 中文",
-          "url": "https://www.bbc.com/zhongwen/articles/cqx2vky9ky0no/trad?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/139a/live/0f24b0c0-c8b3-11f1-bc2e-018d645d8d21.png",
-          "time": "10/16",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "url": "https://www.bbc.com/zhongwen/articles/ck5yng42z0dlo/trad?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/355e/live/bd7af110-c99f-11f1-ad54-aba20166b422.jpg",
+          "time": "10/17",
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
           "title": "以民主换柴油，特朗普的交易令所有人蒙羞",
@@ -286,16 +286,16 @@
           "url": "https://cn.nytimes.com/opinion/20261016/trump-russia-oil-putin/?utm_source=RSS",
           "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15friedman-qblt/15friedman-qblt-videoLarge.jpg",
           "time": "10/16",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
-          "title": "中國製造的玩具如何從工廠到美國？",
-          "summary": "聖誕節臨近，我們追蹤兒童玩具從中國工廠到美國貨架的整個過程。",
+          "title": "石油出口放緩之際 霍爾木茲海峽輪船遇襲案件創新高",
+          "summary": "BBC事實查核（BBC Verify）對英國海事機構數據的分析顯示，過去一星期內有12艘船隻遭到襲擊。",
           "source": "BBC 中文",
-          "url": "https://www.bbc.com/zhongwen/articles/cm2d65npyrdjo/trad?at_medium=RSS&at_campaign=rss",
-          "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c0d2/live/df74c9d0-c54e-11f1-b4f1-2359026a88ee.jpg",
+          "url": "https://www.bbc.com/zhongwen/articles/cqx2vky9ky0no/trad?at_medium=RSS&at_campaign=rss",
+          "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/139a/live/0f24b0c0-c8b3-11f1-bc2e-018d645d8d21.png",
           "time": "10/16",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
           "title": "一场AI智能体的聚会：它们聊些什么？",
@@ -304,7 +304,7 @@
           "url": "https://cn.nytimes.com/technology/20261016/ai-agents-communication-tech-dinner-party/?utm_source=RSS",
           "image": "https://static01.nyt.com/images/2026/10/14/business/00biz-ai-agents/00biz-ai-agents-videoLarge-v3.jpg",
           "time": "10/16",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         }
       ]
     },
@@ -314,13 +314,13 @@
       "description": "市场、公司、消费、宏观经济与投资观察。",
       "items": [
         {
-          "title": "奥斯瓦尔多•维加斯：他一直在用艺术和行动反抗磨难",
-          "summary": "维加斯之子回忆父亲，讲述在那些斑斓画作的背后，一个来自南美贫寒之家的绘画天才，如何将天赋、热情和意志倾注于创作，并完成那片魔幻与现实交织的热土所赋予的使命。",
+          "title": "数据中心债券遭抛售 AI发债人面对“达尔文时刻”",
+          "summary": "投资者对AI投资热潮带来的营收是否足以支撑巨额债务正在失去信心，为美国一些最大数据中心融资的债券已跌入压力区。",
           "source": "FT 中文网",
-          "url": "https://www.ftchinese.com/story/001111113",
-          "image": "https://d1sh1cgb4xvhl.cloudfront.net/unsafe/1200x630/picture/7/000349067_piclink.jpg",
+          "url": "https://www.ftchinese.com/story/001111120",
+          "image": "https://d1sh1cgb4xvhl.cloudfront.net/unsafe/1200x630/picture/6/000349156_piclink.jpg",
           "time": "10/16",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
           "title": "特朗普以国家利益为由，放弃根据《格雷厄姆法案》对俄罗斯实施广泛的新制裁和关税",
@@ -329,7 +329,25 @@
           "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
           "image": "https://image.cnbcfm.com/api/v1/image/108360237-1788940112798-gettyimages-2230321913-ah709167_3ynogvia.jpeg?v=1788941209&w=1920&h=1080",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
+        },
+        {
+          "title": "奥斯瓦尔多•维加斯：他一直在用艺术和行动反抗磨难",
+          "summary": "维加斯之子回忆父亲，讲述在那些斑斓画作的背后，一个来自南美贫寒之家的绘画天才，如何将天赋、热情和意志倾注于创作，并完成那片魔幻与现实交织的热土所赋予的使命。",
+          "source": "FT 中文网",
+          "url": "https://www.ftchinese.com/story/001111113",
+          "image": "https://d1sh1cgb4xvhl.cloudfront.net/unsafe/1200x630/picture/7/000349067_piclink.jpg",
+          "time": "10/16",
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
+        },
+        {
+          "title": "Software公司的新整合者获得了伯克希尔的大力信任",
+          "summary": "上市公司成立还不到四个月，Bending Spoons 本周获得了伯克希尔哈撒韦公司的大力信任票。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108329344-1782916454983-gettyimages-2283599947-BENDING_SPOONS_IPO.jpeg?v=1782916474&w=1920&h=1080",
+          "time": "10/17",
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
           "title": "桂花与秋蟹",
@@ -338,34 +356,16 @@
           "url": "https://www.ftchinese.com/story/001111122",
           "image": "https://d1sh1cgb4xvhl.cloudfront.net/unsafe/1200x630/picture/3/000349163_piclink.jpg",
           "time": "10/16",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
-          "title": "5 个中期资金要点：民主党拥有候选人现金。共和党人有埃隆·马斯克",
-          "summary": "随着埃隆·马斯克（Elon Musk）资助德克萨斯州的肯·帕克斯顿（Ken Paxton）和与特朗普结盟的共和党团体，民主党在关键的国会竞选中击败了共和党。",
+          "title": "伯克希尔股价逆市抛售反弹至巴菲特表示将辞去首席执行官职务以来的最高水平",
+          "summary": "伯克希尔哈撒韦公司的股价目前处于自沃伦·巴菲特在 2025 年 5 月年会上告诉股东他计划在年底辞去首席执行官职务以来的最高水平。",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/16/midterm-election-fundraising-elon-musk.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108408835-1791987962972-gettyimages-2297261280-TRUMP_AMERICAGOV.jpeg?v=1791987994&w=1920&h=1080",
+          "url": "https://www.cnbc.com/2026/10/17/berkshire-rally-to-highest-since-buffett-announcement.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108140490-1746283733049-BUFFETT_3.jpg?v=1747341825&w=1920&h=1080",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
-        },
-        {
-          "title": "尊界的检测报告，为何引发新的争议？",
-          "summary": "刘远举：事故和灾难一般带有偶然性，但之后的反应和处理方式是带有组织行为特征的、系统性的，所以，更能反映现象背后的东西。",
-          "source": "FT 中文网",
-          "url": "https://www.ftchinese.com/story/001111118",
-          "image": "https://d1sh1cgb4xvhl.cloudfront.net/unsafe/1200x630/picture/1/000230231_piclink.jpg",
-          "time": "10/16",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
-        },
-        {
-          "title": "2026财年美国预算赤字将增至近2万亿美元，一年内增长12%",
-          "summary": "财经方向有一条新动态，适合继续跟进原文细节。",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108351875-1787178100146-gettyimages-2290607138-AFP_C62Z247.jpeg?v=1787178332&w=1920&h=1080",
-          "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         }
       ]
     },
@@ -375,58 +375,58 @@
       "description": "消费电子、互联网产品、平台生态与新硬件。",
       "items": [
         {
-          "title": "有关 iPhone Duo 的所有新闻",
-          "summary": "苹果终于发布了传闻已久的可折叠产品：iPhone Duo。新机的外屏为5.4英寸，内屏为7.6英寸，内屏采用“纳米纹理”处理，几乎看不到任何折痕。它没有使用 Face ID，而是使用电...",
+          "title": "Meta 删除了可能允许其抓取新闻网站的语言",
+          "summary": "在强烈反对之后，Meta 再次更新了其条款，删除了暗示它可以从包括新闻网站在内的网站上抓取内容来训练人工智能的语言。具体来说，以下语言不再出现在商业条款页面上：……Meta 可以使用此...",
           "source": "The Verge",
-          "url": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268734_iPhone_Duo_handson_ADiBenedetto_0017.jpg?quality=90&strip=all&crop=0,0,100,100",
+          "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&strip=all&crop=0,0,100,100",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
-          "title": "Tesla Roadster 应该会在 2028 年投入生产，但不要抱太大希望",
-          "summary": "我在梦想破碎的大道上颠倒行驶。",
+          "title": "科技方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "Amazon Alexa 是一款非常有用的家用小工具，但它也存在一些问题。幸运的是，故障排除非常简单。",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2289475/tesla-roadster-2028-production-dont-get-hopes-up/",
-          "image": "https://www.engadget.com/img/gallery/the-tesla-roadster-should-go-into-production-in-2028-but-dont-get-your-hopes-up/l-intro-1792201617.jpg",
+          "url": "https://www.engadget.com/2284031/amazon-alexa-common-problems-fixes/",
+          "image": "https://www.engadget.com/img/gallery/common-problems-with-amazon-alexa-and-how-to-fix-them/l-intro-1791500328.jpg",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
-          "title": "更新的应用程序审核指南现已推出",
+          "title": "科技方向有一条新动态，适合继续跟进原文细节。",
           "summary": "应用程序审核指南已进行修订，以支持新功能、更新政策并提供说明。提交之前的应用程序审核指南：添加了其他文档的链接。 1.2：澄清了受本指南约束的应用内容和应用类型，以及因未能在收到通知后...",
           "source": "Apple Developer",
           "url": "https://developer.apple.com/news/?id=92th7e5i",
           "image": "https://developer.apple.com/news/images/og/apple-developer-og.png",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
-          "title": "OpenAI 模型攻击了一个加密钱包并入侵了更多网站",
-          "summary": "如果键盘背后是人类的话，这些行为可能会导致刑事指控。",
+          "title": "科技方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "科技方向有一条新动态，适合继续跟进原文细节。",
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/ai-agents-1152x648.jpg",
+          "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/meetingboredom-1152x648.jpg",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
-          "title": "九月新增网络平台",
+          "title": "科技方向有一条新动态，适合继续跟进原文细节。",
           "summary": "了解 2026 年 9 月期间稳定版和 Beta 版网络浏览器中推出的一些有趣功能。",
           "source": "web.dev",
           "url": "https://web.dev/blog/web-platform-09-2026?hl=en",
           "image": "https://web.dev/static/blog/web-platform-09-2026/hero.png",
           "time": "10/02",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
-          "title": "发货意向：JPEG XL",
+          "title": "科技方向有一条新动态，适合继续跟进原文细节。",
           "summary": "新的图像格式出现在浏览器中的情况并不常见。在 2000 年代初期，我们有 JPEG、GIF 和 PNG。 2010 年代给了我们 WebP，这只是 JPEG 的一个小小的进步。但 20...",
           "source": "Mozilla Hacks",
           "url": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
           "image": "https://hacks.mozilla.org/wp-content/uploads/2026/08/progressive-stages.avif",
           "time": "08/24",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         }
       ]
     },
@@ -442,16 +442,16 @@
           "url": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
           "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-16-at-4.42.00-PM.png?quality=90&strip=all&crop=0,0,100,100",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
-          "title": "拥有电动汽车的最佳（和最差）城市：研究",
-          "summary": "一项新研究根据电动汽车充电桩数量最多和最少的情况对美国城市进行了排名，揭示了充电基础设施方面的重大差距。",
+          "title": "如果客户想要保时捷 Mission S 可以得到一本手册",
+          "summary": "这款概念车预览了保时捷未来的旗舰产品，客户将帮助塑造它所提供的产品。",
           "source": "Motor1",
-          "url": "https://www.motor1.com/news/812282/best-worst-cities-for-evs-study/",
-          "image": "https://cdn.motor1.com/images/mgl/wlkE1o/s3/tesla-ev-charging.jpg",
+          "url": "https://www.motor1.com/news/812275/porsche-mission-s-platform-manual-transmission-possible/",
+          "image": "https://cdn.motor1.com/images/mgl/JO6y9n/s3/hoffman-project0338-2_copy.jpg",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
           "title": "令人难以置信的飞行特斯拉跑车仅供展示",
@@ -460,16 +460,16 @@
           "url": "https://www.theverge.com/transportation/1012783/tesla-roadster-flying-stunt-production-reality-musk",
           "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/HUuw-rwXoAAQf9r.jpeg?quality=90&strip=all&crop=0,0,100,100",
           "time": "10/16",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
-          "title": "聆听保时捷 Mission S Rev 的神秘引擎：视频",
-          "summary": "保时捷的新超级跑车概念听起来像是隐藏了八缸发动机。",
+          "title": "拥有电动汽车的最佳（和最差）城市：研究",
+          "summary": "一项新研究根据电动汽车充电桩数量最多和最少的情况对美国城市进行了排名，揭示了充电基础设施方面的重大差距。",
           "source": "Motor1",
-          "url": "https://www.motor1.com/news/812264/porsche-mission-s-revving-engine-videos/",
-          "image": "https://cdn.motor1.com/images/mgl/0epQrn/s3/porsche-mission-s-revving-video.jpg",
+          "url": "https://www.motor1.com/news/812282/best-worst-cities-for-evs-study/",
+          "image": "https://cdn.motor1.com/images/mgl/wlkE1o/s3/tesla-ev-charging.jpg",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
           "title": "Tesla Roadster 飞行、倒置并在一秒内达到 60 英里/小时",
@@ -478,16 +478,16 @@
           "url": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
           "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Roadster_94.jpg?quality=90&strip=all&crop=0,0,100,100",
           "time": "10/16",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
-          "title": "保时捷 Mission S：您可能错过的所有功能",
-          "summary": "Mission S 将驾驶者放在第一位，将老式跑车的魅力与现代技术融为一体。",
+          "title": "聆听保时捷 Mission S Rev 的神秘引擎：视频",
+          "summary": "保时捷的新超级跑车概念听起来像是隐藏了八缸发动机。",
           "source": "Motor1",
-          "url": "https://www.motor1.com/news/812165/porsche-mission-s-supercar-features/",
-          "image": "https://cdn.motor1.com/images/mgl/3WBprK/s3/porsche-mission-s-features.jpg",
-          "time": "10/16",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "url": "https://www.motor1.com/news/812264/porsche-mission-s-revving-engine-videos/",
+          "image": "https://cdn.motor1.com/images/mgl/0epQrn/s3/porsche-mission-s-revving-video.jpg",
+          "time": "10/17",
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         }
       ]
     },
@@ -497,22 +497,40 @@
       "description": "主机、PC、移动游戏、产业新闻与玩家文化。",
       "items": [
         {
+          "title": "我们与 D&D 游戏设计师 James Wyatt 坐下来讨论《龙与地下城：魔兽世界》",
+          "summary": "在纽约动漫展上，我有机会与海岸威世智首席游戏设计师詹姆斯·怀亚特 (James Wyatt) 坐下来讨论《龙与地下城》的首个宇宙超越扩展包。",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/we-sat-down-with-dd-game-designer-james-wyatt-to-talk-dungeons-and-dragons-world-of-warcraft",
+          "image": "https://assets-prd.ignimgs.com/2026/10/03/342305-cn-copy-1791050958738.jpg",
+          "time": "10/17",
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
+        },
+        {
+          "title": "游戏方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "译：After years of development and perhaps more hype than for any 游戏, GTA 6 is set for release...",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/10/DreQuan_Priest_01.jpg?w=300",
+          "time": "10/17",
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
+        },
+        {
           "title": "红色崛起青睐电影改编，由作者皮尔斯·布朗担任制片人",
           "summary": "作者皮尔斯·布朗的《红色崛起》系列丛书已正式获准改编成派拉蒙影业的电影，由《饥饿游戏》演员弗朗西斯·劳伦斯执导。",
           "source": "IGN",
           "url": "https://www.ign.com/articles/red-rising-greenlit-for-movie-adaptation-with-author-pierce-brown-to-produce",
           "image": "https://assets-prd.ignimgs.com/2026/10/16/red-rising-movie-adaptation-paramount-1792191965565.jpg",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
-          "title": "我们认为《GTA 6》将打破所有记录",
-          "summary": "译：After years of development and perhaps more hype than for any 游戏, GTA 6 is set for release...",
+          "title": "下周你可以免费玩《魔兽世界：永远》（但有一个问题）",
+          "summary": "《魔兽世界：永远》的测试版将于下周限时免费，让那些想要体验暴雪老派 MMORPG 新版本但又不想支付 60 美元测试版的玩家有机会一睹所有宣传内容。暴雪宣布《魔兽世界：永恒》压力测试将...",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/10/DreQuan_Priest_01.jpg?w=300",
+          "url": "https://www.gamespot.com/articles/you-can-play-wow-forever-for-free-next-week-but-theres-a-catch/",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Play-For-Free-Stress-Test.jpg?w=300",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
           "title": "詹姆斯·冈恩驳斥了米莉·阿尔科克女超人的谣言，分享了《明日之人》的更新",
@@ -521,34 +539,16 @@
           "url": "https://www.ign.com/articles/james-gunn-shoots-down-milly-alcock-supergirl-rumors-shares-man-of-tomorrow-update",
           "image": "https://assets-prd.ignimgs.com/2026/06/23/supergirl-thumb-1782242447045.jpg",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
           "title": "游戏方向有一条新动态，适合继续跟进原文细节。",
-          "summary": "《魔兽世界：永远》的测试版将于下周限时免费，让那些想要体验暴雪老派 MMORPG 新版本但又不想支付 60 美元测试版的玩家有机会一睹所有宣传内容。暴雪宣布《魔兽世界：永恒》压力测试将...",
-          "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/you-can-play-wow-forever-for-free-next-week-but-theres-a-catch/",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/10/WoW-Forever-Play-For-Free-Stress-Test.jpg?w=300",
-          "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
-        },
-        {
-          "title": "《任天堂明星大乱斗》玩家 Mew2King 被虫咬引发健康担忧，被禁止参加比赛",
-          "summary": "《任天堂明星大乱斗》职业选手杰森·“Mew2King”·齐默尔曼在发布了自己皮肤状况不佳的照片并抱怨家里有虫子出没后，被禁止参加竞技比赛。",
-          "source": "IGN",
-          "url": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
-          "image": "https://assets-prd.ignimgs.com/2026/10/16/smash-bros-player-banned-from-tournament-bug-bites-1792187389080.jpg",
-          "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
-        },
-        {
-          "title": "这台浓缩咖啡机可以运行厄运",
           "summary": "在早上喝咖啡之前，Fellow Espresso Series 1 机器实际上可以在其小型圆形屏幕上运行 1993 年的《毁灭战士》。 Reddit 用户 FullExtraction...",
           "source": "GameSpot",
           "url": "https://www.gamespot.com/articles/this-espresso-machine-can-run-doom/",
           "image": "https://www.gamespot.com/wp-content/uploads/2026/05/Doom.jpg?w=300",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         }
       ]
     },
@@ -564,7 +564,7 @@
           "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
           "image": "https://github.blog/wp-content/uploads/2026/10/674986199-ee305d10-3419-4270-a829-41ed3da29fae.png?resize=528%2C221",
           "time": "10/16",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
           "title": "开源许可证合规性已普遍可用",
@@ -573,25 +573,25 @@
           "url": "https://github.blog/changelog/2026-10-16-open-source-license-compliance-generally-available",
           "image": "https://github.blog/wp-content/uploads/2026/10/672774247-38f85078-b344-4428-9fad-4b886c1f369d.jpg",
           "time": "10/16",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
-          "title": "对已验证机器人的持续问责",
+          "title": "开发方向有一条新动态，适合继续跟进原文细节。",
           "summary": "仅凭身份并不能保证机器人会负责任地行事。我们正在引入一个系统来持续评估经过验证的机器人是否遵守网站偏好（例如 robots.txt 和 HTTP 429），以确保它们随着时间的推移保持...",
           "source": "Cloudflare Blog",
           "url": "https://blog.cloudflare.com/verified-bots-accountability/",
           "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M51ZPERWNWYTD7Z36YMY80A8.01M51ZPFH7VV8EHQTMPJG9FHZ4.png",
           "time": "10/16",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
-          "title": "荷兰“驯服”的野猪和鹿正在本能地适应狼",
+          "title": "广告科技公司是“雇佣间谍软件”的传送系统",
           "summary": "开发方向有一条新动态，适合继续跟进原文细节。",
           "source": "Hacker News",
-          "url": "https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf",
-          "image": "https://images.cdn.nos.nl/8/D/r/i/A/6/kQCcBd57XxHrCbV5XHmAcMEM73p9GiE5Twz91hH/3x2x1344x756-1024x576.webp",
+          "url": "https://pluralistic.net/2026/10/17/mercenary-spyware/#discover-tech",
+          "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=1200&q=80",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
           "title": "译：Bringing our latest frontier model to Android 开发者",
@@ -600,16 +600,16 @@
           "url": "https://developer.android.com/blog/posts/bringing-gemini-4-argon-to-android-agentic-engineering-antigravity-cli",
           "image": "https://developer.android.com/static/blog/assets/Blog_0140_strapi_8d85f71a6e_2ePG4T.webp",
           "time": "10/13",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
-          "title": "Swift 的新增功能：2026 年 9 月版",
+          "title": "开发方向有一条新动态，适合继续跟进原文细节。",
           "summary": "开发方向有一条新动态，适合继续跟进原文细节。",
           "source": "Swift.org",
           "url": "https://swift.org/blog/whats-new-in-swift-september-2026/",
           "image": "https://swift.org/apple-touch-icon-180x180.png",
           "time": "10/09",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         }
       ]
     },
@@ -625,7 +625,7 @@
           "url": "https://sspai.com/post/104231",
           "image": "https://rssfile.sspai.com/2025/12/2/article/95c358a9-978c-2602-c448-86138f1d79c0.jpeg?imageMogr2/auto-orient/ignore-error/1",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
           "title": "我是一名交易作家，这些是我本周的十大科技交易",
@@ -634,16 +634,16 @@
           "url": "https://lifehacker.com/tech/best-tech-deals-this-week?utm_medium=RSS",
           "image": "https://lifehacker.com/imagery/articles/01JVZABKMFK8VHA1KJ8C41P3B1/hero-image.jpg",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
           "title": "本周看什么 | 最近值得一看的 13 部作品",
           "summary": "📅本周新预告《哥斯拉-0.0》终极预告10月11日，电影《哥斯拉-0.0》发布了终极预告，将于11月3日在日本上映、11月6日在北美上映。该片为首部为IMAX拍摄的日本电影，山崎贵执...",
           "source": "少数派",
           "url": "https://sspai.com/post/116423",
-          "image": "https://rssfile.sspai.com/2026/10/16/article/86f3f810-931d-588c-c938-d620df052144.png?imageMogr2/auto-orient/format/webp/ignore-error/1",
+          "image": "https://rssfile.sspai.com/2026/10/16/article/86f3f810-931d-588c-c938-d620df052144.png?imageMogr2/auto-orient/ignore-error/1",
           "time": "10/16",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
           "title": "适合冒险的三星 Galaxy Watch 现已折扣超过 175 美元",
@@ -652,7 +652,7 @@
           "url": "https://lifehacker.com/tech/samsung-galaxy-watch-ultra-sale-october-2026?utm_medium=RSS",
           "image": "https://lifehacker.com/imagery/articles/01JMMKAXWR7K76QZ9XRTZCEG0H/hero-image.png",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
           "title": "「弯道超车」赛车入门指北 05：让赛车粉身碎骨，才是保命的真正方式",
@@ -661,7 +661,7 @@
           "url": "https://sspai.com/post/114836",
           "image": "https://rssfile.sspai.com/2026/09/26/d86720c557561e0ce3532ad02e1eaf8f.png?imageMogr2/auto-orient/ignore-error/1",
           "time": "10/16",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
           "title": "夏令时结束后发生了什么？",
@@ -670,7 +670,7 @@
           "url": "https://lifehacker.com/what-happened-to-ending-daylight-saving-time?utm_medium=RSS",
           "image": "https://lifehacker.com/imagery/articles/01HF2HDEP9RF9N7K9PWKXF57P8/hero-image.jpg",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         }
       ]
     },
@@ -680,13 +680,49 @@
       "description": "动画、漫画、声优、二次元文化和新番动态。",
       "items": [
         {
+          "title": "10 月 5 日至 11 日日本视频游戏排名",
+          "summary": "《王国之心 Collection》Switch 2 版本首次亮相排名第一，《皇牌空战 8》排名第三",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-10-17/japan-video-game-rankings-october-5-11/.242888",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gNK/cms/news.10/242888/khcollection.jpg",
+          "time": "10/17",
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
+        },
+        {
+          "title": "译：Bringing the 'Art of 漫画' to the Brooklyn Museum",
+          "summary": "策展人鲁斯马尼埃说：“布鲁克林所做的确实以他们自己的个人风格突出了每位艺术家，非常漂亮地间隔开，我认为这是他们可以做的最身临其境的形式。”",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/feature/2026-10-17/bringing-the-art-of-manga-to-the-brooklyn-museum/.242455",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQ7/cms/feature/242455/14-309377-20250612.jpeg",
+          "time": "10/17",
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
+        },
+        {
+          "title": "《我们是外星人》电影荣获锡切斯电影节动画奖",
+          "summary": "门胁康平成为在西班牙加泰罗尼亚获奖的最年轻的日本导演",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-10-17/we-are-aliens-film-wins-sitges-film-festival-animat-award/.242938",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g4R/cms/news.9/239997/wearealiens-kv2.jpg",
+          "time": "10/17",
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
+        },
+        {
+          "title": "日本动画电视排行榜，10 月 5 日至 11 日",
+          "summary": "《朱红假面》首播收视率3.1%，《龙珠超：比鲁斯》收视率2.8%",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-10-17/japanese-animation-tv-ranking-october-5-11/.242889",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gQJ/encyc/A36879-3355659636.1789101899.jpg",
+          "time": "10/17",
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
+        },
+        {
           "title": "《Aikatsu Stars》十周年纪念电影预告片发布主题曲，1 月 22 日首播",
           "summary": "Yume & 公司受邀与世界顶级偶像一起参加“Venus Jamboree”",
           "source": "Anime News Network",
           "url": "https://www.animenewsnetwork.com/news/2026-10-17/aikatsu-stars-10th-anniversary-film-trailer-unveils-theme-song-january-22-debut/.242937",
           "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGD/cms/news.10/242937/bg-header-01-pc.png.jpg",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
           "title": "《天堂怪人》游戏第一幕“小仓”的故事预告片",
@@ -696,42 +732,6 @@
           "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gM9/youtube/-RtKGcSnNYY.jpg",
           "time": "10/17",
           "fetchedAt": "2026-10-17T10:34:37.025Z"
-        },
-        {
-          "title": "死神：千年血战 - 灾难动漫流“最后”宣传视频",
-          "summary": "第49、50集于10月19日、26日播出",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-10-17/bleach-thousand-year-blood-war-the-calamity-anime-streams-last-promo-video/.242935",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEB/youtube/YnjWqcR0spM.jpg",
-          "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
-        },
-        {
-          "title": "OceanVeil 将添加 Media Blaster 的 19 部动漫作品",
-          "summary": "魔法女巫 Punie-chan、CODE-E、EIken、Gakuen Heaven 以及更多内容将在服务中直播",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-10-17/oceanveil-to-add-19-anime-titles-from-media-blasters/.242934",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gYY/cms/news.10/242934/mediablasters-pv.jpg",
-          "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
-        },
-        {
-          "title": "Comikey 新增 Mato Kauta 的《狼王的新娘》漫画",
-          "summary": "白泉社2009年至2018年连载少女漫画",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-10-17/comikey-adds-mato-kauta-the-wolf-king-bride-manga/.242933",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gEK/cms/news.10/242933/wolf-king.jfif.jpeg",
-          "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
-        },
-        {
-          "title": "Viz Media 授权《Jojolion》、《他的甜蜜安慰》、《Under Doctor》以及 2027 年夏季更多漫画",
-          "summary": "《某人赫兹》、《颠茄的情人》、《两人巴士》漫画；明年夏天将有更多作品",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-10-16/viz-media-licenses-jojolion-his-sweet-solace-under-doctor-more-manga-for-summer-2027/.242929",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gD8/cms/news.10/242929/jojolion.jfif.jpeg",
-          "time": "10/17",
-          "fetchedAt": "2026-10-17T04:17:56.822Z"
         }
       ]
     },
@@ -775,31 +775,49 @@
       "description": "摄影技巧、人物、人像、风景、器材和后期灵感。",
       "items": [
         {
-          "title": "这不是你爷爷的索尼随身听",
-          "summary": "几乎每个人都知道索尼随身听这个名字。该品牌自 1979 年索尼推出最初的随身听（一种便携式磁带播放器）以来就已存在。尽管由于智能手机的出现，便携式音乐播放器实际上已经步渡渡鸟的后尘，但...",
+          "title": "受美国蓝调启发，街头摄影师走遍 40 个城市",
+          "summary": "在《Walking Blues》中，广受好评的街头摄影师 Alex Webb 穿越了美国约 40 个城市，用他标志性的大胆色彩和节奏记录了社区之间的联系时刻。 [ 阅读更多 ]",
           "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/10/16/this-aint-your-granddads-sony-walkman/",
-          "image": "https://petapixel.com/assets/uploads/2026/10/sony-walkman-gold-plated-featured.jpg",
+          "url": "https://petapixel.com/2026/10/17/street-photographer-travels-across-40-cities-inspired-by-the-american-blues/",
+          "image": "https://petapixel.com/assets/uploads/2026/10/Webb-Blues-Hero.jpg",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
-          "title": "摄影方向有一条新动态，适合继续跟进原文细节。",
+          "title": "半人马座 A 的六张图像：从尘土飞扬的星域到巨型黑洞喷流",
+          "summary": "半人马座 A 是一个有多个面的星系。在可见光下，一条宽阔的黑色尘埃带穿过其明亮的中心。无线电观测揭示了巨大的......半人马座 A 的六幅图像：从尘土飞扬的星域到巨型黑洞喷流首先出现...",
+          "source": "DIY Photography",
+          "url": "https://www.diyphotography.net/six-images-of-centaurus-a-from-dusty-star-fields-to-giant-black-hole-jets/",
+          "image": "https://www.diyphotography.net/wp-content/uploads/2026/10/centaurus-a-cover-300x169.jpg",
+          "time": "10/17",
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
+        },
+        {
+          "title": "理光 30 周年纪念相机别针像按钮一样可爱",
+          "summary": "作为 Ricoh GR 30 周年庆祝活动的一部分，其中包括特别版 GR IV 相机和 30 周年主题配件，Ricoh Imaging 还销售特殊的 30 周年配件，包括极其细致和可爱...",
+          "source": "PetaPixel",
+          "url": "https://petapixel.com/2026/10/17/ricohs-30th-anniversary-camera-pins-are-cute-as-a-button/",
+          "image": "https://petapixel.com/assets/uploads/2026/10/ricoh-gr-30-cameras-close-featured.jpg",
+          "time": "10/17",
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
+        },
+        {
+          "title": "Luminar 现在可以在您的浏览器中运行，支持 RAW 编辑和免费基本版本",
           "summary": "Luminar 推出了 Luminar on Web，这是一个基于浏览器的照片编辑器，可以处理 RAW 文件。基本版本是免费的，而完全访问费用为 69 美元，因为... Luminar...",
           "source": "DIY Photography",
           "url": "https://www.diyphotography.net/luminar-on-the-web-raw-editing-and-free-basic-version/",
           "image": "https://www.diyphotography.net/wp-content/uploads/2026/10/luminar-on-web-300x169.jpg",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
-          "title": "AstrHori 的 8mm f/2.4 中画幅鱼眼镜头具有广阔的视野",
-          "summary": "AstrHori 推出了一款适用于中画幅无反光镜相机的新型手动对焦鱼眼镜头。适用于 Fujifilm GFX/Hasselblad XCD 的 AstrHori MF 8mm f/2....",
+          "title": "摄影师花费六年时间捕捉 400 名美国女孩和她们最有意义的物品",
+          "summary": "一位摄影师花了六年的时间会见了美国各地的 400 多名女孩，邀请每个人带来一件具有个人意义的物品，并用胶片捕捉她们的肖像。 [ 阅读更多 ]",
           "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/10/16/astrhoris-8mm-f-2-4-medium-format-fisheye-has-an-expansive-field-of-view/",
-          "image": "https://petapixel.com/assets/uploads/2026/10/astrhori-8mm-fisheye-1.jpg",
+          "url": "https://petapixel.com/2026/10/17/photographer-spends-six-years-capturing-400-american-girls-and-their-most-meaningful-objects/",
+          "image": "https://petapixel.com/assets/uploads/2026/10/american-girls.jpg",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         },
         {
           "title": "腾龙 16-50mm f/2.8 是一款价格低于 550 美元的 APS-C 变焦镜头，涵盖四个安装口",
@@ -808,25 +826,7 @@
           "url": "https://www.diyphotography.net/tamron-16-50mm-f-2-8-sub-550-aps-c-lens-in-four-mounts/",
           "image": "https://www.diyphotography.net/wp-content/uploads/2026/10/tamron-16-50-300x169.jpg",
           "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
-        },
-        {
-          "title": "柯达 Portra 160 可能是最好的细颗粒彩色负片",
-          "summary": "我们在《电影星期五》对柯达 Portra 400 的评论中指出（并在我们的 Portra 800 文章中再次提到），它几乎是一部完美的彩色胶片，因此，如果我们在《电影星期五》开始时坚持...",
-          "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/10/16/kodak-portra-160-might-be-the-best-fine-grain-color-negative-film/",
-          "image": "https://petapixel.com/assets/uploads/2026/10/Kodak-Portra-160-Might-Be-the-Best-Fine-Grain-Color-Negative-Film.jpg",
-          "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
-        },
-        {
-          "title": "家族坟墓上留下的假血：创意拍摄多远才算太远？",
-          "summary": "有人在丹佛费尔蒙特公墓拍摄了万圣节主题的照片，并将假血洒在家族陵墓上，然后离开。工作人员已经擦洗了陵墓，……家庭坟墓上留下的假血：对于创意拍摄来说，多远才算太远？首先出现在DIY摄影上...",
-          "source": "DIY Photography",
-          "url": "https://www.diyphotography.net/fake-blood-left-on-a-family-grave-how-far-is-too-far-for-a-creative-shoot/",
-          "image": "https://www.diyphotography.net/wp-content/uploads/2026/10/bleeding-hand-on-rough-stone-surface-2026-09-23-12-25-16-utc-300x169.jpg",
-          "time": "10/17",
-          "fetchedAt": "2026-10-17T10:34:37.025Z"
+          "fetchedAt": "2026-10-17T15:28:20.009Z"
         }
       ]
     }
