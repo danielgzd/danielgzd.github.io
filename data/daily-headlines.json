@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-22",
-  "generatedAt": "2026-10-22T11:43:41.402Z",
+  "updatedAt": "2026-10-23",
+  "generatedAt": "2026-10-22T17:05:46.263Z",
   "retentionDays": 10,
   "categories": [
     {
@@ -8,6 +8,15 @@
       "label": "A股",
       "description": "A 股公司公告、盘面变化、政策与行业催化，优先来自财联社公开电报。",
       "items": [
+        {
+          "title": "华盛昌：CPO产品已完成验证获客户认可",
+          "summary": "【华盛昌：CPO产品已完成验证获客户认可】财联社10月23日电，华盛昌(002980.SZ)发布投资者关系活动记录表公告，子公司伽蓝特伽蓝特聚焦800G、1.6T光模块、硅光晶圆测试，CPO产品已经完成验证并获得客户认可，NPO相关...",
+          "source": "财联社电报",
+          "url": "https://www.cls.cn/detail/2512822",
+          "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
+          "time": "10/23 00:09",
+          "fetchedAt": "2026-10-22T16:09:09.000Z"
+        },
         {
           "title": "吉比特：拟每10股派现60元 合计拟派发现金红利4.31亿元",
           "summary": "【吉比特：拟每10股派现60元 合计拟派发现金红利4.31亿元】财联社10月22日电，吉比特(603444.SH)公告称，公司拟向全体股东每10股派发现金红利60元(含税)。截至2026年10月22日，公司以总股本扣除回购专户股份后...",
@@ -52,15 +61,6 @@
           "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
           "time": "10/22 19:21",
           "fetchedAt": "2026-10-22T11:21:17.000Z"
-        },
-        {
-          "title": "银禧科技：起诉六名股东涉嫌不当获取公司控制权",
-          "summary": "【银禧科技：起诉六名股东涉嫌不当获取公司控制权】财联社10月21日电，银禧科技(300221.SZ)公告称，公司以股东资格确认纠纷为由起诉彭某某等六名被告，请求确认其构成一致行动人，其持有的公司股份合并计算，且六被告不得收购原告，超...",
-          "source": "财联社电报",
-          "url": "https://www.cls.cn/detail/2511532",
-          "image": "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=1200&q=80",
-          "time": "10/21 23:28",
-          "fetchedAt": "2026-10-21T15:28:32.000Z"
         }
       ]
     },
@@ -69,6 +69,42 @@
       "label": "美股",
       "description": "美股指数、科技公司、美联储与全球资金动态，优先来自财联社公开电报。",
       "items": [
+        {
+          "title": "美股收窄跌幅 道琼斯指数转涨",
+          "summary": "财联社10月23日电，美股收窄跌幅，道琼斯指数转涨，此前一度跌0.65%。标普500指数、纳斯达克综合指数跌幅仍然较大，分别下跌1.05%、2.04%。",
+          "source": "财联社电报",
+          "url": "https://www.cls.cn/detail/2512823",
+          "image": "https://image.cls.cn/images/20261023/vH82yHnroG_932x624.png",
+          "time": "10/23 00:09",
+          "fetchedAt": "2026-10-22T16:09:36.000Z"
+        },
+        {
+          "title": "人工智能支出导致自由现金流为负值，Meta 股价下跌 6%",
+          "summary": "随着投资者表示对信贷的担忧日益加剧，这家社交媒体巨头的 5 年期信用违约掉期价格正创下历史新高。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108367418-1792683997139-108367418-1790256220489-gettyimages-2296213987-META_CONNECT.jpeg?v=1792684033&w=1920&h=1080",
+          "time": "10/22",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
+        },
+        {
+          "title": "马斯克与乌克兰的冲突加速了对星链替代品的需求。很少存在",
+          "summary": "寻求 SpaceX 星链替代品的政府或公司面临的选择很少，亚马逊、欧洲通信卫星公司和其他公司都远远落后。",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108438882-1792528110848-gettyimages-2300578306-UK_20261020_ukr006JPG.jpeg?v=1792528209&w=1920&h=1080",
+          "time": "10/23",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
+        },
+        {
+          "title": "译：英伟达 CEO Jensen Huang says neocloud demand is &apos;off the charts&apos; but capital is scarce",
+          "summary": "译：英伟达 CEO Jensen Huang told CNBC Thursday that demand for neocloud firms is \"off the charts,...",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108441789-1792586470134-gettyimages-2300709025-AFP_D3XH836.jpeg?v=1792586515&w=1920&h=1080",
+          "time": "10/22",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
+        },
         {
           "title": "对冲基金空头押注逼近五年高位 高盛提示美股潜在“逼空”风险",
           "summary": "【对冲基金空头押注逼近五年高位 高盛提示美股潜在“逼空”风险】财联社10月22日电，对冲基金本月大举增加股票空头头寸，将看空押注推升至接近五年来最高水平。如果美股市场反弹，出现猛烈逼空行情的风险也随之上升。高盛主经纪业务部门表示，卖...",
@@ -79,47 +115,11 @@
           "fetchedAt": "2026-10-22T11:11:10.000Z"
         },
         {
-          "title": "英伟达首席执行官黄仁勋表示，新云需求“超出预期”，但资金稀缺",
-          "summary": "Nvidia 首席执行官黄仁勋 (Jensen Huang) 周四对 CNBC 表示，对新云公司的需求“超出预期”，但资本稀缺阻碍了增长。",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108441789-1792586470134-gettyimages-2300709025-AFP_D3XH836.jpeg?v=1792586515&w=1920&h=1080",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
-        },
-        {
           "title": "受洗衣和家居产品推动，宝洁公司 (Procter & Gamble) 销售额增长 4%，盈利超预期",
           "summary": "宝洁公司的季度盈利和收入超过了华尔街的预期。",
           "source": "CNBC",
           "url": "https://www.cnbc.com/2026/10/22/procter-gamble-pg-q1-2027-earnings.html",
           "image": "https://image.cnbcfm.com/api/v1/image/108437606-1792506657497-gettyimages-2288432782-260804_dctarger_117.jpeg?v=1792506715&w=1920&h=1080",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
-        },
-        {
-          "title": "谷歌、OpenAI 和亚马逊回应，关键网络安全漏洞引发全球警报",
-          "summary": "随着 Google、OpenAI 和 Amazon 应对潜在的网络威胁，PHP 的关键安全漏洞引发了全球警告。",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108444221-1792627087371-gettyimages-2300746288-20090101261021-99-21563.jpeg?v=1792627101&w=1920&h=1080",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
-        },
-        {
-          "title": "在强劲的季度和指导之后，Meta 制定了雄心勃勃的 Muse 货币化路线图",
-          "summary": "投资者喜欢他们所看到的。",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/investingclub/2026/10/21/meta-put-out-an-ambitious-roadmap-to-muse-monetization-after-strong-quarter-and-guide.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108367416-1790256220654-gettyimages-2296208931-META_CONNECT.jpeg?v=1791299900&w=1920&h=1080",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
-        },
-        {
-          "title": "Meta 在新墨西哥州剑桥分析案中被判支付 250 亿美元罚款",
-          "summary": "Meta 将支付与新墨西哥州剑桥分析公司丑闻相关的 250 亿美元罚款。",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108437802-1792509531499-gettyimages-2297798363-1r5_3613_q0uw9oaf.jpeg?v=1792603420&w=1920&h=1080",
           "time": "10/22",
           "fetchedAt": "2026-10-22T11:43:41.402Z"
         }
@@ -192,13 +192,40 @@
       "description": "人工智能、模型、智能硬件与 AI 产品动态。",
       "items": [
         {
-          "title": "东南亚数字经济规模将达3680亿美元",
-          "summary": "人工智能的广泛采用正在推动东南亚数字经济在 2026 年达到 3680 亿美元，到 2035 年将达到 1 万亿美元。",
+          "title": "AI方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "AI方向有一条新动态，适合继续跟进原文细节。",
           "source": "Google AI",
           "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
           "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/e-Conomy_SEA_hero.max-600x600.format-webp.webp",
           "time": "10/21",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
+        },
+        {
+          "title": "下载：计算的下一次飞跃和永久冻土的气候威胁",
+          "summary": "这是今天版本的《下载》，这是我们的工作日时事通讯，每天提供技术世界中正在发生的事情。我们能将计算推向多远？ 1959 年 12 月的一个晚上，物理学家理查德·费曼 (Richard F...",
+          "source": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/03/ai-hitpiece.jpg?fit=1456,818",
+          "time": "10/22",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
+        },
+        {
+          "title": "Gartner 调查发现，只有 13% 的公司看到人工智能的实际回报",
+          "summary": "Gartner 对 2002 名首席信息官的调查显示，只有 13% 的公司从人工智能投资中获得了真正的商业价值。与此同时，51% 的人预计人工智能实际上会增加他们的运营成本。然而，75...",
+          "source": "The Decoder",
+          "url": "https://the-decoder.com/only-13-percent-of-companies-see-real-returns-from-ai-gartner-survey-finds/",
+          "image": "https://the-decoder.com/wp-content/uploads/2026/10/ai_value.png",
+          "time": "10/23",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
+        },
+        {
+          "title": "AI方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "译：We’re giving 开发者, enterprises, scientists, and consumers access to Gemini 4 Argon, our lat...",
+          "source": "Google AI",
+          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp",
+          "time": "10/14",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
           "title": "情境感知人工智能的案例",
@@ -207,43 +234,16 @@
           "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
           "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MITTR-Celonis-social-card.png?resize=1200,600",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
-          "title": "“天网模式”下的人工智能代理劫持未受保护的语言模型以发起自我维持的网络攻击",
-          "summary": "赛门铁克的安全研究人员发现了一种攻击性人工智能代理，它可以劫持网络上未受保护的语言模型，并使用它们来攻击服务器、窃取数据库并自行安装加密货币挖矿程序。它无需人工输入即可运行多达 100...",
+          "title": "Recursive 展示了与 Flint 合作的人工智能驱动研究过程的第一个结果",
+          "summary": "AI 初创公司 Recursive 推出了其第一个语言模型 Flint，这是一个由前 DeepMind 研究人员开发的用于本地编码的 400 亿参数 MoE。它是使用公司内部人工智能系...",
           "source": "The Decoder",
-          "url": "https://the-decoder.com/an-ai-agent-in-skynet-mode-hijacks-unprotected-language-models-to-launch-self-sustaining-cyberattacks/",
-          "image": "https://the-decoder.com/wp-content/uploads/2026/10/cybersecurity_kraken-1.png",
+          "url": "https://the-decoder.com/recursive-shows-first-result-of-its-ai-driven-research-process-with-flint/",
+          "image": "https://the-decoder.com/wp-content/uploads/2026/10/recursive-flint-header-1.jpg",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
-        },
-        {
-          "title": "Gemini 4 Argon：专为解决您最棘手的问题而打造",
-          "summary": "我们为开发者、企业、科学家和消费者提供了使用我们最新前沿模型 Gemini 4 Argon 的机会。",
-          "source": "Google AI",
-          "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-argon__blog-header__27.max-600x600.format-webp.webp",
-          "time": "10/14",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
-        },
-        {
-          "title": "关于永久冻土你应该知道的三件事",
-          "summary": "关于永久冻土层你了解多少？也许，你和我一样，已经意识到这层冻土正在融化，它在全球气候变化难题中很重要……而且这就是它的范围。对我们俩来说，好消息是我的同事詹姆斯·坦普尔刚刚发表了两篇…...",
-          "source": "MIT Technology Review",
-          "url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
-          "image": "https://wp.technologyreview.com/wp-content/uploads/2026/10/AdobeStock_674545481.jpg?resize=1200,600",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
-        },
-        {
-          "title": "OpenAI 代理在 32 分钟内分析小鼠大脑数据，这项工作需要人类花费几个月的时间",
-          "summary": "OpenAI 与 PerturbAI 和 Scripps Research 合作，部署了数千个人工智能代理，分析来自数百万个小鼠细胞的生物数据。 《OpenAI 代理在 32 分钟内分...",
-          "source": "The Decoder",
-          "url": "https://the-decoder.com/openai-agents-analyze-mouse-brain-data-in-32-minutes-a-job-that-would-take-humans-months/",
-          "image": "https://the-decoder.com/wp-content/uploads/2026/10/openai_orchestra_bio.png",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         }
       ]
     },
@@ -259,7 +259,7 @@
           "url": "https://www.bbc.com/zhongwen/articles/cj75p1qkyw7vo/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e95/live/d4b2d1b0-cc68-11f1-baeb-8d65d4bcd7ab.jpg",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
           "title": "民主倒退、中国崛起，人类命运将走向何方",
@@ -268,7 +268,7 @@
           "url": "https://cn.nytimes.com/opinion/20261022/america-world-order-democracy-trump/?utm_source=RSS",
           "image": "https://static01.nyt.com/images/2026/10/18/opinion/18schmemann/18schmemann-videoLarge-v2.jpg",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
           "title": "特朗普治下，美國經濟的真實表現如何？",
@@ -277,7 +277,7 @@
           "url": "https://www.bbc.com/zhongwen/articles/cqkgke5j6yego/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/711c/live/8e797e10-cbd7-11f1-a64c-550be9e3c66b.jpg",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
           "title": "当法国人将愤怒砸向奢侈品橱窗",
@@ -286,7 +286,7 @@
           "url": "https://cn.nytimes.com/style/20261022/france-riots-luxury-dior-hermes/?utm_source=RSS",
           "image": "https://static01.nyt.com/images/2026/10/21/multimedia/21ST-LUXURY-LOOTING-PARIS-1-pkgf/21ST-LUXURY-LOOTING-PARIS-1-pkgf-articleLarge.jpg",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
           "title": "特朗普收緊綠卡政策，印度科技從業者的「美國夢」面臨考驗",
@@ -295,7 +295,7 @@
           "url": "https://www.bbc.com/zhongwen/articles/crly0lw6g726o/trad?at_medium=RSS&at_campaign=rss",
           "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/51e1/live/804b8da0-cc6e-11f1-baeb-8d65d4bcd7ab.jpg",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
           "title": "民调显示，中期选举两周前特朗普支持率跌至新低",
@@ -304,7 +304,7 @@
           "url": "https://cn.nytimes.com/usa/20261022/trump-midterm-election-poll/?utm_source=RSS",
           "image": "https://static01.nyt.com/images/2026/10/21/multimedia/c22pol-poll-01/c22pol-poll-01-articleLarge.png",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         }
       ]
     },
@@ -320,16 +320,16 @@
           "url": "https://www.ftchinese.com/story/001111163",
           "image": "https://d1sh1cgb4xvhl.cloudfront.net/unsafe/1200x630/picture/2/000349812_piclink.jpg",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
-          "title": "英伟达首席执行官黄仁勋表示，新云需求“超出预期”，但资金稀缺",
-          "summary": "Nvidia 首席执行官黄仁勋 (Jensen Huang) 周四对 CNBC 表示，对新云公司的需求“超出预期”，但资本稀缺阻碍了增长。",
+          "title": "人工智能支出导致自由现金流为负值，Meta 股价下跌 6%",
+          "summary": "随着投资者表示对信贷的担忧日益加剧，这家社交媒体巨头的 5 年期信用违约掉期价格正创下历史新高。",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/22/nvidia-jensen-huang-neocloud-demand-capital.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108441789-1792586470134-gettyimages-2300709025-AFP_D3XH836.jpeg?v=1792586515&w=1920&h=1080",
+          "url": "https://www.cnbc.com/2026/10/22/meta-stock-q3-earnings-free-cash-flow.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108367418-1792683997139-108367418-1790256220489-gettyimages-2296213987-META_CONNECT.jpeg?v=1792684033&w=1920&h=1080",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
           "title": "英国拟取消家庭燃气账单上的每日固定费用",
@@ -338,16 +338,16 @@
           "url": "https://www.ftchinese.com/story/001111170",
           "image": "https://d1sh1cgb4xvhl.cloudfront.net/unsafe/1200x630/picture/2/000344272_piclink.jpg",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
-          "title": "中期选举临近，特朗普对经济的支持率创历史新低：CNBC调查",
-          "summary": "现在，十分之八的美国人将经济评为一般或较差，这是 CNBC 民意调查的多项发现之一，显示了共和党候选人为何面临艰苦的斗争。",
+          "title": "财经方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "寻求 SpaceX 星链替代品的政府或公司面临的选择很少，亚马逊、欧洲通信卫星公司和其他公司都远远落后。",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108370343-1790783062486-gettyimages-2297724134-kbd14743_rhxmkc0e.jpeg?v=1790803464&w=1920&h=1080",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "url": "https://www.cnbc.com/2026/10/22/elon-musk-ukraine-starlink-alternatives.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108438882-1792528110848-gettyimages-2300578306-UK_20261020_ukr006JPG.jpeg?v=1792528209&w=1920&h=1080",
+          "time": "10/23",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
           "title": "英国政府批准开发北海杰克道天然气田",
@@ -356,16 +356,16 @@
           "url": "https://www.ftchinese.com/story/001111169",
           "image": "https://d1sh1cgb4xvhl.cloudfront.net/unsafe/1200x630/picture/7/000345267_piclink.jpg",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
-          "title": "美国航空预计 2026 年燃油上涨将造成更大损失，并计划明年放缓增长",
-          "summary": "由于燃油成本飙升，该公司是本月第四家下调 2026 年预测的美国主要航空公司。",
+          "title": "财经方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "现在，十分之八的美国人将经济评为一般或较差，这是 CNBC 民意调查的多项发现之一，显示了共和党候选人为何面临艰苦的斗争。",
           "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/10/22/american-airlines-aal-q3-2026-earnings.html",
-          "image": "https://image.cnbcfm.com/api/v1/image/108365416-1789917263772-gettyimages-2295594382-AFP_C8TD6BD.jpeg?v=1789917622&w=1920&h=1080",
+          "url": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+          "image": "https://image.cnbcfm.com/api/v1/image/108370343-1790783062486-gettyimages-2297724134-kbd14743_rhxmkc0e.jpeg?v=1790803464&w=1920&h=1080",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         }
       ]
     },
@@ -375,22 +375,22 @@
       "description": "消费电子、互联网产品、平台生态与新硬件。",
       "items": [
         {
-          "title": "Eiliko 制造商表示，在 Verge 报告其不安全机器人后，该公司正在聘请一家“独立安全公司”",
-          "summary": "Eiliko 是一款可爱的机器人护身符，可以挂在包上，内置人工智能对话功能，但结果却是一场安全噩梦。它告诉主人“你的秘密对我来说是安全的”，但黑客可以轻松阅读我们告诉玩具的所有内容的完...",
+          "title": "特朗普称桑达尔·皮查伊说服他不要重新命名大西洋",
+          "summary": "根据特朗普的行政命令，谷歌首席执行官桑达尔·皮查伊(Sundar Pichai)在谷歌地图上重新命名了安大略湖和墨西哥湾，之后可能会在大西洋上划定界限。正如《华盛顿邮报》早些时候报道的...",
           "source": "The Verge",
-          "url": "https://www.theverge.com/news/1015824/eiliko-energize-lab-statement-on-robot-hack-breach",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/eiliko-verge-sean-012.jpg?quality=90&strip=all&crop=0,0,100,100",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "url": "https://www.theverge.com/policy/1016751/trump-rename-atlantic-ocean-sundar-pichai-google",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2276602257.jpg?quality=90&strip=all&crop=0,0,100,100",
+          "time": "10/23",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
-          "title": "特斯拉计划在今年年底前开始销售 Cyber​​cabs",
-          "summary": "特斯拉希望在年底前将 Cyber​​cab 出售给其他运输公司。",
+          "title": "桑达尔·皮查伊（据称）在海洋上划定了界限",
+          "summary": "特朗普总统声称谷歌首席执行官拒绝在地图中重新命名大西洋。",
           "source": "Engadget",
-          "url": "https://www.engadget.com/2293810/tesla-plans-selling-cybercabs-by-end-of-2026/",
-          "image": "https://www.engadget.com/img/gallery/tesla-plans-to-start-selling-cybercabs-by-the-end-of-the-year/l-intro-1792659015.jpg",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "url": "https://www.engadget.com/2294319/sundar-pichai-allegedly-draws-the-line-at-oceans/",
+          "image": "https://www.engadget.com/img/gallery/sundar-pichai-allegedly-draws-the-line-at-oceans/l-intro-1792685934.jpg",
+          "time": "10/23",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
           "title": "更新的应用程序审核指南现已推出",
@@ -399,34 +399,34 @@
           "url": "https://developer.apple.com/news/?id=92th7e5i",
           "image": "https://developer.apple.com/news/images/og/apple-developer-og.png",
           "time": "10/17",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
-          "title": "FCC主席警告媒体不要进行特朗普一直抱怨的“虚假民意调查”",
-          "summary": "前联邦通信委员会主席表示，布伦丹·卡尔的目的是恐吓广播公司进行自我审查。",
+          "title": "忘掉“不适 2.0”吧，通用汽车表示仍全力发展电动汽车和自动驾驶",
+          "summary": "通用汽车的计划需要大量客户的信任。",
           "source": "Ars Technica",
-          "url": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
-          "image": "https://cdn.arstechnica.net/wp-content/uploads/2024/12/trump-carr-1152x648-1734382746.jpg",
+          "url": "https://arstechnica.com/cars/2026/10/forget-malaise-2-0-gm-says-its-still-all-in-on-evs-and-autonomy/",
+          "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/OnStar-AI-Assistant-1152x648.jpg",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
-          "title": "九月新增网络平台",
-          "summary": "了解 2026 年 9 月期间在稳定版和测试版网络浏览器中推出的一些有趣功能。",
+          "title": "科技方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "科技方向有一条新动态，适合继续跟进原文细节。",
           "source": "web.dev",
           "url": "https://web.dev/blog/web-platform-09-2026?hl=en",
           "image": "https://web.dev/static/blog/web-platform-09-2026/hero.png",
           "time": "10/02",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
-          "title": "YouTube 表示并未测试隐藏“不喜欢”按钮",
-          "summary": "周二，我发表了一篇关于 YouTube 似乎正在测试隐藏视频上的“不喜欢”按钮的报道，X 上至少有两名用户分享了移至三点菜单中的“不喜欢”按钮的屏幕截图。但 YouTube 发言人在周...",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/acastro_STK092_03.jpg?quality=90&strip=all&crop=0,0,100,100",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "title": "发货意向：JPEG XL",
+          "summary": "新的图像格式出现在浏览器中的情况并不常见。在 2000 年代初期，我们有 JPEG、GIF 和 PNG。 2010 年代给了我们 WebP，这只是 JPEG 的一个小小的进步。但 20...",
+          "source": "Mozilla Hacks",
+          "url": "https://hacks.mozilla.org/2026/08/intent-to-ship-jpeg-xl/",
+          "image": "https://hacks.mozilla.org/wp-content/uploads/2026/08/progressive-stages.avif",
+          "time": "08/24",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         }
       ]
     },
@@ -436,58 +436,58 @@
       "description": "智能汽车、电动化、座舱、辅助驾驶和产业趋势。",
       "items": [
         {
+          "title": "仅仅因为特斯拉的 Optimus 已经投入生产并不意味着它实际上已经准备好了",
+          "summary": "在特斯拉周三的财报电话会议上，首席执行官埃隆·马斯克宣布，该公司已开始在加利福尼亚州弗里蒙特的大批量生产线上早期生产其人形机器人。然后他列出了仍需要改进的地方：机器人的双手、其安全性、...",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/1016492/tesla-optimus-robots-production-musk-q3-earnings",
+          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/258187_Are_humanoid_robots_just_hype_or_are_they_coming__CVirginia-1.jpg?quality=90&strip=all&crop=0,0,100,100",
+          "time": "10/22",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
+        },
+        {
+          "title": "福特解释为什么给汽车命名如此困难：“每个人都有自己的意见”",
+          "summary": "斯科特·豪曼 (Scott Hauman) 的福特团队在任何产品到达买家之前都会通过批准、研究、商标检查和翻译测试来管理每个野马、野马或特立独行的名称。",
+          "source": "Motor1",
+          "url": "https://www.motor1.com/news/812896/ford-puts-every-car-name/",
+          "image": "https://cdn.motor1.com/images/mgl/KbY9KN/s3/2026-ford-bronco-60th-anniversary-package.jpg",
+          "time": "10/23",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
+        },
+        {
           "title": "特斯拉表示，明年客户可以将自己的车辆添加到机器人出租车车队中——这会发生吗？",
           "summary": "多年来，埃隆·马斯克一直向特斯拉车主做出了关于无人监督自动驾驶以及将自己的车辆添加到该公司机器人出租车车队的能力的重大承诺。在今天的第三季度财报电话会议上，该公司终于给自己设定了最后期...",
           "source": "The Verge",
           "url": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
           "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKE001_STK086_Tesla_Robotaxi_3_A.jpg?quality=90&strip=all&crop=0,0,100,100",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
-          "title": "本田三菱卡车正式上市，将于 2028 年推出",
-          "summary": "本田和三菱将为彼此的产品线供应车辆，首先是基于 Triton 的皮卡。",
+          "title": "凯迪拉克斥资 239,000 美元打造 Escalade-V 庆祝 125 周年",
+          "summary": "125 周年纪念收藏系列赋予 Escalade-V 专属车轮、碳纤维和蓝色装饰。",
           "source": "Motor1",
-          "url": "https://www.motor1.com/news/812885/mitsubishi-triton-based-honda-truck-confirmed/",
-          "image": "https://cdn.motor1.com/images/mgl/1Z4XlK/s3/2024-mitsubishi-triton-l200.jpg",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "url": "https://www.motor1.com/news/812952/cadillac-escalade-v-anniversary-series-price-details/",
+          "image": "https://cdn.motor1.com/images/mgl/8A0Woe/s3/cadillac-escalade-v-125th-anniversary-collector-series.jpg",
+          "time": "10/23",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
           "title": "飞行跑车无法提振特斯拉第三季度营收持平",
-          "summary": "随着其令人震惊的 Roadster 演示的硝烟散去，特斯拉于周三公布了第三季度财报，而冷酷的现实是收入已经持平。特斯拉表示，截至 2026 年 9 月的季度，其净利润为 17 亿美元，...",
+          "summary": "随着其令人震惊的 Roadster 演示的硝烟散去，特斯拉于周三公布了第三季度财报，而冷酷的现实是收入已经持平。特斯拉表示，截至 2026 年 9 月的季度，其净利润为 16.9 亿美...",
           "source": "The Verge",
           "url": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
           "image": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23382326/VRG_Illo_STK022_K_Radtke_Musk_Tesla.jpg?quality=90&strip=all&crop=0,0,100,100",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
-          "title": "大众想要电动布加迪陀飞轮，但 Mate Rimac 力推 V16 发动机",
-          "summary": "在 Rimac 介入之前，布加迪的前车主设想推出 Chiron 的电动后继车型。",
+          "title": "2027 年福特电动野马变得更便宜、更坚固",
+          "summary": "每辆野马 Mach-E 还为新的一年配备了标准的远程电池。",
           "source": "Motor1",
-          "url": "https://www.motor1.com/news/812873/matte-rimac-rejected-electric-bugatti/",
-          "image": "https://cdn.motor1.com/images/mgl/Kb8KbQ/s3/bugatti-tourbillon-in-japan-und-singapur.jpg",
+          "url": "https://www.motor1.com/news/812851/ford-mustang-mach-e-2027/",
+          "image": "https://cdn.motor1.com/images/mgl/KbZvgl/s3/2027-ford-mustang-mach-e-trail-package.jpg",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
-        },
-        {
-          "title": "通用汽车承诺提供更智能的汽车、更快的更新和自动干洗运行",
-          "summary": "通用汽车仍然主要从事销售高油耗卡车和大型SUV的业务。但如果你听听其领导层的意见，就会发现这家底特律巨头正在迅速转型为一家灵活的软件定义科技公司，并加强了对人工智能的控制。这就是今天的...",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av",
-          "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/gettyimages-97616875.jpg?quality=90&strip=all&crop=0,0,100,100",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
-        },
-        {
-          "title": "迪拜警方因排气管大声和非法改装开出 7,735 笔罚款",
-          "summary": "迪拜警方从 5,690 起非法改装案件中分离出了 2,045 起噪音违规案件，每起案件都会被处以罚款、扣分，并可能扣押车辆。",
-          "source": "Motor1",
-          "url": "https://www.motor1.com/news/812881/dubai-police-crack-down-loud/",
-          "image": "https://cdn.motor1.com/images/mgl/y217Gq/s3/impounded-ferrari-sf90-stradale-in-dubai.jpg",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         }
       ]
     },
@@ -497,58 +497,58 @@
       "description": "主机、PC、移动游戏、产业新闻与玩家文化。",
       "items": [
         {
-          "title": "“地区存在作弊行为，我们需要解决这个问题”——Wardogs 开发人员表示，地区锁定是为了“保护最大数量的玩家”",
-          "summary": "Bulkhead 正在 Wardogs 中推出区域锁定，用工作室的话来说，是为了保护“最大数量的玩家免受更容易作弊的区域涌入的影响”。然而，亚洲的正版玩家提出了担忧，跨区玩家批评开发商...",
+          "title": "拍卖行退休装饰师以 200 万美元出售神奇宝贝卡，惊得下巴掉到地上",
+          "summary": "一位来自英国的退休装潢师刚刚以 200 万美元的价格出售了一堆积满灰尘的口袋妖怪卡片，成为了百万富翁。",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/wardogs-fans-upset-region-lock",
-          "image": "https://assets-prd.ignimgs.com/2026/03/04/wardogs-blog-1772625638529.jpg",
+          "url": "https://www.ign.com/articles/retired-working-man-sells-pokemon-cards-2-million",
+          "image": "https://assets-prd.ignimgs.com/2026/10/22/pokemon-main-1792679844614.jpg",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
-          "title": "EA 取消了新的《质量效应》，暂停了新的《模拟人生》游戏，以及刚刚发生的所有其他 EA 大新闻",
-          "summary": "当 EA 被沙特阿拉伯公共投资基金收购时，许多人预计这家游戏公司将发生重大变化，包括裁员和游戏取消等重组。现在，这些已经开始，EA 于 10 月 21 日确认了一系列重大变化，这些变化...",
+          "title": "《Dispatch》将于 12 月登陆移动平台，前四集免费",
+          "summary": "在其一周年之际，Dispatch 开发商 AdHoc 透露了这部超级英雄职场喜剧豪华版的重大（且免费）更新。 Dispatch 中添加了两种新的幕后模式，现已在所有提供豪华版的平台上推...",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/ea-kills-bioware-cancels-new-mass-effect-pauses-new-sims-game-and-all-the-other-big-ea-news-that-just-happened/",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/10/masseffect-Large.jpeg?w=300",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "url": "https://www.gamespot.com/articles/dispatch-is-coming-to-mobile-in-december-with-its-first-four-episodes-free/",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Dispatch.jpg?w=300",
+          "time": "10/23",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
-          "title": "《生化危机》开发商 Capcom 在超过 1100 万个客户账户数据泄露后发出网络钓鱼警告",
-          "summary": "Capcom 披露了其在线会员帐户服务的数据泄露事件，影响了超过 1100 万个客户帐户，警告客户做好潜在网络钓鱼尝试的准备。",
+          "title": "随着 EA 大规模裁员的范围变得更加清晰，Skate Studio 也受到了裁员",
+          "summary": "译：Following the announcement that EA is closing down Mass Effect 开发者 BioWare, staff at the s...",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/resident-evil-developer-capcom-issues-phishing-warning-after-data-breach-hits-over-11-million-customer-accounts",
-          "image": "https://assets-prd.ignimgs.com/2026/10/22/gettyimages-2230476823-1792664085949.jpg",
+          "url": "https://www.ign.com/articles/skate-studio-hit-with-layoffs",
+          "image": "https://assets-prd.ignimgs.com/2026/10/09/skate-developer-addresses-reskate-1791574192606.jpg",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
-          "title": "据报道，《星球大战：前线 3》正在由 EA 顶级射击工作室开发",
-          "summary": "在 EA 重组（包括裁员和关闭 BioWare）的令人震惊的消息中，发行商提到《Apex Legends》工作室 Respawn Entertainment 和《战地》制作商 DICE...",
+          "title": "显然，《战地 1》的杰克·劳登是新詹姆斯·邦德的决赛入围者之一",
+          "summary": "游戏方向有一条新动态，适合继续跟进原文细节。",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/star-wars-battlefront-3-reportedly-in-development-by-eas-top-shooter-studios/",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/10/STAR_WARS_BATTLEFRONT_2-screenshot-5-16x9-1.jpg?w=300",
+          "url": "https://www.gamespot.com/articles/battlefield-1s-jack-lowden-is-one-of-the-finalists-for-new-james-bond-apparently/",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/10/BF1-Large.jpeg?w=300",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
-          "title": "导演坚称，《街头霸王》永远不会成为一部黑暗、接地气的《蝙蝠侠：侠影之谜》风格的电影——工作室想要的是愚蠢和荒诞",
-          "summary": "《街头霸王》是北美排名第一的电影，但其愚蠢的基调引发了很多争论。卡普空格斗游戏系列的一些粉丝想要一些比他们得到的更黑暗、更接地气的东西，但根据电影导演的说法，这从来都不是不可能的。",
+          "title": "游戏方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "游戏方向有一条新动态，适合继续跟进原文细节。",
           "source": "IGN",
-          "url": "https://www.ign.com/articles/street-fighter-was-never-going-to-be-a-dark-grounded-batman-begins-style-movie-director-insists-the-studio-wanted-silliness-and-absurdity",
-          "image": "https://assets-prd.ignimgs.com/2026/10/16/street-fighter-ending-explained-thumb-1792186722001.jpg",
+          "url": "https://www.ign.com/articles/gta-6-tv-commercial-strips-shower-scene-doesnt-mention-xbox",
+          "image": "https://assets-prd.ignimgs.com/2026/10/22/screenshot-2026-10-22-143504-1792676168085.png",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
-          "title": "针对非 Game Pass 会员的 Xbox 云游戏每小时价格揭晓",
-          "summary": "微软透露，对于没有 Game Pass 会员资格的用户使用 Xbox 云游戏服务将收取多少费用。目前，这仅适用于 Xbox Insider，但这是一个任何人都可以加入的免费计划。另外值...",
+          "title": "游戏方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "译：It's been a minute since we've heard anything about Askiisoft's samurai platformer Katana ...",
           "source": "GameSpot",
-          "url": "https://www.gamespot.com/articles/xbox-cloud-gaming-hourly-prices-revealed-for-non-game-pass-members/",
-          "image": "https://www.gamespot.com/wp-content/uploads/2026/10/Xboxreset-5.png?w=300",
+          "url": "https://www.gamespot.com/articles/katana-zero-dlc-is-still-coming-and-its-apparently-freakin-huge-now/",
+          "image": "https://www.gamespot.com/wp-content/uploads/2026/10/kz-image.jpg?w=300",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         }
       ]
     },
@@ -558,58 +558,58 @@
       "description": "开发者工具、开源、代码平台、工程效率与安全。",
       "items": [
         {
-          "title": "通往代理级 Git 基础设施的桥梁",
+          "title": "开发方向有一条新动态，适合继续跟进原文细节。",
           "summary": "我们将 99.99999% 的 GitHub 存储库的副本移至 Azure。以下是每个引用仲裁如何取代其余部分，以及对象存储如何让读取独立扩展。通向代理级 Git 基础设施的桥梁一文首...",
           "source": "GitHub Engineering",
           "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
           "image": "https://github.blog/wp-content/uploads/2026/01/generic-mona-github.png?fit=1920%2C1080",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
-          "title": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌",
-          "summary": "现在，您可以在 GitHub CLI 中使用过期、自动刷新的 OAuth 凭据作为公共预览的一部分。当您选择加入时，gh 会存储过期的访问令牌以及... GitHub CLI：选择加入...",
+          "title": "开发方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "开发方向有一条新动态，适合继续跟进原文细节。",
           "source": "GitHub Blog",
           "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
           "image": "https://github.blog/wp-content/uploads/2026/10/674026597-85251c65-72af-49cb-9eaf-fa18f73c77b3.jpeg",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
-          "title": "引入 Cloudflare WAF 的完整事务检测",
-          "summary": "Cloudflare 的 Web 应用程序防火墙现在可以将 HTTP 请求与其响应关联起来。全面的交易检测可帮助每个客户发现仅请求检查可能遗漏的成功漏洞、数据泄露和危险的错误配置。",
+          "title": "开发方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "译：Cloudflare has achieved South Korea's ISMS certification following an audit across 80 cont...",
           "source": "Cloudflare Blog",
-          "url": "https://blog.cloudflare.com/full-transaction-waf/",
-          "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5E1HKVR7WJX7KGB4B8MSK75.png",
-          "time": "10/21",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "url": "https://blog.cloudflare.com/k-isms/",
+          "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M5G8JRPS2ZR304ZH695BQBTD.01M5G8JS8D86H6MQHCQERAW2XC.png",
+          "time": "10/22",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
-          "title": "几个 Linux 内核漏洞意外发布到公共邮件列表",
+          "title": "弧线正在日落",
           "summary": "开发方向有一条新动态，适合继续跟进原文细节。",
           "source": "Hacker News",
-          "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
-          "image": "https://www.phoronix.net/image.php?id=2026&image=public_zdi",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "url": "https://arc.net/",
+          "image": "https://arc.net/farewell/og.png",
+          "time": "10/23",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
           "title": "在 Android 上添加和编辑联系人的更可靠方法",
-          "summary": "面向即将发布的 Android 版本的应用程序将无法再使用 WRITE_CONTACTS 权限直接写入联系人。",
+          "summary": "开发方向有一条新动态，适合继续跟进原文细节。",
           "source": "Android Developers",
           "url": "https://developer.android.com/blog/posts/reliable-way-to-add-and-edit-contacts-android",
           "image": "https://developer.android.com/static/blog/assets/1009_ABL_142_A_more_reliable_way_to_add_and_edit_contacts_on_Android_Strapi_b510ec4fc0_Z1wE0B4.webp",
           "time": "10/21",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
-          "title": "Swift 的新增功能：2026 年 9 月版",
+          "title": "开发方向有一条新动态，适合继续跟进原文细节。",
           "summary": "开发方向有一条新动态，适合继续跟进原文细节。",
           "source": "Swift.org",
           "url": "https://www.swift.org/blog/whats-new-in-swift-september-2026/",
           "image": "https://www.swift.org/apple-touch-icon-180x180.png",
           "time": "10/09",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         }
       ]
     },
@@ -625,16 +625,16 @@
           "url": "https://sspai.com/post/115437",
           "image": "https://rssfile.sspai.com/2026/10/07/ea79e6bf26e9ce585e7d040e1fe476ad.jpg?imageMogr2/auto-orient/ignore-error/1",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
-          "title": "Lifehacker Deals Live Blog：最好的技术销售，尽在一个地方",
-          "summary": "了解 Lifehacker 发布的所有最佳优惠，包括笔记本电脑、扬声器、电视、安全摄像头等。",
+          "title": "谷歌悄悄地在你的帐户中链接你的电话号码，但你可以阻止它",
+          "summary": "生活方向有一条新动态，适合继续跟进原文细节。",
           "source": "Lifehacker",
-          "url": "https://lifehacker.com/lifehacker-deals-live-blog?utm_medium=RSS",
-          "image": "https://lifehacker.com/imagery/articles/01K6182WX6ZDMX6P1Y4STAJQJ2/hero-image.jpg",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "url": "https://lifehacker.com/tech/google-opt-out-linking-phone-number-across-accounts?utm_medium=RSS",
+          "image": "https://lifehacker.com/imagery/articles/01M5GCXGAH0QD8TTJFGKK44K9A/hero-image.png",
+          "time": "10/23",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
           "title": "前瞻｜Apple 新品看点：MacBook 或将推出 OLED 触屏版本",
@@ -643,16 +643,16 @@
           "url": "https://sspai.com/post/116923",
           "image": "https://rssfile.sspai.com/10/21/2026/article/117407e4-3d37-8e24-bd3c-146458034537.jpeg?imageMogr2/auto-orient/ignore-error/1",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
-          "title": "这款超宽三星游戏显示器立减 600 美元",
-          "summary": "这是抢购这款优质 57 英寸三星游戏显示器的绝佳机会。",
+          "title": "接下来您应该观看的 10 部类似《异世界》的节目",
+          "summary": "更多成长剧现已上线。",
           "source": "Lifehacker",
-          "url": "https://lifehacker.com/tech/samsung-odyssey-neo-g9-gaming-monitor-deal-october-2026?utm_medium=RSS",
-          "image": "https://lifehacker.com/imagery/articles/01J29JH9FVWK74ETYSH711P2EX/hero-image.jpg",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "url": "https://lifehacker.com/entertainment/best-shows-like-a-different-world?utm_medium=RSS",
+          "image": "https://lifehacker.com/imagery/articles/01M5HZZH493HE3H99KZ0W24S4Y/hero-image.jpg",
+          "time": "10/23",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
           "title": "终于吃到了那颗梦寐以求的小药丸：我的 ADHD 诊疗记",
@@ -661,16 +661,16 @@
           "url": "https://sspai.com/post/115090",
           "image": "https://rssfile.sspai.com/2026/09/28/4954de97df34cad93a3df1da3281759b.jpg?imageMogr2/auto-orient/ignore-error/1",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
-          "title": "Netflix 2026 年 11 月新动态",
-          "summary": "本月将带来电视剧《利他主义者》、由杰西卡·查斯坦主演的惊悚片《中心地带》，以及感恩节前夕的 NFL 比赛。",
+          "title": "生活方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "这些包耳式耳机具有改进的降噪效果、更舒适的佩戴体验以及长达 70 小时的电池续航时间。",
           "source": "Lifehacker",
-          "url": "https://lifehacker.com/entertainment/whats-new-on-netflix-november-2026?utm_medium=RSS",
-          "image": "https://lifehacker.com/imagery/articles/01M5FKS6G9Y5S65QQV9CNVX1SM/hero-image.jpg",
+          "url": "https://lifehacker.com/tech/ankers-soundcore-space-2-headphones-deal-october-2026?utm_medium=RSS",
+          "image": "https://lifehacker.com/imagery/articles/01M5J1G4C9063MNFH70Z8RN70N/hero-image.jpg",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         }
       ]
     },
@@ -680,6 +680,51 @@
       "description": "动画、漫画、声优、二次元文化和新番动态。",
       "items": [
         {
+          "title": "Yoroi-Shinden Samurai Troopers 第 13-24 集动漫系列评论",
+          "summary": "《养老神电武士部队》是一场充满牺牲性的飓风，几乎不可能在不解决其对演员阵容的浅薄执着的情况下谈论它。",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/review/yoroi-shinden-samurai-troopers/episodes-13-24/.242569",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gGP/cms/review.2/242569/yoroishindensamuraitroopers2.jpg",
+          "time": "10/23",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
+        },
+        {
+          "title": "百濑雄一郎、日向雏的《八古坛》漫画将于 11 月 24 日完结",
+          "summary": "逆后宫喜剧漫画3月24日上线",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-10-22/yuichiro-momose-hina-hinata-bagudan-manga-ends-on-november-24/.243066",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gKH/cms/news.10/243066/bagudan.jpg",
+          "time": "10/23",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
+        },
+        {
+          "title": "塔科皮的原罪合辑电影预告片揭晓主题曲",
+          "summary": "Tele 回归为 11 月 27 日电影演唱主题曲",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-10-22/takopi-original-sin-compilation-film-trailer-reveals-theme-song/.243112",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gJE/youtube/mnoR-kTU25E.jpg",
+          "time": "10/22",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
+        },
+        {
+          "title": "独家：Nakama Press 获得鱼户漫画《100 米》和《悟空午夜之眼》漫画的授权，将于 2027 年发行",
+          "summary": "动漫方向有一条新动态，适合继续跟进原文细节。",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-10-22/exclusive-nakama-press-licenses-uoto-100-meters-goku-midnight-eye-manga-for-release-in-2027/.243056",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gA0/cms/news.10/243056/100.jpg",
+          "time": "10/22",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
+        },
+        {
+          "title": "Capcom 确认超过 1100 万用户帐户数据泄露",
+          "summary": "自 10 月 19 日起，第三方未经授权访问 Capcom ID 服务",
+          "source": "Anime News Network",
+          "url": "https://www.animenewsnetwork.com/news/2026-10-22/capcom-confirms-data-breach-of-over-11-million-user-accounts/.243110",
+          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gIM/herald/202411/260366624-4647520381975403-8508040438549525869-n.jpg",
+          "time": "10/22",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
+        },
+        {
           "title": "Crunchyroll 公布了《世界最强女巫》动画的英语配音演员阵容和工作人员",
           "summary": "第一集英语配音将于周三播出",
           "source": "Anime News Network",
@@ -687,51 +732,6 @@
           "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gO3/cms/news.9/241025/01-3.jpg",
           "time": "10/22",
           "fetchedAt": "2026-10-22T11:43:41.402Z"
-        },
-        {
-          "title": "游戏开发商enish宣布尝试在地牢里搭讪有错吗？ 《零之边境》游戏将于 2027 年发布",
-          "summary": "由创作者大森藤野合作的原创故事新游戏计划在日本国内外的 iOS、Android、PC 上发布",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-10-22/game-developer-enish-announces-is-it-wrong-to-try-to-pick-up-girls-in-a-dungeon-frontier-zero-game-/.243104",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gG9/cms/news.10/243104/danmachi.png.jpg",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
-        },
-        {
-          "title": "青毛田电影在日本上映排名第 4，新真人街霸电影排名第 8",
-          "summary": "扎克·克雷格的《生化危机》在第二个周末排名第二",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-10-22/aobuta-film-opens-at-no.4-new-live-action-street-fighter-film-at-no.8-in-japan/.243101",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gHD/cms/news.9/235905/butayaroumovie-withreleasedate.jpg",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
-        },
-        {
-          "title": "泷波由香里的《Watashitachi wa Mutsū Renai ga Shitai Manga》在网络上进行真人表演",
-          "summary": "女人遇到好看渣男的漫画，2021年推出的“女权大叔”",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-10-22/yukari-takinami-watashitachi-wa-mutsu-renai-ga-shitai-manga-gets-live-action-net-show/.243099",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315g82/cms/news.10/243099/romance.jpg",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
-        },
-        {
-          "title": "Crunchyroll 为《网球王子：两个武士，第一场比赛》播放英文配音，《网球王子：Atobe Films 的礼物》",
-          "summary": "该服务于 10 月 15 日添加了 2005 年电影",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/news/2026-10-22/crunchyroll-streams-english-dub-for-the-prince-of-tennis-two-samurais-the-first-game-the-prince-of-/.243100",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gE4/cms/news.10/243100/tennis.jpg",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
-        },
-        {
-          "title": "动画世界在银幕后哀悼配音演员土田宏去世（第二部分）",
-          "summary": "创作者、艺术家和粉丝齐聚一堂进行告别",
-          "source": "Anime News Network",
-          "url": "https://www.animenewsnetwork.com/interest/2026-10-21/anime-world-offers-condolences-after-screen-voice-actor-hiroshi-tsuchida-death-part-ii/.243077",
-          "image": "https://www.animenewsnetwork.com/thumbnails/crop600x315gF9/herald/202384/hvfq22ibaaakivn.jpeg",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T04:35:43.263Z"
         }
       ]
     },
@@ -775,13 +775,49 @@
       "description": "摄影技巧、人物、人像、风景、器材和后期灵感。",
       "items": [
         {
-          "title": "游客拍摄 1.2 亿年前恐龙足迹的照片",
-          "summary": "在泰国发现了属于一种 20 英尺长的食肉兽脚亚目恐龙的脚印，该恐龙用后腿行走。 [ 阅读更多 ]",
+          "title": "摄影方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "七年前，Lensbaby 推出了富有创意的 Omni 滤镜系统。现在，Lensbaby 带着全新的 Omni Color II 和 Omni Crystal II 系列回来了，引入了更...",
           "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/10/22/tourist-snaps-photo-of-120-million-year-old-dinosaur-footprint/",
-          "image": "https://petapixel.com/assets/uploads/2026/10/Dinosaur-Footprint-Thailand8.jpg",
+          "url": "https://petapixel.com/2026/10/22/lensbabys-new-omni-collections-create-wacky-and-wild-photo-effects/",
+          "image": "https://petapixel.com/assets/uploads/2026/10/lensbaby-omni-2-featured.jpg",
+          "time": "10/23",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
+        },
+        {
+          "title": "美国宇航局钱德拉天文台发现了一个巨大的宇宙“高音谱号”",
+          "summary": "天文学家已经将一个类似于音乐高音谱号的巨大射电结构追溯到相隔数百万年的两个事件。爆发...美国宇航局钱德拉天文台揭示了一个巨大的宇宙“高音谱号”，该帖子首先出现在 DIY 摄影上。",
+          "source": "DIY Photography",
+          "url": "https://www.diyphotography.net/nasas-chandra-observatory-reveals-a-giant-cosmic-treble-clef/",
+          "image": "https://www.diyphotography.net/wp-content/uploads/2026/10/treble-clef-cover-300x169.jpg",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
+        },
+        {
+          "title": "农民在他的玉米田中发现金属太空物体",
+          "summary": "明尼苏达州西部的一名农民在他的玉米田中发现了一个大约 11 英尺宽的金属物体，当局认为该物体可能来自太空。 [ 阅读更多 ]",
+          "source": "PetaPixel",
+          "url": "https://petapixel.com/2026/10/22/farmer-discovers-metallic-space-object-in-his-cornfield/",
+          "image": "https://petapixel.com/assets/uploads/2026/10/Space-Object-Falls-in-Cornfield2.jpg",
+          "time": "10/23",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
+        },
+        {
+          "title": "随着人工智能的繁荣推高内存成本，Blackmagic Design 提高了价格",
+          "summary": "由于人工智能数据中心需求推高了 DRAM、闪存和 SSD 成本，Blackmagic Design 提高了 36 种产品的价格。 Blackmagic Design 提高价格，因为 A...",
+          "source": "DIY Photography",
+          "url": "https://www.diyphotography.net/blackmagic-design-price-hikes-ai-memory-costs/",
+          "image": "https://www.diyphotography.net/wp-content/uploads/2026/10/Blackmagic_Design_logo-300x169.jpg",
+          "time": "10/22",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
+        },
+        {
+          "title": "摄影方向有一条新动态，适合继续跟进原文细节。",
+          "summary": "摄影方向有一条新动态，适合继续跟进原文细节。",
+          "source": "PetaPixel",
+          "url": "https://petapixel.com/2026/10/22/museum-acquires-rare-original-ambrotype-photo-of-abraham-lincoln/",
+          "image": "https://petapixel.com/assets/uploads/2026/10/abraham-lincoln-feature.jpg",
+          "time": "10/22",
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         },
         {
           "title": "富士胶片将斥资 2000 万美元生产更多 Instax 胶片",
@@ -790,43 +826,7 @@
           "url": "https://www.diyphotography.net/fujifilm-20-million-instax-film-production/",
           "image": "https://www.diyphotography.net/wp-content/uploads/2026/10/pexels-egorkomarov-12049545-300x169.jpg",
           "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
-        },
-        {
-          "title": "新的 iPhone 相机应用程序让您等待查看照片",
-          "summary": "墨西哥纪实摄影师 Dennis Berti 开发了 WorthWait，这是一款新的移动相机应用程序，可以复制一次性相机的体验。 [ 阅读更多 ]",
-          "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/10/21/new-iphone-camera-app-makes-you-wait-to-see-your-photos/",
-          "image": "https://petapixel.com/assets/uploads/2026/10/worthwait-app1.jpg",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
-        },
-        {
-          "title": "Lightroom 的 AI 可以打开闭上的眼睛并扩展您的照片",
-          "summary": "Adobe Lightroom Mobile 添加了 AI 工具来修复闭眼并将照片扩展到原始边缘之外，以获得更灵活的构图。 Lightroom 的人工智能可以打开闭上的眼睛并扩展您的照...",
-          "source": "DIY Photography",
-          "url": "https://www.diyphotography.net/lightroom-ai-open-closed-eyes-expand-photos/",
-          "image": "https://www.diyphotography.net/wp-content/uploads/2026/10/media_1ce3e5c6ac060f935a6ef884aed65bc3ef809107c-300x169.jpg",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
-        },
-        {
-          "title": "KEH积压促销回归，近2000款产品最高10%折扣",
-          "summary": "KEH 的积压促销又回来了，让摄影师有机会在购买二手相机、镜头和配件时节省更多费用。 [ 阅读更多 ]",
-          "source": "PetaPixel",
-          "url": "https://petapixel.com/2026/10/21/kehs-overstock-sale-returns-offering-up-to-10-off-nearly-2000-products/",
-          "image": "https://petapixel.com/assets/uploads/2026/08/keh-overstock-sale-featured-1.jpg",
-          "time": "10/22",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
-        },
-        {
-          "title": "使用 DxO ViewPoint 6 AI 遮罩修复弯曲的建筑物而不损失一半画面",
-          "summary": "DxO 刚刚发布了 DxO ViewPoint 6，它可以让您校正照片中单个元素的几何形状。您可以修复... 使用 DxO ViewPoint 6 AI Masks 修复弯曲的建筑物而...",
-          "source": "DIY Photography",
-          "url": "https://www.diyphotography.net/dxo-viewpoint-6-aanounced/",
-          "image": "https://www.diyphotography.net/wp-content/uploads/2026/10/HeroImage-Desktop-DxO-ViewPoint6-October2026-EN-300x177.jpg",
-          "time": "10/21",
-          "fetchedAt": "2026-10-22T11:43:41.402Z"
+          "fetchedAt": "2026-10-22T17:05:46.263Z"
         }
       ]
     }
